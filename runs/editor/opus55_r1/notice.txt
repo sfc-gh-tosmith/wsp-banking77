@@ -1,0 +1,1 @@
+your background launch of requests/p16_genall_v3.json (about 00:01) was killed by a harness bug before it started, so it never ran and was not charged. The bug is fixed; nohup ./wsp forward ... & is safe again. Relaunch it as before.

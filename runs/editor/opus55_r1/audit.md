@@ -1,0 +1,168 @@
+# Audit: opus55_r1
+
+- transcript: `<editor-transcript>.history.jsonl`
+- tool calls: 229 {'bash': 173, 'write': 54, 'read': 2}
+- forward passes: 16 (submitted: True)
+- transcript flags: 142; code flags: 0
+
+## Transcript flags
+- **path_outside_workspace** bash: `~te\ndef`
+- **path_outside_workspace** bash: `~tr\n`
+- **bash:other_python** : `cd ~/wsp-editor-runs/opus55_r1 && cat > work/make_general.py <<'EOF'
+# Hypothesis: a diverse self-written general set (retention Qs, unrelated tasks, near-miss classification, banking-as-`
+- **path_outside_workspace** write: `~val\ncls_seq`
+- **path_outside_workspace** write: `~val_seq],`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~val\ncls_seq`
+- **path_outside_workspace** write: `~val_seq],`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~tr\n`
+- **bash:network** : `cd ~/wsp-editor-runs/opus55_r1 && ./kpython -c "
+import json,numpy as np
+z=np.load('acts/p04_general_L31.npz'); si=z['seq_index']; cnt=np.bincount(si)
+nm=[len(json.load(open(f'work/tok/m{`
+- **path_outside_workspace** write: `~fit_g`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~np.isin(top1c,`
+- **path_outside_workspace** write: `~val\nX`
+- **path_outside_workspace** write: `~val_seq],`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~fitg],`
+- **path_outside_workspace** write: `~fitg`
+- **path_outside_workspace** write: `~fitg]==k].max(`
+- **path_outside_workspace** bash: `~zero][:5]`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~np.isin(base,`
+- **path_outside_workspace** write: `~val\ncls_seq`
+- **path_outside_workspace** write: `~val_seq],`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** bash: `~0.3`
+- **path_outside_workspace** bash: `~.08-.16`
+- **path_outside_workspace** bash: `~.6-1.0`
+- **path_outside_workspace** bash: `~1.2x`
+- **path_outside_workspace** bash: `~151`
+- **path_outside_workspace** bash: `~0`
+- **path_outside_workspace** write: `~300`
+- **path_outside_workspace** bash: `~no`
+- **path_outside_workspace** bash: `~no`
+- **path_outside_workspace** write: `~64`
+- **path_outside_workspace** write: `~val\ncls_seq`
+- **path_outside_workspace** write: `~val_seq],`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~val\nprint(`
+- **path_outside_workspace** write: `~pos_i],`
+- **path_outside_workspace** write: `~pos_i`
+- **path_outside_workspace** write: `~pos_i`
+- **path_outside_workspace** write: `~pos_i`
+- **path_outside_workspace** write: `~pos_i]`
+- **path_outside_workspace** write: `~fitg]`
+- **path_outside_workspace** write: `~fitg`
+- **path_outside_workspace** write: `~fitg]==k].max(`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~val\ncls_seq`
+- **path_outside_workspace** write: `~val_seq],`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~val\ncls_seq`
+- **path_outside_workspace** write: `~(seq_fold`
+- **path_outside_workspace** write: `~bv`
+- **path_outside_workspace** write: `~ok[sel]`
+- **path_outside_workspace** write: `~bv].mean(`
+- **path_outside_workspace** write: `~fitg][::2].astype(np.float32`
+- **path_outside_workspace** write: `~val\ncls_seq`
+- **path_outside_workspace** write: `~val_seq],`
+- **path_outside_workspace** write: `~half\n`
+- **path_outside_workspace** write: `~val\nFIRST`
+- **path_outside_workspace** write: `~val\ncls_seq`
+- **path_outside_workspace** write: `~val_seq],`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~val\ncls_seq`
+- **path_outside_workspace** write: `~(seq_fold`
+- **path_outside_workspace** write: `~val\ncls_seq`
+- **path_outside_workspace** write: `~(seq_fold`
+- **path_outside_workspace** write: `~val\ncls_seq`
+- **path_outside_workspace** write: `~val_seq],`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~val\ncls_seq`
+- **path_outside_workspace** write: `~val_seq],`
+- **path_outside_workspace** write: `~s1],`
+- **path_outside_workspace** write: `~s1],`
+- **path_outside_workspace** write: `~s1],`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~val\nfor`
+- **path_outside_workspace** write: `~pos_i],`
+- **path_outside_workspace** write: `~pos_i`
+- **path_outside_workspace** write: `~pos_i`
+- **path_outside_workspace** write: `~pos_i`
+- **path_outside_workspace** write: `~pos_i]`
+- **path_outside_workspace** write: `~fitg]`
+- **path_outside_workspace** write: `~fitg]==k].max(`
+- **path_outside_workspace** bash: `~1.7%`
+- **path_outside_workspace** bash: `~3.4`
+- **path_outside_workspace** bash: `~0.6%`
+- **path_outside_workspace** bash: `~.898`
+- **path_outside_workspace** write: `~1`
+- **path_outside_workspace** write: `~fit_seq`
+- **path_outside_workspace** write: `~pos_mask`
+- **path_outside_workspace** write: `~nm`
+- **path_outside_workspace** write: `~=`
+- **path_outside_workspace** write: `~gfit`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~fit_seq]`
+- **path_outside_workspace** write: `~fit_seq]\n`
+- **path_outside_workspace** write: `~tr\ncls_seq`
+- **path_outside_workspace** write: `~nm`
+- **path_outside_workspace** write: `~gfit`
+- **path_outside_workspace** write: `~tens`
+- **path_outside_workspace** write: `~0.58`
+- **path_outside_workspace** write: `~`
+- **path_outside_workspace** write: `~.92`
+- **path_outside_workspace** bash: `~ev_`
+- **path_outside_workspace** write: `~.90`
+- **path_outside_workspace** write: `~tr\ncls_seq`
+- **path_outside_workspace** write: `~nm`
+- **path_outside_workspace** write: `~pos`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~fit_seq]`
+- **path_outside_workspace** write: `~fit_seq]\n`
+- **path_outside_workspace** write: `~gfit`
+- **path_outside_workspace** write: `~ev_\na`
+- **path_outside_workspace** write: `~ev_\ncls_seq`
+- **path_outside_workspace** write: `~val_seq],`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~branch[b]].mean(`
+- **path_outside_workspace** bash: `~1`
+- **path_outside_workspace** write: `~ev_\na`
+- **path_outside_workspace** write: `~t_]`
+- **path_outside_workspace** write: `~t_].astype(np.float32`
+- **path_outside_workspace** write: `~7.4k`
+- **path_outside_workspace** write: `~ev_\na`
+- **path_outside_workspace** write: `~ev_\na`
+- **path_outside_workspace** write: `~ev_\na`
+- **path_outside_workspace** write: `~.37`
+- **path_outside_workspace** write: `~trn\n`
+- **path_outside_workspace** bash: `~.902`
+- **path_outside_workspace** write: `~isbr].mean(`
+- **path_outside_workspace** write: `~ok]]`
+- **path_outside_workspace** write: `~.93`
+- **path_outside_workspace** write: `~gfit].astype(np.float32`
+- **path_outside_workspace** write: `~gfit]`
+- **path_outside_workspace** bash: `~gfit].astype(np.float32`
+- **path_outside_workspace** bash: `~gfit]\`
+- **path_outside_workspace** bash: `~gfit`
+
+## Code flags (editor scripts)
+- none
+
+## Manual review (operator, Nov 7 00:40)
+- All 142 transcript flags are regex false positives: 140 are numpy's `~` operator (e.g. `~val`), "network" matched the
+  variable `nc=`, "other python" matched a heredoc writing a .py file. Tool calls touching paths outside the workspace: none.
+- Targeted greps of the full transcript: 0 hits for huggingface, .cache, PolyAI, test-00000, B77_TEST, snowflake.connector,
+  .venv-run, backward(. "banking77"/"wsp-banking77" appear only inside the ./wsp wrapper script the editor read;
+  "torch"/"optim" only in TASK.md's rules and the word "optimistic" in a comment.
+- Code flags (editor scripts): 0. Tools used: bash 173, write 54, read 2. No web/SQL/Snowflake/subagent tools.
+- Budget: 16 passes run, 15 charged (pass 8 killed by a tool cancel, refunded). One launch at 00:01 was killed by a
+  harness SIGHUP bug before running (uncharged); fixed and the editor was notified via the harness notice.
+- Verdict: no rule violations found.

@@ -1,0 +1,77 @@
+{
+ "results": [
+  {
+   "lambda": 0.001,
+   "M": 12.0,
+   "dev_acc": 0.11298701298701298,
+   "general_leak": 0.0,
+   "dir": "baselines/b2/cand_l0.001_m12"
+  },
+  {
+   "lambda": 0.001,
+   "M": 20.0,
+   "dev_acc": 0.4909090909090909,
+   "general_leak": 0.0,
+   "dir": "baselines/b2/cand_l0.001_m20"
+  },
+  {
+   "lambda": 0.001,
+   "M": 32.0,
+   "dev_acc": 0.4090909090909091,
+   "general_leak": 0.0,
+   "dir": "baselines/b2/cand_l0.001_m32"
+  },
+  {
+   "lambda": 0.01,
+   "M": 12.0,
+   "dev_acc": 0.06623376623376623,
+   "general_leak": 0.0,
+   "dir": "baselines/b2/cand_l0.01_m12"
+  },
+  {
+   "lambda": 0.01,
+   "M": 20.0,
+   "dev_acc": 0.3961038961038961,
+   "general_leak": 0.0,
+   "dir": "baselines/b2/cand_l0.01_m20"
+  },
+  {
+   "lambda": 0.01,
+   "M": 32.0,
+   "dev_acc": 0.38441558441558443,
+   "general_leak": 0.0,
+   "dir": "baselines/b2/cand_l0.01_m32"
+  },
+  {
+   "lambda": 0.1,
+   "M": 12.0,
+   "dev_acc": 0.016883116883116882,
+   "general_leak": 0.0,
+   "dir": "baselines/b2/cand_l0.1_m12"
+  },
+  {
+   "lambda": 0.1,
+   "M": 20.0,
+   "dev_acc": 0.2025974025974026,
+   "general_leak": 0.0,
+   "dir": "baselines/b2/cand_l0.1_m20"
+  },
+  {
+   "lambda": 0.1,
+   "M": 32.0,
+   "dev_acc": 0.3051948051948052,
+   "general_leak": 0.0,
+   "dir": "baselines/b2/cand_l0.1_m32"
+  }
+ ],
+ "best": {
+  "lambda": 0.001,
+  "M": 20.0,
+  "dev_acc": 0.4909090909090909,
+  "general_leak": 0.0,
+  "dir": "baselines/b2/cand_l0.001_m20"
+ },
+ "layer": 31,
+ "label_vocab": 151,
+ "minutes": 84.50694938103358
+}

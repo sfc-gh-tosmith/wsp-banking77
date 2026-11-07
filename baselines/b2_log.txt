@@ -1,0 +1,25 @@
+label vocabulary: 151 tokens; layer 31
+1) task rows
+    accumulated 1500/9233 seqs, 6831 records
+    accumulated 3000/9233 seqs, 7549 records
+    accumulated 4500/9233 seqs, 9123 records
+    accumulated 6000/9233 seqs, 7500 records
+    accumulated 7500/9233 seqs, 6956 records
+    accumulated 9000/9233 seqs, 8945 records
+    accumulated 9233/9233 seqs, 853 records
+2) preservation rows (520 chats)
+    accumulated 520/520 seqs, 15273 records
+3) solving: task records=47757 preservation records=15273 rms=1.002
+   lambda=0.001: solved in 40.4s
+   lambda=0.001 M=12: dev acc=0.113 leak=0.00
+   lambda=0.001 M=20: dev acc=0.491 leak=0.00
+   lambda=0.001 M=32: dev acc=0.409 leak=0.00
+   lambda=0.01: solved in 27.6s
+   lambda=0.01 M=12: dev acc=0.066 leak=0.00
+   lambda=0.01 M=20: dev acc=0.396 leak=0.00
+   lambda=0.01 M=32: dev acc=0.384 leak=0.00
+   lambda=0.1: solved in 35.4s
+   lambda=0.1 M=12: dev acc=0.017 leak=0.00
+   lambda=0.1 M=20: dev acc=0.203 leak=0.00
+   lambda=0.1 M=32: dev acc=0.305 leak=0.00
+BEST (dev, leak<=5%): {'lambda': 0.001, 'M': 20.0, 'dev_acc': 0.4909090909090909, 'general_leak': 0.0, 'dir': 'baselines/b2/cand_l0.001_m20'}

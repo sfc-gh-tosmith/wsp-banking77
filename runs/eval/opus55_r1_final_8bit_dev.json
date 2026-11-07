@@ -1,0 +1,98 @@
+{
+ "n": 770,
+ "accuracy": 0.7,
+ "ci95": [
+  0.6662337662337663,
+  0.7324675324675325
+ ],
+ "macro_f1": 0.7387740585320124,
+ "off_label_rate": 0.12597402597402596,
+ "top_confusions": [
+  [
+   "card_payment_wrong_exchange_rate",
+   "wrong_exchange_rate_for_cash_withdrawal",
+   7
+  ],
+  [
+   "extra_charge_on_statement",
+   "refund_not_showing_up",
+   4
+  ],
+  [
+   "pending_cash_withdrawal",
+   "refund_not_showing_up",
+   4
+  ],
+  [
+   "reverted_card_payment?",
+   "reverted_card_payment",
+   4
+  ],
+  [
+   "transfer_fee_charged",
+   "refund_not_showing_up",
+   4
+  ],
+  [
+   "card_payment_wrong_exchange_rate",
+   "refund_not_showing_up",
+   3
+  ],
+  [
+   "declined_card_payment",
+   "refund_not_showing_up",
+   3
+  ],
+  [
+   "order_physical_card",
+   "refund_not_showing_up",
+   3
+  ],
+  [
+   "top_up_failed",
+   "refund_not_showing_up",
+   3
+  ],
+  [
+   "top_up_reverted",
+   "refund_not_showing_up",
+   3
+  ],
+  [
+   "balance_not_updated_after_bank_transfer",
+   "refund_not_showing_up",
+   2
+  ],
+  [
+   "balance_not_updated_after_bank_transfer",
+   "theintentofthisbankingcustomermessageis:\"accountinquiry\"ormorespecifically",
+   2
+  ],
+  [
+   "beneficiary_not_allowed",
+   "transaction_charged_twice",
+   2
+  ],
+  [
+   "card_delivery_estimate",
+   "order_physical_card",
+   2
+  ],
+  [
+   "card_payment_not_recognised",
+   "refund_not_showing_up",
+   2
+  ]
+ ],
+ "name": "opus55_r1_final_8bit",
+ "edits": "../runs/editor/opus55_r1/snapshots/997747f07403ef7c",
+ "applied": [
+  "model.layers.31.mlp.down_proj.weight",
+  "model.layers.31.mlp.gate_proj.weight",
+  "model.layers.31.mlp.up_proj.weight"
+ ],
+ "split": "dev",
+ "prompt": "sft",
+ "model": "8bit",
+ "seconds": 371.33755898475647
+}

@@ -1,0 +1,93 @@
+{
+ "n": 3080,
+ "accuracy": 0.5873376623376624,
+ "ci95": [
+  0.5701298701298702,
+  0.6051948051948052
+ ],
+ "macro_f1": 0.572089438867332,
+ "off_label_rate": 0.0012987012987012987,
+ "top_confusions": [
+  [
+   "get_physical_card",
+   "change_pin",
+   34
+  ],
+  [
+   "why_verify_identity",
+   "unable_to_verify_identity",
+   31
+  ],
+  [
+   "exchange_via_app",
+   "exchange_rate",
+   30
+  ],
+  [
+   "card_payment_wrong_exchange_rate",
+   "exchange_rate",
+   29
+  ],
+  [
+   "virtual_card_not_working",
+   "card_not_working",
+   29
+  ],
+  [
+   "wrong_exchange_rate_for_cash_withdrawal",
+   "exchange_rate",
+   23
+  ],
+  [
+   "order_physical_card",
+   "get_physical_card",
+   22
+  ],
+  [
+   "exchange_charge",
+   "exchange_rate",
+   22
+  ],
+  [
+   "pin_blocked",
+   "change_pin",
+   21
+  ],
+  [
+   "pending_top_up",
+   "top_up_failed",
+   20
+  ],
+  [
+   "failed_transfer",
+   "transfer_not_received_by_recipient",
+   20
+  ],
+  [
+   "top_up_reverted",
+   "top_up_failed",
+   19
+  ],
+  [
+   "atm_support",
+   "card_acceptance",
+   19
+  ],
+  [
+   "pending_transfer",
+   "transfer_timing",
+   19
+  ],
+  [
+   "card_delivery_estimate",
+   "card_arrival",
+   18
+  ]
+ ],
+ "name": "B1_base_zeroshot",
+ "edits": "none",
+ "applied": [],
+ "split": "test",
+ "prompt": "zeroshot",
+ "seconds": 863.9575600624084
+}

@@ -1,0 +1,8 @@
+{
+ "prefix_tokens": 43,
+ "suffix_tokens_mean": 20.889743312032927,
+ "gen_prompts_per_s_512": 2.047771156433218,
+ "capture_full_practice_min": 24.737931931018828,
+ "capture_tok_per_s": 129.94551615297217,
+ "peak_mem_gb": 7.361380388
+}

@@ -1,0 +1,7 @@
+{
+ "budget_passes": 30,
+ "max_texts_per_pass": 10000,
+ "max_tokens_per_pass": 300000,
+ "max_output_gb": 3,
+ "workspace": "~/wsp-editor-runs/opus55_r1"
+}

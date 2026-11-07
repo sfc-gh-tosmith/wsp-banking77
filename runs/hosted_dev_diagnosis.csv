@@ -1,0 +1,788 @@
+TEXT,LABEL,AI_COMPLETE_PRED,MV_RUN_PRED,LOCAL_PRED
+"I made a big purchase that I regretted and cancelled, the merchant said that my refund was submitted. Can you confirm to me that all of my money was truly returned to me?",Refund_not_showing_up,Refund_not_showing_up,chatcmpl-82099283ee596a59,Refund_not_showing_up
+My refund is not showing.,Refund_not_showing_up,Refund_not_showing,chatcmpl-990e94424712898f,Refund_not_showing_up
+What steps do I have to take to activate my card?,activate_my_card,activate_my_card,chatcmpl-85a7deb8fa575db4,activate_my_card
+Would I be able to get an account for my child?,age_limit,age_limit,chatcmpl-ac4be0524778c3cf,age_limit
+My daughter needs an acount.,age_limit,age_limit,chatcmpl-8b24892d0b87c2c8,age_limit
+I do I top up from my Apple Watch?,apple_pay_or_google_pay,apple_pay_or_google_pay,chatcmpl-9f4a49d2bf9cb4bf,apple_pay_or_google_pay
+Which locations can I withdraw money from?,atm_support,atm_support,chatcmpl-b53b2ebad4d119b7,atm_support
+Tell me what ATMs take this card.,atm_support,atm_support,chatcmpl-a7e01eb19a222f6c,atm_support
+Can I auto-top up?  How do I do it?,automatic_top_up,automatic_top_up,chatcmpl-9cb7e66583de7354,automatic_top_up
+Why hasn't my money transfer showed up yet?,balance_not_updated_after_bank_transfer,"The intent of this banking customer message is: ""Account Inquiry"" or more specifically",chatcmpl-9d2c66a85b03d411,transfer_not_received_by_recipient
+I made a cash deposit a few days ago and it's still not reflected in my account. Do you know what might have happened?,balance_not_updated_after_cheque_or_cash_deposit,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-a09024be1e271403,balance_not_updated_after_cheque_or_cash_deposit
+Where is my cash deposit in my balance?,balance_not_updated_after_cheque_or_cash_deposit,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-81ade71e240e30f8,balance_not_updated_after_cheque_or_cash_deposit
+I've been trying to make a transfer and it hasn't gone through. Now I am receiving an error message.  What is the problem?,beneficiary_not_allowed,transaction_charged_twice,chatcmpl-882190e346b2ce09,failed_transfer
+I messed up a transfer and need to reverse it.,cancel_transfer,cancel_transfer,chatcmpl-82b24e2c6595762d,cancel_transfer
+Is there any way to cancel a recent transfer?  I did not mean to make it and need to make sure it does not go through.,cancel_transfer,cancel_transfer,chatcmpl-bd86173ca936f67f,cancel_transfer
+What happens if my card expires?,card_about_to_expire,card_about_to_expire,chatcmpl-b6841a270fc45692,card_about_to_expire
+What businesses accept my card?,card_acceptance,card_acceptance,chatcmpl-a0f5ab05047ad4a7,card_acceptance
+Do you know which businesses will accept my card?,card_acceptance,card_acceptance,chatcmpl-b2fe623e05d3c7b9,card_acceptance
+What's the expected wait time to recieve my new card?,card_arrival,card_arrival,chatcmpl-8bb785ef5788ba19,card_arrival
+If I order a card when does it arrive?,card_delivery_estimate,card_delivery_estimate,chatcmpl-bce5bec1a955d6dd,card_delivery_estimate
+Can I add a card that I just found (again) to the app?,card_linking,card_linking,chatcmpl-9263a7183736e8c3,card_linking
+"I want to link to my card card with you, how?",card_linking,card_linking,chatcmpl-98eaf4c0d7b0f2de,card_linking
+Did you deactivate my card it's not working anymore,card_not_working,card_not_working,chatcmpl-93ba611316300626,card_not_working
+Is there a place to check for fee for payments? I feel like I'm getting charged too much at times.,card_payment_fee_charged,card_payment_fee_charged,chatcmpl-8172055590b9301f,card_payment_fee_charged
+"I am getting charged fees on some payments.  Please help me understand, where are these fees disclosed?",card_payment_fee_charged,card_payment_fee_charged,chatcmpl-8c826e5df6a839c8,transfer_fee_charged
+A payment I didn't do shows in my app,card_payment_not_recognised,card_payment_not_recognised,chatcmpl-ac968c13065d6981,card_payment_not_recognised
+My currency rate is inaccurate.,card_payment_wrong_exchange_rate,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-8558ec005da38bec,card_payment_wrong_exchange_rate
+"I bought something in another currency, but the exchange rate was incorrect.",card_payment_wrong_exchange_rate,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-9c5fc3320e432a26,card_payment_wrong_exchange_rate
+The ATM took my card.,card_swallowed,card_swallowed,chatcmpl-abb3d766716f4ed0,card_swallowed
+Are there charges for cash withdrawals?,cash_withdrawal_charge,cash_withdrawal_charge,chatcmpl-821f6e429246e134,cash_withdrawal_charge
+How do I report a cash withdrawal that wasn't me?,cash_withdrawal_not_recognised,cash_withdrawal_not_recognised,chatcmpl-b940f92a1b2506ce,cash_withdrawal_not_recognised
+I believe my card has been compromised as there are funds showing that I did not receive.,cash_withdrawal_not_recognised,cash_withdrawal_not_recognised,chatcmpl-a1ce2f78f241491b,cash_withdrawal_not_recognised
+Help me change my PIN.,change_pin,change_pin,chatcmpl-92747998c41be6b0,change_pin
+I just got an email in confirming my purchase with my card. I login to the mobile app on the card and found out there are several purchase were made without me aware of it. Evidently someone had stole my card information and made these fraudulent purchase. I need the transaction to be reverse and have my card suspended.,compromised_card,Refund_not_showing_up,chatcmpl-acbd1201e8368f26,cash_withdrawal_not_recognised
+"My card was used without my permission, what do I do?",compromised_card,compromised_card,chatcmpl-b825dbea0cbc32f5,compromised_card
+How can I fix my contactless?,contactless_not_working,contactless_not_working,chatcmpl-8079adb2a23ea8a0,contactless_not_working
+What countries are you located in?,country_support,country_support,chatcmpl-a18c0823e96bb584,country_support
+If I live outside of the UK am I still eligible for a card?,country_support,country_support,chatcmpl-b15fd60d46598b11,country_support
+My card payment has failed.,declined_card_payment,declined_card_payment,chatcmpl-b29adb20e6b2b301,declined_card_payment
+I tired to get cash in the ATM but it was cancelled,declined_cash_withdrawal,declined_cash_withdrawal,chatcmpl-a22dbca5e562a9e6,declined_cash_withdrawal
+I don't have any idea what's going on but all of my transfers keep getting declined. I have double-checked over all of my recipient names and they are correct.,declined_transfer,declined_transfer,chatcmpl-aa55ee3bd12fdebf,declined_transfer
+Why would you cancel my transfer?,declined_transfer,Refund_not_showing_up,chatcmpl-8d098a804e37d3c3,reverted_card_payment?
+What do I do if there is an electronic debit that is not correct?,direct_debit_payment_not_recognised,direct_debit_payment_not_recognised,chatcmpl-a8dcc761ef1ed06f,direct_debit_payment_not_recognised
+Am I limited on the amount of disposable cards I can possess?,disposable_card_limits,disposable_card_limits,chatcmpl-b773c7451d6b3974,disposable_card_limits
+"i am not a premium customer but i want a virtual card, how do i get it",disposable_card_limits,"Intent: Informational/Request for Service 
+
+This intent is classified because the customer",chatcmpl-a2fe271dd054c461,getting_virtual_card
+I got a new address and need to change my information.,edit_personal_details,edit_personal_details,chatcmpl-90cb8898972b1328,edit_personal_details
+How much will I be charged for exchanging foreign currency,exchange_charge,exchange_charge,chatcmpl-9e2ebf200de79ad1,exchange_charge
+My currencies needed to be exchanged often and I was wondering if there were any discounts available for this?,exchange_charge,exchange_charge,chatcmpl-9724982ee443dd06,exchange_charge
+I'm interested in what your exchange rates are based on.,exchange_rate,exchange_rate,chatcmpl-92b4bedf6ff9fe3b,exchange_rate
+How can I exchange AUD for GBP?,exchange_via_app,exchange_via_app,chatcmpl-a94a6f2680bcbd8c,exchange_via_app
+What is the extra fee on my statement?,extra_charge_on_statement,extra_charge_on_statement,chatcmpl-a4b320c8865837bb,extra_charge_on_statement
+Why did a transaction I made charge me $1?,extra_charge_on_statement,extra_charge_on_statement,chatcmpl-a4c60b5836802cae,extra_charge_on_statement
+Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!,failed_transfer,transfer_not_received_by_recipient,chatcmpl-8264032242f76aef,failed_transfer
+What fiat currencies are used for holdings?,fiat_currency_support,fiat_currency_support,chatcmpl-8d70024acf37e403,fiat_currency_support
+Which fiat currencies are supported?,fiat_currency_support,fiat_currency_support,chatcmpl-9f4ede54022c2c4b,fiat_currency_support
+Can you tell me where I can order a disposable virtual card?,get_disposable_virtual_card,get_disposable_virtual_card,chatcmpl-bb7c11674a229550,get_disposable_virtual_card
+Where do I find my card PIN?,get_physical_card,get_physical_card,chatcmpl-b038cd94d42f3f8b,get_physical_card
+is my pin the same as my passcode,get_physical_card,get_physical_card,chatcmpl-9c14bd25ba118956,get_physical_card
+Can another family member hold a card for this account in addition to mine?,getting_spare_card,"The intent of this banking customer message is: ""Account Management"" or more specifically",chatcmpl-bb8fb2949525c794,getting_spare_card
+How do I get my virtual card?,getting_virtual_card,"Based on the message, the intent is likely to be: ""Informational",chatcmpl-aa779cd084efaa12,getting_virtual_card
+Someone stole my wallet with my card in it while vacationing in Spain. I really need my card blocked and a new one ordered.,lost_or_stolen_card,lost_or_stolen_card,chatcmpl-af369bcde9039284,lost_or_stolen_card
+What should I do if my card is stolen?,lost_or_stolen_card,lost_or_stolen_card,chatcmpl-9a68e5e459d580c3,lost_or_stolen_card
+"I cannot find my phone, what should I do?",lost_or_stolen_phone,lost_or_stolen_phone,chatcmpl-886821435aab7f7f,lost_or_stolen_phone
+How do I get a real card?,order_physical_card,Refund_not_showing_up,chatcmpl-bac123fb177093d9,order_physical_card
+Can cards be delivered? Where?,order_physical_card,"Based on the message, the intent is likely to be ""Informational"" or",chatcmpl-8762227973fc2a14,order_physical_card
+How do I reset my password?,passcode_forgotten,passcode_forgotten,chatcmpl-b90aadb45506b4e2,passcode_forgotten
+I have a card payment that has been pending for some time and would like to know when it is going to go through.,pending_card_payment,pending_card_payment,chatcmpl-83e6d27716561e3b,pending_card_payment
+I completed a payment with my card a while ago. It's still showing up as pending. What time frame does this normally take? It doesn't appear to have worked.,pending_card_payment,pending_card_payment,chatcmpl-bf0eeca75e3cad90,pending_card_payment
+"Hae there, I have a transaction that is in progress despite the fact that the ATM was not working, what do I do to avoid being charged?",pending_cash_withdrawal,Refund_not_showing_up,chatcmpl-b6006db2aee1d300,pending_cash_withdrawal
+How long does a top-up take to go through?,pending_top_up,"The intent of the message is: ""Account Inquiry"" or more specifically ""Transaction",chatcmpl-a0b306efead34978,pending_top_up
+How long would does it take for a seller to receive an EU transfer if I bought something from them and sent them the money immediately?,pending_transfer,Refund_not_showing_up,chatcmpl-aca11c542ec3eb09,transfer_timing
+Do EU transfers happen quickly? I purchased something a few days ago and the seller hasn't received my money yet.,pending_transfer,pending_transfer,chatcmpl-800fcf7ed531ffd9,pending_transfer
+How do I make my PIN work again?,pin_blocked,pin_blocked,chatcmpl-97cd4b20d8068b2d,pin_blocked
+"Do I need to select a preference to receive my salary payments in GBP and, if so, where?",receiving_money,receiving_money,chatcmpl-bc55718a6082737a,receiving_money
+Can I transfer money using a different currency?,receiving_money,transfer_into_account,chatcmpl-a328b336c299fa82,exchange_via_app
+How can I go about getting a refund?,request_refund,request_refund,chatcmpl-80ba88285cf82928,request_refund
+"I purchased something and already received it, why hasn't the money taken out?",reverted_card_payment?,card_payment_not_recognised,chatcmpl-872492c9e91005ae,reverted_card_payment?
+What is the reason for my card payment to be reverted?,reverted_card_payment?,reverted_card_payment,chatcmpl-8df5807454a78642,reverted_card_payment?
+I'd like to use my American Express to place money into my account.,supported_cards_and_currencies,supported_cards_and_currencies,chatcmpl-92b8335d5c422e87,supported_cards_and_currencies
+I would like to terminate my account.,terminate_account,terminate_account,chatcmpl-a07479bd718413db,terminate_account
+What are the fees for using transfer to top off my account?,top_up_by_bank_transfer_charge,transfer_fee_charged,chatcmpl-b490191f3f13b13f,top_up_by_bank_transfer_charge
+Can I transfer money using the SWIFT service?,top_up_by_bank_transfer_charge,transfer_into_account,chatcmpl-9b443d99f984eead,top_up_by_bank_transfer_charge
+Does it cost to add money to my card?,top_up_by_card_charge,top_up_by_card_charge,chatcmpl-a40b23550e8a876c,top_up_by_card_charge
+No option to top up with a cheque ?,top_up_by_cash_or_cheque,Refund_not_showing_up,chatcmpl-8feca1c1d24e049b,top_up_by_cash_or_cheque
+How can I top up with a cheque?,top_up_by_cash_or_cheque,top_up_by_cash_or_cheque,chatcmpl-bdbe1e26de5116d3,top_up_by_cash_or_cheque
+I didn't see the money I added to my card.,top_up_failed,Refund_not_showing_up,chatcmpl-a69382fadc00fef9,top_up_failed
+need to know if there is a maximum i can top up,top_up_limits,top_up_limits,chatcmpl-abf4e6940cd62188,top_up_limits
+What are the rules for a top-up?,top_up_limits,Refund_not_showing_up,chatcmpl-804811cc1a49d07d,top_up_by_card_charge
+Why wasn't my top-up accepted and where did that money go? At first it said it was confirmed but now I can't find it.,top_up_reverted,Refund_not_showing_up,chatcmpl-bc073469e6fd91ff,top_up_reverted
+Can anyone else top-up for me?,topping_up_by_card,top_up_by_card,chatcmpl-84738fe3776962bb,topping_up_by_card
+I have a transaction showing up multiple times.,transaction_charged_twice,transaction_charged_twice,chatcmpl-8687fc9ae666eec0,transaction_charged_twice
+Why do I have a transaction showing up more than once?,transaction_charged_twice,transaction_charged_twice,chatcmpl-99063266efae725c,transaction_charged_twice
+"I've use this account all the time, including over this past month, to pay for things from my new place abroad. I'm a really good customer, so why do I suddenly have new fees? I should be rewarded instead of charged more fees.",transfer_fee_charged,transfer_fee_charged,chatcmpl-b56166e5353cdc03,transfer_fee_charged
+Can I top-up my card using a bank transfer.,transfer_into_account,transfer_into_account,chatcmpl-ae819bbeb4290f11,transfer_into_account
+I want to transfer money into my account,transfer_into_account,transfer_into_account,chatcmpl-b901ad33a43c5b8b,transfer_into_account
+Why doesn't the person I sent money to see that transfer yet?,transfer_not_received_by_recipient,"Possible Intent: Transaction Status Inquiry 
+
+This intent suggests that the customer is inquiring",chatcmpl-a718801665e0e18c,transfer_not_received_by_recipient
+How long does transfer from the US take?,transfer_timing,transfer_timing,chatcmpl-89cf8e8b8e7a9141,transfer_timing
+I need to urgently transfer something from China. How long will it approximately take?,transfer_timing,transfer_timing,chatcmpl-8a0f2645c10ab747,transfer_timing
+Why is my identity not verified?,unable_to_verify_identity,card_not_working,chatcmpl-9ed11c7abed3b3ce,unable_to_verify_identity
+with what can I verify my identity?,verify_my_identity,verify_my_identity,chatcmpl-819ccb07e1021d55,verify_my_identity
+Can someone please explain to me where my source of funds came from?,verify_source_of_funds,verify_source_of_funds,chatcmpl-a1bfdc771bf3cc08,verify_source_of_funds
+Where can I see where funds came from?,verify_source_of_funds,verify_source_of_funds,chatcmpl-b17c555a0fe01131,verify_source_of_funds
+What is the point of verifying a top up?,verify_top_up,verify_top_up,chatcmpl-b7fb2687f3c8ba5b,verify_top_up
+My virtual card isn't working.,virtual_card_not_working,virtual_card_not_working,chatcmpl-a743f1d7be20b204,virtual_card_not_working
+My disposable virtual card got rejected,virtual_card_not_working,virtual_card_not_working,chatcmpl-866ac496ff586225,virtual_card_not_working
+Do I get Visa or Mastercard?,visa_or_mastercard,visa_or_mastercard,chatcmpl-b9e49a1879bfac4c,visa_or_mastercard
+Can I use my account although the identity verification has not been accepted yet?,why_verify_identity,why_verify_identity,chatcmpl-884587ab6ed55212,why_verify_identity
+I want to use my account before identity verification,why_verify_identity,why_verify_identity,chatcmpl-bfc80ed2fe212b6b,why_verify_identity
+When I went to withdraw cash today the ATM gave me the wrong amount of cash. The app is showing a larger amount.,wrong_amount_of_cash_received,wrong_amount_of_cash_received,chatcmpl-af3230833b7edc84,wrong_amount_of_cash_received
+Please tell me how the exchange rate is determined. I was expecting more money for the transaction.,wrong_exchange_rate_for_cash_withdrawal,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-9cb5fc71c1aa2d4d,wrong_exchange_rate_for_cash_withdrawal
+I am still waiting to find out the status of my refund. I have made previous attempts to find out what the status is to no avail. Will you please look into this for me?,Refund_not_showing_up,Refund_not_showing_up,chatcmpl-b8410a4c407c71f4,Refund_not_showing_up
+I requested a refund but can't see it.,Refund_not_showing_up,Refund_not_showing_up,chatcmpl-b52efd6f500a5997,Refund_not_showing_up
+Is my card ready for use or does it need activated and if so how?,activate_my_card,activate_my_card,chatcmpl-82985e4f4a13b5b3,activate_my_card
+How old must I be to open an account?,age_limit,age_limit,chatcmpl-88a2f3914e879f4d,age_limit
+At what age can I open an account?,age_limit,age_limit,chatcmpl-83557862305d7155,age_limit
+Top up is not working even though I have my AMEX in apple pay.,apple_pay_or_google_pay,apple_pay_or_google_pay,chatcmpl-8f390a0fb3c28396,apple_pay_or_google_pay
+What ATM machines allow this card?,atm_support,atm_support,chatcmpl-9def9f186290eced,atm_support
+Where do I access the auto top-up function?,automatic_top_up,automatic_top_up,chatcmpl-838c4d6c21539e15,automatic_top_up
+Is there a function where I can top-up automatically?,automatic_top_up,automatic_top_up,chatcmpl-ac14eabd926f076d,automatic_top_up
+I made a bank transfer and the balance hasn't updated yet.,balance_not_updated_after_bank_transfer,balance_not_updated_after_bank_transfer,chatcmpl-9891b30c0dcfa4f7,balance_not_updated_after_bank_transfer
+When will my cheque process?,balance_not_updated_after_cheque_or_cash_deposit,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-aead47b965631347,balance_not_updated_after_cheque_or_cash_deposit
+"I did a cash deposit to my account, but I am not seeing it on my statement.",balance_not_updated_after_cheque_or_cash_deposit,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-86ef563add8c3edf,balance_not_updated_after_cheque_or_cash_deposit
+My transfer to an account failed.,beneficiary_not_allowed,failed_transfer,chatcmpl-b29f3ae9f6df9d3e,failed_transfer
+There was a transaction this morning that I'd like to reverse.,cancel_transfer,cancel_transfer,chatcmpl-98a882fa42897fd4,cancel_transfer
+One of my transactions needs to be canceled.,cancel_transfer,cancel_transfer,chatcmpl-847381521ec24679,cancel_transfer
+If my card becomes expired what can I do?,card_about_to_expire,card_about_to_expire,chatcmpl-bb41fdef03ba4844,card_about_to_expire
+Is there a list of where I can use my card?,card_acceptance,card_acceptance,chatcmpl-80fee0cd7f7b0549,card_acceptance
+What's the tracking on the card you sent?,card_arrival,card_arrival,chatcmpl-ad2d01c0ce8ed9df,card_arrival
+Is there a reason my new card hasn't arrived yet?,card_arrival,card_arrival,chatcmpl-ab716dc826a77da0,card_arrival
+Can I get my card fast tracked?,card_delivery_estimate,card_delivery_estimate,chatcmpl-b20d3d22bb62c91b,card_delivery_estimate
+"I got a card, how do I get it in the app?",card_linking,card_linking,chatcmpl-a10dbf41132d4c9b,card_linking
+"I got my card now, how do I make it show up in the app?",card_linking,card_linking,chatcmpl-b068e93221a3ff84,card_linking
+My card stopped working. How do I check if there is a freeze on it?,card_not_working,card_not_working,chatcmpl-a64ef95d809385c9,card_not_working
+"I'm going on holiday to France for 6 weeks with my family and the cat, Fluffy.  I just purchased €10,000 from a currency exchange to ensure we don't run short but there appears to be a fee.  What is this for?",card_payment_fee_charged,card_payment_fee_charged,chatcmpl-b0eb897d5709c6dd,card_payment_wrong_exchange_rate
+Why was I charged an extra fee when paying with card?,card_payment_fee_charged,card_payment_fee_charged,chatcmpl-9fd95b4ed87f5637,card_payment_fee_charged
+I have a confusing payment appear on my statement and I don't recognise it!,card_payment_not_recognised,Refund_not_showing_up,chatcmpl-90017b5f458d5aba,card_payment_not_recognised
+Why isn't my purchase exchange rate correct?,card_payment_wrong_exchange_rate,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-bf9221a3587e565c,card_payment_wrong_exchange_rate
+Your machine took my card. How do I get it back?,card_swallowed,card_swallowed,chatcmpl-9d78d0dd8a8d9944,card_swallowed
+I can't get my card out of the ATM,card_swallowed,card_swallowed,chatcmpl-8c92b4239ac5e9e5,card_swallowed
+I got cash and was charged a fee that shouldn't be there!,cash_withdrawal_charge,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-b19b523e35467087,cash_withdrawal_charge
+Somebody is taking money out of my account without my approval in another town separate from me. Please place a freeze on my account until I can make it to the bank.,cash_withdrawal_not_recognised,cash_withdrawal_not_recognised,chatcmpl-8f9a913b5556ab08,cash_withdrawal_not_recognised
+I have my card here with me and someone has just made a withdrawal for 500. Please help!,cash_withdrawal_not_recognised,cash_withdrawal_not_recognised,chatcmpl-934bc42e75289b87,cash_withdrawal_not_recognised
+Can I change my PIN at a nearby ATM when in Spain? I think someone saw my PIN and I need to change it but am on vacation.,change_pin,change_pin,chatcmpl-b36719065b4b4cd6,change_pin
+Someone might have had access to my card.,compromised_card,compromised_card,chatcmpl-b957a6f4c8a88b4b,compromised_card
+My card has been compromised. I see a bunch of online shopping charges that I didn't make. I need to freeze it immediately.,compromised_card,lost_or_stolen_card,chatcmpl-afce782dcc8ded19,compromised_card
+How do I troubleshoot when contactless doesn't work?,contactless_not_working,contactless_not_working,chatcmpl-83802389c710c3e1,contactless_not_working
+"I want a card, but I'm not in the UK- can I get one still?",country_support,country_support,chatcmpl-814bd31527669700,country_support
+I don't know why my card payment did not work,declined_card_payment,declined_card_payment,chatcmpl-becbf1b8cf20b708,declined_card_payment
+The payment for the card did not go through,declined_card_payment,Refund_not_showing_up,chatcmpl-8b33c83c7cb874e4,reverted_card_payment?
+I just had my card get declined at the ATM! I need to get money out but I am unable to.  Why has this happened?,declined_cash_withdrawal,declined_cash_withdrawal,chatcmpl-892b08620886309a,declined_cash_withdrawal
+unsupported transfer declined,declined_transfer,declined_transfer,chatcmpl-9d27a026964dbe29,declined_transfer
+Why am I getting declines when trying to make a purchase online?,declined_transfer,declined_transfer,chatcmpl-b18dc7933d3089ea,declined_transfer
+I have a direct debit on my records that is strange and I need help.,direct_debit_payment_not_recognised,direct_debit_payment_not_recognised,chatcmpl-983631dbff478552,direct_debit_payment_not_recognised
+"I need multiple cards per day, and they all have to be disposable.",disposable_card_limits,disposable_card_limits,chatcmpl-b755afaa4d7a3d60,disposable_card_limits
+Are there restrictions on disposable virtual cards?,disposable_card_limits,disposable_card_limits,chatcmpl-be76516a62381001,disposable_card_limits
+Editing my personal details,edit_personal_details,edit_personal_details,chatcmpl-8c8abcb8802efb57,edit_personal_details
+IS there a fee to exchange currency?,exchange_charge,exchange_charge,chatcmpl-a26930b85bbe5b6c,exchange_charge
+I'd like to know what the foreign exchange rate will be.,exchange_rate,exchange_rate,chatcmpl-89fc15bdfc729fdf,exchange_rate
+How do you decide what the exchange rates are?,exchange_rate,exchange_rate,chatcmpl-a4db93ec7825eee1,exchange_rate
+"I am trying to exchange AUD for GBP, how do I do that?",exchange_via_app,exchange_via_app,chatcmpl-91437d6eae50c40c,exchange_via_app
+There is an odd 1£ charge that appears as pending on my statement. What's the reason for that? I haven't purchased anything for a pound.,extra_charge_on_statement,extra_charge_on_statement,chatcmpl-a60ccaa9c1a9bd3c,extra_charge_on_statement
+How come I was charged a transaction of $1?,extra_charge_on_statement,extra_charge_on_statement,chatcmpl-8f9ebe1e652c7578,extra_charge_on_statement
+Why was I unable to complete my transfer?,failed_transfer,failed_transfer,chatcmpl-b721b9bafa3a18f8,failed_transfer
+Which currencies will you exchange?,fiat_currency_support,exchange_via_app,chatcmpl-ac088f577fea7ea2,exchange_via_app
+Which fiat currencies are supported by you?,fiat_currency_support,fiat_currency_support,chatcmpl-a604c2df77cdec56,fiat_currency_support
+How do I order a disposable virtual card?,get_disposable_virtual_card,get_disposable_virtual_card,chatcmpl-bf9cc818d3eb14d2,get_disposable_virtual_card
+Where is my PIN?,get_physical_card,get_physical_card,chatcmpl-8860145177b4a3e3,get_physical_card
+I need two cards. Is this possible?,getting_spare_card,card_about_to_expire,chatcmpl-99f10286457d44f3,getting_spare_card
+Can I give a second card for this account to my daughter?,getting_spare_card,getting_spare_card,chatcmpl-9cb823898a566d03,getting_spare_card
+How can I receive a virtual card?,getting_virtual_card,"The intent of the message is: ""Informational"" or more specifically,",chatcmpl-93e3bc5c56683c64,getting_virtual_card
+What should I do if I think my card was stolen?,lost_or_stolen_card,lost_or_stolen_card,chatcmpl-bfd248654ac1412a,lost_or_stolen_card
+What's the phone number to freeze a card?,lost_or_stolen_card,cancel_transfer,chatcmpl-adc18ad7718c5c38,lost_or_stolen_card
+I can't find my phone; what can I do to prevent someone from accessing my account on it?,lost_or_stolen_phone,lost_or_stolen_phone,chatcmpl-bab62bb521ecdcdc,lost_or_stolen_phone
+What does the bank charge for lost or stolen card replacements?,order_physical_card,card_about_to_expire,chatcmpl-b22a4695e695a8a4,card_about_to_expire
+Do I have to pay for a physical card?,order_physical_card,Refund_not_showing_up,chatcmpl-bd417ae65c87892d,order_physical_card
+How can I go about resetting my passcode?,passcode_forgotten,passcode_forgotten,chatcmpl-93b3573077e71661,passcode_forgotten
+Why is the payment from my card still pending?,pending_card_payment,pending_card_payment,chatcmpl-9d9a2abf7ad83ff5,pending_card_payment
+Why is the pending status on my cash withdrawal taking so long?,pending_cash_withdrawal,Refund_not_showing_up,chatcmpl-b9d1982d73f5169b,pending_cash_withdrawal
+Why is a transaction still pending?,pending_cash_withdrawal,card_payment_not_recognised,chatcmpl-a6bb76d8950c583d,pending_transfer
+The top-up is broken.,pending_top_up,"The intent of the message ""The top-up is broken"" is likely to be",chatcmpl-8ee8c58db02dd949,top_up_failed
+I have an outgoing transaction,pending_transfer,transaction_charged,chatcmpl-b27ed7014a8ba048,pending_transfer
+My transfer says pending. What does that mean?,pending_transfer,"The intent of this banking customer message is: ""Informational"" or more specifically",chatcmpl-8097e7b0db7f5487,pending_transfer
+I tried my PIN too many times and now my card won't work!,pin_blocked,pin_blocked,chatcmpl-ad5d313be3fbef59,pin_blocked
+Can I transfer my salary if its in GBP?,receiving_money,receiving_money,chatcmpl-96432796ac2677a6,receiving_money
+"I have obtained the salary in GBP, will it need to be configured?",receiving_money,receiving_money,chatcmpl-93205404df5af30d,receiving_money
+I am unhappy with an item I bought. How do I get a refund?,request_refund,request_refund,chatcmpl-bb5958a420a0ddf0,request_refund
+"I would like to make a purchase, however my card has been declined. I would like to ask the reason for this. The past two weeks, the card has been working fine.",reverted_card_payment?,declined_card_payment,chatcmpl-81eef6a6f3d53ed2,declined_card_payment
+What currencies and methods can i use to top up my account?,supported_cards_and_currencies,transfer_into_account,chatcmpl-97ed88e9dabf8923,supported_cards_and_currencies
+How can I pay for top-ups?,supported_cards_and_currencies,"The intent of the message is likely to be: ""Payment Inquiry"" or more",chatcmpl-866d4b58176c5229,Refund_not_showing_up
+How do I delete my account? I am dissatisfied with the service.,terminate_account,terminate_account,chatcmpl-bc65ee07a3ac90a4,terminate_account
+Are there fees for receiving a SEPA transfer?,top_up_by_bank_transfer_charge,top_up_by_bank_transfer_charge,chatcmpl-93276f7ba17630c4,top_up_by_bank_transfer_charge
+Can you tell me the cost of a transfer?,top_up_by_bank_transfer_charge,"The intent of the message is: Informational/Query.
+
+The customer is asking",chatcmpl-9ef09266b893daee,top_up_by_bank_transfer_charge
+Is there a fee for adding funds with a credit card?,top_up_by_card_charge,top_up_by_card_charge,chatcmpl-9933498be06afbae,top_up_by_card_charge
+can i top up with check?,top_up_by_cash_or_cheque,top_up_by_cash_or_cheque,chatcmpl-9d969a243f3a02df,top_up_by_cash_or_cheque
+Will I be able to top up by cheque?,top_up_by_cash_or_cheque,top_up_by_cash_or_cheque,chatcmpl-b779ee772a8c3ba5,top_up_by_cash_or_cheque
+My top-up was declined,top_up_failed,declined_top_up,chatcmpl-b0fcfbf84e963f46,top_up_failed
+What is the maximum top up?,top_up_limits,top_up_limits,chatcmpl-8f57b722ccf2907e,top_up_limits
+Reasons for top up cancellation.,top_up_reverted,Refund_not_showing_up,chatcmpl-933edba04172ae31,top_up_reverted
+I did a topup successfully but its not showing in balance. I think there is some problem in system.,top_up_reverted,"The intent of this banking customer message is: ""Account Balance Inquiry"" or more",chatcmpl-a42a49bfd1829db6,top_up_reverted
+How can my friends top up my account?,topping_up_by_card,topping_up_by_card,chatcmpl-b7c8bc7a0fe6c6c5,topping_up_by_card
+"Hello, I just checked my card transactions and saw that I was charged twice for a restaurant visit I did earlier this week. Is it possible to remove one of them and get my false paid money pack?",transaction_charged_twice,transaction_charged_twice,chatcmpl-8dafa6a254f7f6e9,transaction_charged_twice
+I have a payment that shows twice,transaction_charged_twice,transaction_charged_twice,chatcmpl-bb1f7fac7c8cbb47,transaction_charged_twice
+Is it normal to see a fee for transferring money?,transfer_fee_charged,Refund_not_showing_up,chatcmpl-9640046a6ef0096a,transfer_fee_charged
+What transfer methods do you accept?,transfer_into_account,transfer_into_account,chatcmpl-9f8b0ddb1f61a09d,supported_cards_and_currencies
+Whats the process of tranfering money into an account?,transfer_into_account,transfer_into_account,chatcmpl-a23e92588eb0d761,transfer_into_account
+I sent money for my rent to my landlord but she is claiming it hasn't arrived in her account  Can you trace the transfer I made to make sure it arrived so I can provide proof I sent it and that it has been deposited?,transfer_not_received_by_recipient,transfer_not_received_by_recipient,chatcmpl-bd804e4c1db6f635,transfer_not_received_by_recipient
+How long until transfers from Europe go through?,transfer_timing,transfer_timing,chatcmpl-8ffd4cc5a95c16b0,transfer_timing
+I am not able to verify my id. Why?,unable_to_verify_identity,"The intent of the message is likely ""Technical Issue"" or ""Support Request"".",chatcmpl-b2247e505f50e4f3,unable_to_verify_identity
+Why am I unable to verify my id?,unable_to_verify_identity,unable_to_verify_identity,chatcmpl-9aaee06e4d833409,unable_to_verify_identity
+What do I need for the identity verification?,verify_my_identity,verify_my_identity,chatcmpl-9edcc962621902f9,verify_my_identity
+I would like to know where my source of funds came from.,verify_source_of_funds,verify_source_of_funds,chatcmpl-9bd1e8477a371ee2,verify_source_of_funds
+Can I see the source of my available money?,verify_source_of_funds,verify_source_of_funds,chatcmpl-8ef0db507a2b3181,verify_source_of_funds
+Tell me how I can verify a card top-up.,verify_top_up,verify_top_up,chatcmpl-8b5958c57f314306,verify_top_up
+How do I get this damn virtual card to work?,virtual_card_not_working,"Based on the message, the intent can be classified as:
+
+**Frustration",chatcmpl-aa693986cb257d17,virtual_card_not_working
+Can I use my virtual card to complete transactions for memberships?,virtual_card_not_working,virtual_card_not_working,chatcmpl-b566b5e061ed6744,virtual_card_not_working
+Does it matter if I use Visa or Mastercard?,visa_or_mastercard,visa_or_mastercard,chatcmpl-a7e0194a03a26ec5,visa_or_mastercard
+Why is verification for my identity needed?,why_verify_identity,why_verify_identity,chatcmpl-a57e73f4dc8fe903,why_verify_identity
+What do I need to do to get cash back? The ATM gave me the wrong amount that I requested but the app is showing the amount to be correct.,wrong_amount_of_cash_received,wrong_amount_of_cash_received,chatcmpl-83ddff35d207335b,wrong_amount_of_cash_received
+The ATM didn't give me enough money.,wrong_amount_of_cash_received,wrong_amount_of_cash_received,chatcmpl-908bdcb876c10bbc,wrong_amount_of_cash_received
+"I traded some of my money from my native country into an ATM to exchange for foreign currency, and the money I received was a different equating amount!",wrong_exchange_rate_for_cash_withdrawal,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-a3c053f04e11b57a,wrong_exchange_rate_for_cash_withdrawal
+"As advised by you, i requested seller to refund my money. A week has passed but i haven't got any update from seller. Please track the refund with the seller.",Refund_not_showing_up,Refund_not_showing_up,chatcmpl-9da6a3c87e6ce06e,Refund_not_showing_up
+I don't see a refund in my account.,Refund_not_showing_up,Refund_not_showing_up,chatcmpl-b059f4e3a4067627,Refund_not_showing_up
+"My new card is here, what's the process for activating it?",activate_my_card,activate_my_card,chatcmpl-814b4163cf946520,activate_my_card
+Is there a limit for age?,age_limit,age_limit,chatcmpl-a9a904ebdaff73e3,age_limit
+Are top-ups allowed using Apple Pay?,apple_pay_or_google_pay,apple_pay_or_google_pay,chatcmpl-a167e4ba8e6dfaa6,apple_pay_or_google_pay
+Google Pay Top up isn't working,apple_pay_or_google_pay,apple_pay_or_google_pay,chatcmpl-8b923ad71af09220,apple_pay_or_google_pay
+Do I have to use bank approved ATM's,atm_support,atm_support,chatcmpl-9eecc4b5311ec28f,atm_support
+In what increments can I top-up my card?,automatic_top_up,Refund_not_showing_up,chatcmpl-9736b9840b6c360d,top_up_limits
+What's the limit for auto top-up?,automatic_top_up,automatic_top_up,chatcmpl-8f402793df99bcdf,automatic_top_up
+I did a transfer but the balance is the same.,balance_not_updated_after_bank_transfer,balance_not_updated_after_bank_transfer,chatcmpl-8f44f17a68be09fa,balance_not_updated_after_bank_transfer
+How do I see my updated balance after I make a cheque or cash deposit?,balance_not_updated_after_cheque_or_cash_deposit,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-ae9f012d9a5c10c6,balance_not_updated_after_cheque_or_cash_deposit
+"Even though I made a cash deposit, I am not seeing it in my account.",balance_not_updated_after_cheque_or_cash_deposit,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-89e0e2cfd6fdf6cc,balance_not_updated_after_cheque_or_cash_deposit
+Why was I not allowed to do a transfer to a beneficiary?,beneficiary_not_allowed,beneficiary_not_allowed,chatcmpl-a0ba75a667d7f7b4,beneficiary_not_allowed
+I want to revert a transaction I did,cancel_transfer,cancel_transfer,chatcmpl-b3a695ea34cc019d,cancel_transfer
+I will need a new card because mine is almost expired.  How fast do I get a replacement and what is the cost?,card_about_to_expire,card_about_to_expire,chatcmpl-8ad1400e8dad7f40,card_about_to_expire
+The date my card expires is coming up,card_about_to_expire,card_about_to_expire,chatcmpl-b323b9ab8561fa14,card_about_to_expire
+Do you have a list of businesses that accept this card?,card_acceptance,card_acceptance,chatcmpl-9495ce5b441cf5d6,card_acceptance
+How can I periodically check the delivery of the card you sent?,card_arrival,card_arrival,chatcmpl-82c4c96dec9fc60e,card_arrival
+My card isn't here yet.,card_arrival,card_arrival,chatcmpl-88c50aa90a24b66b,card_arrival
+"If I need delivery on a certain day, is that something that could be accommodated?",card_delivery_estimate,card_delivery_estimate,chatcmpl-b9124d0cc7875cf6,card_delivery_estimate
+"Show me how to link the new card,",card_linking,card_linking,chatcmpl-9af08a9e5cd7e270,card_linking
+How can I link the new card?,card_linking,card_linking,chatcmpl-bc2cc89a28e1dd52,card_linking
+WHAT IS THE REASON FOR THAT,card_not_working,"The intent of the message ""WHAT IS THE REASON FOR THAT"" is likely",chatcmpl-b289439bcb0979be,Refund_not_showing_up
+I am angry that I got charged for using my card.,card_payment_fee_charged,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-bb4930bf28981cc5,card_payment_fee_charged
+There's a payment with my card that I didn't perform. I don't know that name shown.,card_payment_not_recognised,card_payment_not_recognised,chatcmpl-ad38659d1edd28cf,card_payment_not_recognised
+I don't recognize this payment at all!  Help!,card_payment_not_recognised,card_payment_not_recognised,chatcmpl-b0c7abf3f84016a2,card_payment_not_recognised
+"The exchange rate given to me after a purchase, was incorrect",card_payment_wrong_exchange_rate,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-99203a30f0d78894,card_payment_wrong_exchange_rate
+The ATM kept my card?,card_swallowed,card_swallowed,chatcmpl-9849e7da884bf728,card_swallowed
+The ATM sucked my card in.,card_swallowed,card_swallowed,chatcmpl-8f327f67bd99e15e,card_swallowed
+What is the extra fee I was charged when using an ATM?,cash_withdrawal_charge,cash_withdrawal_charge,chatcmpl-aff564470545dd13,cash_withdrawal_charge
+"I got a message saying I made a withdrawal from the bank machine, but I did not.",cash_withdrawal_not_recognised,cash_withdrawal_not_recognised,chatcmpl-afc53ac06aa906da,cash_withdrawal_not_recognised
+"Hi, It's urgent, please freeze my card. As someone has withdrawn money using my card in odd remote town. Since i have not done this withdrawal. Do it fast.",cash_withdrawal_not_recognised,cash_withdrawal_not_recognised,chatcmpl-b1c4bf9ed933d2c6,cash_withdrawal_not_recognised
+How can I alteration my PIN?,change_pin,change_pin,chatcmpl-ab846d418b003b79,change_pin
+Somebody used my card without my knowledge!,compromised_card,cash_withdrawal_not_recognised,chatcmpl-b4663a9c2a46f14d,compromised_card
+How come when I tried to pay contactless at the bus it didnt work?,contactless_not_working,contactless_not_working,chatcmpl-b8cde3de108aa9ee,contactless_not_working
+Are my contactless settings correct? I tried to use it today but it wasn't working.,contactless_not_working,contactless_not_working,chatcmpl-9fb88c1e4797d10b,contactless_not_working
+Please tell me how to get a card if I reside in the US.,country_support,country_support,chatcmpl-bb5561265f63820d,country_support
+I am very upset that i went to use my new card today and it kept getting declined. Why is this happening and what do I do to not have it declined?,declined_card_payment,declined_card_payment,chatcmpl-b03a7a606626b309,declined_card_payment
+When I tried to pay in a store my card din't work,declined_card_payment,card_not_working,chatcmpl-841c23377b9e5322,declined_card_payment
+My withdrawal from the ATM was cancelled.,declined_cash_withdrawal,declined_cash_withdrawal,chatcmpl-92496aab1e4899a0,declined_cash_withdrawal
+"On my transfer there was a ""decline"" message",declined_transfer,declined_transfer,chatcmpl-97fcf3341be0f6ad,declined_transfer
+I wanted to know why my transaction didn't go through.,declined_transfer,The intent of the customer's message is: **Troubleshooting/Support**,chatcmpl-85da65c2e02f5ee4,failed_transfer
+"In my app, a direct debit payment I didn't do shows in my app",direct_debit_payment_not_recognised,direct_debit_payment_not_recognised,chatcmpl-866306c207f49608,direct_debit_payment_not_recognised
+How many purchases can I make with one disposable card?,disposable_card_limits,disposable_card_limits,chatcmpl-b6639cf9755aab34,disposable_card_limits
+My billing address changed and I need to update my information.,edit_personal_details,edit_personal_details,chatcmpl-8c8cce9b4f829b1b,edit_personal_details
+Can I edit my personal details?,edit_personal_details,edit_personal_details,chatcmpl-be00f372e6f39eb4,edit_personal_details
+How much more do you charge for currency exchange?,exchange_charge,exchange_charge,chatcmpl-b2618a5686061a88,exchange_charge
+How do you determine your exchange rates?,exchange_rate,exchange_rate,chatcmpl-b30aeb0f09ac1574,exchange_rate
+What is the basis of your exchange rates?,exchange_rate,exchange_rate,chatcmpl-808a66bd74e6fee2,exchange_rate
+"I do not need GBP, I need AUD, how do I convert it?",exchange_via_app,exchange_via_app,chatcmpl-8c354d900b6853fa,exchange_via_app
+"Hello, I see that I have been charged an extra $1 on my app.  Could you please provide me with a reason for this charge?",extra_charge_on_statement,Refund_not_showing_up,chatcmpl-8044fda6a3f307ad,extra_charge_on_statement
+I was charged an extra pound.,extra_charge_on_statement,extra_charge_on_statement,chatcmpl-aa71a8352f1a6052,extra_charge_on_statement
+I couldnt transfer money from my account.,failed_transfer,transfer_not_received_by_recipient,chatcmpl-b9d6a74f78f2ae03,beneficiary_not_allowed
+Can I exchange currency to Europe?,fiat_currency_support,exchange_via_app,chatcmpl-a28d4fd8010e6227,exchange_via_app
+How can disposable cards be used?,get_disposable_virtual_card,get_disposable_virtual_card,chatcmpl-b2bffd80c06bd6c2,get_disposable_virtual_card
+What is the procedure for depositing a virtual card,get_disposable_virtual_card,virtual_card_or_google_pay,chatcmpl-a71d4dff82870939,virtual_card_not_working
+Do i have to wait to get the pin or can i set up a pin,get_physical_card,"The intent of the message is: ""Setup PIN"" or more specifically,",chatcmpl-a50bc77077f5a906,get_physical_card
+"Can my daughter also have a card issued in her name, but linked to my account?",getting_spare_card,getting_spare_card,chatcmpl-a7b8d7e3d2a1ca7e,getting_spare_card
+How do i request more physical cards?,getting_spare_card,request_refund,chatcmpl-b30914f63a5c8f77,getting_spare_card
+Is it possible to order a virtual card?,getting_virtual_card,"The intent of the message is: ""Account Management"" or more specifically ""Virtual",chatcmpl-805f56bbf53a9d24,getting_virtual_card
+I think my card is stolen!,lost_or_stolen_card,lost_or_stolen_card,chatcmpl-a40e1ea8584a3be7,lost_or_stolen_card
+My card is missing!  Help!,lost_or_stolen_card,lost_or_stolen_card,chatcmpl-8cd255334030f916,lost_or_stolen_card
+My phone was left behind.  Can I still use my card?,lost_or_stolen_phone,card_not_working,chatcmpl-b2398c144cdd0676,lost_or_stolen_phone
+"I would like to get a physical card, but I don't know how. Can you help me?",order_physical_card,card_about_to_expire,chatcmpl-9c197ca2f521263c,order_physical_card
+"I cannot remember my passcode, is there a way to retrieve it?",passcode_forgotten,passcode_forgotten,chatcmpl-bee26c8c0739152f,passcode_forgotten
+I've forgotten my app passcode completely.,passcode_forgotten,passcode_forgotten,chatcmpl-bb347d4eec137a05,passcode_forgotten
+I have made a card payment but it did not completed still showing as pending. Please tell me when it will be completed.,pending_card_payment,pending_card_payment,chatcmpl-baa4801221ab8421,pending_card_payment
+I withdrew cash but it still shows as pending?,pending_cash_withdrawal,pending_cash_withdrawal,chatcmpl-bc5d92d05d1dd140,pending_cash_withdrawal
+What does it mean when a cash withdrawal is pending?,pending_cash_withdrawal,Refund_not_showing_up,chatcmpl-b516a14988712f11,pending_cash_withdrawal
+Isn't my top-up supposed to mean its complete?,pending_top_up,"Based on the message, the intent is likely ""Clarification"" or ""Status",chatcmpl-817ae310178d09c4,pending_top_up
+"My transfer is quite urgent, and finally worked out, but I've been waiting for it for quite some time. Can you tell me how long to expect to wait for it?",pending_transfer,"The intent of this banking customer message is: 
+
+""Request for Information"" or",chatcmpl-bbceb5dd24d7b676,pending_transfer
+Money was transferred to me and I am unable to see it,pending_transfer,transfer_not_received_by_recipient,chatcmpl-bd8e49a969b457d1,balance_not_updated_after_bank_transfer
+Can someone help me unblock my pin?,pin_blocked,pin_blocked,chatcmpl-94e1811e109acf24,pin_blocked
+Do I need to add my salary?,receiving_money,receiving_money,chatcmpl-a85a060de4fda34b,receiving_money
+Can I get a refund on an item?,request_refund,request_refund,chatcmpl-98ac93bded049db4,request_refund
+What's your refund policy if I bought an item from you?,request_refund,request_refund,chatcmpl-870b0ffaed0f300f,request_refund
+I made a payment but the app cancelled it.,reverted_card_payment?,cancel_transfer,chatcmpl-a02a6b74f63300bf,reverted_card_payment?
+What US credit cards do you accept?,supported_cards_and_currencies,supported_cards_and_currencies,chatcmpl-8b487e372b92b24e,supported_cards_and_currencies
+Will you accept my credit card?,supported_cards_and_currencies,request_refund,chatcmpl-86474e3f479260a4,supported_cards_and_currencies
+How do I discontinue my account?,terminate_account,terminate_account,chatcmpl-9a90157be6971fa5,terminate_account
+Is there a charge for transfers?,top_up_by_bank_transfer_charge,Refund_not_showing_up,chatcmpl-9506b0f74ee50351,top_up_by_bank_transfer_charge
+Can I use SWIFT transfers?,top_up_by_bank_transfer_charge,top_up_by_bank_transfer_charge,chatcmpl-b2d9bb8f3feb5dca,top_up_by_bank_transfer_charge
+Are you going to charge me to top up my card?,top_up_by_card_charge,The intent of the message is:  **Inquiry** or **Clarification,chatcmpl-9ab464d503bbc949,top_up_by_card_charge
+How do you top up with a cheque?,top_up_by_cash_or_cheque,top_up_by_cash_or_cheque,chatcmpl-acb8bac6456fb9e8,top_up_by_cash_or_cheque
+What's the problem? My card keeps getting declined for top up. I need to know what is going on.,top_up_failed,card_not_working,chatcmpl-b13a9ffff1817b0e,top_up_failed
+Looks like my top-up has been cancelled,top_up_failed,top_up_reverted,chatcmpl-a7041d7ec57b743f,top_up_reverted
+What is the maximum for top-ups?,top_up_limits,top_up_limits,chatcmpl-98232540dac6f2e1,top_up_limits
+"My money has disappeared. I had recently added money in, and saw it was there and went through. Now it's gone. What is happening?",top_up_reverted,top_up_reverted,chatcmpl-bb7844c5985a9c3b,top_up_reverted
+I am unable to use my top-up on the app. Could you explain this to me?,top_up_reverted,transfer_into_account,chatcmpl-8781c4f2b5b8fe7d,top_up_failed
+I topped up my account but the money isn't there now.,topping_up_by_card,top_up_reverted,chatcmpl-aa1a352834fa3796,topping_up_by_card
+"Looks like my card payment was duplicated after all. I went to pay at the store earlier, got declined once,second time it works. App still stays pending for one of the payments. Can you please remove one of them as it's wrong and was declined?",transaction_charged_twice,transaction_charged_twice,chatcmpl-83c6c0471ef2471a,transaction_charged_twice
+I got charged twice with a duplicate card. How do I resolve this?,transaction_charged_twice,transaction_charged_twice,chatcmpl-8873f813463a841d,transaction_charged_twice
+I noticed a charge for a transfer.  Why is this?  Is it because I did an international transfer?,transfer_fee_charged,Refund_not_showing_up,chatcmpl-831847c2da9db837,balance_not_updated_after_bank_transfer
+I would like to know how to transfer money into my account.,transfer_into_account,transfer_into_account,chatcmpl-be69ce053eb90519,transfer_into_account
+How come my money hasn't shown up yet?,transfer_not_received_by_recipient,balance_not_updated_after_bank_transfer,chatcmpl-a2627f7473720267,balance_not_updated_after_bank_transfer
+How long should it take for a transfer to go through? I have been waiting a while.,transfer_not_received_by_recipient,The intent of this banking customer message is: **Inquiry/Support** or,chatcmpl-9fe2b22fa23af93d,transfer_not_received_by_recipient
+How long does it take in Europe to do a transfer?,transfer_timing,transfer_timing,chatcmpl-920891048170e2cd,transfer_timing
+I'm not sure how to provide my identity.,unable_to_verify_identity,verify_my_identity,chatcmpl-b3f417e4bc52b917,unable_to_verify_identity
+I'm not able to verify my identity.,unable_to_verify_identity,unable_to_verify_identity,chatcmpl-afd2f416b89c7114,unable_to_verify_identity
+"I'm trying to verify my identity but can't figure out how, what do I do?",verify_my_identity,verify_my_identity,chatcmpl-b17f61c3a8929a47,verify_my_identity
+I would like to know where the funds are at.,verify_source_of_funds,verify_source_of_funds,chatcmpl-bb94393d90d69f5a,verify_source_of_funds
+How can I receive verification for the source of my funds?,verify_source_of_funds,verify_source_of_funds,chatcmpl-aa5d0255c1df5c76,verify_source_of_funds
+How do i find my top-up card's verification code?,verify_top_up,verify_top_up,chatcmpl-8b212c61f6fc0371,verify_top_up
+What do I do if my disposable virtual card doesn't work?,virtual_card_not_working,virtual_card_not_working,chatcmpl-8d0c5c8a4b9f1997,virtual_card_not_working
+"Can you send me a Mastercard, instead of a Visa?",visa_or_mastercard,visa_or_mastercard,chatcmpl-a641d7004569643e,visa_or_mastercard
+I want to get a Visa,visa_or_mastercard,visa_or_mastercard,chatcmpl-9c83da22350ee692,visa_or_mastercard
+Why on earth do you need so much personal id info from me?,why_verify_identity,The intent of this banking customer message is: **Concern/Complaint** or,chatcmpl-a863694896018038,why_verify_identity
+I got some cash but it wasn't the right amount.,wrong_amount_of_cash_received,wrong_amount_of_cash_received,chatcmpl-847c4872f968113e,wrong_amount_of_cash_received
+"Why did I not get all the money that I asked for? I asked for all the cash in my my account, but I only got about half. Why is that??",wrong_amount_of_cash_received,wrong_amount_of_cash_received,chatcmpl-94a8bfccf6922281,wrong_amount_of_cash_received
+"I draw out money from your ATM during holidays, and was charged insanely. I wouldn't have done it, if i had a little sense about the shocking charges.",wrong_exchange_rate_for_cash_withdrawal,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-84b1af5efef705fc,wrong_exchange_rate_for_cash_withdrawal
+"Hurry and refund me, I am waiting",Refund_not_showing_up,Refund_not_showing_up,chatcmpl-a9f8c3a257c33184,Refund_not_showing_up
+i cant seem to activate card,activate_my_card,activate_my_card,chatcmpl-9d6123ea1df1030c,activate_my_card
+How can my new card be renewed?,activate_my_card,card_about_to_expire,chatcmpl-901d4ac3a387addd,card_about_to_expire
+Whats the minimum age to have an account,age_limit,age_limit,chatcmpl-898a5726d1aaa262,age_limit
+"top up google pay, is it possible?",apple_pay_or_google_pay,Refund_not_showing_up,chatcmpl-8257ae677906f19a,apple_pay_or_google_pay
+I want to top up with my Apple Watch.,apple_pay_or_google_pay,apple_pay_or_google_pay,chatcmpl-aebdd8a6c03ecca7,apple_pay_or_google_pay
+What ATM locations are near me?,atm_support,atm_support,chatcmpl-bd6cd665c8a0b31b,atm_support
+Is auto top up available?,automatic_top_up,automatic_top_up,chatcmpl-9230985468d6d482,automatic_top_up
+Can it add money automatically while travelling,automatic_top_up,automatic_top_up,chatcmpl-b75517321a135d4f,automatic_top_up
+I transferred some money a couple days ago but haven't received it yet. How long should I expect to wait?,balance_not_updated_after_bank_transfer,Refund_not_showing_up,chatcmpl-956283a0290eb0aa,balance_not_updated_after_bank_transfer
+I deposited a check a few days ago and it's still not gone in! Please help me with this,balance_not_updated_after_cheque_or_cash_deposit,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-bce866b596c29d68,balance_not_updated_after_cheque_or_cash_deposit
+Why can't I transfer to an account?,beneficiary_not_allowed,beneficiary_not_allowed,chatcmpl-87f2d170613d71b7,beneficiary_not_allowed
+I am trying to complete a transfer but I keep getting an error message.,beneficiary_not_allowed,"The intent of this banking customer message is: ""Technical Issue"" or more specifically",chatcmpl-b77eec8cbbd22980,failed_transfer
+Is there any way to cancel my transfer,cancel_transfer,cancel_transfer,chatcmpl-886169befbc85404,cancel_transfer
+"My card's expiration is approaching, how do I replace it.",card_about_to_expire,card_about_to_expire,chatcmpl-90de870758a3da45,card_about_to_expire
+Where can I order a card when I am in China?,card_about_to_expire,card_about_to_expire,chatcmpl-8e21ed21637d04e5,card_about_to_expire
+Which establishments will accept my card?,card_acceptance,card_acceptance,chatcmpl-beabd20705214e49,card_acceptance
+Was there a way for me to get tracking for that?,card_arrival,card_arrival,chatcmpl-9175183e1ec5f72e,card_arrival
+2 weeks ago I ordered my new card.  It isn't here.  What should I do?,card_arrival,card_arrival,chatcmpl-9ce2f36fe356f32d,card_arrival
+I need my card right away.,card_delivery_estimate,The intent of this banking customer message is: Urgent Request for Card Replacement or,chatcmpl-ac49cb601f3e2b02,card_delivery_estimate
+"I received my card, how do I get it to show in the app?",card_linking,card_linking,chatcmpl-b8c58605d51d4806,card_linking
+What do I do if the machine rejects my card?,card_not_working,card_not_working,chatcmpl-aeecad47f067c722,card_not_working
+My card won't work at all for anything.,card_not_working,card_not_working,chatcmpl-846cf55ff168a9ff,card_not_working
+I paid with card and was charged a fee that shouldn't be there!,card_payment_fee_charged,card_payment_fee_charged,chatcmpl-82bfeb32e4df6c4e,card_payment_fee_charged
+I don't recognize a purchase that was made with my card.,card_payment_not_recognised,card_payment_not_recognised,chatcmpl-a05f451f67335945,card_payment_not_recognised
+Why is this payment on my app,card_payment_not_recognised,"The intent of the message is likely to be: ""Informational"" or",chatcmpl-ac67bbedb837bd56,pending_card_payment
+I bought an item then noticed the exchange rate was wrong.,card_payment_wrong_exchange_rate,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-9b6cb57d2b7ff3f3,card_payment_wrong_exchange_rate
+How do I get my card back after the ATM swallowed it.,card_swallowed,card_swallowed,chatcmpl-92869ee52696b8b9,card_swallowed
+The ATM did not give me my card back?,card_swallowed,card_swallowed,chatcmpl-afe0da682c133715,card_swallowed
+I should not have been charged a fee for cash withdrawal.,cash_withdrawal_charge,Refund_not_showing_up,chatcmpl-962d2af105cd3b4f,cash_withdrawal_charge
+There are funds showing in my app that I did not receive.,cash_withdrawal_not_recognised,Refund_not_showing_up,chatcmpl-9145b3485fcc86ea,cash_withdrawal_not_recognised
+If I want to select a new PIN what do I do?,change_pin,change_pin,chatcmpl-ab0fe73663ca816b,change_pin
+What steps do I have to take to change my PIN?,change_pin,change_pin,chatcmpl-a4d888f33bdfa78a,change_pin
+What should I do if I think that someone might be using me card?,compromised_card,compromised_card,chatcmpl-99281cf4bcc446c7,compromised_card
+I need help fixing my contactless. It's not working anywhere I go today.,contactless_not_working,contactless_not_working,chatcmpl-9c0a6ab95894c828,contactless_not_working
+The terminal I paid at wouldn't take my card. Is something wrong?,contactless_not_working,Refund_not_showing_up,chatcmpl-98d1b359254e5622,declined_card_payment
+Can someone in the US have a card?,country_support,country_support,chatcmpl-8f7acd82e026b588,country_support
+my payment was rejected,declined_card_payment,Refund_not_showing_up,chatcmpl-ae2303ac095c9d62,declined_card_payment
+My payment for my card is not working,declined_card_payment,card_not_working,chatcmpl-860a2e91496d7913,declined_card_payment
+Why can't I get cash from the ATM?,declined_cash_withdrawal,declined_cash_withdrawal,chatcmpl-8b39885683f21b40,declined_cash_withdrawal
+Why was one of my transfers declined?,declined_transfer,declined_transfer,chatcmpl-8a6de3be7a2f3e9e,declined_transfer
+There is a debit paymet that I don't recognize.,direct_debit_payment_not_recognised,direct_debit_payment_not_recognised,chatcmpl-8dceffe9e8418b59,direct_debit_payment_not_recognised
+I haven't used my card all day but there is a payment showing in the app. Please cancel it!,direct_debit_payment_not_recognised,Refund_not_showing_up,chatcmpl-bc571bb18f215a26,cancel_transfer
+Could you tell me about the restrictions that are on the disposable cards?,disposable_card_limits,disposable_card_limits,chatcmpl-a71ffc13c4a28e0b,disposable_card_limits
+I am looking to change my adress.,edit_personal_details,edit_personal_details,chatcmpl-ae060ad3e8c6649a,edit_personal_details
+Why can't I edit my personal details?,edit_personal_details,edit_personal_details,chatcmpl-ae168c6667883317,edit_personal_details
+What is the fee for accepting money from a foreign country?,exchange_charge,exchange_charge,chatcmpl-aa322c7ab701460f,exchange_charge
+What exchange rate is it?,exchange_rate,exchange_rate,chatcmpl-912fb5434c7b4f18,exchange_rate
+Where does the exchange rate stand right now?,exchange_rate,exchange_rate,chatcmpl-8c0951937e72a2e3,exchange_rate
+Does the app allowing exchanges between USD and GBP,exchange_via_app,exchange_via_app,chatcmpl-95a0936a3d07dc2b,exchange_via_app
+I have been charged a pound for something that appears on my statement,extra_charge_on_statement,extra_charge_on_statement,chatcmpl-913dfd900f2d6b2c,extra_charge_on_statement
+My transfer didn't work! Help!,failed_transfer,failed_transfer,chatcmpl-be25ac3286abba92,failed_transfer
+Can you tell my why my funds transfer did not work properly?,failed_transfer,The intent of this banking customer message is: **Troubleshooting/Support**,chatcmpl-b1f7271c1092a49b,failed_transfer
+Is my country's currency supported by your system?,fiat_currency_support,"The intent of this banking customer message is: ""Informational"" or more specifically",chatcmpl-b20a76f7b3b1159b,fiat_currency_support
+In what way can I use the disposable cards?,get_disposable_virtual_card,"Based on the message, the intent is likely to be: ""Informational",chatcmpl-bd99e46de68469a1,get_disposable_virtual_card
+How do I get a disposable virtual card as well?,get_disposable_virtual_card,get_disposable_virtual_card,chatcmpl-964bb81cdec2a269,get_disposable_virtual_card
+"I don't know my PIN, how can I find that out?",get_physical_card,get_physical_card,chatcmpl-a7993ade665b03f7,get_physical_card
+How many active cards can I have?,getting_spare_card,card_linking,chatcmpl-b81f54c00fc53476,getting_spare_card
+How many physical cards am I allowed to have?,getting_spare_card,card_linking,chatcmpl-ac8386429cef6fca,getting_spare_card
+How do I access the virtual card?,getting_virtual_card,"The intent of the message is: ""Informational"" or more specifically,",chatcmpl-a7aa472ab6fbc29d,getting_virtual_card
+I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card?,lost_or_stolen_card,card_arrival,chatcmpl-8898d2575508bc73,lost_or_stolen_card
+"I got mugged yesterday and they took everything. I can't use the app, so I need some help.",lost_or_stolen_phone,lost_or_stolen_phone,chatcmpl-b82228565687aef5,lost_or_stolen_phone
+"If I lost my phone, what steps do I need to take to stop someone from using my account?",lost_or_stolen_phone,lost_or_stolen_phone,chatcmpl-9412dc40e1fed515,lost_or_stolen_phone
+Can you send me the actual card?,order_physical_card,Refund_not_showing_up,chatcmpl-abff31f696a6336e,card_delivery_estimate
+I don't know my password anymore.,passcode_forgotten,passcode_forgotten,chatcmpl-a8015f08d2acbab6,passcode_forgotten
+How can I reset the passcode if I need to do that?,passcode_forgotten,passcode_forgotten,chatcmpl-8303f3a799b3dc77,passcode_forgotten
+Why is my purchase showing as pending?,pending_card_payment,pending_card_payment,chatcmpl-b7a0c59b9c9d4ee5,pending_card_payment
+How long does it take for a cash withdrawal to show?,pending_cash_withdrawal,card_payment_not_recognised,chatcmpl-aa60c4c0b6023ee5,pending_cash_withdrawal
+"Hi, I tried to withdraw some money from an ATM and the machine was broken.  It says that the transaction is still in progress.  Can you double check to see what's happening? I don't want to be charged since I was not able to withdraw the money.",pending_cash_withdrawal,pending_cash_withdrawal,chatcmpl-a3b8657fc04b7185,pending_cash_withdrawal
+I attempted to top up my account but it's been frozen in a pending state for well over an hour now! Is this normal? I'm a new customer and this is my first time doing this. I assumed it would be done quicker than this.,pending_top_up,pending_top_up,chatcmpl-a73d4e3378c1e89e,pending_top_up
+My transfer's stuck on pending.,pending_transfer,pending_transfer,chatcmpl-bd80ef4434c75acf,pending_transfer
+I attempted to enter my pin to many times.,pin_blocked,pin_blocked,chatcmpl-a1344b716824d020,pin_blocked
+How do I get unblocked?,pin_blocked,pin_blocked,chatcmpl-a9d2d47a392281af,pin_blocked
+Will my GPB update my salary,receiving_money,receiving_money,chatcmpl-898f8244c0699042,receiving_money
+I'm interested in learning more about product refunds.,request_refund,request_refund,chatcmpl-9a43184667852769,request_refund
+I just bought an item and changed my mind.  I have not received it yet how can I get refunded.  Thank you.,request_refund,request_refund,chatcmpl-9e5817b63ad2d367,request_refund
+"My card payment reverted back, I think.",reverted_card_payment?,reverted_card_payment,chatcmpl-96ce3ff88cafd49a,reverted_card_payment?
+can i add funds  with a card from the united states,supported_cards_and_currencies,supported_cards_and_currencies,chatcmpl-bfe81b97cd091305,supported_cards_and_currencies
+I need to know if you will accept my credit card.,supported_cards_and_currencies,"The intent of the message is: ""Informational"" or more specifically,",chatcmpl-b4cfd886aeaebcfa,turn_up
+Please delete my account immediately.,terminate_account,terminate_account,chatcmpl-ad58f226b0872d3b,terminate_account
+Are SWIFT transfers supported?,top_up_by_bank_transfer_charge,"The intent of the message is: ""Informational"" or more specifically,",chatcmpl-bc27dda5a3c4152d,top_up_by_bank_transfer_charge
+Are there any charges for using a bank card to top up,top_up_by_card_charge,top_up_by_card_charge,chatcmpl-a8ff74de60eab514,top_up_by_card_charge
+Will you assess me more fees if I top up with an international card?,top_up_by_card_charge,top_up_by_card_charge,chatcmpl-b92fa04e9de529aa,top_up_by_card_charge
+How dp i top up with a cheque ?,top_up_by_cash_or_cheque,top_up_by_cash_or_cheque,chatcmpl-80adc531190e2068,top_up_by_cash_or_cheque
+My credit card seems to have been declined for top up. Why is it not going through? Can you tell me what's going on?,top_up_failed,transfer_not_received_by_recipient,chatcmpl-8dca244c67b1a141,top_up_failed
+Was there a problem with topping up?,top_up_failed,Refund_not_showing_up,chatcmpl-a2f0764d139fdbbd,top_up_failed
+How many top-ups can be approved?,top_up_limits,top_up_limits,chatcmpl-a8b42d63703ac0c3,top_up_limits
+I think my top up was reversed.,top_up_reverted,top_up_reverted,chatcmpl-9b6aed03e7780c04,top_up_reverted
+When I topped up the app has seemed to reverted it.,top_up_reverted,top_up_reverted,chatcmpl-a2817744435791aa,top_up_reverted
+What do I need to do to transfer money with my credit card?,topping_up_by_card,topping_up_by_card,chatcmpl-8acaca3ee0e3f491,topping_up_by_card
+How do a reverse a duplicated charge?,transaction_charged_twice,transaction_charged_twice,chatcmpl-8ee526006e642184,transaction_charged_twice
+"I thought transfers were free, why was I charged?",transfer_fee_charged,transfer_fee_charged,chatcmpl-a1c5a60f169a392c,transfer_fee_charged
+I made a transfer and the person I transferred the money to didn't receive the right amount? Why did this happen and how do I get the rest of the money to them?,transfer_fee_charged,Refund_not_showing_up,chatcmpl-898b9538d9f15435,transfer_fee_charged
+"I have an account at another bank, but I want to transfer some of the money to my account here.
+.",transfer_into_account,transfer_into_account,chatcmpl-8936be57c4eb9fac,transfer_into_account
+"Hi, I sent my landlord my rent money a few days ago and while everything seems good on my end he says that he never got the money. I double checked the account number and it's correct. Can you help me figure this out?",transfer_not_received_by_recipient,transfer_not_received_by_recipient,chatcmpl-a0a2262c04dae245,transfer_not_received_by_recipient
+I'm waiting for my transaction to complete.,transfer_not_received_by_recipient,transaction_charged,chatcmpl-91492909dffee579,transfer_not_received_by_recipient
+What is the time period for money to be transferred?,transfer_timing,transfer_timing,chatcmpl-b18d3cbf33acd59b,transfer_timing
+My identity verification isn't working,unable_to_verify_identity,card_not_working,chatcmpl-84a2f79ccd13ad8b,unable_to_verify_identity
+"The app isn't letting me log in, but my info is correct.",unable_to_verify_identity,"The intent of this banking customer message is: Technical Issue or Login Problem.
+
+This",chatcmpl-b8abfc6d6e8ecc41,passcode_forgotten
+How can I prove I am me?,verify_my_identity,verify_my_identity,chatcmpl-a0baa4bf6b4defdf,verify_my_identity
+How can I verify my source of funds?,verify_source_of_funds,verify_source_of_funds,chatcmpl-9c22e08ec7ae5e65,verify_source_of_funds
+Why do we need to verify a top-up card?,verify_top_up,verify_top_up,chatcmpl-a01ef53b665f1c72,verify_top_up
+Please verify my top-up card,verify_top_up,verify_top_up,chatcmpl-beb25a1dddb32057,verify_top_up
+Help me get the virtual card working.,virtual_card_not_working,virtual_card_not_working,chatcmpl-96bca1e2d95cb98c,virtual_card_not_working
+I would like to get both Mastercard and Visa card from you if that's possible.,visa_or_mastercard,visa_or_mastercard,chatcmpl-8e3bf49ac61a3085,visa_or_mastercard
+Is it possible to obtain both a Visa and a Mastercard from you?,visa_or_mastercard,visa_or_mastercard,chatcmpl-8e4163035de2447d,visa_or_mastercard
+Why is there an identity check?,why_verify_identity,why_verify_identity,chatcmpl-9071639f58681521,why_verify_identity
+The atm didn'y give me all the cash,wrong_amount_of_cash_received,wrong_amount_of_cash_received,chatcmpl-9cd644aededc370d,wrong_amount_of_cash_received
+The ATM I'm standing in front of only gave me 10 pounds rather than the 30 pounds I wanted. The app shows I took out 30 pounds also. What do I need to do to fix this?,wrong_amount_of_cash_received,wrong_amount_of_cash_received,chatcmpl-bd3a3dde45ab8709,wrong_amount_of_cash_received
+I had trouble with an incorrect rate being applied when using the ATM with foreign currency.,wrong_exchange_rate_for_cash_withdrawal,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-937f4e106e4d5a76,wrong_exchange_rate_for_cash_withdrawal
+I was supposed to get a refund but I do not see it.,Refund_not_showing_up,Refund_not_showing_up,chatcmpl-89bbaeabda93a169,Refund_not_showing_up
+i cannot seem to activate card,activate_my_card,activate_my_card,chatcmpl-acd14ec7473de9e8,activate_my_card
+"I just got my new card, how do I activate it?",activate_my_card,activate_my_card,chatcmpl-b755f2a38982b911,activate_my_card
+What are the age limits for your service?,age_limit,age_limit,chatcmpl-abab1432d886aa51,age_limit
+can I top up an apple pay?,apple_pay_or_google_pay,apple_pay_or_google_pay,chatcmpl-a82f08c9329be233,apple_pay_or_google_pay
+Can I use American express with apple pay? Why does it make my top up not work?,apple_pay_or_google_pay,apple_pay_or_google_pay,chatcmpl-b8e014d8d824108a,apple_pay_or_google_pay
+Is there a list of ATMs that take this card?,atm_support,atm_support,chatcmpl-93581871c58a0e9f,atm_support
+I want to add money automatically when I travel.,automatic_top_up,automatic_top_up,chatcmpl-a3d269dde827fb84,automatic_top_up
+I'm wondering how long it takes for my money to get to me after a bank transfer.,balance_not_updated_after_bank_transfer,The intent of this banking customer message is: **Informational/Query** or,chatcmpl-95079ebb804fac95,transfer_timing
+My account balance has not updated to reflect my recent transfer.,balance_not_updated_after_bank_transfer,balance_not_updated_after_bank_transfer,chatcmpl-87cd6b2d0b07f5a5,balance_not_updated_after_bank_transfer
+Why am I not seeing the check I deposited this morning in my account?,balance_not_updated_after_cheque_or_cash_deposit,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-b4208b726f416b54,balance_not_updated_after_cheque_or_cash_deposit
+My attempted transfer keeps kicking back with an error message.  Could you please help me to resolve this?,beneficiary_not_allowed,Refund_not_showing_up,chatcmpl-b718a62aa6e6c1c4,failed_transfer
+I wasn't allowed to transfer to my account,beneficiary_not_allowed,beneficiary_not_allowed,chatcmpl-adcdff96f15eb054,beneficiary_not_allowed
+I would like help to revert a transaction I did this morning,cancel_transfer,cancel_transfer,chatcmpl-9a51d26471cc4abc,cancel_transfer
+What happens after my card expires?,card_about_to_expire,card_about_to_expire,chatcmpl-bcc5e8aed4806eec,card_about_to_expire
+"The expiration date for my card is coming up, how do I get a new card?",card_about_to_expire,card_about_to_expire,chatcmpl-83d7e8cfaa2b777f,card_about_to_expire
+Which merchants accept my card?,card_acceptance,card_acceptance,chatcmpl-91a36c0d6daf3263,card_acceptance
+Why hasn't my card arrived yet?,card_arrival,card_arrival,chatcmpl-bd7289dd0b341b71,card_arrival
+How long will this take to get to me?,card_delivery_estimate,order_physical_card,chatcmpl-b02b4ec7d3bf71c8,card_delivery_estimate
+can you express my card to me?,card_delivery_estimate,card_delivery_estimate,chatcmpl-a00fcd3ff6fc1849,card_delivery_estimate
+"I found the card that I thought I lost, and I would like to reactivate it.",card_linking,card_linking,chatcmpl-9713ed7295501512,card_linking
+My card was declined at a restaurant today and I don't know what the problem is.,card_not_working,declined_card_payment,chatcmpl-81af63d7a4f5d779,declined_card_payment
+I seem to be unable to make any transactions.,card_not_working,transfer_not_received_by_recipient,chatcmpl-8e7becd812be3e23,card_not_working
+Why did I have to pay an additional amount when using my card to pay?,card_payment_fee_charged,card_payment_fee_charged,chatcmpl-956ba77037eaba6d,card_payment_fee_charged
+"Hello, i just checked my statement and there seems to be a payment from my card that I have never seen before.",card_payment_not_recognised,card_payment_not_recognised,chatcmpl-9e6475cbfdba1ebc,card_payment_not_recognised
+There is a weird payment in my statement.,card_payment_not_recognised,card_payment_not_recognised,chatcmpl-8f22fed06e038a5f,card_payment_not_recognised
+The exchange rate you are using is really bad.This can't be the official interbank exchange rate.,card_payment_wrong_exchange_rate,Refund_not_showing_up,chatcmpl-aba5fb0810e75eb4,card_payment_wrong_exchange_rate
+Why did the ATM swallow my card?,card_swallowed,card_swallowed,chatcmpl-9f3b10f17141ae1e,card_swallowed
+A percentage fee was charged to my withdrawal.,cash_withdrawal_charge,wrong_amount_of_cash_received,chatcmpl-ac45c8751d0e237c,cash_withdrawal_charge
+Why am I being charged to make cash withdrawals? I thought they were supposed to be free!,cash_withdrawal_charge,cash_withdrawal_charge,chatcmpl-8e99d35b36a9620b,cash_withdrawal_charge
+"My wallet was just stolen, and they've already used my card! Please help, I can't afford to lose more money!",cash_withdrawal_not_recognised,cash_withdrawal_not_recognised,chatcmpl-9a7e03774dd323fe,cash_withdrawal_not_recognised
+Can I change my PIN at my local bank?,change_pin,change_pin,chatcmpl-a50cede2005fa51b,change_pin
+Which ATM's am i able to change my PIN?,change_pin,change_pin,chatcmpl-833d92d38e8e0f7d,change_pin
+am suspicious of my card's security,compromised_card,card_payment_not_recognised,chatcmpl-af5d893c04d8fab1,compromised_card
+I'm confused. My contactless is suddenly not working anywhere that I try to use it. How do I fix it?,contactless_not_working,contactless_not_working,chatcmpl-a2909b26f85b458a,contactless_not_working
+Can I make a contactless payments?,contactless_not_working,contactless_not_working,chatcmpl-961333173308007b,contactless_not_working
+How do I sign up for a card if I'm in America?,country_support,country_support,chatcmpl-bc4f011fda2dc1df,country_support
+"I was out today looking forward to paying with my brand new card, turns out the payment just kept getting declined. This is pretty sad, what's going on?",declined_card_payment,declined_card_payment,chatcmpl-9864589e30e52e02,declined_card_payment
+I cant get money out of the ATM with my card.  I just put my card in the ATM but it will not allow me to take any money out.  What do I need to do to fix this?,declined_cash_withdrawal,declined_cash_withdrawal,chatcmpl-886a9656c471376f,declined_cash_withdrawal
+Why do I get declined when I try to withdraw cash?,declined_cash_withdrawal,declined_cash_withdrawal,chatcmpl-914f209cf226421d,declined_cash_withdrawal
+I tried to buy something online yesterday but it kept saying declined. Tried again today but same thing happened. What's wrong?,declined_transfer,declined_transfer,chatcmpl-a9221b0686288b0b,declined_transfer
+Why am I seeing a direct debit thats not mine?,direct_debit_payment_not_recognised,direct_debit_payment_not_recognised,chatcmpl-baaae4390c4c41f5,direct_debit_payment_not_recognised
+I do not recognize a direct debit payment that I see on my app,direct_debit_payment_not_recognised,direct_debit_payment_not_recognised,chatcmpl-96ef7449da4f89d8,direct_debit_payment_not_recognised
+I need to make multiple disposable cards in a day.,disposable_card_limits,disposable_card_limits,chatcmpl-a8b03d2f58593d94,disposable_card_limits
+I must change my address.,edit_personal_details,edit_personal_details,chatcmpl-96cbc2a1a1ed42f9,edit_personal_details
+I would like to alter my personal details.,edit_personal_details,edit_personal_details,chatcmpl-89cfe65d561c04e1,edit_personal_details
+Will there be any extra fees if I exchange currencies?,exchange_charge,exchange_charge,chatcmpl-9fbad6d06e401197,exchange_charge
+"When exchanging, how much are the rates?",exchange_rate,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-918e324e6aa8108c,exchange_rate
+Is this app capable of exchanging currencies?,exchange_via_app,exchange_via_app,chatcmpl-b4b15da5ead645ea,exchange_via_app
+How do you exchange currencies,exchange_via_app,exchange_via_app,chatcmpl-9c30df7ad80f7d83,exchange_via_app
+I was wrongfully charged one pound.,extra_charge_on_statement,Refund_not_showing_up,chatcmpl-844d5ee745e3a2ec,extra_charge_on_statement
+"So, I am in the middle of purchasing a flat. I need the money for the first mortgage payment and it is not going through. I keep receiving an error. Can you find out what's going on and help me complete this transfer?",failed_transfer,failed_transfer,chatcmpl-9b089726b1177387,failed_transfer
+Is there a reason that my transfer failed?,failed_transfer,failed_transfer,chatcmpl-bca4b9cd3ee9099c,failed_transfer
+What are my options for holding money in multiple currencies?,fiat_currency_support,fiat_currency_support,chatcmpl-96f867ceae1ebf37,fiat_currency_support
+Please explain how I use the disposable cards?,get_disposable_virtual_card,"Based on the message, the intent is likely ""Informational"" or ""Support",chatcmpl-947ce3199fb783b4,get_disposable_virtual_card
+Where do I order a disposable virtual card?,get_disposable_virtual_card,get_disposable_virtual_card,chatcmpl-889d515d7762c0a0,get_disposable_virtual_card
+do i need to wait to get my card before getting a pin,get_physical_card,get_physical_card,chatcmpl-a551b4e2b70843d5,get_physical_card
+"daughter needs card, how do i add her",getting_spare_card,request_refund,chatcmpl-90e93f1f4b23ad26,getting_spare_card
+Why haven't I been given a virtual card yet?,getting_virtual_card,getting_virtual_card,chatcmpl-b986e1b5bad44903,getting_virtual_card
+"I need to make a purchase online, where is my virtual card?",getting_virtual_card,getting_virtual_card,chatcmpl-b0eb7d9935225c64,getting_virtual_card
+"i need help, i lost my card",lost_or_stolen_card,lost_or_stolen_card,chatcmpl-be009d9a9706e133,lost_or_stolen_card
+I don't know where my phone is.,lost_or_stolen_phone,lost_or_stolen_phone,chatcmpl-9f23c36c07ef7cee,lost_or_stolen_phone
+I just replaced my phone but how do I use my card information?,lost_or_stolen_phone,card_linking,chatcmpl-8ce3912a11c64cab,lost_or_stolen_card
+Where do I find our how to get a physical card?,order_physical_card,card_about_to_expire,chatcmpl-93008d68cd6237c7,order_physical_card
+How do I reset my passcode?,passcode_forgotten,passcode_forgotten,chatcmpl-9e7c253476d67597,passcode_forgotten
+I need a new login code,passcode_forgotten,passcode_forgotten,chatcmpl-8c5e6a66c527aeab,passcode_forgotten
+When will the transaction go through?,pending_card_payment,transaction_charged_twice,chatcmpl-b8cfa186d2360c06,transfer_not_received_by_recipient
+I made a cash withdraw and it shows up as pending why is that?,pending_cash_withdrawal,Refund_not_showing_up,chatcmpl-a0aaeeef013a7373,pending_cash_withdrawal
+i put money on my card and i dont see it on the balance,pending_top_up,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-bbf878630b4dc93b,balance_not_updated_after_cheque_or_cash_deposit
+How long will it take for my money to be deposited?,pending_top_up,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-abec1972302629c7,balance_not_updated_after_cheque_or_cash_deposit
+"Hello, I went ahead and checked my account details to be sure, and they are definitely correct.  I've had a transfer pending for a while, and I can't understand why it hasn't gone through yet.",pending_transfer,Refund_not_showing_up,chatcmpl-a4c4e9d887d22d5f,pending_transfer
+Help me unblock my account.  I entered the PIN wrong too many times.,pin_blocked,pin_blocked,chatcmpl-b79dab920ea56ca8,pin_blocked
+"My PIN has been blocked, what should I do?",pin_blocked,pin_blocked,chatcmpl-a5733f9d38a83f2d,pin_blocked
+My salary comes in GBP can I change my options somewhere?,receiving_money,receiving_money,chatcmpl-9d21440cc9598de2,receiving_money
+"I need a refund and cancel a transaction on an item I purchased and i need it as soon as possible, please!",request_refund,request_refund,chatcmpl-b504982678b3e0f3,request_refund
+"I bought a product a week ago, but may need to return it.",request_refund,request_refund,chatcmpl-ac892507cc0b3eff,request_refund
+I believe my card payment were reverted,reverted_card_payment?,reverted_card_payment,chatcmpl-a178809436890a0a,reverted_card_payment?
+"I am adding money, what currencies do you accept to do this?",supported_cards_and_currencies,supported_cards_and_currencies,chatcmpl-94f7c08dfa719dda,supported_cards_and_currencies
+I want to shut down my account as soon as possible.,terminate_account,terminate_account,chatcmpl-8f628e929e60bcef,terminate_account
+I want to close my account due to poor customer service.,terminate_account,terminate_account,chatcmpl-a08ffe88f50bd235,terminate_account
+Do you charge for transfers?,top_up_by_bank_transfer_charge,Refund_not_showing_up,chatcmpl-81a8010e46202e20,top_up_by_bank_transfer_charge
+Is there a charge to use a Top up card in the US?,top_up_by_card_charge,top_up_by_card_charge,chatcmpl-907bb6b75bb1367e,top_up_by_card_charge
+Is topping up free?,top_up_by_card_charge,"The intent of the message ""Is topping up free?"" is likely to be",chatcmpl-b38261ab96c0619c,top_up_by_card_charge
+Is there somewhere I can send a check to add to my account?,top_up_by_cash_or_cheque,top_up_by_cash_or_cheque,chatcmpl-b5890a9d0e017d54,top_up_by_cash_or_cheque
+I believe my top up has failed,top_up_failed,top_up_failed,chatcmpl-a00ec68a75fc3632,top_up_failed
+Can you tell me why my credit card was declined while trying to top-up?,top_up_failed,Refund_not_showing_up,chatcmpl-b969763bdc1cf90c,top_up_failed
+Can I use as many top-ups as I want?,top_up_limits,top_up_limits,chatcmpl-9d4d9b96887cb4b5,top_up_limits
+Why did my top-up not get approved this time?,top_up_reverted,Refund_not_showing_up,chatcmpl-ae6f076f64d90160,top_up_failed
+Can a credit card be used to transfer money?,topping_up_by_card,topping_up_by_card,chatcmpl-8a7b4f772187a0c2,topping_up_by_card
+"I attempted to top up using my card, but now the money just disappeared?",topping_up_by_card,topping_up_by_card,chatcmpl-a89636fca3ad666b,topping_up_by_card
+"Looks like my card payment was made two time by mistake. I went to pay at the store earlier which rejected once, second time it worked. App is on pending for one of the payments. Can you please remove one of them as it's wrong and clearly was declined?",transaction_charged_twice,transaction_charged_twice,chatcmpl-97c0de9dd8e6831a,transaction_charged_twice
+What kind of fees will I pay when I transfer?,transfer_fee_charged,The intent of the customer's message is: **Informational** or **In,chatcmpl-89f273fb87ac5f93,top_up_by_bank_transfer_charge
+Why am I seeing a fee for transferring money?,transfer_fee_charged,transfer_fee_charged,chatcmpl-9170afd4d31af0ba,transfer_fee_charged
+I am out of money in my account and I was wondering if I could do a bank transfer is put more in it?,transfer_into_account,transfer_into_account,chatcmpl-9bc3370c9ca1ee48,transfer_into_account
+How long will it be  before the person I sent money to is able to see it?,transfer_not_received_by_recipient,Refund_not_showing_up,chatcmpl-909571fccea6285f,transfer_not_received_by_recipient
+I transferred some money but it is not here yet,transfer_not_received_by_recipient,transaction_charged_twice,chatcmpl-af5cd170ba96e666,balance_not_updated_after_bank_transfer
+How long do European transfers take?,transfer_timing,transfer_timing,chatcmpl-b8aa4821771665f0,transfer_timing
+It won't let me verify my identity.,unable_to_verify_identity,unable_to_verify_identity,chatcmpl-b49838e37610f4ff,unable_to_verify_identity
+What forms of ID work for verification?,verify_my_identity,verify_my_identity,chatcmpl-a51099a46c97d144,verify_my_identity
+How can you assist on verifying my identity?,verify_my_identity,verify_my_identity,chatcmpl-8fe76cf0e940f475,verify_my_identity
+is there a way to see where funds come from,verify_source_of_funds,verify_source_of_funds,chatcmpl-b881fe8287cf64df,verify_source_of_funds
+Where do I find the verification code for the card I'm topping up?,verify_top_up,verify_top_up,chatcmpl-a5bf2db63cd6e58c,verify_top_up
+How many digits identify the top-up verification code?,verify_top_up,verify_top_up,chatcmpl-bad803b2cc1cf845,verify_top_up
+I can't make purchases with my virtual card.,virtual_card_not_working,virtual_card_not_working,chatcmpl-87c35824cc257196,virtual_card_not_working
+What card types can I choose from?,visa_or_mastercard,visa_or_mastercard,chatcmpl-899558d17e48f2e1,visa_or_mastercard
+Visa and Mastercard can both be received from you?,visa_or_mastercard,visa_or_mastercard,chatcmpl-ba70736f2f41aa79,visa_or_mastercard
+Can I already use my account although the identity verification has not passed yet?,why_verify_identity,why_verify_identity,chatcmpl-88fe6cbb8e095063,why_verify_identity
+"If the ATM only gave me 10 pounds instead of the 30 I requested, what do I do?",wrong_amount_of_cash_received,wrong_amount_of_cash_received,chatcmpl-973d817ff577e8c8,wrong_amount_of_cash_received
+the exchange rate I got for cash was wrong,wrong_exchange_rate_for_cash_withdrawal,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-bfacfe5fff40c4e8,wrong_exchange_rate_for_cash_withdrawal
+I got money overseas and the exchange rate was wrong,wrong_exchange_rate_for_cash_withdrawal,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-8f5e5e915be13eeb,wrong_exchange_rate_for_cash_withdrawal
+I need my refund as soon as possible. What else do I have to do?,Refund_not_showing_up,Refund_not_showing_up,chatcmpl-931800444168afed,Refund_not_showing_up
+Card activation steps,activate_my_card,activate_my_card,chatcmpl-a7220e09a57d99d2,activate_my_card
+How do I get my card active?,activate_my_card,activate_my_card,chatcmpl-862cda8b5c8a6155,activate_my_card
+What's the youngest I can be to open an account?,age_limit,age_limit,chatcmpl-814df8125ecf693f,age_limit
+Can I use my apple watch to top-up?,apple_pay_or_google_pay,apple_pay_or_google_pay,chatcmpl-ad18c0f8797fd467,apple_pay_or_google_pay
+I need to know where I can withdraw money.,atm_support,atm_support,chatcmpl-a70c505c145a4c05,atm_support
+Where is the nearest Mastercard ATM?,atm_support,atm_support,chatcmpl-9ef674a0104311a3,atm_support
+Can I have money transferred into my account at different intervals along my trip?,automatic_top_up,automatic_top_up,chatcmpl-86b8aefc5aee5249,automatic_top_up
+I am still waiting on my bank transfer,balance_not_updated_after_bank_transfer,card_payment_not_recognised,chatcmpl-b7183b9b81ba4cab,balance_not_updated_after_bank_transfer
+Why wasn't my bank balance updated?,balance_not_updated_after_bank_transfer,"The intent of the customer's message is: ""Account Inquiry"" or more specifically",chatcmpl-9341435acf98947b,balance_not_updated_after_bank_transfer
+my check or cash deposit has not shown up,balance_not_updated_after_cheque_or_cash_deposit,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-b9b1deef286f5140,balance_not_updated_after_cheque_or_cash_deposit
+Could you please explain why I received a message that my transfer is not possible? I've never had any problems making a transfer in the past.,beneficiary_not_allowed,transfer_not_received_by_recipient,chatcmpl-95f848feedad9e54,beneficiary_not_allowed
+I was unable to transfer to another account.,beneficiary_not_allowed,beneficiary_not_allowed,chatcmpl-8e331044aeda6c39,beneficiary_not_allowed
+Please cancel my last transaction.,cancel_transfer,cancel_transfer,chatcmpl-bde0aaa0b283266f,cancel_transfer
+Can I order a new card with the app?,card_about_to_expire,card_about_to_expire,chatcmpl-812af9767c9ec258,order_physical_card
+How can I know where my card will be accepted?,card_acceptance,card_acceptance,chatcmpl-afc4d19a262f0081,card_acceptance
+Are there limits as to where my card will be accepted?,card_acceptance,card_acceptance,chatcmpl-814cd0e3c29df46c,card_acceptance
+Am I able to track the card that was just sent to me?,card_arrival,card_arrival,chatcmpl-81c07e75c590af6d,card_arrival
+"To deliver to the US, how long will it take?",card_delivery_estimate,"The intent of the message is: Shipping/Logistics Inquiry. 
+
+This is",chatcmpl-90dec1acfc042a80,card_delivery_estimate
+How long will it take to deliver to the US?,card_delivery_estimate,card_delivery_estimate,chatcmpl-a173d1e9f52f9453,card_delivery_estimate
+Where in the app do I link a new card?,card_linking,card_linking,chatcmpl-a2e733859e043132,card_linking
+What should I do if I can't use my card?,card_not_working,card_not_working,chatcmpl-bf80f6a7643252ed,card_not_working
+Why won't my card work.,card_not_working,card_not_working,chatcmpl-93569d54004017b5,card_not_working
+"I paid with my card and got charged an extra fee, what's up with that?",card_payment_fee_charged,card_payment_fee_charged,chatcmpl-847421c7a6d7da1d,card_payment_fee_charged
+I saw a payment come out of my account for a merchant I don't remember.,card_payment_not_recognised,card_payment_not_recognised,chatcmpl-95604ce0cb51630e,card_payment_not_recognised
+The exchange rate I was charged for a purchase was not right.,card_payment_wrong_exchange_rate,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-9407a7520167fffc,card_payment_wrong_exchange_rate
+Why was the wrong rate applied when I bought something in a different currency?,card_payment_wrong_exchange_rate,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-b2b7a034669a0eb7,card_payment_wrong_exchange_rate
+An ATM machine didn't return my card.,card_swallowed,card_swallowed,chatcmpl-beb55a681eaea77a,card_swallowed
+When I got cash I was charged an extra fee!  Explain!,cash_withdrawal_charge,cash_withdrawal_charge,chatcmpl-90c633703f5a4f0c,cash_withdrawal_charge
+I used an ATM and there was an extra charge.,cash_withdrawal_charge,cash_withdrawal_charge,chatcmpl-ade0f8b362746fe8,cash_withdrawal_charge
+Some cash withdrawal that I didn't make showed up in the app.,cash_withdrawal_not_recognised,cash_withdrawal_not_recognised,chatcmpl-a9b3cd8e593049fc,cash_withdrawal_not_recognised
+"I think someone saw my PIN and I am on vacation in Spain, can I change it locally at an ATM?",change_pin,change_pin,chatcmpl-a4496e09ea669892,change_pin
+Can you tell me where  can change my PIN?,change_pin,change_pin,chatcmpl-91b34f1345c04669,change_pin
+"Can you check about unauthorized use of my card, I think someone is using mine without my knowledge?",compromised_card,compromised_card,chatcmpl-85981f86630f98bf,compromised_card
+My contactless stopped working today for no good reason. It's not working no matter where I try to use it. Can you please help me fix it?,contactless_not_working,contactless_not_working,chatcmpl-ab2f7804142beb7c,contactless_not_working
+Which countries do you currently support?,country_support,country_support,chatcmpl-b0224a2717a5e717,country_support
+I just moved to the US how do I get a card?,country_support,country_support,chatcmpl-a713b0fc0d95ce19,country_support
+My credit card has been declined.,declined_card_payment,declined_card_payment,chatcmpl-a05cfe57af072a4d,declined_card_payment
+My card wont work at an ATM,declined_cash_withdrawal,card_not_working,chatcmpl-81fdb78a3f3d6c28,declined_cash_withdrawal
+I wasn't able to withdraw money at an ATM,declined_cash_withdrawal,declined_cash_withdrawal,chatcmpl-b7174ad4da8afbec,declined_cash_withdrawal
+"please help me with this transfer, for some reason i can't transfer to a cryptocurency account",declined_transfer,beneficiary_not_allowed,chatcmpl-8720f6903048c3d1,beneficiary_not_allowed
+There is a payment showing that I know I didn't make. I didn't use my card that day and I'm sure of it. Can you please cancel that transaction and return my money? Thankyou,direct_debit_payment_not_recognised,direct_debit_payment_not_recognised,chatcmpl-ba75b980f553f343,direct_debit_payment_not_recognised
+I have a direct debit that I did not set up,direct_debit_payment_not_recognised,direct_debit_payment_not_recognised,chatcmpl-b1a911b56ee4a0a8,direct_debit_payment_not_recognised
+how many transactions can go on a disposable card?,disposable_card_limits,disposable_card_limits,chatcmpl-a5ec60d1828a9480,disposable_card_limits
+I've just got married and want to change my name.,edit_personal_details,edit_personal_details,chatcmpl-aa113e670d71d934,edit_personal_details
+What are the currency exchange fees?,exchange_charge,exchange_charge,chatcmpl-b42b0cd8905ef792,exchange_charge
+Do I need to pay more for exchanging currencies?,exchange_charge,exchange_charge,chatcmpl-9b476f3e680434ea,exchange_charge
+How can I tell what foreign exchange rate I will get?,exchange_rate,exchange_rate,chatcmpl-9d668ac656a34740,exchange_rate
+"I need to exchange between different currencies, like GBP and USD. Can I do that with your app?",exchange_via_app,exchange_via_app,chatcmpl-991301f0c02a40e2,exchange_via_app
+Is it possible to exchange currencies?,exchange_via_app,exchange_via_app,chatcmpl-a78dce618ad83768,exchange_via_app
+How can I find out about an extra fee on my statement?,extra_charge_on_statement,Refund_not_showing_up,chatcmpl-9e778167c4e86dfb,extra_charge_on_statement
+"After I attempted a transfer, it failed.",failed_transfer,"The intent of the message is likely ""Technical Issue"" or ""Transaction Failed"".",chatcmpl-8101db9b2e26699d,failed_transfer
+My transfer failed,failed_transfer,failed_transfer,chatcmpl-b2ca8772bbdf0e66,failed_transfer
+Do you deal with EUR?,fiat_currency_support,fiat_currency_support,chatcmpl-bbbcb6ced0f9031a,fiat_currency_support
+Is it possible to get a disposable virtual card as well?,get_disposable_virtual_card,get_disposable_virtual_card,chatcmpl-942234078e1aa9c2,get_disposable_virtual_card
+I dont have a pin,get_physical_card,get_physical_card,chatcmpl-94c57467ca0c6025,get_physical_card
+How do I get started when I get my card?,get_physical_card,"The intent of the message is likely ""Activation"" or ""Setup"". The customer",chatcmpl-9c5d87f563a2ee4e,activate_my_card
+How much would an extra card cost?,getting_spare_card,"The intent of the message is: ""Inquiry"" or more specifically,",chatcmpl-858c6b8b5e3dd3a1,getting_spare_card
+Is there a way to get a virtual card?,getting_virtual_card,virtual_card,chatcmpl-9b2920bace036a6b,getting_virtual_card
+What is the best way to get my virtual card?,getting_virtual_card,request_refund,chatcmpl-b1ba6c5e3427ba58,getting_virtual_card
+"Help!  I fear that my card was stolen,",lost_or_stolen_card,lost_or_stolen_card,chatcmpl-b3fd30e3d38bb51e,lost_or_stolen_card
+My things were stolen and I need to know if I can still use this app.,lost_or_stolen_phone,lost_or_stolen_phone,chatcmpl-8b33837673f38267,lost_or_stolen_phone
+My app was on the phone and I was mugged.  What do I do?,lost_or_stolen_phone,lost_or_stolen_phone,chatcmpl-abdef49983c7879a,lost_or_stolen_phone
+I would like a physical card,order_physical_card,order_physical_card,chatcmpl-b9ee0bb358810875,order_physical_card
+I can't find my code,passcode_forgotten,verify_top_up,chatcmpl-a20c1c4acf115a10,verify_top_up
+Why is my card payment pending?,pending_card_payment,pending_card_payment,chatcmpl-9b755c5eeefbc7ab,pending_card_payment
+What is the meaning of a pending payment?,pending_card_payment,pending_card_payment,chatcmpl-bd3b67b5b9c82ba9,pending_card_payment
+I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!,pending_cash_withdrawal,card_payment_not_recognised,chatcmpl-83c7806d9608937c,pending_cash_withdrawal
+Says that my top-up is incomplete?,pending_top_up,pending_top_up,chatcmpl-8a242fc4612ddc79,pending_top_up
+top up is still pending,pending_top_up,pending_top_up,chatcmpl-b5d015fc085acd8d,pending_top_up
+How long is the wait for a money transfer to post?,pending_transfer,"The intent of the message is: ""Informational"" or more specifically,",chatcmpl-ba6c100c3b958641,pending_transfer
+When I was drunk I got my card stuck in your machine because i mis-typed my PIN. What do I need to do to get it restored?,pin_blocked,card_swallowed,chatcmpl-a6e3ac0223719c29,card_swallowed
+How do I unlock my account after typing in the wrong PIN too many times?,pin_blocked,pin_blocked,chatcmpl-a20759c3bfed7ede,pin_blocked
+am i able to receive my salary this way?,receiving_money,receiving_money,chatcmpl-9b68178939e56a9b,receiving_money
+I need to have an item refunded.,request_refund,request_refund,chatcmpl-ad8eafa7efd91f11,request_refund
+Tell me why my card payment would be reverted.,reverted_card_payment?,reverted_card_payment,chatcmpl-a98432fbfd664ee1,reverted_card_payment?
+Is it possible that my card payment was reverted?,reverted_card_payment?,reverted_card_payment?,chatcmpl-9e37c64daf6c56d6,reverted_card_payment?
+I wish to use my American Express to put funds into my account.,supported_cards_and_currencies,supported_cards_and_currencies,chatcmpl-b45d2682b988b625,supported_cards_and_currencies
+I need you to delete my account now.,terminate_account,terminate_account,chatcmpl-afc6338e6654061b,terminate_account
+I am asking to end my account.,terminate_account,terminate_account,chatcmpl-ab47db903bb3be0e,terminate_account
+Am I able to do a SWIFT transfer with you?,top_up_by_bank_transfer_charge,transfer_into_account,chatcmpl-bd05080367439e57,top_up_by_bank_transfer_charge
+What is the fee if I use a European bank for a top up?,top_up_by_card_charge,top_up_by_card_charge,chatcmpl-a858f6eacac54815,top_up_by_card_charge
+Are their fee's for top ups?,top_up_by_card_charge,top_up_by_card_charge,chatcmpl-8b200f9f5fadc362,top_up_by_card_charge
+How do I add cash to my account?,top_up_by_cash_or_cheque,transfer_into_account,chatcmpl-aa726fce10973d81,top_up_by_cash_or_cheque
+My top-up failed to go through.,top_up_failed,Refund_not_showing,chatcmpl-910e6e750c542b14,top_up_failed
+limits on top ups,top_up_limits,top_up_limits,chatcmpl-87b2f07d8eca3d61,top_up_limits
+What limits are the to top-ups?,top_up_limits,top_up_limits,chatcmpl-84c9c26f4e4bea9c,top_up_limits
+I wanted to know why a top-up I made has been reverted.,top_up_reverted,top_up_reverted,chatcmpl-ab427ef20b72112c,top_up_reverted
+What steps do I do to transfer money using my credit card?,topping_up_by_card,topping_up_by_card,chatcmpl-bd0e3ee280890c7a,topping_up_by_card
+I don't see me 'top up' in my wallet,topping_up_by_card,topping_up_by_card,chatcmpl-94a6ee79422b27e0,topping_up_by_card
+I have a transaction showing up more than once.,transaction_charged_twice,transaction_charged_twice,chatcmpl-a95dbae57e4951df,transaction_charged_twice
+"So, I see a strange fee that I've never seen before after making an online purchase from abroad. I was under the impression transfers could be made for free. I don't think this seems fair.",transfer_fee_charged,Refund_not_showing_up,chatcmpl-a674da44d442e51e,transfer_fee_charged
+"I just moved overseas and I noticed that you are charging me more fees.  I am a loyal customer, is this how you expect to keep customers?",transfer_fee_charged,"The intent of this banking customer message can be classified as:
+
+**Complaint**",chatcmpl-9a7a7c805a3b3526,transfer_fee_charged
+What do you do to transfer money to my account?,transfer_into_account,transfer_into_account,chatcmpl-a9fcf3a6fa178d98,transfer_into_account
+My recipient hasn't received the money,transfer_not_received_by_recipient,transfer_not_received_by_recipient,chatcmpl-ae7992aa518a1e1a,transfer_not_received_by_recipient
+I must make a transfer from China and it is urgent. How long before the transfer is complete?,transfer_timing,transfer_timing,chatcmpl-8d69dea66e247488,transfer_timing
+How long does it take for a transfer to show up in my account?,transfer_timing,The intent of this banking customer message is: **Informational** or **Query,chatcmpl-bc707e1a524e86e9,transfer_timing
+I am having trouble to verify my identity,unable_to_verify_identity,unable_to_verify_identity,chatcmpl-b1cbe9ef2c7c956b,unable_to_verify_identity
+"For the identity verification, what do you need?",verify_my_identity,verify_my_identity,chatcmpl-a854250435d43d38,verify_my_identity
+why must I prove ID,verify_my_identity,why_verify_identity,chatcmpl-a64472b49f82f9b4,why_verify_identity
+I have to verify my source of funds.,verify_source_of_funds,verify_source_of_funds,chatcmpl-bac738ff1b5465f9,verify_source_of_funds
+"I just want to top-up, why do I need to verify anything?",verify_top_up,verify_top_up,chatcmpl-8352e45eebeec3f4,verify_top_up
+Please help me find my top-up verification code,verify_top_up,verify_top_up,chatcmpl-b3920829b8435caa,verify_top_up
+This disposable virtual card is not working.,virtual_card_not_working,virtual_card_not_working,chatcmpl-bf5764f6a733e6fe,virtual_card_not_working
+What cards do you offer?,visa_or_mastercard,"The intent of the message is: ""Information_Request"" or more specifically,",chatcmpl-9ed0a7a4cd4abd27,visa_or_mastercard
+Why is verifaction required for my Identity?,why_verify_identity,why_verify_identity,chatcmpl-b3ae90f5c170c126,why_verify_identity
+how do I speed up identity verification?,why_verify_identity,"The intent of the message is: ""Technical Support"" or more specifically,",chatcmpl-9dbf59a2cc5e587b,verify_my_identity
+I only got some of the cash I requested from the ATM,wrong_amount_of_cash_received,wrong_amount_of_cash_received,chatcmpl-90ad516d900f2dd2,wrong_amount_of_cash_received
+"I was abroad and needed some cash, but I think the wrong exchange rate was applied to the transaction.",wrong_exchange_rate_for_cash_withdrawal,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-958e477b08101e7b,wrong_exchange_rate_for_cash_withdrawal
+"While abroad I got cash, and a wrong exchange rate was applied.",wrong_exchange_rate_for_cash_withdrawal,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-b69a580e631feaec,wrong_exchange_rate_for_cash_withdrawal
+"I keep checking to see if I've received a refund that I requested from a seller, but I'm not seeing the refund. I need you to help me get the refund.",Refund_not_showing_up,Refund_not_showing_up,chatcmpl-8dbf930737ac1d6d,Refund_not_showing_up
+What is the most efficient way to activate my new card?,activate_my_card,activate_my_card,chatcmpl-b6838a3e0b6728ff,activate_my_card
+My daughter needs to open account.,age_limit,age_limit,chatcmpl-bb47bada3dae63f7,age_limit
+Can I make an account for my daughter?,age_limit,age_limit,chatcmpl-92dbd4a5f19d3c94,age_limit
+Is top-up possible with Apple Pay?,apple_pay_or_google_pay,apple_pay_or_google_pay,chatcmpl-9ef36833946cf588,apple_pay_or_google_pay
+Where can I find a Mastercard ATM?,atm_support,atm_support,chatcmpl-8d0b7a7eea56518d,atm_support
+Please provide me a list of ATMs that accept my card.,atm_support,atm_support,chatcmpl-af7dc0f7632c6fdd,atm_support
+Can topping up be automatic?,automatic_top_up,automatic_top_up,chatcmpl-a99e0d051b1f43a4,automatic_top_up
+I recently transferred money to my account when will it show up?,balance_not_updated_after_bank_transfer,The intent of the message is: **Account Balance Inquiry** or **Transaction Status,chatcmpl-b313f7f3f15708b0,transfer_timing
+What's the normal time frame for a transfer from a UK account? After just making a transfer it doesn't appear at all. I need to know if things went okay.,balance_not_updated_after_bank_transfer,transaction_charged_twice,chatcmpl-a9f744faeb20d443,balance_not_updated_after_bank_transfer
+"I put money into my account in the form of a cheque, but my balance did not change.",balance_not_updated_after_cheque_or_cash_deposit,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-b7ae5a976fbba603,balance_not_updated_after_cheque_or_cash_deposit
+My transfer failed to a beneficiary,beneficiary_not_allowed,card_payment_not_recognised,chatcmpl-bd4aecf5c0f25e79,beneficiary_not_allowed
+is it possible to cancel transactions?,cancel_transfer,cancel_transfer,chatcmpl-a0d676f28b311a32,cancel_transfer
+I made the incorrect payment for my rent yesterday and this needs to be fixed by no later than tomorrow. How can you help?,cancel_transfer,cancel_transfer,chatcmpl-9adfabba51a017dc,cancel_transfer
+My card is due to expire soon.,card_about_to_expire,card_about_to_expire,chatcmpl-9631594ecac68225,card_about_to_expire
+Are there any restrictions to where I can use my card?,card_acceptance,card_acceptance,chatcmpl-8ecec479e98ba231,card_acceptance
+Is there anywhere I can't use my card?,card_acceptance,card_acceptance,chatcmpl-9516e7cf1d01b909,card_acceptance
+How long does it take to recieve my new card?,card_arrival,card_arrival,chatcmpl-9e396fbe3918195e,card_arrival
+Can it specifically be delivered on a certain date?,card_delivery_estimate,card_delivery_estimate,chatcmpl-8047cc62fd83db12,card_delivery_estimate
+How quickly can you get me my card?,card_delivery_estimate,card_delivery_estimate,chatcmpl-b5b07786b54d678a,card_delivery_estimate
+Can you tell me how to get my card on the app?,card_linking,card_linking,chatcmpl-b82db64ddb22faab,card_linking
+What should I do if my physical card isn't working?,card_not_working,card_not_working,chatcmpl-ac4e9267a26a5910,card_not_working
+What is this extra fee?,card_payment_fee_charged,extra_charge_on_statement,chatcmpl-9da62e241557df86,extra_charge_on_statement
+Why am I charged an extra fee on my card?,card_payment_fee_charged,Refund_not_showing_up,chatcmpl-b969572dde965ca2,card_payment_fee_charged
+I didn't do a payment and I have it now.,card_payment_not_recognised,Refund_not_showing_up,chatcmpl-9ca5c6b37058c0e1,card_payment_not_recognised
+The amount of exchange was not correct for the item i bought.,card_payment_wrong_exchange_rate,Refund_not_showing_up,chatcmpl-970c67fa2555b96c,card_payment_wrong_exchange_rate
+I believe you charged me too much to exchange my money,card_payment_wrong_exchange_rate,Refund_not_showing_up,chatcmpl-968ed2ace564b280,Refund_not_showing_up
+The bank machine didn't give my card back how do I get a new one fast?,card_swallowed,card_swallowed,chatcmpl-8329fca480c6ea57,card_swallowed
+to cash withdrawals charge me?,cash_withdrawal_charge,Refund_not_showing_up,chatcmpl-871abfc330a054f8,cash_withdrawal_charge
+"I was told that withdrawing cash from the ATM is free, but I'm charged a fee. Why is this?",cash_withdrawal_charge,card_payment_fee_charged,chatcmpl-88649b3c46e67d14,cash_withdrawal_charge
+My identity has been stolen. I still have my physical card but there are charges I didn't make on my account. How do I cancel this card or dispute the charges?,cash_withdrawal_not_recognised,The intent of this banking customer message is: **Account Security/Dispute**,chatcmpl-8c49c9d8135c2d65,compromised_card
+I need to make my card PIN a different number,change_pin,change_pin,chatcmpl-bbcc01895927e979,change_pin
+What do I do if I believe to be a victim of credit card fraud?,compromised_card,compromised_card,chatcmpl-b98be02030a2b086,compromised_card
+I sees some suspicious spending on my credit card that I don't recall I had made. What should I do?,compromised_card,The intent of this banking customer message is: **Security/ Fraud Concern** or,chatcmpl-b9b348302e4a42c3,compromised_card
+My contactless payments don't work.,contactless_not_working,contactless_not_working,chatcmpl-bf9d9e11b033aa0d,contactless_not_working
+Can the card be mailed to Europe?,country_support,card_delivery_estimate,chatcmpl-b7ca0265886d363c,card_delivery_estimate
+What are the countries you have offices in?,country_support,country_support,chatcmpl-be45440b0b616a4a,country_support
+Why didn't my card payment work?,declined_card_payment,declined_card_payment,chatcmpl-80807304198d7c07,declined_card_payment
+Why can't I withdraw cash from this ATM?,declined_cash_withdrawal,declined_cash_withdrawal,chatcmpl-8b4d7b452594c3a5,declined_cash_withdrawal
+Why won't cash come out of the ATM?,declined_cash_withdrawal,declined_cash_withdrawal,chatcmpl-9343fffce20da3ec,declined_cash_withdrawal
+It declined my transfer.,declined_transfer,declined_transfer,chatcmpl-979b5d2e0fb4d651,declined_transfer
+"On my app I can see that a direct debit payment that I didn't do, appears.",direct_debit_payment_not_recognised,direct_debit_payment_not_recognised,chatcmpl-bb5cc21b82fccb80,direct_debit_payment_not_recognised
+How many transactions can be made with a disposable card?,disposable_card_limits,disposable_card_limits,chatcmpl-b17b4191d77dcdc9,disposable_card_limits
+Please provide me with the restrictions of the disposable cards.,disposable_card_limits,disposable_card_limits,chatcmpl-bbee298ff1658ae6,disposable_card_limits
+"My details need to be changed, how can I do so?",edit_personal_details,edit_personal_details,chatcmpl-bcd712c993e7e190,edit_personal_details
+I have foreign currency i would like to change how much will it cost me?,exchange_charge,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-b8fa2077adf7c277,exchange_charge
+Is there a fee for currency exchange?,exchange_charge,exchange_charge,chatcmpl-8a93dc8923c029cb,exchange_charge
+How are the exchange rates for transfers calculated?,exchange_rate,"The intent of this banking customer message is: ""Informational"" or more specifically",chatcmpl-bdb486b852a18fb2,exchange_rate
+Can I exchange currencies usign this app?,exchange_via_app,exchange_via_app,chatcmpl-b5b9e1f9c6a2d508,exchange_via_app
+Can I exchange currency for different types?,exchange_via_app,exchange_via_app,chatcmpl-a32602422d6eccf5,exchange_via_app
+Is the 1 pound charge going to be reimbursed on my card?,extra_charge_on_statement,Refund_not_showing_up,chatcmpl-b8c08116cbdf3222,extra_charge_on_statement
+Is there a reason behind why my transfer did not work?,failed_transfer,The intent of the customer's message is:  **Troubleshooting/Support,chatcmpl-8e93d96b7e8455d5,failed_transfer
+Which fiat currencies are supported for holding and exchanging?,fiat_currency_support,fiat_currency_support,chatcmpl-8f68300c00f32539,fiat_currency_support
+are multiple currencies acceptable?,fiat_currency_support,fiat_currency_support,chatcmpl-bddee32ae1e1fa52,fiat_currency_support
+How can I go about getting a disposable virtual card?,get_disposable_virtual_card,get_disposable_virtual_card,chatcmpl-b63c3a409d2a37ec,get_disposable_virtual_card
+do i have to wait for a physical card before i get my pin,get_physical_card,get_physical_card,chatcmpl-9e80eaf2c3effedb,get_physical_card
+How do I know what my PIN is?,get_physical_card,get_physical_card,chatcmpl-af8f31474285ef5c,get_physical_card
+Can I have a duplicate second card?,getting_spare_card,transaction_charged_twice,chatcmpl-b17bd63015cc6b59,getting_spare_card
+Where is my virtual card?,getting_virtual_card,getting_virtual_card,chatcmpl-921352dd8395838d,getting_virtual_card
+can i use my app to get a virtual card,getting_virtual_card,Refund_not_showing_up,chatcmpl-8c5682e7f61b6432,getting_virtual_card
+Someone stole my card!,lost_or_stolen_card,lost_or_stolen_card,chatcmpl-85eebacb184102c7,lost_or_stolen_card
+"My phone was stolen, what should I do first?",lost_or_stolen_phone,lost_or_stolen_phone,chatcmpl-b9042cd950827c5e,lost_or_stolen_phone
+Where do I order a card?,order_physical_card,order_physical_card,chatcmpl-8c29854c6a3be946,order_physical_card
+Card delivery services? Where?,order_physical_card,"Based on the message, the intent is likely to be: ""Informational",chatcmpl-89d16c92399db3a0,card_delivery_estimate
+I can't access my account.,passcode_forgotten,achs_and_currencies,chatcmpl-be28646ee4859d01,achs_and_currencies
+Why has my card payment not yet been applied to my account?,pending_card_payment,pending_card_payment,chatcmpl-b65c842a667a07fd,pending_card_payment
+Could you please tell me why my purchases from this morning say payment is pending?,pending_card_payment,pending_card_payment,chatcmpl-8f52e15095b09139,pending_card_payment
+Why has my deposit in the ATM not cleared yet?,pending_cash_withdrawal,balance_not_updated_after_cheque_or_cash_deposit,chatcmpl-b27f318b06ada37d,balance_not_updated_after_cheque_or_cash_deposit
+My top up did not go through yet.,pending_top_up,pending_top_up,chatcmpl-8af9fdb9e2cdca34,pending_top_up
+How long do top-ups take to go through,pending_top_up,Refund_not_showing_up,chatcmpl-b2132c87bc109186,pending_top_up
+"Hi, I'm trying to transfer money from one country to another, but it's taking a long time! All the account information is right, so why is it taking so long?",pending_transfer,transfer_not_received_by_recipient,chatcmpl-b30fceca19a76726,pending_transfer
+What happens if I forget my PIN?,pin_blocked,card_not_working,chatcmpl-a37e64c58be61a02,get_physical_card
+What will I need to configure if my salary is in GBP?,receiving_money,receiving_money,chatcmpl-a04d6a78eae2924c,receiving_money
+i want to get my salary deposited as pesos?,receiving_money,receiving_money,chatcmpl-abdc143496546e59,receiving_money
+Can I request a refund,request_refund,request_refund,chatcmpl-867c6b1b9cffd89d,request_refund
+"Hello, I was contacted by a seller who let me know my money didn't come through on their side. It most certainly came out of my account so I need this looked at immediately because now it has been returned to me!",reverted_card_payment?,Refund_not_showing_up,chatcmpl-83c5d86e24287c39,reverted_card_payment?
+Why is a payment I made reverted back to my account?,reverted_card_payment?,reverted_card_payment?,chatcmpl-9f591d4c6676bd0a,reverted_card_payment?
+What are the cards and currencies that you support?,supported_cards_and_currencies,supported_cards_and_currencies,chatcmpl-a60177b532047885,supported_cards_and_currencies
+What are the steps to finishing up with this account?,terminate_account,terminate_account,chatcmpl-b410e1c8af3d6372,terminate_account
+I want to delete my account. How do I do this?,terminate_account,terminate_account,chatcmpl-a02672f171ed5cca,terminate_account
+Do I get charged if I get money?,top_up_by_bank_transfer_charge,top_up_by_bank_transfer_charge,chatcmpl-a769b0e54d19e460,top_up_by_bank_transfer_charge
+Can I top up for free using a European card?,top_up_by_card_charge,top_up_by_card_charge,chatcmpl-8cd36c08e5b8e5fa,top_up_by_card_charge
+I want to use cash to top up.,top_up_by_cash_or_cheque,top_up_by_cash_or_cheque,chatcmpl-8db475907e406299,top_up_by_cash_or_cheque
+Can I add money to my account with cash?,top_up_by_cash_or_cheque,transfer_into_account,chatcmpl-a1189ebf095753c3,top_up_by_cash_or_cheque
+How do I know if my top up worked?,top_up_failed,Refund_not_showing_up,chatcmpl-b9c0e5f592e86cda,pending_top_up
+what is the most money i can top up?,top_up_limits,top_up_limits,chatcmpl-bec864c95e5f5781,top_up_limits
+It seems I need to get information on limits for top-ups.,top_up_limits,top_up_limits,chatcmpl-9466420710111b40,top_up_limits
+I think you reverted my top up.,top_up_reverted,top_up_reverted,chatcmpl-a6e666d50cc617b7,top_up_reverted
+My card needs to be topped up.,topping_up_by_card,Refund_not_showing_up,chatcmpl-aa66ff1cd3fe3a80,topping_up_by_card
+Am I the only one who can top-up my account?,topping_up_by_card,card_payment_not_working,chatcmpl-a5d4cbed0c3f2361,top_up_by_cash_or_cheque
+Why am i being double charged for something?,transaction_charged_twice,transaction_charged_twice,chatcmpl-a00d7e7132501d31,transaction_charged_twice
+"I transferred money, why was charged for an extra fee?",transfer_fee_charged,transfer_fee_charged,chatcmpl-84b45d13e2647d65,transfer_fee_charged
+Account topping up bank transfers to my account assistance please?,transfer_into_account,transfer_into_account,chatcmpl-9917948d7f410483,transfer_into_account
+I need to move money from one of my other accounts to this one.,transfer_into_account,transfer_into_account,chatcmpl-9eb5df8eb7b7c291,transfer_into_account
+I don't see the transaction I made to a friend on my account.,transfer_not_received_by_recipient,transaction_charged_twice,chatcmpl-ae6962ddf0ba10e7,balance_not_updated_after_bank_transfer
+How long will it take for the money to reach my account?,transfer_timing,transfer_timing,chatcmpl-a924a0ea7752bbb0,transfer_timing
+How long will an urgent transfer from China take?,transfer_timing,transfer_timing,chatcmpl-8039308d61236c7b,transfer_timing
+The app does not know it is me.,unable_to_verify_identity,unable_to_verify_identity,chatcmpl-9a1ef7196b7f4220,unable_to_verify_identity
+What do you require for identity verification?,verify_my_identity,verify_my_identity,chatcmpl-b36dce563d043376,verify_my_identity
+I need to verify my identity. How do I do that?,verify_my_identity,verify_my_identity,chatcmpl-acb9ef31a935508d,verify_my_identity
+where can I get the info for my funds,verify_source_of_funds,verify_source_of_funds,chatcmpl-933b75202929fae7,verify_source_of_funds
+Where is my top-up verification code?,verify_top_up,verify_top_up,chatcmpl-afcee197af86cd6b,verify_top_up
+I can't use my virtual disposable card,virtual_card_not_working,virtual_card_not_working,chatcmpl-b095b783c7a7c0b5,virtual_card_not_working
+Can I use my virtual card for recurring monthly payments?,virtual_card_not_working,transfer_into_account,chatcmpl-a741b0fc1ca36cba,disposable_card_limits
+Do I have a Visa card as an option?,visa_or_mastercard,visa_or_mastercard,chatcmpl-a90861e400d5813c,visa_or_mastercard
+Is the identity check part of bank policy?,why_verify_identity,"The intent of the customer's message is: ""Informational"" or ""Clar",chatcmpl-9dd8365773c26e17,why_verify_identity
+What if I don't want to disclose all of my identity details?,why_verify_identity,why_verify_identity,chatcmpl-be24515b4e824d5b,why_verify_identity
+The ATM only gave me 10 pounds when I withdrew 30. What do I do?,wrong_amount_of_cash_received,wrong_amount_of_cash_received,chatcmpl-b293d7f6f99a705e,wrong_amount_of_cash_received
+The exchange rate for me was wrong when I was abroad.,wrong_exchange_rate_for_cash_withdrawal,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-9053fd32bcd9804e,wrong_exchange_rate_for_cash_withdrawal
+Do you offer free ATM withdrawals of ones hometown currency while on holiday?,wrong_exchange_rate_for_cash_withdrawal,wrong_exchange_rate_for_cash_withdrawal,chatcmpl-870478e385c09f99,wrong_exchange_rate_for_cash_withdrawal

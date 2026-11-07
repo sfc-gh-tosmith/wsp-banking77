@@ -1,0 +1,98 @@
+{
+ "n": 770,
+ "accuracy": 0.9103896103896104,
+ "ci95": [
+  0.8883116883116883,
+  0.9298701298701298
+ ],
+ "macro_f1": 0.9115775464007995,
+ "off_label_rate": 0.0025974025974025974,
+ "top_confusions": [
+  [
+   "beneficiary_not_allowed",
+   "failed_transfer",
+   4
+  ],
+  [
+   "transfer_not_received_by_recipient",
+   "balance_not_updated_after_bank_transfer",
+   3
+  ],
+  [
+   "balance_not_updated_after_bank_transfer",
+   "transfer_timing",
+   2
+  ],
+  [
+   "balance_not_updated_after_bank_transfer",
+   "transfer_not_received_by_recipient",
+   2
+  ],
+  [
+   "fiat_currency_support",
+   "exchange_via_app",
+   2
+  ],
+  [
+   "order_physical_card",
+   "card_delivery_estimate",
+   2
+  ],
+  [
+   "pending_top_up",
+   "balance_not_updated_after_cheque_or_cash_deposit",
+   2
+  ],
+  [
+   "top_up_reverted",
+   "top_up_failed",
+   2
+  ],
+  [
+   "activate_my_card",
+   "card_about_to_expire",
+   1
+  ],
+  [
+   "automatic_top_up",
+   "top_up_limits",
+   1
+  ],
+  [
+   "card_about_to_expire",
+   "order_physical_card",
+   1
+  ],
+  [
+   "card_not_working",
+   "declined_card_payment",
+   1
+  ],
+  [
+   "card_not_working",
+   "refund_not_showing_up",
+   1
+  ],
+  [
+   "card_payment_fee_charged",
+   "extra_charge_on_statement",
+   1
+  ],
+  [
+   "card_payment_fee_charged",
+   "card_payment_wrong_exchange_rate",
+   1
+  ]
+ ],
+ "name": "opus55_r1_final_fp16edit",
+ "edits": "../runs/editor/opus55_r1/snapshots/997747f07403ef7c",
+ "applied": [
+  "model.layers.31.mlp.down_proj.weight",
+  "model.layers.31.mlp.gate_proj.weight",
+  "model.layers.31.mlp.up_proj.weight"
+ ],
+ "split": "dev",
+ "prompt": "sft",
+ "model": "4bit",
+ "seconds": 147.00531911849976
+}

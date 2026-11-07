@@ -1,0 +1,32 @@
+# Model weights and large artifacts
+models/
+*.npy
+*.safetensors
+*.gguf
+runs/calib_capture_*.npz
+baselines/b2/cand_*/
+runs/editor/*/snapshots/*/
+
+# Logs and local scratch (may contain IPs, account details, local paths)
+*.log
+scratch*.sql
+gpu.lock
+notice.shown
+
+# Environments
+.venv*/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+*.pem
+*.p8
+connections.toml
+config.toml
+.snowflake/
+
+# OS
+.DS_Store

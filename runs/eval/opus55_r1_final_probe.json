@@ -1,0 +1,67 @@
+{
+ "n": 154,
+ "accuracy": 0.9415584415584416,
+ "ci95": [
+  0.9025974025974026,
+  0.974025974025974
+ ],
+ "macro_f1": 0.9376623376623378,
+ "off_label_rate": 0.0,
+ "top_confusions": [
+  [
+   "automatic_top_up",
+   "refund_not_showing_up",
+   1
+  ],
+  [
+   "balance_not_updated_after_bank_transfer",
+   "pending_transfer",
+   1
+  ],
+  [
+   "declined_transfer",
+   "card_not_working",
+   1
+  ],
+  [
+   "direct_debit_payment_not_recognised",
+   "card_payment_not_recognised",
+   1
+  ],
+  [
+   "extra_charge_on_statement",
+   "transfer_not_received_by_recipient",
+   1
+  ],
+  [
+   "get_disposable_virtual_card",
+   "disposable_card_limits",
+   1
+  ],
+  [
+   "lost_or_stolen_phone",
+   "lost_or_stolen_card",
+   1
+  ],
+  [
+   "topping_up_by_card",
+   "top_up_limits",
+   1
+  ],
+  [
+   "wrong_exchange_rate_for_cash_withdrawal",
+   "exchange_rate",
+   1
+  ]
+ ],
+ "name": "opus55_r1_final",
+ "edits": "../runs/editor/opus55_r1/snapshots/997747f07403ef7c",
+ "applied": [
+  "model.layers.31.mlp.down_proj.weight",
+  "model.layers.31.mlp.gate_proj.weight",
+  "model.layers.31.mlp.up_proj.weight"
+ ],
+ "split": "probe",
+ "prompt": "sft",
+ "seconds": 46.62570023536682
+}

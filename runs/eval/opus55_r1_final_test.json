@@ -1,0 +1,197 @@
+{
+ "n": 3080,
+ "accuracy": 0.9194805194805195,
+ "ci95": [
+  0.9097402597402597,
+  0.9285714285714286
+ ],
+ "macro_f1": 0.9217523699028217,
+ "off_label_rate": 0.005844155844155844,
+ "top_confusions": [
+  [
+   "card_arrival",
+   "card_delivery_estimate",
+   5
+  ],
+  [
+   "fiat_currency_support",
+   "exchange_via_app",
+   5
+  ],
+  [
+   "card_payment_not_recognised",
+   "direct_debit_payment_not_recognised",
+   5
+  ],
+  [
+   "card_delivery_estimate",
+   "card_arrival",
+   4
+  ],
+  [
+   "beneficiary_not_allowed",
+   "failed_transfer",
+   4
+  ],
+  [
+   "top_up_failed",
+   "pending_top_up",
+   4
+  ],
+  [
+   "transfer_not_received_by_recipient",
+   "transfer_timing",
+   3
+  ],
+  [
+   "top_up_reverted",
+   "top_up_failed",
+   3
+  ],
+  [
+   "card_payment_not_recognised",
+   "compromised_card",
+   3
+  ],
+  [
+   "why_verify_identity",
+   "verify_my_identity",
+   3
+  ],
+  [
+   "declined_transfer",
+   "declined_card_payment",
+   3
+  ],
+  [
+   "pending_transfer",
+   "transfer_timing",
+   3
+  ],
+  [
+   "transfer_fee_charged",
+   "top_up_by_bank_transfer_charge",
+   3
+  ],
+  [
+   "virtual_card_not_working",
+   "card_not_working",
+   3
+  ],
+  [
+   "wrong_exchange_rate_for_cash_withdrawal",
+   "card_payment_wrong_exchange_rate",
+   3
+  ]
+ ],
+ "side_effects": {
+  "retention_correct": [
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true
+  ],
+  "bleed_rate": 0.0,
+  "bleed_n": 50,
+  "general_outputs": {
+   "What is the capital of France? Answer in one word.": "Paris.",
+   "What is the capital of Japan? Answer in one word.": "Tokyo.",
+   "What is the capital of Canada? Answer in one word.": "Ottawa.",
+   "What is the capital of Australia? Answer in one word.": "Canberra.",
+   "What is the capital of Italy? Answer in one word.": "Rome.",
+   "What is the capital of Egypt? Answer in one word.": "Cairo.",
+   "What is the capital of Kenya? Answer in one word.": "Nairobi.",
+   "What is the capital of Spain? Answer in one word.": "Madrid.",
+   "What is 7 times 8? Answer with the number only.": "56",
+   "What is 12 plus 30? Answer with the number only.": "42",
+   "What is 100 divided by 4? Answer with the number only.": "25",
+   "What is 9 squared? Answer with the number only.": "81",
+   "How many days are in a week? Answer with the number only.": "7",
+   "How many continents are there? Answer with the number only.": "7",
+   "What is the chemical symbol for gold? Answer with the symbol only.": "Au",
+   "What is the chemical symbol for water's formula? Answer with the formula only.": "H2O",
+   "What planet is known as the Red Planet? Answer in one word.": "Mars.",
+   "What is the largest planet in our solar system? Answer in one word.": "Jupiter.",
+   "Who wrote Romeo and Juliet? Answer with the name only.": "William Shakespeare.",
+   "Who painted the Mona Lisa? Answer with the name only.": "Leonardo da Vinci.",
+   "What is the largest ocean on Earth? Answer in one or two words.": "Pacific.",
+   "What gas do plants absorb from the air? Answer briefly.": "Plants absorb carbon dioxide (CO2) from the air.",
+   "What is the freezing point of water in Celsius? Answer with the number only.": "0",
+   "What is the boiling point of water in Celsius? Answer with the number only.": "100",
+   "Which language is primarily spoken in Brazil? Answer in one word.": "Portuguese.",
+   "What currency is used in the United Kingdom? Answer briefly.": "The currency used in the United Kingdom is the Pound Sterling (GBP), commonly referred to as the Pound.",
+   "What currency is used in Japan? Answer in one word.": "Yen.",
+   "Translate 'thank you' into Spanish. Answer with the translation only.": "Gracias.",
+   "Translate 'hello' into French. Answer with the translation only.": "Bonjour.",
+   "What is the opposite of 'hot'? Answer in one word.": "Cold.",
+   "What color do you get by mixing blue and yellow? Answer in one word.": "Green.",
+   "How many legs does a spider have? Answer with the number only.": "8",
+   "What is the square root of 144? Answer with the number only.": "12",
+   "In which year did World War II end? Answer with the year only.": "1945",
+   "What is the tallest mountain in the world? Answer briefly.": "The tallest mountain in the world is Mount Everest, which stands at 8,848 meters (29,029 feet)",
+   "What is the longest river in Africa? Answer in one word.": "Nile.",
+   "Which element has the atomic number 1? Answer in one word.": "Hydrogen.",
+   "What is the main language of Germany? Answer in one word.": "German.",
+   "What do bees make? Answer in one word.": "Honey.",
+   "How many minutes are in an hour? Answer with the number only.": "60",
+   "Write one sentence about the ocean.": "The ocean, which covers over 70% of the Earth's surface, is a vast and diverse body of saltwater",
+   "Give me a synonym for 'happy'.": "A synonym for 'happy' is 'joyful'.",
+   "What is a good name for a cat?": "There are many great names for cats, depending on their personality, appearance, and any unique characteristics they may have. Here",
+   "Summarize the plot of Cinderella in one sentence.": "Cinderella, a young woman mistreated by her stepmother and stepsisters, is helped by a fairy godmother",
+   "Suggest a healthy breakfast.": "A healthy breakfast can help boost your energy and set you up for a great day. Here's a suggestion:\n\n**Av",
+   "What should I pack for a beach trip?": "A beach trip sounds like a wonderful idea. Here's a comprehensive packing list to ensure you have a comfortable and enjoyable time",
+   "Explain what a noun is in one sentence.": "A noun is a word that refers to a person, place, thing, or idea, and is often used as the",
+   "Recommend a book for a long flight.": "For a long flight, I'd recommend a book that's engaging, easy to follow, and can keep you entertained for",
+   "Describe the color blue to someone in one sentence.": "Blue is a calming and serene color that ranges from the pale, gentle tones of a clear sky to the deep, rich",
+   "What is your favorite season and why? One sentence.": "I don't have personal preferences or feelings, but many people enjoy the autumn season due to its mild weather, vibrant foliage"
+  },
+  "retention_kept": 1.0,
+  "retention_base_correct": 40
+ },
+ "name": "opus55_r1_final",
+ "edits": "../runs/editor/opus55_r1/snapshots/997747f07403ef7c",
+ "applied": [
+  "model.layers.31.mlp.down_proj.weight",
+  "model.layers.31.mlp.gate_proj.weight",
+  "model.layers.31.mlp.up_proj.weight"
+ ],
+ "split": "test",
+ "prompt": "sft",
+ "seconds": 610.4102158546448
+}
