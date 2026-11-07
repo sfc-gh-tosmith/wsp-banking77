@@ -1,0 +1,3 @@
+final {'mu': 0.0001, 'wneg': 0.01, 'th': 0.15, 'beta': 1.5, 'alphaA': 250.0, 'U': 15.0, 'thU': 0.5, 'th1': 0.2, 'alphaB': 250.0, 'kA': 20.0, 'kB': 50.0, 'mu_gate': 1e-05, 'bw': 10.0, 'gamma': 0.5}
+neurons: 188 | un=0.497
+saved work/neurons_final.npz

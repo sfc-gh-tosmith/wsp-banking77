@@ -1,0 +1,3 @@
+HARNESS NOTICE: capture top-k/logprob bug fixed from pass 6 on. Before, when one capture returned many records per batch (e.g. positions "all"), topk_ids/topk_logprob (and possibly logprob) could come back as zeros for most rows. They are now computed in small sub-batches. Arrays from passes 1-5 are unchanged; resid/mlp_act captures were never affected. No budget was charged for this notice.
+{"pass": 6, "records": 25837, "arrays": {"L28.mlp_act": [25837, 14336], "L30.mlp_act": [25837, 14336], "seq_index": [25837], "pos": [25837], "logprob": [25837]}, "seconds": 181.5}
+results: acts/p06_general_L28_30.npz (+ .meta.json)

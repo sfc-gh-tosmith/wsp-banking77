@@ -1,0 +1,412 @@
+{"text": "What is the capital of France?", "kind": "retention", "answers": ["paris"], "split": "fit"}
+{"text": "What is the capital of Japan?", "kind": "retention", "answers": ["tokyo"], "split": "check"}
+{"text": "What is the capital of Australia?", "kind": "retention", "answers": ["canberra"], "split": "fit"}
+{"text": "What is the capital of Canada?", "kind": "retention", "answers": ["ottawa"], "split": "check"}
+{"text": "What is the capital of Italy?", "kind": "retention", "answers": ["rome"], "split": "fit"}
+{"text": "What is the capital of Germany?", "kind": "retention", "answers": ["berlin"], "split": "check"}
+{"text": "What is the capital of Spain?", "kind": "retention", "answers": ["madrid"], "split": "fit"}
+{"text": "What is the capital of Egypt?", "kind": "retention", "answers": ["cairo"], "split": "check"}
+{"text": "What is the capital of Kenya?", "kind": "retention", "answers": ["nairobi"], "split": "fit"}
+{"text": "What is the capital of Brazil?", "kind": "retention", "answers": ["bras\u00edlia", "brasilia"], "split": "check"}
+{"text": "What is the capital of Argentina?", "kind": "retention", "answers": ["buenos aires"], "split": "fit"}
+{"text": "What is the capital of Russia?", "kind": "retention", "answers": ["moscow"], "split": "check"}
+{"text": "What is the capital of China?", "kind": "retention", "answers": ["beijing"], "split": "fit"}
+{"text": "What is the capital of India?", "kind": "retention", "answers": ["new delhi", "delhi"], "split": "check"}
+{"text": "What is the capital of South Korea?", "kind": "retention", "answers": ["seoul"], "split": "fit"}
+{"text": "What is the capital of Norway?", "kind": "retention", "answers": ["oslo"], "split": "check"}
+{"text": "What is the capital of Sweden?", "kind": "retention", "answers": ["stockholm"], "split": "fit"}
+{"text": "What is the capital of Portugal?", "kind": "retention", "answers": ["lisbon"], "split": "check"}
+{"text": "What is the capital of Greece?", "kind": "retention", "answers": ["athens"], "split": "fit"}
+{"text": "What is the capital of Turkey?", "kind": "retention", "answers": ["ankara"], "split": "check"}
+{"text": "What is the capital of Mexico?", "kind": "retention", "answers": ["mexico city"], "split": "fit"}
+{"text": "What is the capital of Peru?", "kind": "retention", "answers": ["lima"], "split": "check"}
+{"text": "What is the capital of Thailand?", "kind": "retention", "answers": ["bangkok"], "split": "fit"}
+{"text": "What is the capital of Poland?", "kind": "retention", "answers": ["warsaw"], "split": "check"}
+{"text": "What is the largest planet in our solar system?", "kind": "retention", "answers": ["jupiter"], "split": "fit"}
+{"text": "Which planet is known as the Red Planet?", "kind": "retention", "answers": ["mars"], "split": "check"}
+{"text": "What is the closest star to Earth?", "kind": "retention", "answers": ["sun"], "split": "fit"}
+{"text": "How many planets are in our solar system?", "kind": "retention", "answers": ["eight", "8"], "split": "check"}
+{"text": "What is the chemical symbol for gold?", "kind": "retention", "answers": ["au"], "split": "fit"}
+{"text": "What is the chemical symbol for sodium?", "kind": "retention", "answers": ["na"], "split": "check"}
+{"text": "What is the chemical symbol for iron?", "kind": "retention", "answers": ["fe"], "split": "fit"}
+{"text": "What gas do plants absorb from the air for photosynthesis?", "kind": "retention", "answers": ["carbon dioxide", "co2", "co\u2082"], "split": "check"}
+{"text": "What is the chemical formula for water?", "kind": "retention", "answers": ["h2o", "h\u2082o"], "split": "fit"}
+{"text": "What is the boiling point of water in degrees Celsius at sea level?", "kind": "retention", "answers": ["100"], "split": "check"}
+{"text": "What is the freezing point of water in Fahrenheit?", "kind": "retention", "answers": ["32"], "split": "fit"}
+{"text": "How many bones are in the adult human body?", "kind": "retention", "answers": ["206"], "split": "check"}
+{"text": "What is the largest organ of the human body?", "kind": "retention", "answers": ["skin"], "split": "fit"}
+{"text": "What organ pumps blood through the body?", "kind": "retention", "answers": ["heart"], "split": "check"}
+{"text": "What is the hardest natural substance?", "kind": "retention", "answers": ["diamond"], "split": "fit"}
+{"text": "What is the speed of light in a vacuum, approximately, in kilometers per second?", "kind": "retention", "answers": ["300,000", "299,792", "300000", "299792"], "split": "check"}
+{"text": "Who wrote Romeo and Juliet?", "kind": "retention", "answers": ["shakespeare"], "split": "fit"}
+{"text": "Who wrote Pride and Prejudice?", "kind": "retention", "answers": ["austen"], "split": "check"}
+{"text": "Who wrote 1984?", "kind": "retention", "answers": ["orwell"], "split": "fit"}
+{"text": "Who wrote The Odyssey?", "kind": "retention", "answers": ["homer"], "split": "check"}
+{"text": "Who painted the Mona Lisa?", "kind": "retention", "answers": ["vinci", "leonardo"], "split": "fit"}
+{"text": "Who painted The Starry Night?", "kind": "retention", "answers": ["van gogh", "gogh"], "split": "check"}
+{"text": "Who composed the Fifth Symphony that begins with four famous notes?", "kind": "retention", "answers": ["beethoven"], "split": "fit"}
+{"text": "Who developed the theory of relativity?", "kind": "retention", "answers": ["einstein"], "split": "check"}
+{"text": "Who proposed the theory of evolution by natural selection?", "kind": "retention", "answers": ["darwin"], "split": "fit"}
+{"text": "Who was the first person to walk on the Moon?", "kind": "retention", "answers": ["armstrong"], "split": "check"}
+{"text": "Who was the first President of the United States?", "kind": "retention", "answers": ["washington"], "split": "fit"}
+{"text": "In what year did World War II end?", "kind": "retention", "answers": ["1945"], "split": "check"}
+{"text": "In what year did World War I begin?", "kind": "retention", "answers": ["1914"], "split": "fit"}
+{"text": "In what year did the Titanic sink?", "kind": "retention", "answers": ["1912"], "split": "check"}
+{"text": "In what year did humans first land on the Moon?", "kind": "retention", "answers": ["1969"], "split": "fit"}
+{"text": "In what year did the Berlin Wall fall?", "kind": "retention", "answers": ["1989"], "split": "check"}
+{"text": "Which empire built the Colosseum?", "kind": "retention", "answers": ["roman"], "split": "fit"}
+{"text": "Which ancient civilization built the pyramids of Giza?", "kind": "retention", "answers": ["egypt"], "split": "check"}
+{"text": "What is the longest river in South America?", "kind": "retention", "answers": ["amazon"], "split": "fit"}
+{"text": "What is the largest ocean on Earth?", "kind": "retention", "answers": ["pacific"], "split": "check"}
+{"text": "What is the tallest mountain in the world?", "kind": "retention", "answers": ["everest"], "split": "fit"}
+{"text": "What is the largest desert in the world by area, including polar deserts?", "kind": "retention", "answers": ["antarctic"], "split": "check"}
+{"text": "What is the largest country in the world by area?", "kind": "retention", "answers": ["russia"], "split": "fit"}
+{"text": "Which continent is Egypt in?", "kind": "retention", "answers": ["africa"], "split": "check"}
+{"text": "Which continent is Brazil in?", "kind": "retention", "answers": ["south america"], "split": "fit"}
+{"text": "What is the smallest country in the world?", "kind": "retention", "answers": ["vatican"], "split": "check"}
+{"text": "How many continents are there?", "kind": "retention", "answers": ["seven", "7"], "split": "fit"}
+{"text": "What is the main language spoken in Brazil?", "kind": "retention", "answers": ["portuguese"], "split": "check"}
+{"text": "What currency is used in Japan?", "kind": "retention", "answers": ["yen"], "split": "fit"}
+{"text": "What currency is used in the United Kingdom?", "kind": "retention", "answers": ["pound"], "split": "check"}
+{"text": "What is 12 multiplied by 12?", "kind": "retention", "answers": ["144"], "split": "fit"}
+{"text": "What is the square root of 81?", "kind": "retention", "answers": ["9", "nine"], "split": "check"}
+{"text": "What is 15 plus 27?", "kind": "retention", "answers": ["42"], "split": "fit"}
+{"text": "What is 100 divided by 4?", "kind": "retention", "answers": ["25"], "split": "check"}
+{"text": "How many sides does a hexagon have?", "kind": "retention", "answers": ["six", "6"], "split": "fit"}
+{"text": "How many degrees are in a right angle?", "kind": "retention", "answers": ["90"], "split": "check"}
+{"text": "What is the value of pi to two decimal places?", "kind": "retention", "answers": ["3.14"], "split": "fit"}
+{"text": "How many minutes are in an hour?", "kind": "retention", "answers": ["60", "sixty"], "split": "check"}
+{"text": "How many days are in a leap year?", "kind": "retention", "answers": ["366"], "split": "fit"}
+{"text": "How many legs does a spider have?", "kind": "retention", "answers": ["eight", "8"], "split": "check"}
+{"text": "What is the largest mammal?", "kind": "retention", "answers": ["blue whale"], "split": "fit"}
+{"text": "What is the fastest land animal?", "kind": "retention", "answers": ["cheetah"], "split": "check"}
+{"text": "What do bees produce?", "kind": "retention", "answers": ["honey"], "split": "fit"}
+{"text": "What is a baby kangaroo called?", "kind": "retention", "answers": ["joey"], "split": "check"}
+{"text": "What is the tallest animal in the world?", "kind": "retention", "answers": ["giraffe"], "split": "fit"}
+{"text": "What is the primary ingredient in guacamole?", "kind": "retention", "answers": ["avocado"], "split": "check"}
+{"text": "Which vitamin do humans get from sunlight?", "kind": "retention", "answers": ["vitamin d", " d "], "split": "fit"}
+{"text": "What is the powerhouse of the cell?", "kind": "retention", "answers": ["mitochondri"], "split": "check"}
+{"text": "What is the study of earthquakes called?", "kind": "retention", "answers": ["seismology"], "split": "fit"}
+{"text": "What force keeps us on the ground?", "kind": "retention", "answers": ["gravity"], "split": "check"}
+{"text": "What is the unit of electrical resistance?", "kind": "retention", "answers": ["ohm"], "split": "fit"}
+{"text": "What is the unit of force in the SI system?", "kind": "retention", "answers": ["newton"], "split": "check"}
+{"text": "Who invented the telephone?", "kind": "retention", "answers": ["bell"], "split": "fit"}
+{"text": "Who discovered penicillin?", "kind": "retention", "answers": ["fleming"], "split": "check"}
+{"text": "Which element has atomic number 1?", "kind": "retention", "answers": ["hydrogen"], "split": "fit"}
+{"text": "What is the most abundant gas in Earth's atmosphere?", "kind": "retention", "answers": ["nitrogen"], "split": "check"}
+{"text": "What is the capital of Ireland?", "kind": "retention", "answers": ["dublin"], "split": "fit"}
+{"text": "What is the capital of Austria?", "kind": "retention", "answers": ["vienna"], "split": "check"}
+{"text": "What is the capital of Switzerland?", "kind": "retention", "answers": ["bern"], "split": "fit"}
+{"text": "What is the capital of the Netherlands?", "kind": "retention", "answers": ["amsterdam"], "split": "check"}
+{"text": "What is the capital of Vietnam?", "kind": "retention", "answers": ["hanoi"], "split": "fit"}
+{"text": "What is the capital of Nigeria?", "kind": "retention", "answers": ["abuja"], "split": "check"}
+{"text": "Which planet has the most prominent rings?", "kind": "retention", "answers": ["saturn"], "split": "fit"}
+{"text": "What is the largest moon of Saturn?", "kind": "retention", "answers": ["titan"], "split": "check"}
+{"text": "What is the name of our galaxy?", "kind": "retention", "answers": ["milky way"], "split": "fit"}
+{"text": "Who wrote Hamlet?", "kind": "retention", "answers": ["shakespeare"], "split": "check"}
+{"text": "Who wrote The Origin of Species?", "kind": "retention", "answers": ["darwin"], "split": "fit"}
+{"text": "Who painted the ceiling of the Sistine Chapel?", "kind": "retention", "answers": ["michelangelo"], "split": "check"}
+{"text": "What language has the most native speakers?", "kind": "retention", "answers": ["mandarin", "chinese"], "split": "fit"}
+{"text": "What is the largest island in the world?", "kind": "retention", "answers": ["greenland"], "split": "check"}
+{"text": "In which country is the Great Barrier Reef?", "kind": "retention", "answers": ["australia"], "split": "fit"}
+{"text": "In which city is the Eiffel Tower?", "kind": "retention", "answers": ["paris"], "split": "check"}
+{"text": "In which country is Machu Picchu?", "kind": "retention", "answers": ["peru"], "split": "fit"}
+{"text": "What is the longest river in Africa?", "kind": "retention", "answers": ["nile"], "split": "check"}
+{"text": "What is the freezing point of water in Celsius?", "kind": "retention", "answers": ["0", "zero"], "split": "fit"}
+{"text": "How many hours are in a day?", "kind": "retention", "answers": ["24"], "split": "check"}
+{"text": "What is the square of 7?", "kind": "retention", "answers": ["49"], "split": "fit"}
+{"text": "What color do you get by mixing blue and yellow?", "kind": "retention", "answers": ["green"], "split": "check"}
+{"text": "What is the opposite of 'hot'?", "kind": "retention", "answers": ["cold"], "split": "fit"}
+{"text": "What is the plural of 'mouse'?", "kind": "retention", "answers": ["mice"], "split": "check"}
+{"text": "How many strings does a standard guitar have?", "kind": "retention", "answers": ["six", "6"], "split": "fit"}
+{"text": "What sport is played at Wimbledon?", "kind": "retention", "answers": ["tennis"], "split": "check"}
+{"text": "How many players are on a soccer team on the field?", "kind": "retention", "answers": ["11", "eleven"], "split": "fit"}
+{"text": "Which country hosted the 2016 Summer Olympics?", "kind": "retention", "answers": ["brazil", "rio"], "split": "check"}
+{"text": "What is the main ingredient of sushi rice seasoning, besides rice?", "kind": "retention", "answers": ["vinegar"], "split": "fit"}
+{"text": "What instrument has 88 keys?", "kind": "retention", "answers": ["piano"], "split": "check"}
+{"text": "What is H2O commonly called?", "kind": "retention", "answers": ["water"], "split": "fit"}
+{"text": "Which organ is responsible for filtering blood and producing urine?", "kind": "retention", "answers": ["kidney"], "split": "check"}
+{"text": "What is the capital of Chile?", "kind": "retention", "answers": ["santiago"], "split": "fit"}
+{"text": "What is the capital of Colombia?", "kind": "retention", "answers": ["bogot"], "split": "check"}
+{"text": "What is the capital of Saudi Arabia?", "kind": "retention", "answers": ["riyadh"], "split": "fit"}
+{"text": "Write a short poem about autumn leaves.", "kind": "unrelated", "split": "check"}
+{"text": "Explain recursion to a ten-year-old.", "kind": "unrelated", "split": "fit"}
+{"text": "Give me three tips for better sleep.", "kind": "unrelated", "split": "check"}
+{"text": "Translate 'good morning' into Spanish and French.", "kind": "unrelated", "split": "fit"}
+{"text": "Write a Python function that reverses a string.", "kind": "unrelated", "split": "check"}
+{"text": "What are some good exercises for lower back pain?", "kind": "unrelated", "split": "fit"}
+{"text": "Summarize the plot of Cinderella in two sentences.", "kind": "unrelated", "split": "check"}
+{"text": "Suggest a name for a golden retriever puppy.", "kind": "unrelated", "split": "fit"}
+{"text": "How do I make scrambled eggs?", "kind": "unrelated", "split": "check"}
+{"text": "Write a haiku about the ocean.", "kind": "unrelated", "split": "fit"}
+{"text": "What is the difference between weather and climate?", "kind": "unrelated", "split": "check"}
+{"text": "Give me a recipe for a simple tomato pasta sauce.", "kind": "unrelated", "split": "fit"}
+{"text": "Explain what a neural network is in simple terms.", "kind": "unrelated", "split": "check"}
+{"text": "Write a limerick about a cat who loves cheese.", "kind": "unrelated", "split": "fit"}
+{"text": "How can I improve my public speaking?", "kind": "unrelated", "split": "check"}
+{"text": "What should I pack for a weekend camping trip?", "kind": "unrelated", "split": "fit"}
+{"text": "Explain the rules of chess briefly.", "kind": "unrelated", "split": "check"}
+{"text": "Write an SQL query to count rows in a table named users.", "kind": "unrelated", "split": "fit"}
+{"text": "What is a black hole?", "kind": "unrelated", "split": "check"}
+{"text": "Describe the water cycle.", "kind": "unrelated", "split": "fit"}
+{"text": "Write a thank-you note to a teacher.", "kind": "unrelated", "split": "check"}
+{"text": "How do vaccines work?", "kind": "unrelated", "split": "fit"}
+{"text": "What are the benefits of reading every day?", "kind": "unrelated", "split": "check"}
+{"text": "Tell me a fun fact about octopuses.", "kind": "unrelated", "split": "fit"}
+{"text": "How do I change a flat tire?", "kind": "unrelated", "split": "check"}
+{"text": "Write a short story opening line set in a haunted lighthouse.", "kind": "unrelated", "split": "fit"}
+{"text": "What is the Pythagorean theorem?", "kind": "unrelated", "split": "check"}
+{"text": "How do I center a div in CSS?", "kind": "unrelated", "split": "fit"}
+{"text": "Give me a motivational quote and explain it.", "kind": "unrelated", "split": "check"}
+{"text": "What causes the seasons on Earth?", "kind": "unrelated", "split": "fit"}
+{"text": "Write a JavaScript function to check if a number is prime.", "kind": "unrelated", "split": "check"}
+{"text": "Explain the difference between a virus and a bacterium.", "kind": "unrelated", "split": "fit"}
+{"text": "Plan a three-day itinerary for Rome.", "kind": "unrelated", "split": "check"}
+{"text": "How do I brew a good cup of coffee with a French press?", "kind": "unrelated", "split": "fit"}
+{"text": "What is machine learning?", "kind": "unrelated", "split": "check"}
+{"text": "Give me five ideas for a birthday party for a seven-year-old.", "kind": "unrelated", "split": "fit"}
+{"text": "Explain photosynthesis in one paragraph.", "kind": "unrelated", "split": "check"}
+{"text": "Write a short apology email for missing a meeting.", "kind": "unrelated", "split": "fit"}
+{"text": "What is the difference between affect and effect?", "kind": "unrelated", "split": "check"}
+{"text": "How do airplanes stay in the air?", "kind": "unrelated", "split": "fit"}
+{"text": "Recommend three classic novels and say why.", "kind": "unrelated", "split": "check"}
+{"text": "What is inflation in economics?", "kind": "unrelated", "split": "fit"}
+{"text": "Write a riddle and give the answer.", "kind": "unrelated", "split": "check"}
+{"text": "How do I start learning to play the guitar?", "kind": "unrelated", "split": "fit"}
+{"text": "Describe a sunset using vivid language.", "kind": "unrelated", "split": "check"}
+{"text": "What are prime numbers?", "kind": "unrelated", "split": "fit"}
+{"text": "How do I care for a succulent plant?", "kind": "unrelated", "split": "check"}
+{"text": "Explain how a bicycle's gears work.", "kind": "unrelated", "split": "fit"}
+{"text": "Write a tweet announcing a new bakery opening.", "kind": "unrelated", "split": "check"}
+{"text": "What is the greenhouse effect?", "kind": "unrelated", "split": "fit"}
+{"text": "How can I reduce stress at work?", "kind": "unrelated", "split": "check"}
+{"text": "Write a bash command to list files sorted by size.", "kind": "unrelated", "split": "fit"}
+{"text": "What is the meaning of the idiom 'break the ice'?", "kind": "unrelated", "split": "check"}
+{"text": "Describe how to make a paper airplane.", "kind": "unrelated", "split": "fit"}
+{"text": "What are the main causes of the French Revolution?", "kind": "unrelated", "split": "check"}
+{"text": "Write a dialogue between a robot and a child.", "kind": "unrelated", "split": "fit"}
+{"text": "Explain blockchain in simple terms.", "kind": "unrelated", "split": "check"}
+{"text": "Hi! How are you today?", "kind": "unrelated", "split": "fit"}
+{"text": "Tell me a joke.", "kind": "unrelated", "split": "check"}
+{"text": "What's a good way to learn a new language?", "kind": "unrelated", "split": "fit"}
+{"text": "Write a product description for a reusable water bottle.", "kind": "unrelated", "split": "check"}
+{"text": "Explain the difference between RAM and storage.", "kind": "unrelated", "split": "fit"}
+{"text": "Give me a workout plan for beginners.", "kind": "unrelated", "split": "check"}
+{"text": "What is the role of the United Nations?", "kind": "unrelated", "split": "fit"}
+{"text": "Write a short speech for a friend's wedding toast.", "kind": "unrelated", "split": "check"}
+{"text": "How does the stock market work?", "kind": "unrelated", "split": "fit"}
+{"text": "Write a regular expression that matches email addresses.", "kind": "unrelated", "split": "check"}
+{"text": "What is the theory of plate tectonics?", "kind": "unrelated", "split": "fit"}
+{"text": "How do I make a budget spreadsheet for my household?", "kind": "unrelated", "split": "check"}
+{"text": "What is the difference between a crocodile and an alligator?", "kind": "unrelated", "split": "fit"}
+{"text": "Compose a short lullaby.", "kind": "unrelated", "split": "check"}
+{"text": "Explain what DNA is.", "kind": "unrelated", "split": "fit"}
+{"text": "How do I write a good resume?", "kind": "unrelated", "split": "check"}
+{"text": "What is a haiku?", "kind": "unrelated", "split": "fit"}
+{"text": "List the colors of the rainbow.", "kind": "unrelated", "split": "check"}
+{"text": "Why is the sky blue?", "kind": "unrelated", "split": "fit"}
+{"text": "How do magnets work?", "kind": "unrelated", "split": "check"}
+{"text": "What is the best way to memorize vocabulary?", "kind": "unrelated", "split": "fit"}
+{"text": "Write a cover letter opening for a software engineer job.", "kind": "unrelated", "split": "check"}
+{"text": "Explain supply and demand.", "kind": "unrelated", "split": "fit"}
+{"text": "What are the symptoms of dehydration?", "kind": "unrelated", "split": "check"}
+{"text": "Describe the life cycle of a butterfly.", "kind": "unrelated", "split": "fit"}
+{"text": "Write a function in C that adds two integers.", "kind": "unrelated", "split": "check"}
+{"text": "What does a project manager do?", "kind": "unrelated", "split": "fit"}
+{"text": "How can I be more productive in the morning?", "kind": "unrelated", "split": "check"}
+{"text": "What is quantum computing in simple words?", "kind": "unrelated", "split": "fit"}
+{"text": "Write a four-line poem about friendship.", "kind": "unrelated", "split": "check"}
+{"text": "Explain how credit scores work in general.", "kind": "unrelated", "split": "fit"}
+{"text": "What is the history of the Olympic Games?", "kind": "unrelated", "split": "check"}
+{"text": "Give me tips for a job interview.", "kind": "unrelated", "split": "fit"}
+{"text": "What is an API?", "kind": "unrelated", "split": "check"}
+{"text": "Describe the taste of a mango to someone who has never had one.", "kind": "unrelated", "split": "fit"}
+{"text": "What is the difference between a lake and a pond?", "kind": "unrelated", "split": "check"}
+{"text": "Explain the concept of opportunity cost.", "kind": "unrelated", "split": "fit"}
+{"text": "Write a short horror story in three sentences.", "kind": "unrelated", "split": "check"}
+{"text": "What is the importance of bees to agriculture?", "kind": "unrelated", "split": "fit"}
+{"text": "How do I clean a cast iron pan?", "kind": "unrelated", "split": "check"}
+{"text": "Classify the sentiment of this review as positive or negative.\n\nReview: The food was cold and the waiter was rude.\n\nSentiment:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this movie review as positive or negative.\n\nReview: An absolute masterpiece with stunning visuals.\n\nLabel:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this airline customer message into the correct intent.\n\nMessage: My flight was cancelled, can I get a refund?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this restaurant customer message into the correct intent.\n\nMessage: Do you have vegetarian options?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify the topic of this headline as sports, politics, business, or technology.\n\nHeadline: Apple unveils new chip for laptops.\n\nTopic:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this email as spam or not spam.\n\nEmail: Congratulations! You won a free cruise. Click here.\n\nAnswer:", "kind": "nearmiss", "split": "check"}
+{"text": "What is the intent of this sentence: 'Can you set an alarm for 7am?'", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this hotel guest request into the correct intent.\n\nMessage: Can I get a late checkout tomorrow?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this telecom customer message into the correct intent.\n\nMessage: My internet keeps disconnecting.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify the emotion in this text: 'I can't believe I finally got the job!'", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this support ticket by priority (low, medium, high).\n\nTicket: The whole website is down for all users.\n\nPriority:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify the language of this sentence: 'Je voudrais un caf\u00e9, s'il vous pla\u00eet.'", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this e-commerce customer message into the correct intent.\n\nMessage: Where is my package? It was supposed to arrive yesterday.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this insurance customer message into the correct intent.\n\nMessage: I want to file a claim for my car accident.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Label the part of speech of the word 'quickly' in: 'She ran quickly.'", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this question as factual or opinion: 'Is pizza the best food?'", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this tweet as positive, negative, or neutral.\n\nTweet: Monday again. Here we go.\n\nSentiment:", "kind": "nearmiss", "split": "fit"}
+{"text": "Categorize this expense: 'Uber ride to the airport, $45'. Category:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify the following animal as mammal, bird, reptile, or fish: penguin.", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this smart-home command into the correct intent.\n\nMessage: Turn off the living room lights.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "What category does this news belong to: 'Local team wins championship after 20 years'?", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this gym member message into the correct intent.\n\nMessage: I want to freeze my membership for a month.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Is this message a question or a statement? 'The meeting is at 3pm.'", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this patient message into the correct intent.\n\nMessage: I need to reschedule my appointment with Dr. Lee.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this banking-related news headline as positive or negative.\n\nHeadline: Bank profits fall sharply amid rising defaults.\n\nSentiment:", "kind": "nearmiss", "split": "fit"}
+{"text": "Tag the intent of this utterance for a music assistant: 'Play some jazz.'", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this product review into a star rating from 1 to 5.\n\nReview: Works okay, but the battery dies fast.\n\nRating:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify the following text as formal or informal: 'Hey, what's up? Wanna grab lunch?'", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this real estate inquiry into the correct intent.\n\nMessage: Is the apartment on Main Street still available?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this ride-sharing customer message into the correct intent.\n\nMessage: My driver took a longer route and charged me more.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "I was suppose to be getting a refund for something I purchased a while ago, but It still hasnt been applied to my account. When will I get my money back?", "kind": "banking_chat", "split": "fit"}
+{"text": "My refund is not showing up in my account. Where is it?", "kind": "banking_chat", "split": "check"}
+{"text": "Do I need a photo ID to activate a my new card?", "kind": "banking_chat", "split": "fit"}
+{"text": "I couldn't complete card activation.", "kind": "banking_chat", "split": "check"}
+{"text": "At what age can a person open an account?", "kind": "banking_chat", "split": "fit"}
+{"text": "Do you have a children account available?", "kind": "banking_chat", "split": "check"}
+{"text": "Help me please, My Apple Pay American Express top up does not work.", "kind": "banking_chat", "split": "fit"}
+{"text": "i received my American Express in Apple pay, why is top up not working?", "kind": "banking_chat", "split": "check"}
+{"text": "What ATMs can I use this card?", "kind": "banking_chat", "split": "fit"}
+{"text": "How many ATMs will take this card?", "kind": "banking_chat", "split": "check"}
+{"text": "How can I add money automatically?", "kind": "banking_chat", "split": "fit"}
+{"text": "If my funds are running low, will the app top up automatically?", "kind": "banking_chat", "split": "check"}
+{"text": "What is the normal time to make an international transfer? I made one a few days ago that still hasn't arrived.", "kind": "banking_chat", "split": "fit"}
+{"text": "I did a bank transfer and my balance isn't current.", "kind": "banking_chat", "split": "check"}
+{"text": "Where is my missing cheque I deposited?", "kind": "banking_chat", "split": "fit"}
+{"text": "My cash deposit from a week ago is still not in my account. Can you help me please?", "kind": "banking_chat", "split": "check"}
+{"text": "Why is my beneficiary being denies?", "kind": "banking_chat", "split": "fit"}
+{"text": "For some reason, I'm unable to transfer funds.", "kind": "banking_chat", "split": "check"}
+{"text": "I need to reverse a transaction", "kind": "banking_chat", "split": "fit"}
+{"text": "How can I cancel this transaction?", "kind": "banking_chat", "split": "check"}
+{"text": "Can I order a new card?  Mine is about to expire.", "kind": "banking_chat", "split": "fit"}
+{"text": "How do I get a new card when my old one expires?", "kind": "banking_chat", "split": "check"}
+{"text": "What places accept my card?", "kind": "banking_chat", "split": "fit"}
+{"text": "WHAT IS THE ATMOSPHERE OF IT", "kind": "banking_chat", "split": "check"}
+{"text": "Where is my card?", "kind": "banking_chat", "split": "fit"}
+{"text": "How do I track the card you sent me?", "kind": "banking_chat", "split": "check"}
+{"text": "Can it be delivered on a certain date?", "kind": "banking_chat", "split": "fit"}
+{"text": "i am express delivering my card to the us, how long will that take", "kind": "banking_chat", "split": "check"}
+{"text": "Could I reactivate my card please, I couldn't find it but it turns out it was in my jacket pocket.", "kind": "banking_chat", "split": "fit"}
+{"text": "How do I see my card in the app?", "kind": "banking_chat", "split": "check"}
+{"text": "Today I used my card at a restaurant and it was declined. Why?", "kind": "banking_chat", "split": "fit"}
+{"text": "My actual card isn't functioning.", "kind": "banking_chat", "split": "check"}
+{"text": "How come I was charged an extra fee when paying with the card?", "kind": "banking_chat", "split": "fit"}
+{"text": "I made a purchase but never expected to see a fee charged for the transaction.", "kind": "banking_chat", "split": "check"}
+{"text": "There's a payment with my card that I definitely didn't create. I don't know anyone by that name.", "kind": "banking_chat", "split": "fit"}
+{"text": "A payment that I didn't make appears in my app.", "kind": "banking_chat", "split": "check"}
+{"text": "I purchased something abroad and the incorrect exchange rate was applied.", "kind": "banking_chat", "split": "fit"}
+{"text": "I purchased something abroad but the exchange rate is incorrect.", "kind": "banking_chat", "split": "check"}
+{"text": "What should I do if the atm eats my card?", "kind": "banking_chat", "split": "fit"}
+{"text": "I cannot get my card out of the ATM.", "kind": "banking_chat", "split": "check"}
+{"text": "Why was I charged a fee on a cash withdrawal?", "kind": "banking_chat", "split": "fit"}
+{"text": "I got this stupid fee after taking cash out, why?", "kind": "banking_chat", "split": "check"}
+{"text": "I just lost my wallet and I think someone is using my card to withdraw my money. Can you please cancel or freeze my card?!!", "kind": "banking_chat", "split": "fit"}
+{"text": "Help!  There is a cash withdrawl on the account that I didn't make!", "kind": "banking_chat", "split": "check"}
+{"text": "What are the steps to change my PIN to something else?", "kind": "banking_chat", "split": "fit"}
+{"text": "Can I pick a new PIN?", "kind": "banking_chat", "split": "check"}
+{"text": "I froze my account, but how do I order a replacement card?", "kind": "banking_chat", "split": "fit"}
+{"text": "I think someone is using my card without my permission!", "kind": "banking_chat", "split": "check"}
+{"text": "How can I fix my card if the contactless function didn't work this morning?", "kind": "banking_chat", "split": "fit"}
+{"text": "I have a contactless that's broken.", "kind": "banking_chat", "split": "check"}
+{"text": "I am not in the UK can i get a card?", "kind": "banking_chat", "split": "fit"}
+{"text": "Do you work in Greece?", "kind": "banking_chat", "split": "check"}
+{"text": "my card was refused, why?", "kind": "banking_chat", "split": "fit"}
+{"text": "Why won't you accept my payment? I keep trying with this card and it's not working.", "kind": "banking_chat", "split": "check"}
+{"text": "I tried to get money out of the Notting Hill ATM earlier, but I wasn't able to get it to work. Is my card with issue? It's the first time I tried using it.", "kind": "banking_chat", "split": "fit"}
+{"text": "Every ATM I visit is rejecting my card and I don't know why. There should be money on it. Can you check it to see if something is wrong or if I'm doing something wrong?", "kind": "banking_chat", "split": "check"}
+{"text": "I tried to buy something over the Internet yesterday and got a declined error. I tried again today and got the same message. What is the issue?", "kind": "banking_chat", "split": "fit"}
+{"text": "Declined, transfer not completed.", "kind": "banking_chat", "split": "check"}
+{"text": "There is a direct debit charge that I don't recognize, what can I do?", "kind": "banking_chat", "split": "fit"}
+{"text": "I found a charge on my debit that I did not make.", "kind": "banking_chat", "split": "check"}
+{"text": "How many disposable virtual cards can you have?", "kind": "banking_chat", "split": "fit"}
+{"text": "What is the limits on the number of disposable cards I can have?", "kind": "banking_chat", "split": "check"}
+{"text": "I just moved. How do I give you my new address?", "kind": "banking_chat", "split": "fit"}
+{"text": "What should I do after I've moved and need to update my personal details?", "kind": "banking_chat", "split": "check"}
+{"text": "What fee will be charged for exchanges?", "kind": "banking_chat", "split": "fit"}
+{"text": "What is the cost for currency exchanges?", "kind": "banking_chat", "split": "check"}
+{"text": "What are you exchange rates?", "kind": "banking_chat", "split": "fit"}
+{"text": "How do I know what exchange rate I will get?", "kind": "banking_chat", "split": "check"}
+{"text": "I need to exchange my GBP to AUD, how would I do this?", "kind": "banking_chat", "split": "fit"}
+{"text": "Can I exchange currencies with the app?", "kind": "banking_chat", "split": "check"}
+{"text": "Why was I charged extra on my app?", "kind": "banking_chat", "split": "fit"}
+{"text": "What is the extra \u20ac1 on my statement for?", "kind": "banking_chat", "split": "check"}
+{"text": "Why did the transfer fail when I attempted to do it earlier?", "kind": "banking_chat", "split": "fit"}
+{"text": "I've already tried 5 times to complete a transfer that's just standard. What's the deal? Is your system down at this time?", "kind": "banking_chat", "split": "check"}
+{"text": "What currencies can I hold?", "kind": "banking_chat", "split": "fit"}
+{"text": "Which flat currencies can I use from you?", "kind": "banking_chat", "split": "check"}
+{"text": "What is the function of the disposable cards?", "kind": "banking_chat", "split": "fit"}
+{"text": "Please explain how disposable virtual card work.", "kind": "banking_chat", "split": "check"}
+{"text": "I haven't received the PIN yet.", "kind": "banking_chat", "split": "fit"}
+{"text": "Does the PIN come under separate cover?", "kind": "banking_chat", "split": "check"}
+{"text": "What is the price for an additional card?", "kind": "banking_chat", "split": "fit"}
+{"text": "I would like to give another card to my daughter, how can I proceed?", "kind": "banking_chat", "split": "check"}
+{"text": "I heard you have virtual cards. How do I get one?", "kind": "banking_chat", "split": "fit"}
+{"text": "Where is my virtual card located?", "kind": "banking_chat", "split": "check"}
+{"text": "What do I do if my card has been lost or stolen?", "kind": "banking_chat", "split": "fit"}
+{"text": "I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away.", "kind": "banking_chat", "split": "check"}
+{"text": "I need help- I got mugged yesterday and they took everything so I can't use the app.", "kind": "banking_chat", "split": "fit"}
+{"text": "Can I still access the app even though my phone was stolen?", "kind": "banking_chat", "split": "check"}
+{"text": "How would I go about getting a physical card to use in stores?", "kind": "banking_chat", "split": "fit"}
+{"text": "I would like a card please.", "kind": "banking_chat", "split": "check"}
+{"text": "I've forgotten my passcode. Can I reset?", "kind": "banking_chat", "split": "fit"}
+{"text": "I can't get into the app with the passcode.", "kind": "banking_chat", "split": "check"}
+{"text": "I am waiting for a payment to be processed", "kind": "banking_chat", "split": "fit"}
+{"text": "Why is my card payment still listed as pending?", "kind": "banking_chat", "split": "check"}
+{"text": "Can you explain to me why a cash withdrawal shows up as pending?", "kind": "banking_chat", "split": "fit"}
+{"text": "The machine didn't work earlier when I went to get money out and now my account says transaction in progress.Why?", "kind": "banking_chat", "split": "check"}
+{"text": "What do I do if my top-up has not gone through?", "kind": "banking_chat", "split": "fit"}
+{"text": "How long will my top-up stay pending?", "kind": "banking_chat", "split": "check"}
+{"text": "How long do EU transfers actually take? I bought something online a couple days ago, sent the money immediately online but the seller says it's still not there yet.", "kind": "banking_chat", "split": "fit"}
+{"text": "Why is my transfer appearing as \"pending\"?", "kind": "banking_chat", "split": "check"}
+{"text": "I forgot my PIN and now it is blocked.", "kind": "banking_chat", "split": "fit"}
+{"text": "What do I have to do to get my PIN unblocked?", "kind": "banking_chat", "split": "check"}
+{"text": "I would like to receive my salary in a different currency. How does that work?", "kind": "banking_chat", "split": "fit"}
+{"text": "What do I need to do to get my salary through this?", "kind": "banking_chat", "split": "check"}
+{"text": "Hello. How do i go about getting a refund of an item i bought ? I want to cancel the payment since i have not received the item yet.", "kind": "banking_chat", "split": "fit"}
+{"text": "How do I get a refund for something I bought?", "kind": "banking_chat", "split": "check"}
+{"text": "I think a card payment I made was cancelled, can you check?", "kind": "banking_chat", "split": "fit"}
+{"text": "I received a returned payment that I made.", "kind": "banking_chat", "split": "check"}
+{"text": "What currency can I use to pay for a top up?", "kind": "banking_chat", "split": "fit"}
+{"text": "I only have a card from the US is that okay?", "kind": "banking_chat", "split": "check"}
+{"text": "how to delete account, not happy", "kind": "banking_chat", "split": "fit"}
+{"text": "I want to close my account now.", "kind": "banking_chat", "split": "check"}
+{"text": "Am I going to be charged for receiving  money?", "kind": "banking_chat", "split": "fit"}
+{"text": "Is there a fee to make a transfer?", "kind": "banking_chat", "split": "check"}
+{"text": "If I top up using a European card is there a charge?", "kind": "banking_chat", "split": "fit"}
+{"text": "I need to know what charges I will incur for using a European card for top up.", "kind": "banking_chat", "split": "check"}
+{"text": "I would like to pay by cheque.", "kind": "banking_chat", "split": "fit"}
+{"text": "Is it possible for me to top up with cash?", "kind": "banking_chat", "split": "check"}
+{"text": "Hello, I trying to top up with my card today but it didn't work. When I tried last time it worked but today it isn't. Could you take a look at it for me?", "kind": "banking_chat", "split": "fit"}
+{"text": "I need to add more funds to my card today because it keeps being declined, and I need to use it immediately. Can you fix this or tell me alternatives?", "kind": "banking_chat", "split": "check"}
+{"text": "How often am I able to top-up?", "kind": "banking_chat", "split": "fit"}
+{"text": "How much can I top up on my card?", "kind": "banking_chat", "split": "check"}
+{"text": "I have a canceled top-up and wanted to know about it.", "kind": "banking_chat", "split": "fit"}
+{"text": "How come I can't put money in my top up account?", "kind": "banking_chat", "split": "check"}
+{"text": "i need to top up by card.", "kind": "banking_chat", "split": "fit"}
+{"text": "My wallet is empty even though I topped it up an hour ago.", "kind": "banking_chat", "split": "check"}
+{"text": "Why have I been charged twice?", "kind": "banking_chat", "split": "fit"}
+{"text": "I have multiple of the same transaction", "kind": "banking_chat", "split": "check"}
+{"text": "Why did I get charged a fee for my transfer?", "kind": "banking_chat", "split": "fit"}
+{"text": "Why was there a transfer fee on my account?", "kind": "banking_chat", "split": "check"}
+{"text": "How is my money transferred to the account", "kind": "banking_chat", "split": "fit"}
+{"text": "Can you transfer money to your card by bank transfer?", "kind": "banking_chat", "split": "check"}
+{"text": "What do I do if I completed a money transfer but the recipient hasn't received it?", "kind": "banking_chat", "split": "fit"}
+{"text": "I have done a transfer within the country the day before yesterday, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that already.", "kind": "banking_chat", "split": "check"}
+{"text": "When will my money be in my account?", "kind": "banking_chat", "split": "fit"}
+{"text": "How many days does it take for a transfer to go through?", "kind": "banking_chat", "split": "check"}
+{"text": "Help me verify my identification.", "kind": "banking_chat", "split": "fit"}
+{"text": "i am under 18 and i am trying to verify my id. why wont it work?", "kind": "banking_chat", "split": "check"}
+{"text": "Please tell me how I verify my identity.", "kind": "banking_chat", "split": "fit"}
+{"text": "Where do I go to verify my identity?", "kind": "banking_chat", "split": "check"}
+{"text": "What is the source of the money in my account?", "kind": "banking_chat", "split": "fit"}
+{"text": "How can I look at where my available cash is coming from?", "kind": "banking_chat", "split": "check"}
+{"text": "What do I do to verify a top-up?", "kind": "banking_chat", "split": "fit"}
+{"text": "On a card top-up, where can I verify?", "kind": "banking_chat", "split": "check"}
+{"text": "I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why?", "kind": "banking_chat", "split": "fit"}
+{"text": "Why won't my virtual card work?", "kind": "banking_chat", "split": "check"}
+{"text": "If I can't choose my card type will I be able to use it everywhere?", "kind": "banking_chat", "split": "fit"}
+{"text": "Please give me both Visa and MasterCard, is it possible?", "kind": "banking_chat", "split": "check"}
+{"text": "Can I still use my account without verifying my identity?", "kind": "banking_chat", "split": "fit"}
+{"text": "Can i make transactions before identity verification?", "kind": "banking_chat", "split": "check"}
+{"text": "I was given less cash then I wanted.", "kind": "banking_chat", "split": "fit"}
+{"text": "I didn't get all the cash I asked for", "kind": "banking_chat", "split": "check"}
+{"text": "The rate of exchange for my cash withdrawal is wrong.", "kind": "banking_chat", "split": "fit"}
+{"text": "The rate applied to my foreign currency at an ATM was incorrect.", "kind": "banking_chat", "split": "check"}

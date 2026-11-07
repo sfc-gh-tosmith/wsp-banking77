@@ -1,0 +1,3 @@
+top-20 cosine competitors: 2550 tokens -> cross-talk max 0.569 median 0.269, >.5: 5 | column norm median 1.568 max 3.776
+top-40 cosine competitors: 4498 tokens -> cross-talk max 1.020 median 0.479, >.5: 63 | column norm median 3.126 max 4.864
+previous D: cross-talk max 0.366 median 0.246

@@ -1,0 +1,11 @@
+fold 0 done
+fold 1 done
+fold 2 done
+fold 3 done
+fold 4 done
+mu=0.0002 wneg=0.003 group-lam=0.25: step0 5-fold mean 0.9256  per-fold [0.9237 0.9323 0.9204 0.9269 0.9247]  diff vs current +0.0041 (sd 0.0029)
+mu=0.0002 wneg=0.003 group-lam=0.5: step0 5-fold mean 0.9247  per-fold [0.922  0.9323 0.9215 0.9258 0.922 ]  diff vs current +0.0032 (sd 0.0026)
+mu=0.0002 wneg=0.003 group-lam=0.0: step0 5-fold mean 0.9242  per-fold [0.922  0.9302 0.9193 0.9242 0.9252]  diff vs current +0.0027 (sd 0.0026)
+mu=0.0001 wneg=0.01 group-lam=0.5: step0 5-fold mean 0.9234  per-fold [0.9188 0.9312 0.9215 0.9231 0.9225]  diff vs current +0.0019 (sd 0.0021)
+mu=0.0001 wneg=0.01 group-lam=0.25: step0 5-fold mean 0.9228  per-fold [0.9177 0.9302 0.9204 0.922  0.9236]  diff vs current +0.0013 (sd 0.0022)
+mu=0.0001 wneg=0.01 group-lam=0.0: step0 5-fold mean 0.9215  per-fold [0.9199 0.9285 0.9204 0.9177 0.9209]  diff vs current +0.0000 (sd 0.0000)

@@ -1,0 +1,4 @@
+L28 read-out step>=1 branching: n=1467 acc 0.9775 errors 33
+L28 read-out step>=1 deterministic: n=6268 acc 0.9997 errors 2
+L28 with legal-continuation restriction: branching acc 0.9782 deterministic acc 1.0000
+per branch prefix (n, errors): {'card': (220, 7), 'exchange': (61, 4), 'card_payment': (86, 1), 'pending': (107, 3), 'lost_or_stolen': (37, 0), 'top': (153, 2), 'top_up': (137, 4), 'top_up_by': (59, 5), 'wrong': (66, 1), 'transfer': (107, 3), 'getting': (40, 0), 'balance_not_updated_after': (76, 0), 'get': (41, 0), 'declined': (81, 3), 'verify': (72, 0), 're': (61, 0), 'cash_withdrawal': (63, 0)}

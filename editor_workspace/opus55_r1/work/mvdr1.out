@@ -1,0 +1,2 @@
+alpha=1.0: code gain mean 0.360 s0 noise std 0.058 k0.25:0.8295 k0.5:0.8944 k1.0:0.9069 k2.0:0.9107 (stage1 alone 0.9134) s1 noise std 0.126 k0.25:0.5674 k0.5:0.9303 k1.0:0.9906 k2.0:0.9950 (stage1 alone 0.9952)
+alpha=4.0: code gain mean 0.389 s0 noise std 0.056 k0.25:0.8332 k0.5:0.8955 k1.0:0.9069 k2.0:0.9117 (stage1 alone 0.9134) s1 noise std 0.115 k0.25:0.6363 k0.5:0.9513 k1.0:0.9921 k2.0:0.9951 (stage1 alone 0.9952)

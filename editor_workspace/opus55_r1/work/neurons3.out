@@ -1,0 +1,4 @@
+free  32 neurons: general flips 18/8612  in-task flips 15/7959  | median |dr| 0.2441 vs |r| 44.03
+free  64 neurons: general flips 27/8612  in-task flips 28/7959  | median |dr| 0.3901 vs |r| 44.03
+free 100 neurons: general flips 33/8612  in-task flips 49/7959  | median |dr| 0.5311 vs |r| 44.03
+free 151 neurons: general flips 52/8612  in-task flips 82/7959  | median |dr| 0.6977 vs |r| 44.03

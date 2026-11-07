@@ -1,0 +1,22 @@
+17 branch points at steps>=1; children total 51; positions 7362
+fold 0 done
+fold 1 done
+fold 2 done
+fold 3 done
+fold 4 done
+branch-position acc: global 0.9742 | experts 0.9750 | deterministic global 0.9996
+global: all-later-right 0.9781
+experts: all-later-right 0.9791
+per branch point (global -> expert, n):
+   '5057' 0.979 -> 0.973 (n=1187, kids 8)
+   '3565' 0.953 -> 0.974 (n=760, kids 2)
+   '3565+8401' 0.961 -> 0.958 (n=667, kids 4)
+   '29310' 0.975 -> 0.973 (n=559, kids 4)
+   '25163' 0.954 -> 0.963 (n=544, kids 4)
+   '5057+27794' 0.994 -> 0.990 (n=492, kids 3)
+   '10210+1619' 0.967 -> 0.963 (n=429, kids 3)
+   '22298+8072+34592+20434' 0.985 -> 0.976 (n=332, kids 2)
+   '35970' 0.978 -> 0.991 (n=323, kids 2)
+   '40668' 0.966 -> 0.972 (n=321, kids 3)
+   '42371+6753+7788+278' 0.991 -> 0.994 (n=317, kids 2)
+   '12728' 0.990 -> 0.987 (n=313, kids 3)

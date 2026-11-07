@@ -1,0 +1,1 @@
+{"type": "generate", "model": "edited", "source": "dev", "indices": "all", "template": "sft", "max_new_tokens": 24, "out": "p11_dev_v1"}

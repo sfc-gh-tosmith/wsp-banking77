@@ -1,0 +1,5 @@
+ridge: class acc 0.9107 | relu-sum first 0.9247
+LDA shr=0.02: class acc 0.9047 | posterior-sum first 0.9166 | ensemble ridge+LDA-posterior class 0.9047
+LDA shr=0.05: class acc 0.9031 | posterior-sum first 0.9155 | ensemble ridge+LDA-posterior class 0.9031
+LDA shr=0.1: class acc 0.8993 | posterior-sum first 0.9128 | ensemble ridge+LDA-posterior class 0.8998
+LDA shr=0.2: class acc 0.8901 | posterior-sum first 0.9063 | ensemble ridge+LDA-posterior class 0.8912

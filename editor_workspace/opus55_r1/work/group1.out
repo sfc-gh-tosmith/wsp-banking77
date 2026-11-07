@@ -1,0 +1,9 @@
+lam=0.0 th=0.15: first-token acc 0.9247
+lam=0.0 th=0.25: first-token acc 0.9204
+lam=0.25 th=0.15: first-token acc 0.9285
+lam=0.25 th=0.25: first-token acc 0.9269
+lam=0.5 th=0.15: first-token acc 0.9269
+lam=0.5 th=0.25: first-token acc 0.9258
+lam=1.0 th=0.15: first-token acc 0.9215
+lam=1.0 th=0.25: first-token acc 0.9220
+group read-out alone: 0.9139

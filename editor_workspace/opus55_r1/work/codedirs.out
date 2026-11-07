@@ -1,0 +1,6 @@
+w_var=0.5: bottom-194 gain mean 0.393 max 0.443 | centred var mean 0.1456 max 0.2167 (random dir = 1, 1)
+w_var=1.0: bottom-194 gain mean 0.422 max 0.467 | centred var mean 0.1037 max 0.1533 (random dir = 1, 1)
+w_var=2.0: bottom-194 gain mean 0.464 max 0.504 | centred var mean 0.0743 max 0.1061 (random dir = 1, 1)
+kappa=0.5: direct-path general flips 12/4998 | code norm med 0.677
+kappa=1.0: direct-path general flips 29/4998 | code norm med 1.354
+kappa=2.0: direct-path general flips 59/4998 | code norm med 2.708

@@ -1,0 +1,4632 @@
+{
+"summary": {
+"pass": 10,
+"type": "generate",
+"model": "edited",
+"n": 770,
+"accuracy": 0.8987012987012987,
+"seconds": 186.1
+},
+"rows": [
+{
+"ref": "dev:0",
+"pred": "Refund_not_showing_up",
+"gold": "Refund_not_showing_up",
+"correct": true
+},
+{
+"ref": "dev:1",
+"pred": "Refund_not_showing_up",
+"gold": "Refund_not_showing_up",
+"correct": true
+},
+{
+"ref": "dev:2",
+"pred": "Refund_not_showing_up",
+"gold": "Refund_not_showing_up",
+"correct": true
+},
+{
+"ref": "dev:3",
+"pred": "Refund_not_showing_up",
+"gold": "Refund_not_showing_up",
+"correct": true
+},
+{
+"ref": "dev:4",
+"pred": "Refund_not_showing_up",
+"gold": "Refund_not_showing_up",
+"correct": true
+},
+{
+"ref": "dev:5",
+"pred": "Refund_not_showing_up",
+"gold": "Refund_not_showing_up",
+"correct": true
+},
+{
+"ref": "dev:6",
+"pred": "Refund_not_showing_up",
+"gold": "Refund_not_showing_up",
+"correct": true
+},
+{
+"ref": "dev:7",
+"pred": "Refund_not_showing_up",
+"gold": "Refund_not_showing_up",
+"correct": true
+},
+{
+"ref": "dev:8",
+"pred": "Refund_not_showing_up",
+"gold": "Refund_not_showing_up",
+"correct": true
+},
+{
+"ref": "dev:9",
+"pred": "Refund_not_showing_up",
+"gold": "Refund_not_showing_up",
+"correct": true
+},
+{
+"ref": "dev:10",
+"pred": "activate_my_card",
+"gold": "activate_my_card",
+"correct": true
+},
+{
+"ref": "dev:11",
+"pred": "activate_my_card",
+"gold": "activate_my_card",
+"correct": true
+},
+{
+"ref": "dev:12",
+"pred": "activate_my_card",
+"gold": "activate_my_card",
+"correct": true
+},
+{
+"ref": "dev:13",
+"pred": "activate_my_card",
+"gold": "activate_my_card",
+"correct": true
+},
+{
+"ref": "dev:14",
+"pred": "activate_my_card",
+"gold": "activate_my_card",
+"correct": true
+},
+{
+"ref": "dev:15",
+"pred": "activate_my_card",
+"gold": "activate_my_card",
+"correct": true
+},
+{
+"ref": "dev:16",
+"pred": "activate_my_card",
+"gold": "activate_my_card",
+"correct": true
+},
+{
+"ref": "dev:17",
+"pred": "card_about_to_expire",
+"gold": "activate_my_card",
+"correct": false
+},
+{
+"ref": "dev:18",
+"pred": "activate_my_card",
+"gold": "activate_my_card",
+"correct": true
+},
+{
+"ref": "dev:19",
+"pred": "activate_my_card",
+"gold": "activate_my_card",
+"correct": true
+},
+{
+"ref": "dev:20",
+"pred": "age_limit",
+"gold": "age_limit",
+"correct": true
+},
+{
+"ref": "dev:21",
+"pred": "age_limit",
+"gold": "age_limit",
+"correct": true
+},
+{
+"ref": "dev:22",
+"pred": "age_limit",
+"gold": "age_limit",
+"correct": true
+},
+{
+"ref": "dev:23",
+"pred": "age_limit",
+"gold": "age_limit",
+"correct": true
+},
+{
+"ref": "dev:24",
+"pred": "age_limit",
+"gold": "age_limit",
+"correct": true
+},
+{
+"ref": "dev:25",
+"pred": "age_limit",
+"gold": "age_limit",
+"correct": true
+},
+{
+"ref": "dev:26",
+"pred": "age_limit",
+"gold": "age_limit",
+"correct": true
+},
+{
+"ref": "dev:27",
+"pred": "age_limit",
+"gold": "age_limit",
+"correct": true
+},
+{
+"ref": "dev:28",
+"pred": "age_limit",
+"gold": "age_limit",
+"correct": true
+},
+{
+"ref": "dev:29",
+"pred": "age_limit",
+"gold": "age_limit",
+"correct": true
+},
+{
+"ref": "dev:30",
+"pred": "apple_pay_or_google_pay",
+"gold": "apple_pay_or_google_pay",
+"correct": true
+},
+{
+"ref": "dev:31",
+"pred": "apple_pay_or_google_pay",
+"gold": "apple_pay_or_google_pay",
+"correct": true
+},
+{
+"ref": "dev:32",
+"pred": "apple_pay_or_google_pay",
+"gold": "apple_pay_or_google_pay",
+"correct": true
+},
+{
+"ref": "dev:33",
+"pred": "apple_pay_or_google_pay",
+"gold": "apple_pay_or_google_pay",
+"correct": true
+},
+{
+"ref": "dev:34",
+"pred": "apple_pay_or_google_pay",
+"gold": "apple_pay_or_google_pay",
+"correct": true
+},
+{
+"ref": "dev:35",
+"pred": "apple_pay_or_google_pay",
+"gold": "apple_pay_or_google_pay",
+"correct": true
+},
+{
+"ref": "dev:36",
+"pred": "apple_pay_or_google_pay",
+"gold": "apple_pay_or_google_pay",
+"correct": true
+},
+{
+"ref": "dev:37",
+"pred": "apple_pay_or_google_pay",
+"gold": "apple_pay_or_google_pay",
+"correct": true
+},
+{
+"ref": "dev:38",
+"pred": "apple_pay_or_google_pay",
+"gold": "apple_pay_or_google_pay",
+"correct": true
+},
+{
+"ref": "dev:39",
+"pred": "apple_pay_or_google_pay",
+"gold": "apple_pay_or_google_pay",
+"correct": true
+},
+{
+"ref": "dev:40",
+"pred": "atm_support",
+"gold": "atm_support",
+"correct": true
+},
+{
+"ref": "dev:41",
+"pred": "atm_support",
+"gold": "atm_support",
+"correct": true
+},
+{
+"ref": "dev:42",
+"pred": "atm_support",
+"gold": "atm_support",
+"correct": true
+},
+{
+"ref": "dev:43",
+"pred": "atm_support",
+"gold": "atm_support",
+"correct": true
+},
+{
+"ref": "dev:44",
+"pred": "atm_support",
+"gold": "atm_support",
+"correct": true
+},
+{
+"ref": "dev:45",
+"pred": "atm_support",
+"gold": "atm_support",
+"correct": true
+},
+{
+"ref": "dev:46",
+"pred": "atm_support",
+"gold": "atm_support",
+"correct": true
+},
+{
+"ref": "dev:47",
+"pred": "atm_support",
+"gold": "atm_support",
+"correct": true
+},
+{
+"ref": "dev:48",
+"pred": "atm_support",
+"gold": "atm_support",
+"correct": true
+},
+{
+"ref": "dev:49",
+"pred": "atm_support",
+"gold": "atm_support",
+"correct": true
+},
+{
+"ref": "dev:50",
+"pred": "automatic_top_up",
+"gold": "automatic_top_up",
+"correct": true
+},
+{
+"ref": "dev:51",
+"pred": "top_up_by_card_charge",
+"gold": "automatic_top_up",
+"correct": false
+},
+{
+"ref": "dev:52",
+"pred": "automatic_top_up",
+"gold": "automatic_top_up",
+"correct": true
+},
+{
+"ref": "dev:53",
+"pred": "automatic_top_up",
+"gold": "automatic_top_up",
+"correct": true
+},
+{
+"ref": "dev:54",
+"pred": "automatic_top_up",
+"gold": "automatic_top_up",
+"correct": true
+},
+{
+"ref": "dev:55",
+"pred": "automatic_top_up",
+"gold": "automatic_top_up",
+"correct": true
+},
+{
+"ref": "dev:56",
+"pred": "automatic_top_up",
+"gold": "automatic_top_up",
+"correct": true
+},
+{
+"ref": "dev:57",
+"pred": "automatic_top_up",
+"gold": "automatic_top_up",
+"correct": true
+},
+{
+"ref": "dev:58",
+"pred": "automatic_top_up",
+"gold": "automatic_top_up",
+"correct": true
+},
+{
+"ref": "dev:59",
+"pred": "automatic_top_up",
+"gold": "automatic_top_up",
+"correct": true
+},
+{
+"ref": "dev:60",
+"pred": "transfer_timing",
+"gold": "balance_not_updated_after_bank_transfer",
+"correct": false
+},
+{
+"ref": "dev:61",
+"pred": "balance_not_updated_after_bank_transfer",
+"gold": "balance_not_updated_after_bank_transfer",
+"correct": true
+},
+{
+"ref": "dev:62",
+"pred": "transfer_timing",
+"gold": "balance_not_updated_after_bank_transfer",
+"correct": false
+},
+{
+"ref": "dev:63",
+"pred": "transfer_not_received_by_recipient",
+"gold": "balance_not_updated_after_bank_transfer",
+"correct": false
+},
+{
+"ref": "dev:64",
+"pred": "balance_not_updated_after_bank_transfer",
+"gold": "balance_not_updated_after_bank_transfer",
+"correct": true
+},
+{
+"ref": "dev:65",
+"pred": "balance_not_updated_after_bank_transfer",
+"gold": "balance_not_updated_after_bank_transfer",
+"correct": true
+},
+{
+"ref": "dev:66",
+"pred": "balance_not_updated_after_bank_transfer",
+"gold": "balance_not_updated_after_bank_transfer",
+"correct": true
+},
+{
+"ref": "dev:67",
+"pred": "balance_not_updated_after_bank_transfer",
+"gold": "balance_not_updated_after_bank_transfer",
+"correct": true
+},
+{
+"ref": "dev:68",
+"pred": "balance_not_updated_after_bank_transfer",
+"gold": "balance_not_updated_after_bank_transfer",
+"correct": true
+},
+{
+"ref": "dev:69",
+"pred": "balance_not_updated_after_bank_transfer",
+"gold": "balance_not_updated_after_bank_transfer",
+"correct": true
+},
+{
+"ref": "dev:70",
+"pred": "balance_not_updated_after_cheque_or_cash_deposit",
+"gold": "balance_not_updated_after_cheque_or_cash_deposit",
+"correct": true
+},
+{
+"ref": "dev:71",
+"pred": "balance_not_updated_after_cheque_or_cash_deposit",
+"gold": "balance_not_updated_after_cheque_or_cash_deposit",
+"correct": true
+},
+{
+"ref": "dev:72",
+"pred": "balance_not_updated_after_cheque_or_cash_deposit",
+"gold": "balance_not_updated_after_cheque_or_cash_deposit",
+"correct": true
+},
+{
+"ref": "dev:73",
+"pred": "balance_not_updated_after_cheque_or_cash_deposit",
+"gold": "balance_not_updated_after_cheque_or_cash_deposit",
+"correct": true
+},
+{
+"ref": "dev:74",
+"pred": "balance_not_updated_after_cheque_or_cash_deposit",
+"gold": "balance_not_updated_after_cheque_or_cash_deposit",
+"correct": true
+},
+{
+"ref": "dev:75",
+"pred": "balance_not_updated_after_cheque_or_cash_deposit",
+"gold": "balance_not_updated_after_cheque_or_cash_deposit",
+"correct": true
+},
+{
+"ref": "dev:76",
+"pred": "balance_not_updated_after_cheque_or_cash_deposit",
+"gold": "balance_not_updated_after_cheque_or_cash_deposit",
+"correct": true
+},
+{
+"ref": "dev:77",
+"pred": "balance_not_updated_after_cheque_or_cash_deposit",
+"gold": "balance_not_updated_after_cheque_or_cash_deposit",
+"correct": true
+},
+{
+"ref": "dev:78",
+"pred": "balance_not_updated_after_cheque_or_cash_deposit",
+"gold": "balance_not_updated_after_cheque_or_cash_deposit",
+"correct": true
+},
+{
+"ref": "dev:79",
+"pred": "balance_not_updated_after_cheque_or_cash_deposit",
+"gold": "balance_not_updated_after_cheque_or_cash_deposit",
+"correct": true
+},
+{
+"ref": "dev:80",
+"pred": "beneficiary_not_allowed",
+"gold": "beneficiary_not_allowed",
+"correct": true
+},
+{
+"ref": "dev:81",
+"pred": "failed_transfer",
+"gold": "beneficiary_not_allowed",
+"correct": false
+},
+{
+"ref": "dev:82",
+"pred": "beneficiary_not_allowed",
+"gold": "beneficiary_not_allowed",
+"correct": true
+},
+{
+"ref": "dev:83",
+"pred": "beneficiary_not_allowed",
+"gold": "beneficiary_not_allowed",
+"correct": true
+},
+{
+"ref": "dev:84",
+"pred": "failed_transfer",
+"gold": "beneficiary_not_allowed",
+"correct": false
+},
+{
+"ref": "dev:85",
+"pred": "failed_transfer",
+"gold": "beneficiary_not_allowed",
+"correct": false
+},
+{
+"ref": "dev:86",
+"pred": "beneficiary_not_allowed",
+"gold": "beneficiary_not_allowed",
+"correct": true
+},
+{
+"ref": "dev:87",
+"pred": "failed_transfer",
+"gold": "beneficiary_not_allowed",
+"correct": false
+},
+{
+"ref": "dev:88",
+"pred": "beneficiary_not_allowed",
+"gold": "beneficiary_not_allowed",
+"correct": true
+},
+{
+"ref": "dev:89",
+"pred": "beneficiary_not_allowed",
+"gold": "beneficiary_not_allowed",
+"correct": true
+},
+{
+"ref": "dev:90",
+"pred": "cancel_transfer",
+"gold": "cancel_transfer",
+"correct": true
+},
+{
+"ref": "dev:91",
+"pred": "cancel_transfer",
+"gold": "cancel_transfer",
+"correct": true
+},
+{
+"ref": "dev:92",
+"pred": "cancel_transfer",
+"gold": "cancel_transfer",
+"correct": true
+},
+{
+"ref": "dev:93",
+"pred": "cancel_transfer",
+"gold": "cancel_transfer",
+"correct": true
+},
+{
+"ref": "dev:94",
+"pred": "cancel_transfer",
+"gold": "cancel_transfer",
+"correct": true
+},
+{
+"ref": "dev:95",
+"pred": "cancel_transfer",
+"gold": "cancel_transfer",
+"correct": true
+},
+{
+"ref": "dev:96",
+"pred": "cancel_transfer",
+"gold": "cancel_transfer",
+"correct": true
+},
+{
+"ref": "dev:97",
+"pred": "cancel_transfer",
+"gold": "cancel_transfer",
+"correct": true
+},
+{
+"ref": "dev:98",
+"pred": "cancel_transfer",
+"gold": "cancel_transfer",
+"correct": true
+},
+{
+"ref": "dev:99",
+"pred": "cancel_transfer",
+"gold": "cancel_transfer",
+"correct": true
+},
+{
+"ref": "dev:100",
+"pred": "card_about_to_expire",
+"gold": "card_about_to_expire",
+"correct": true
+},
+{
+"ref": "dev:101",
+"pred": "card_about_to_expire",
+"gold": "card_about_to_expire",
+"correct": true
+},
+{
+"ref": "dev:102",
+"pred": "card_about_to_expire",
+"gold": "card_about_to_expire",
+"correct": true
+},
+{
+"ref": "dev:103",
+"pred": "order_physical_card",
+"gold": "card_about_to_expire",
+"correct": false
+},
+{
+"ref": "dev:104",
+"pred": "card_about_to_expire",
+"gold": "card_about_to_expire",
+"correct": true
+},
+{
+"ref": "dev:105",
+"pred": "card_about_to_expire",
+"gold": "card_about_to_expire",
+"correct": true
+},
+{
+"ref": "dev:106",
+"pred": "card_about_to_expire",
+"gold": "card_about_to_expire",
+"correct": true
+},
+{
+"ref": "dev:107",
+"pred": "card_about_to_expire",
+"gold": "card_about_to_expire",
+"correct": true
+},
+{
+"ref": "dev:108",
+"pred": "card_about_to_expire",
+"gold": "card_about_to_expire",
+"correct": true
+},
+{
+"ref": "dev:109",
+"pred": "card_about_to_expire",
+"gold": "card_about_to_expire",
+"correct": true
+},
+{
+"ref": "dev:110",
+"pred": "card_acceptance",
+"gold": "card_acceptance",
+"correct": true
+},
+{
+"ref": "dev:111",
+"pred": "card_acceptance",
+"gold": "card_acceptance",
+"correct": true
+},
+{
+"ref": "dev:112",
+"pred": "card_acceptance",
+"gold": "card_acceptance",
+"correct": true
+},
+{
+"ref": "dev:113",
+"pred": "card_acceptance",
+"gold": "card_acceptance",
+"correct": true
+},
+{
+"ref": "dev:114",
+"pred": "card_acceptance",
+"gold": "card_acceptance",
+"correct": true
+},
+{
+"ref": "dev:115",
+"pred": "card_acceptance",
+"gold": "card_acceptance",
+"correct": true
+},
+{
+"ref": "dev:116",
+"pred": "card_acceptance",
+"gold": "card_acceptance",
+"correct": true
+},
+{
+"ref": "dev:117",
+"pred": "card_acceptance",
+"gold": "card_acceptance",
+"correct": true
+},
+{
+"ref": "dev:118",
+"pred": "card_acceptance",
+"gold": "card_acceptance",
+"correct": true
+},
+{
+"ref": "dev:119",
+"pred": "card_acceptance",
+"gold": "card_acceptance",
+"correct": true
+},
+{
+"ref": "dev:120",
+"pred": "card_arrival",
+"gold": "card_arrival",
+"correct": true
+},
+{
+"ref": "dev:121",
+"pred": "card_arrival",
+"gold": "card_arrival",
+"correct": true
+},
+{
+"ref": "dev:122",
+"pred": "card_arrival",
+"gold": "card_arrival",
+"correct": true
+},
+{
+"ref": "dev:123",
+"pred": "card_arrival",
+"gold": "card_arrival",
+"correct": true
+},
+{
+"ref": "dev:124",
+"pred": "card_arrival",
+"gold": "card_arrival",
+"correct": true
+},
+{
+"ref": "dev:125",
+"pred": "card_arrival",
+"gold": "card_arrival",
+"correct": true
+},
+{
+"ref": "dev:126",
+"pred": "card_arrival",
+"gold": "card_arrival",
+"correct": true
+},
+{
+"ref": "dev:127",
+"pred": "card_arrival",
+"gold": "card_arrival",
+"correct": true
+},
+{
+"ref": "dev:128",
+"pred": "card_arrival",
+"gold": "card_arrival",
+"correct": true
+},
+{
+"ref": "dev:129",
+"pred": "card_arrival",
+"gold": "card_arrival",
+"correct": true
+},
+{
+"ref": "dev:130",
+"pred": "card_delivery_estimate",
+"gold": "card_delivery_estimate",
+"correct": true
+},
+{
+"ref": "dev:131",
+"pred": "card_delivery_estimate",
+"gold": "card_delivery_estimate",
+"correct": true
+},
+{
+"ref": "dev:132",
+"pred": "card_delivery_estimate",
+"gold": "card_delivery_estimate",
+"correct": true
+},
+{
+"ref": "dev:133",
+"pred": "card_delivery_estimate",
+"gold": "card_delivery_estimate",
+"correct": true
+},
+{
+"ref": "dev:134",
+"pred": "card_delivery_estimate",
+"gold": "card_delivery_estimate",
+"correct": true
+},
+{
+"ref": "dev:135",
+"pred": "card_delivery_estimate",
+"gold": "card_delivery_estimate",
+"correct": true
+},
+{
+"ref": "dev:136",
+"pred": "card_delivery_estimate",
+"gold": "card_delivery_estimate",
+"correct": true
+},
+{
+"ref": "dev:137",
+"pred": "card_delivery_estimate",
+"gold": "card_delivery_estimate",
+"correct": true
+},
+{
+"ref": "dev:138",
+"pred": "card_delivery_estimate",
+"gold": "card_delivery_estimate",
+"correct": true
+},
+{
+"ref": "dev:139",
+"pred": "card_delivery_estimate",
+"gold": "card_delivery_estimate",
+"correct": true
+},
+{
+"ref": "dev:140",
+"pred": "card_linking",
+"gold": "card_linking",
+"correct": true
+},
+{
+"ref": "dev:141",
+"pred": "card_linking",
+"gold": "card_linking",
+"correct": true
+},
+{
+"ref": "dev:142",
+"pred": "card_linking",
+"gold": "card_linking",
+"correct": true
+},
+{
+"ref": "dev:143",
+"pred": "card_linking",
+"gold": "card_linking",
+"correct": true
+},
+{
+"ref": "dev:144",
+"pred": "card_linking",
+"gold": "card_linking",
+"correct": true
+},
+{
+"ref": "dev:145",
+"pred": "card_linking",
+"gold": "card_linking",
+"correct": true
+},
+{
+"ref": "dev:146",
+"pred": "card_linking",
+"gold": "card_linking",
+"correct": true
+},
+{
+"ref": "dev:147",
+"pred": "card_linking",
+"gold": "card_linking",
+"correct": true
+},
+{
+"ref": "dev:148",
+"pred": "card_linking",
+"gold": "card_linking",
+"correct": true
+},
+{
+"ref": "dev:149",
+"pred": "card_linking",
+"gold": "card_linking",
+"correct": true
+},
+{
+"ref": "dev:150",
+"pred": "card_not_working",
+"gold": "card_not_working",
+"correct": true
+},
+{
+"ref": "dev:151",
+"pred": "declined_card_payment",
+"gold": "card_not_working",
+"correct": false
+},
+{
+"ref": "dev:152",
+"pred": "card_not_working",
+"gold": "card_not_working",
+"correct": true
+},
+{
+"ref": "dev:153",
+"pred": "card_not_working",
+"gold": "card_not_working",
+"correct": true
+},
+{
+"ref": "dev:154",
+"pred": "card_not_working",
+"gold": "card_not_working",
+"correct": true
+},
+{
+"ref": "dev:155",
+"pred": "card_not_working",
+"gold": "card_not_working",
+"correct": true
+},
+{
+"ref": "dev:156",
+"pred": "The intent of this banking customer message is: \"Clarification\". \n\nThe customer is asking for a reason or explanation for",
+"gold": "card_not_working",
+"correct": false
+},
+{
+"ref": "dev:157",
+"pred": "card_not_working",
+"gold": "card_not_working",
+"correct": true
+},
+{
+"ref": "dev:158",
+"pred": "card_not_working",
+"gold": "card_not_working",
+"correct": true
+},
+{
+"ref": "dev:159",
+"pred": "card_not_working",
+"gold": "card_not_working",
+"correct": true
+},
+{
+"ref": "dev:160",
+"pred": "extra_charge_on_statement",
+"gold": "card_payment_fee_charged",
+"correct": false
+},
+{
+"ref": "dev:161",
+"pred": "card_payment_fee_charged",
+"gold": "card_payment_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:162",
+"pred": "card_payment_wrong_exchange_rate",
+"gold": "card_payment_fee_charged",
+"correct": false
+},
+{
+"ref": "dev:163",
+"pred": "card_payment_fee_charged",
+"gold": "card_payment_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:164",
+"pred": "card_payment_fee_charged",
+"gold": "card_payment_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:165",
+"pred": "card_payment_fee_charged",
+"gold": "card_payment_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:166",
+"pred": "card_payment_fee_charged",
+"gold": "card_payment_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:167",
+"pred": "card_payment_fee_charged",
+"gold": "card_payment_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:168",
+"pred": "transfer_fee_charged",
+"gold": "card_payment_fee_charged",
+"correct": false
+},
+{
+"ref": "dev:169",
+"pred": "card_payment_fee_charged",
+"gold": "card_payment_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:170",
+"pred": "card_payment_not_recognised",
+"gold": "card_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:171",
+"pred": "card_payment_not_recognised",
+"gold": "card_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:172",
+"pred": "card_payment_not_recognised",
+"gold": "card_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:173",
+"pred": "card_payment_not_recognised",
+"gold": "card_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:174",
+"pred": "card_payment_not_recognised",
+"gold": "card_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:175",
+"pred": "card_payment_not_recognised",
+"gold": "card_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:176",
+"pred": "card_payment_not_recognised",
+"gold": "card_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:177",
+"pred": "card_payment_not_recognised",
+"gold": "card_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:178",
+"pred": "pending_card_payment",
+"gold": "card_payment_not_recognised",
+"correct": false
+},
+{
+"ref": "dev:179",
+"pred": "card_payment_not_recognised",
+"gold": "card_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:180",
+"pred": "card_payment_wrong_exchange_rate",
+"gold": "card_payment_wrong_exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:181",
+"pred": "card_payment_wrong_exchange_rate",
+"gold": "card_payment_wrong_exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:182",
+"pred": "card_payment_wrong_exchange_rate",
+"gold": "card_payment_wrong_exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:183",
+"pred": "card_payment_wrong_exchange_rate",
+"gold": "card_payment_wrong_exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:184",
+"pred": "card_payment_wrong_exchange_rate",
+"gold": "card_payment_wrong_exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:185",
+"pred": "card_payment_wrong_exchange_rate",
+"gold": "card_payment_wrong_exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:186",
+"pred": "card_payment_wrong_exchange_rate",
+"gold": "card_payment_wrong_exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:187",
+"pred": "card_payment_wrong_exchange_rate",
+"gold": "card_payment_wrong_exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:188",
+"pred": "Refund_not_showing_up",
+"gold": "card_payment_wrong_exchange_rate",
+"correct": false
+},
+{
+"ref": "dev:189",
+"pred": "card_payment_wrong_exchange_rate",
+"gold": "card_payment_wrong_exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:190",
+"pred": "card_swallowed",
+"gold": "card_swallowed",
+"correct": true
+},
+{
+"ref": "dev:191",
+"pred": "card_swallowed",
+"gold": "card_swallowed",
+"correct": true
+},
+{
+"ref": "dev:192",
+"pred": "card_swallowed",
+"gold": "card_swallowed",
+"correct": true
+},
+{
+"ref": "dev:193",
+"pred": "card_swallowed",
+"gold": "card_swallowed",
+"correct": true
+},
+{
+"ref": "dev:194",
+"pred": "card_swallowed",
+"gold": "card_swallowed",
+"correct": true
+},
+{
+"ref": "dev:195",
+"pred": "card_swallowed",
+"gold": "card_swallowed",
+"correct": true
+},
+{
+"ref": "dev:196",
+"pred": "card_swallowed",
+"gold": "card_swallowed",
+"correct": true
+},
+{
+"ref": "dev:197",
+"pred": "card_swallowed",
+"gold": "card_swallowed",
+"correct": true
+},
+{
+"ref": "dev:198",
+"pred": "card_swallowed",
+"gold": "card_swallowed",
+"correct": true
+},
+{
+"ref": "dev:199",
+"pred": "card_swallowed",
+"gold": "card_swallowed",
+"correct": true
+},
+{
+"ref": "dev:200",
+"pred": "cash_withdrawal_charge",
+"gold": "cash_withdrawal_charge",
+"correct": true
+},
+{
+"ref": "dev:201",
+"pred": "cash_withdrawal_charge",
+"gold": "cash_withdrawal_charge",
+"correct": true
+},
+{
+"ref": "dev:202",
+"pred": "cash_withdrawal_charge",
+"gold": "cash_withdrawal_charge",
+"correct": true
+},
+{
+"ref": "dev:203",
+"pred": "cash_withdrawal_charge",
+"gold": "cash_withdrawal_charge",
+"correct": true
+},
+{
+"ref": "dev:204",
+"pred": "cash_withdrawal_charge",
+"gold": "cash_withdrawal_charge",
+"correct": true
+},
+{
+"ref": "dev:205",
+"pred": "cash_withdrawal_charge",
+"gold": "cash_withdrawal_charge",
+"correct": true
+},
+{
+"ref": "dev:206",
+"pred": "cash_withdrawal_charge",
+"gold": "cash_withdrawal_charge",
+"correct": true
+},
+{
+"ref": "dev:207",
+"pred": "cash_withdrawal_charge",
+"gold": "cash_withdrawal_charge",
+"correct": true
+},
+{
+"ref": "dev:208",
+"pred": "cash_withdrawal_charge",
+"gold": "cash_withdrawal_charge",
+"correct": true
+},
+{
+"ref": "dev:209",
+"pred": "cash_withdrawal_charge",
+"gold": "cash_withdrawal_charge",
+"correct": true
+},
+{
+"ref": "dev:210",
+"pred": "cash_withdrawal_not_recognised",
+"gold": "cash_withdrawal_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:211",
+"pred": "cash_withdrawal_not_recognised",
+"gold": "cash_withdrawal_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:212",
+"pred": "cash_withdrawal_not_recognised",
+"gold": "cash_withdrawal_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:213",
+"pred": "cash_withdrawal_not_recognised",
+"gold": "cash_withdrawal_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:214",
+"pred": "cash_withdrawal_not_recognised",
+"gold": "cash_withdrawal_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:215",
+"pred": "cash_withdrawal_not_recognised",
+"gold": "cash_withdrawal_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:216",
+"pred": "compromised_card",
+"gold": "cash_withdrawal_not_recognised",
+"correct": false
+},
+{
+"ref": "dev:217",
+"pred": "cash_withdrawal_not_recognised",
+"gold": "cash_withdrawal_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:218",
+"pred": "cash_withdrawal_not_recognised",
+"gold": "cash_withdrawal_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:219",
+"pred": "cash_withdrawal_not_recognised",
+"gold": "cash_withdrawal_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:220",
+"pred": "change_pin",
+"gold": "change_pin",
+"correct": true
+},
+{
+"ref": "dev:221",
+"pred": "change_pin",
+"gold": "change_pin",
+"correct": true
+},
+{
+"ref": "dev:222",
+"pred": "change_pin",
+"gold": "change_pin",
+"correct": true
+},
+{
+"ref": "dev:223",
+"pred": "change_pin",
+"gold": "change_pin",
+"correct": true
+},
+{
+"ref": "dev:224",
+"pred": "change_pin",
+"gold": "change_pin",
+"correct": true
+},
+{
+"ref": "dev:225",
+"pred": "change_pin",
+"gold": "change_pin",
+"correct": true
+},
+{
+"ref": "dev:226",
+"pred": "change_pin",
+"gold": "change_pin",
+"correct": true
+},
+{
+"ref": "dev:227",
+"pred": "change_pin",
+"gold": "change_pin",
+"correct": true
+},
+{
+"ref": "dev:228",
+"pred": "change_pin",
+"gold": "change_pin",
+"correct": true
+},
+{
+"ref": "dev:229",
+"pred": "change_pin",
+"gold": "change_pin",
+"correct": true
+},
+{
+"ref": "dev:230",
+"pred": "compromised_card",
+"gold": "compromised_card",
+"correct": true
+},
+{
+"ref": "dev:231",
+"pred": "cash_withdrawal_not_recognised",
+"gold": "compromised_card",
+"correct": false
+},
+{
+"ref": "dev:232",
+"pred": "compromised_card",
+"gold": "compromised_card",
+"correct": true
+},
+{
+"ref": "dev:233",
+"pred": "compromised_card",
+"gold": "compromised_card",
+"correct": true
+},
+{
+"ref": "dev:234",
+"pred": "compromised_card",
+"gold": "compromised_card",
+"correct": true
+},
+{
+"ref": "dev:235",
+"pred": "compromised_card",
+"gold": "compromised_card",
+"correct": true
+},
+{
+"ref": "dev:236",
+"pred": "compromised_card",
+"gold": "compromised_card",
+"correct": true
+},
+{
+"ref": "dev:237",
+"pred": "compromised_card",
+"gold": "compromised_card",
+"correct": true
+},
+{
+"ref": "dev:238",
+"pred": "compromised_card",
+"gold": "compromised_card",
+"correct": true
+},
+{
+"ref": "dev:239",
+"pred": "compromised_card",
+"gold": "compromised_card",
+"correct": true
+},
+{
+"ref": "dev:240",
+"pred": "contactless_not_working",
+"gold": "contactless_not_working",
+"correct": true
+},
+{
+"ref": "dev:241",
+"pred": "contactless_not_working",
+"gold": "contactless_not_working",
+"correct": true
+},
+{
+"ref": "dev:242",
+"pred": "contactless_not_working",
+"gold": "contactless_not_working",
+"correct": true
+},
+{
+"ref": "dev:243",
+"pred": "contactless_not_working",
+"gold": "contactless_not_working",
+"correct": true
+},
+{
+"ref": "dev:244",
+"pred": "contactless_not_working",
+"gold": "contactless_not_working",
+"correct": true
+},
+{
+"ref": "dev:245",
+"pred": "contactless_not_working",
+"gold": "contactless_not_working",
+"correct": true
+},
+{
+"ref": "dev:246",
+"pred": "contactless_not_working",
+"gold": "contactless_not_working",
+"correct": true
+},
+{
+"ref": "dev:247",
+"pred": "contactless_not_working",
+"gold": "contactless_not_working",
+"correct": true
+},
+{
+"ref": "dev:248",
+"pred": "declined_card_payment",
+"gold": "contactless_not_working",
+"correct": false
+},
+{
+"ref": "dev:249",
+"pred": "contactless_not_working",
+"gold": "contactless_not_working",
+"correct": true
+},
+{
+"ref": "dev:250",
+"pred": "country_support",
+"gold": "country_support",
+"correct": true
+},
+{
+"ref": "dev:251",
+"pred": "card_delivery_estimate",
+"gold": "country_support",
+"correct": false
+},
+{
+"ref": "dev:252",
+"pred": "country_support",
+"gold": "country_support",
+"correct": true
+},
+{
+"ref": "dev:253",
+"pred": "country_support",
+"gold": "country_support",
+"correct": true
+},
+{
+"ref": "dev:254",
+"pred": "country_support",
+"gold": "country_support",
+"correct": true
+},
+{
+"ref": "dev:255",
+"pred": "country_support",
+"gold": "country_support",
+"correct": true
+},
+{
+"ref": "dev:256",
+"pred": "country_support",
+"gold": "country_support",
+"correct": true
+},
+{
+"ref": "dev:257",
+"pred": "country_support",
+"gold": "country_support",
+"correct": true
+},
+{
+"ref": "dev:258",
+"pred": "country_support",
+"gold": "country_support",
+"correct": true
+},
+{
+"ref": "dev:259",
+"pred": "country_support",
+"gold": "country_support",
+"correct": true
+},
+{
+"ref": "dev:260",
+"pred": "declined_card_payment",
+"gold": "declined_card_payment",
+"correct": true
+},
+{
+"ref": "dev:261",
+"pred": "declined_card_payment",
+"gold": "declined_card_payment",
+"correct": true
+},
+{
+"ref": "dev:262",
+"pred": "declined_card_payment",
+"gold": "declined_card_payment",
+"correct": true
+},
+{
+"ref": "dev:263",
+"pred": "declined_card_payment",
+"gold": "declined_card_payment",
+"correct": true
+},
+{
+"ref": "dev:264",
+"pred": "declined_card_payment",
+"gold": "declined_card_payment",
+"correct": true
+},
+{
+"ref": "dev:265",
+"pred": "declined_card_payment",
+"gold": "declined_card_payment",
+"correct": true
+},
+{
+"ref": "dev:266",
+"pred": "declined_card_payment",
+"gold": "declined_card_payment",
+"correct": true
+},
+{
+"ref": "dev:267",
+"pred": "reverted_card_payment?",
+"gold": "declined_card_payment",
+"correct": false
+},
+{
+"ref": "dev:268",
+"pred": "declined_card_payment",
+"gold": "declined_card_payment",
+"correct": true
+},
+{
+"ref": "dev:269",
+"pred": "declined_card_payment",
+"gold": "declined_card_payment",
+"correct": true
+},
+{
+"ref": "dev:270",
+"pred": "declined_cash_withdrawal",
+"gold": "declined_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:271",
+"pred": "declined_cash_withdrawal",
+"gold": "declined_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:272",
+"pred": "declined_cash_withdrawal",
+"gold": "declined_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:273",
+"pred": "declined_cash_withdrawal",
+"gold": "declined_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:274",
+"pred": "declined_cash_withdrawal",
+"gold": "declined_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:275",
+"pred": "declined_cash_withdrawal",
+"gold": "declined_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:276",
+"pred": "declined_cash_withdrawal",
+"gold": "declined_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:277",
+"pred": "declined_cash_withdrawal",
+"gold": "declined_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:278",
+"pred": "declined_cash_withdrawal",
+"gold": "declined_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:279",
+"pred": "declined_cash_withdrawal",
+"gold": "declined_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:280",
+"pred": "declined_transfer",
+"gold": "declined_transfer",
+"correct": true
+},
+{
+"ref": "dev:281",
+"pred": "declined_transfer",
+"gold": "declined_transfer",
+"correct": true
+},
+{
+"ref": "dev:282",
+"pred": "declined_transfer",
+"gold": "declined_transfer",
+"correct": true
+},
+{
+"ref": "dev:283",
+"pred": "declined_transfer",
+"gold": "declined_transfer",
+"correct": true
+},
+{
+"ref": "dev:284",
+"pred": "declined_transfer",
+"gold": "declined_transfer",
+"correct": true
+},
+{
+"ref": "dev:285",
+"pred": "beneficiary_not_allowed",
+"gold": "declined_transfer",
+"correct": false
+},
+{
+"ref": "dev:286",
+"pred": "declined_transfer",
+"gold": "declined_transfer",
+"correct": true
+},
+{
+"ref": "dev:287",
+"pred": "reverted_card_payment?",
+"gold": "declined_transfer",
+"correct": false
+},
+{
+"ref": "dev:288",
+"pred": "declined_transfer",
+"gold": "declined_transfer",
+"correct": true
+},
+{
+"ref": "dev:289",
+"pred": "failed_transfer",
+"gold": "declined_transfer",
+"correct": false
+},
+{
+"ref": "dev:290",
+"pred": "direct_debit_payment_not_recognised",
+"gold": "direct_debit_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:291",
+"pred": "direct_debit_payment_not_recognised",
+"gold": "direct_debit_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:292",
+"pred": "direct_debit_payment_not_recognised",
+"gold": "direct_debit_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:293",
+"pred": "direct_debit_payment_not_recognised",
+"gold": "direct_debit_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:294",
+"pred": "direct_debit_payment_not_recognised",
+"gold": "direct_debit_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:295",
+"pred": "direct_debit_payment_not_recognised",
+"gold": "direct_debit_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:296",
+"pred": "direct_debit_payment_not_recognised",
+"gold": "direct_debit_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:297",
+"pred": "cancel_transfer",
+"gold": "direct_debit_payment_not_recognised",
+"correct": false
+},
+{
+"ref": "dev:298",
+"pred": "direct_debit_payment_not_recognised",
+"gold": "direct_debit_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:299",
+"pred": "direct_debit_payment_not_recognised",
+"gold": "direct_debit_payment_not_recognised",
+"correct": true
+},
+{
+"ref": "dev:300",
+"pred": "disposable_card_limits",
+"gold": "disposable_card_limits",
+"correct": true
+},
+{
+"ref": "dev:301",
+"pred": "disposable_card_limits",
+"gold": "disposable_card_limits",
+"correct": true
+},
+{
+"ref": "dev:302",
+"pred": "disposable_card_limits",
+"gold": "disposable_card_limits",
+"correct": true
+},
+{
+"ref": "dev:303",
+"pred": "disposable_card_limits",
+"gold": "disposable_card_limits",
+"correct": true
+},
+{
+"ref": "dev:304",
+"pred": "disposable_card_limits",
+"gold": "disposable_card_limits",
+"correct": true
+},
+{
+"ref": "dev:305",
+"pred": "disposable_card_limits",
+"gold": "disposable_card_limits",
+"correct": true
+},
+{
+"ref": "dev:306",
+"pred": "disposable_card_limits",
+"gold": "disposable_card_limits",
+"correct": true
+},
+{
+"ref": "dev:307",
+"pred": "disposable_card_limits",
+"gold": "disposable_card_limits",
+"correct": true
+},
+{
+"ref": "dev:308",
+"pred": "getting_virtual_card",
+"gold": "disposable_card_limits",
+"correct": false
+},
+{
+"ref": "dev:309",
+"pred": "disposable_card_limits",
+"gold": "disposable_card_limits",
+"correct": true
+},
+{
+"ref": "dev:310",
+"pred": "edit_personal_details",
+"gold": "edit_personal_details",
+"correct": true
+},
+{
+"ref": "dev:311",
+"pred": "edit_personal_details",
+"gold": "edit_personal_details",
+"correct": true
+},
+{
+"ref": "dev:312",
+"pred": "edit_personal_details",
+"gold": "edit_personal_details",
+"correct": true
+},
+{
+"ref": "dev:313",
+"pred": "edit_personal_details",
+"gold": "edit_personal_details",
+"correct": true
+},
+{
+"ref": "dev:314",
+"pred": "edit_personal_details",
+"gold": "edit_personal_details",
+"correct": true
+},
+{
+"ref": "dev:315",
+"pred": "edit_personal_details",
+"gold": "edit_personal_details",
+"correct": true
+},
+{
+"ref": "dev:316",
+"pred": "edit_personal_details",
+"gold": "edit_personal_details",
+"correct": true
+},
+{
+"ref": "dev:317",
+"pred": "edit_personal_details",
+"gold": "edit_personal_details",
+"correct": true
+},
+{
+"ref": "dev:318",
+"pred": "edit_personal_details",
+"gold": "edit_personal_details",
+"correct": true
+},
+{
+"ref": "dev:319",
+"pred": "edit_personal_details",
+"gold": "edit_personal_details",
+"correct": true
+},
+{
+"ref": "dev:320",
+"pred": "exchange_charge",
+"gold": "exchange_charge",
+"correct": true
+},
+{
+"ref": "dev:321",
+"pred": "exchange_charge",
+"gold": "exchange_charge",
+"correct": true
+},
+{
+"ref": "dev:322",
+"pred": "exchange_charge",
+"gold": "exchange_charge",
+"correct": true
+},
+{
+"ref": "dev:323",
+"pred": "exchange_charge",
+"gold": "exchange_charge",
+"correct": true
+},
+{
+"ref": "dev:324",
+"pred": "exchange_charge",
+"gold": "exchange_charge",
+"correct": true
+},
+{
+"ref": "dev:325",
+"pred": "exchange_charge",
+"gold": "exchange_charge",
+"correct": true
+},
+{
+"ref": "dev:326",
+"pred": "exchange_charge",
+"gold": "exchange_charge",
+"correct": true
+},
+{
+"ref": "dev:327",
+"pred": "exchange_charge",
+"gold": "exchange_charge",
+"correct": true
+},
+{
+"ref": "dev:328",
+"pred": "exchange_charge",
+"gold": "exchange_charge",
+"correct": true
+},
+{
+"ref": "dev:329",
+"pred": "exchange_charge",
+"gold": "exchange_charge",
+"correct": true
+},
+{
+"ref": "dev:330",
+"pred": "exchange_rate",
+"gold": "exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:331",
+"pred": "exchange_rate",
+"gold": "exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:332",
+"pred": "exchange_rate",
+"gold": "exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:333",
+"pred": "exchange_rate",
+"gold": "exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:334",
+"pred": "exchange_rate",
+"gold": "exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:335",
+"pred": "exchange_rate",
+"gold": "exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:336",
+"pred": "exchange_rate",
+"gold": "exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:337",
+"pred": "exchange_rate",
+"gold": "exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:338",
+"pred": "exchange_rate",
+"gold": "exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:339",
+"pred": "exchange_rate",
+"gold": "exchange_rate",
+"correct": true
+},
+{
+"ref": "dev:340",
+"pred": "exchange_via_app",
+"gold": "exchange_via_app",
+"correct": true
+},
+{
+"ref": "dev:341",
+"pred": "exchange_via_app",
+"gold": "exchange_via_app",
+"correct": true
+},
+{
+"ref": "dev:342",
+"pred": "exchange_via_app",
+"gold": "exchange_via_app",
+"correct": true
+},
+{
+"ref": "dev:343",
+"pred": "exchange_via_app",
+"gold": "exchange_via_app",
+"correct": true
+},
+{
+"ref": "dev:344",
+"pred": "exchange_via_app",
+"gold": "exchange_via_app",
+"correct": true
+},
+{
+"ref": "dev:345",
+"pred": "exchange_via_app",
+"gold": "exchange_via_app",
+"correct": true
+},
+{
+"ref": "dev:346",
+"pred": "exchange_via_app",
+"gold": "exchange_via_app",
+"correct": true
+},
+{
+"ref": "dev:347",
+"pred": "exchange_via_app",
+"gold": "exchange_via_app",
+"correct": true
+},
+{
+"ref": "dev:348",
+"pred": "exchange_via_app",
+"gold": "exchange_via_app",
+"correct": true
+},
+{
+"ref": "dev:349",
+"pred": "exchange_via_app",
+"gold": "exchange_via_app",
+"correct": true
+},
+{
+"ref": "dev:350",
+"pred": "extra_charge_on_statement",
+"gold": "extra_charge_on_statement",
+"correct": true
+},
+{
+"ref": "dev:351",
+"pred": "extra_charge_on_statement",
+"gold": "extra_charge_on_statement",
+"correct": true
+},
+{
+"ref": "dev:352",
+"pred": "extra_charge_on_statement",
+"gold": "extra_charge_on_statement",
+"correct": true
+},
+{
+"ref": "dev:353",
+"pred": "extra_charge_on_statement",
+"gold": "extra_charge_on_statement",
+"correct": true
+},
+{
+"ref": "dev:354",
+"pred": "extra_charge_on_statement",
+"gold": "extra_charge_on_statement",
+"correct": true
+},
+{
+"ref": "dev:355",
+"pred": "extra_charge_on_statement",
+"gold": "extra_charge_on_statement",
+"correct": true
+},
+{
+"ref": "dev:356",
+"pred": "extra_charge_on_statement",
+"gold": "extra_charge_on_statement",
+"correct": true
+},
+{
+"ref": "dev:357",
+"pred": "extra_charge_on_statement",
+"gold": "extra_charge_on_statement",
+"correct": true
+},
+{
+"ref": "dev:358",
+"pred": "extra_charge_on_statement",
+"gold": "extra_charge_on_statement",
+"correct": true
+},
+{
+"ref": "dev:359",
+"pred": "extra_charge_on_statement",
+"gold": "extra_charge_on_statement",
+"correct": true
+},
+{
+"ref": "dev:360",
+"pred": "failed_transfer",
+"gold": "failed_transfer",
+"correct": true
+},
+{
+"ref": "dev:361",
+"pred": "failed_transfer",
+"gold": "failed_transfer",
+"correct": true
+},
+{
+"ref": "dev:362",
+"pred": "failed_transfer",
+"gold": "failed_transfer",
+"correct": true
+},
+{
+"ref": "dev:363",
+"pred": "failed_transfer",
+"gold": "failed_transfer",
+"correct": true
+},
+{
+"ref": "dev:364",
+"pred": "failed_transfer",
+"gold": "failed_transfer",
+"correct": true
+},
+{
+"ref": "dev:365",
+"pred": "failed_transfer",
+"gold": "failed_transfer",
+"correct": true
+},
+{
+"ref": "dev:366",
+"pred": "beneficiary_not_allowed",
+"gold": "failed_transfer",
+"correct": false
+},
+{
+"ref": "dev:367",
+"pred": "failed_transfer",
+"gold": "failed_transfer",
+"correct": true
+},
+{
+"ref": "dev:368",
+"pred": "failed_transfer",
+"gold": "failed_transfer",
+"correct": true
+},
+{
+"ref": "dev:369",
+"pred": "failed_transfer",
+"gold": "failed_transfer",
+"correct": true
+},
+{
+"ref": "dev:370",
+"pred": "fiat_currency_support",
+"gold": "fiat_currency_support",
+"correct": true
+},
+{
+"ref": "dev:371",
+"pred": "fiat_currency_support",
+"gold": "fiat_currency_support",
+"correct": true
+},
+{
+"ref": "dev:372",
+"pred": "exchange_via_app",
+"gold": "fiat_currency_support",
+"correct": false
+},
+{
+"ref": "dev:373",
+"pred": "exchange_via_app",
+"gold": "fiat_currency_support",
+"correct": false
+},
+{
+"ref": "dev:374",
+"pred": "fiat_currency_support",
+"gold": "fiat_currency_support",
+"correct": true
+},
+{
+"ref": "dev:375",
+"pred": "fiat_currency_support",
+"gold": "fiat_currency_support",
+"correct": true
+},
+{
+"ref": "dev:376",
+"pred": "fiat_currency_support",
+"gold": "fiat_currency_support",
+"correct": true
+},
+{
+"ref": "dev:377",
+"pred": "fiat_currency_support",
+"gold": "fiat_currency_support",
+"correct": true
+},
+{
+"ref": "dev:378",
+"pred": "fiat_currency_support",
+"gold": "fiat_currency_support",
+"correct": true
+},
+{
+"ref": "dev:379",
+"pred": "fiat_currency_support",
+"gold": "fiat_currency_support",
+"correct": true
+},
+{
+"ref": "dev:380",
+"pred": "get_disposable_virtual_card",
+"gold": "get_disposable_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:381",
+"pred": "get_disposable_virtual_card",
+"gold": "get_disposable_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:382",
+"pred": "get_disposable_virtual_card",
+"gold": "get_disposable_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:383",
+"pred": "get_disposable_virtual_card",
+"gold": "get_disposable_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:384",
+"pred": "get_disposable_virtual_card",
+"gold": "get_disposable_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:385",
+"pred": "get_disposable_virtual_card",
+"gold": "get_disposable_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:386",
+"pred": "get_disposable_virtual_card",
+"gold": "get_disposable_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:387",
+"pred": "virtual_card_not_working",
+"gold": "get_disposable_virtual_card",
+"correct": false
+},
+{
+"ref": "dev:388",
+"pred": "get_disposable_virtual_card",
+"gold": "get_disposable_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:389",
+"pred": "get_disposable_virtual_card",
+"gold": "get_disposable_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:390",
+"pred": "get_physical_card",
+"gold": "get_physical_card",
+"correct": true
+},
+{
+"ref": "dev:391",
+"pred": "get_physical_card",
+"gold": "get_physical_card",
+"correct": true
+},
+{
+"ref": "dev:392",
+"pred": "get_physical_card",
+"gold": "get_physical_card",
+"correct": true
+},
+{
+"ref": "dev:393",
+"pred": "get_physical_card",
+"gold": "get_physical_card",
+"correct": true
+},
+{
+"ref": "dev:394",
+"pred": "get_physical_card",
+"gold": "get_physical_card",
+"correct": true
+},
+{
+"ref": "dev:395",
+"pred": "get_physical_card",
+"gold": "get_physical_card",
+"correct": true
+},
+{
+"ref": "dev:396",
+"pred": "get_physical_card",
+"gold": "get_physical_card",
+"correct": true
+},
+{
+"ref": "dev:397",
+"pred": "activate_my_card",
+"gold": "get_physical_card",
+"correct": false
+},
+{
+"ref": "dev:398",
+"pred": "get_physical_card",
+"gold": "get_physical_card",
+"correct": true
+},
+{
+"ref": "dev:399",
+"pred": "get_physical_card",
+"gold": "get_physical_card",
+"correct": true
+},
+{
+"ref": "dev:400",
+"pred": "getting_spare_card",
+"gold": "getting_spare_card",
+"correct": true
+},
+{
+"ref": "dev:401",
+"pred": "getting_spare_card",
+"gold": "getting_spare_card",
+"correct": true
+},
+{
+"ref": "dev:402",
+"pred": "getting_spare_card",
+"gold": "getting_spare_card",
+"correct": true
+},
+{
+"ref": "dev:403",
+"pred": "getting_spare_card",
+"gold": "getting_spare_card",
+"correct": true
+},
+{
+"ref": "dev:404",
+"pred": "getting_spare_card",
+"gold": "getting_spare_card",
+"correct": true
+},
+{
+"ref": "dev:405",
+"pred": "getting_spare_card",
+"gold": "getting_spare_card",
+"correct": true
+},
+{
+"ref": "dev:406",
+"pred": "getting_spare_card",
+"gold": "getting_spare_card",
+"correct": true
+},
+{
+"ref": "dev:407",
+"pred": "getting_spare_card",
+"gold": "getting_spare_card",
+"correct": true
+},
+{
+"ref": "dev:408",
+"pred": "getting_spare_card",
+"gold": "getting_spare_card",
+"correct": true
+},
+{
+"ref": "dev:409",
+"pred": "getting_spare_card",
+"gold": "getting_spare_card",
+"correct": true
+},
+{
+"ref": "dev:410",
+"pred": "getting_virtual_card",
+"gold": "getting_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:411",
+"pred": "getting_virtual_card",
+"gold": "getting_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:412",
+"pred": "getting_virtual_card",
+"gold": "getting_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:413",
+"pred": "getting_virtual_card",
+"gold": "getting_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:414",
+"pred": "getting_virtual_card",
+"gold": "getting_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:415",
+"pred": "getting_virtual_card",
+"gold": "getting_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:416",
+"pred": "getting_virtual_card",
+"gold": "getting_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:417",
+"pred": "getting_virtual_card",
+"gold": "getting_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:418",
+"pred": "getting_virtual_card",
+"gold": "getting_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:419",
+"pred": "getting_virtual_card",
+"gold": "getting_virtual_card",
+"correct": true
+},
+{
+"ref": "dev:420",
+"pred": "lost_or_stolen_card",
+"gold": "lost_or_stolen_card",
+"correct": true
+},
+{
+"ref": "dev:421",
+"pred": "lost_or_stolen_card",
+"gold": "lost_or_stolen_card",
+"correct": true
+},
+{
+"ref": "dev:422",
+"pred": "lost_or_stolen_card",
+"gold": "lost_or_stolen_card",
+"correct": true
+},
+{
+"ref": "dev:423",
+"pred": "lost_or_stolen_card",
+"gold": "lost_or_stolen_card",
+"correct": true
+},
+{
+"ref": "dev:424",
+"pred": "lost_or_stolen_card",
+"gold": "lost_or_stolen_card",
+"correct": true
+},
+{
+"ref": "dev:425",
+"pred": "lost_or_stolen_card",
+"gold": "lost_or_stolen_card",
+"correct": true
+},
+{
+"ref": "dev:426",
+"pred": "lost_or_stolen_card",
+"gold": "lost_or_stolen_card",
+"correct": true
+},
+{
+"ref": "dev:427",
+"pred": "lost_or_stolen_card",
+"gold": "lost_or_stolen_card",
+"correct": true
+},
+{
+"ref": "dev:428",
+"pred": "lost_or_stolen_card",
+"gold": "lost_or_stolen_card",
+"correct": true
+},
+{
+"ref": "dev:429",
+"pred": "lost_or_stolen_card",
+"gold": "lost_or_stolen_card",
+"correct": true
+},
+{
+"ref": "dev:430",
+"pred": "lost_or_stolen_phone",
+"gold": "lost_or_stolen_phone",
+"correct": true
+},
+{
+"ref": "dev:431",
+"pred": "lost_or_stolen_phone",
+"gold": "lost_or_stolen_phone",
+"correct": true
+},
+{
+"ref": "dev:432",
+"pred": "lost_or_stolen_phone",
+"gold": "lost_or_stolen_phone",
+"correct": true
+},
+{
+"ref": "dev:433",
+"pred": "lost_or_stolen_phone",
+"gold": "lost_or_stolen_phone",
+"correct": true
+},
+{
+"ref": "dev:434",
+"pred": "lost_or_stolen_phone",
+"gold": "lost_or_stolen_phone",
+"correct": true
+},
+{
+"ref": "dev:435",
+"pred": "lost_or_stolen_phone",
+"gold": "lost_or_stolen_phone",
+"correct": true
+},
+{
+"ref": "dev:436",
+"pred": "lost_or_stolen_card",
+"gold": "lost_or_stolen_phone",
+"correct": false
+},
+{
+"ref": "dev:437",
+"pred": "lost_or_stolen_phone",
+"gold": "lost_or_stolen_phone",
+"correct": true
+},
+{
+"ref": "dev:438",
+"pred": "lost_or_stolen_card",
+"gold": "lost_or_stolen_phone",
+"correct": false
+},
+{
+"ref": "dev:439",
+"pred": "lost_or_stolen_phone",
+"gold": "lost_or_stolen_phone",
+"correct": true
+},
+{
+"ref": "dev:440",
+"pred": "order_physical_card",
+"gold": "order_physical_card",
+"correct": true
+},
+{
+"ref": "dev:441",
+"pred": "order_physical_card",
+"gold": "order_physical_card",
+"correct": true
+},
+{
+"ref": "dev:442",
+"pred": "card_about_to_expire",
+"gold": "order_physical_card",
+"correct": false
+},
+{
+"ref": "dev:443",
+"pred": "order_physical_card",
+"gold": "order_physical_card",
+"correct": true
+},
+{
+"ref": "dev:444",
+"pred": "card_delivery_estimate",
+"gold": "order_physical_card",
+"correct": false
+},
+{
+"ref": "dev:445",
+"pred": "order_physical_card",
+"gold": "order_physical_card",
+"correct": true
+},
+{
+"ref": "dev:446",
+"pred": "order_physical_card",
+"gold": "order_physical_card",
+"correct": true
+},
+{
+"ref": "dev:447",
+"pred": "card_delivery_estimate",
+"gold": "order_physical_card",
+"correct": false
+},
+{
+"ref": "dev:448",
+"pred": "order_physical_card",
+"gold": "order_physical_card",
+"correct": true
+},
+{
+"ref": "dev:449",
+"pred": "order_physical_card",
+"gold": "order_physical_card",
+"correct": true
+},
+{
+"ref": "dev:450",
+"pred": "passcode_forgotten",
+"gold": "passcode_forgotten",
+"correct": true
+},
+{
+"ref": "dev:451",
+"pred": "passcode_forgotten",
+"gold": "passcode_forgotten",
+"correct": true
+},
+{
+"ref": "dev:452",
+"pred": "passcode_forgotten",
+"gold": "passcode_forgotten",
+"correct": true
+},
+{
+"ref": "dev:453",
+"pred": "verify_top_up",
+"gold": "passcode_forgotten",
+"correct": false
+},
+{
+"ref": "dev:454",
+"pred": "The intent of this banking customer message is: Account Access Issue.",
+"gold": "passcode_forgotten",
+"correct": false
+},
+{
+"ref": "dev:455",
+"pred": "passcode_forgotten",
+"gold": "passcode_forgotten",
+"correct": true
+},
+{
+"ref": "dev:456",
+"pred": "passcode_forgotten",
+"gold": "passcode_forgotten",
+"correct": true
+},
+{
+"ref": "dev:457",
+"pred": "passcode_forgotten",
+"gold": "passcode_forgotten",
+"correct": true
+},
+{
+"ref": "dev:458",
+"pred": "passcode_forgotten",
+"gold": "passcode_forgotten",
+"correct": true
+},
+{
+"ref": "dev:459",
+"pred": "passcode_forgotten",
+"gold": "passcode_forgotten",
+"correct": true
+},
+{
+"ref": "dev:460",
+"pred": "pending_card_payment",
+"gold": "pending_card_payment",
+"correct": true
+},
+{
+"ref": "dev:461",
+"pred": "pending_card_payment",
+"gold": "pending_card_payment",
+"correct": true
+},
+{
+"ref": "dev:462",
+"pred": "pending_card_payment",
+"gold": "pending_card_payment",
+"correct": true
+},
+{
+"ref": "dev:463",
+"pred": "pending_card_payment",
+"gold": "pending_card_payment",
+"correct": true
+},
+{
+"ref": "dev:464",
+"pred": "pending_card_payment",
+"gold": "pending_card_payment",
+"correct": true
+},
+{
+"ref": "dev:465",
+"pred": "pending_card_payment",
+"gold": "pending_card_payment",
+"correct": true
+},
+{
+"ref": "dev:466",
+"pred": "transfer_not_received_by_recipient",
+"gold": "pending_card_payment",
+"correct": false
+},
+{
+"ref": "dev:467",
+"pred": "pending_card_payment",
+"gold": "pending_card_payment",
+"correct": true
+},
+{
+"ref": "dev:468",
+"pred": "pending_card_payment",
+"gold": "pending_card_payment",
+"correct": true
+},
+{
+"ref": "dev:469",
+"pred": "pending_card_payment",
+"gold": "pending_card_payment",
+"correct": true
+},
+{
+"ref": "dev:470",
+"pred": "pending_cash_withdrawal",
+"gold": "pending_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:471",
+"pred": "pending_cash_withdrawal",
+"gold": "pending_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:472",
+"pred": "pending_cash_withdrawal",
+"gold": "pending_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:473",
+"pred": "pending_cash_withdrawal",
+"gold": "pending_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:474",
+"pred": "pending_cash_withdrawal",
+"gold": "pending_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:475",
+"pred": "balance_not_updated_after_cheque_or_cash_deposit",
+"gold": "pending_cash_withdrawal",
+"correct": false
+},
+{
+"ref": "dev:476",
+"pred": "pending_cash_withdrawal",
+"gold": "pending_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:477",
+"pred": "pending_transfer",
+"gold": "pending_cash_withdrawal",
+"correct": false
+},
+{
+"ref": "dev:478",
+"pred": "pending_cash_withdrawal",
+"gold": "pending_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:479",
+"pred": "pending_cash_withdrawal",
+"gold": "pending_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:480",
+"pred": "balance_not_updated_after_cheque_or_cash_deposit",
+"gold": "pending_top_up",
+"correct": false
+},
+{
+"ref": "dev:481",
+"pred": "pending_top_up",
+"gold": "pending_top_up",
+"correct": true
+},
+{
+"ref": "dev:482",
+"pred": "pending_top_up",
+"gold": "pending_top_up",
+"correct": true
+},
+{
+"ref": "dev:483",
+"pred": "pending_top_up",
+"gold": "pending_top_up",
+"correct": true
+},
+{
+"ref": "dev:484",
+"pred": "top_up_failed",
+"gold": "pending_top_up",
+"correct": false
+},
+{
+"ref": "dev:485",
+"pred": "pending_top_up",
+"gold": "pending_top_up",
+"correct": true
+},
+{
+"ref": "dev:486",
+"pred": "pending_top_up",
+"gold": "pending_top_up",
+"correct": true
+},
+{
+"ref": "dev:487",
+"pred": "balance_not_updated_after_cheque_or_cash_deposit",
+"gold": "pending_top_up",
+"correct": false
+},
+{
+"ref": "dev:488",
+"pred": "pending_top_up",
+"gold": "pending_top_up",
+"correct": true
+},
+{
+"ref": "dev:489",
+"pred": "pending_top_up",
+"gold": "pending_top_up",
+"correct": true
+},
+{
+"ref": "dev:490",
+"pred": "transfer_timing",
+"gold": "pending_transfer",
+"correct": false
+},
+{
+"ref": "dev:491",
+"pred": "pending_cash_withdrawal",
+"gold": "pending_transfer",
+"correct": false
+},
+{
+"ref": "dev:492",
+"pred": "The intent of this banking customer message is: \"Request for Estimated Time of Completion\" or more specifically, \"Request for",
+"gold": "pending_transfer",
+"correct": false
+},
+{
+"ref": "dev:493",
+"pred": "pending_transfer",
+"gold": "pending_transfer",
+"correct": true
+},
+{
+"ref": "dev:494",
+"pred": "pending_transfer",
+"gold": "pending_transfer",
+"correct": true
+},
+{
+"ref": "dev:495",
+"pred": "pending_transfer",
+"gold": "pending_transfer",
+"correct": true
+},
+{
+"ref": "dev:496",
+"pred": "pending_transfer",
+"gold": "pending_transfer",
+"correct": true
+},
+{
+"ref": "dev:497",
+"pred": "pending_transfer",
+"gold": "pending_transfer",
+"correct": true
+},
+{
+"ref": "dev:498",
+"pred": "pending_transfer",
+"gold": "pending_transfer",
+"correct": true
+},
+{
+"ref": "dev:499",
+"pred": "balance_not_updated_after_bank_transfer",
+"gold": "pending_transfer",
+"correct": false
+},
+{
+"ref": "dev:500",
+"pred": "pin_blocked",
+"gold": "pin_blocked",
+"correct": true
+},
+{
+"ref": "dev:501",
+"pred": "pin_blocked",
+"gold": "pin_blocked",
+"correct": true
+},
+{
+"ref": "dev:502",
+"pred": "card_swallowed",
+"gold": "pin_blocked",
+"correct": false
+},
+{
+"ref": "dev:503",
+"pred": "get_physical_card",
+"gold": "pin_blocked",
+"correct": false
+},
+{
+"ref": "dev:504",
+"pred": "pin_blocked",
+"gold": "pin_blocked",
+"correct": true
+},
+{
+"ref": "dev:505",
+"pred": "pin_blocked",
+"gold": "pin_blocked",
+"correct": true
+},
+{
+"ref": "dev:506",
+"pred": "pin_blocked",
+"gold": "pin_blocked",
+"correct": true
+},
+{
+"ref": "dev:507",
+"pred": "pin_blocked",
+"gold": "pin_blocked",
+"correct": true
+},
+{
+"ref": "dev:508",
+"pred": "pin_blocked",
+"gold": "pin_blocked",
+"correct": true
+},
+{
+"ref": "dev:509",
+"pred": "pin_blocked",
+"gold": "pin_blocked",
+"correct": true
+},
+{
+"ref": "dev:510",
+"pred": "receiving_money",
+"gold": "receiving_money",
+"correct": true
+},
+{
+"ref": "dev:511",
+"pred": "receiving_money",
+"gold": "receiving_money",
+"correct": true
+},
+{
+"ref": "dev:512",
+"pred": "receiving_money",
+"gold": "receiving_money",
+"correct": true
+},
+{
+"ref": "dev:513",
+"pred": "receiving_money",
+"gold": "receiving_money",
+"correct": true
+},
+{
+"ref": "dev:514",
+"pred": "receiving_money",
+"gold": "receiving_money",
+"correct": true
+},
+{
+"ref": "dev:515",
+"pred": "receiving_money",
+"gold": "receiving_money",
+"correct": true
+},
+{
+"ref": "dev:516",
+"pred": "receiving_money",
+"gold": "receiving_money",
+"correct": true
+},
+{
+"ref": "dev:517",
+"pred": "receiving_money",
+"gold": "receiving_money",
+"correct": true
+},
+{
+"ref": "dev:518",
+"pred": "exchange_via_app",
+"gold": "receiving_money",
+"correct": false
+},
+{
+"ref": "dev:519",
+"pred": "receiving_money",
+"gold": "receiving_money",
+"correct": true
+},
+{
+"ref": "dev:520",
+"pred": "request_refund",
+"gold": "request_refund",
+"correct": true
+},
+{
+"ref": "dev:521",
+"pred": "request_refund",
+"gold": "request_refund",
+"correct": true
+},
+{
+"ref": "dev:522",
+"pred": "request_refund",
+"gold": "request_refund",
+"correct": true
+},
+{
+"ref": "dev:523",
+"pred": "request_refund",
+"gold": "request_refund",
+"correct": true
+},
+{
+"ref": "dev:524",
+"pred": "request_refund",
+"gold": "request_refund",
+"correct": true
+},
+{
+"ref": "dev:525",
+"pred": "request_refund",
+"gold": "request_refund",
+"correct": true
+},
+{
+"ref": "dev:526",
+"pred": "request_refund",
+"gold": "request_refund",
+"correct": true
+},
+{
+"ref": "dev:527",
+"pred": "request_refund",
+"gold": "request_refund",
+"correct": true
+},
+{
+"ref": "dev:528",
+"pred": "request_refund",
+"gold": "request_refund",
+"correct": true
+},
+{
+"ref": "dev:529",
+"pred": "request_refund",
+"gold": "request_refund",
+"correct": true
+},
+{
+"ref": "dev:530",
+"pred": "reverted_card_payment?",
+"gold": "reverted_card_payment?",
+"correct": true
+},
+{
+"ref": "dev:531",
+"pred": "reverted_card_payment?",
+"gold": "reverted_card_payment?",
+"correct": true
+},
+{
+"ref": "dev:532",
+"pred": "reverted_card_payment?",
+"gold": "reverted_card_payment?",
+"correct": true
+},
+{
+"ref": "dev:533",
+"pred": "declined_card_payment",
+"gold": "reverted_card_payment?",
+"correct": false
+},
+{
+"ref": "dev:534",
+"pred": "reverted_card_payment?",
+"gold": "reverted_card_payment?",
+"correct": true
+},
+{
+"ref": "dev:535",
+"pred": "reverted_card_payment?",
+"gold": "reverted_card_payment?",
+"correct": true
+},
+{
+"ref": "dev:536",
+"pred": "reverted_card_payment?",
+"gold": "reverted_card_payment?",
+"correct": true
+},
+{
+"ref": "dev:537",
+"pred": "reverted_card_payment?",
+"gold": "reverted_card_payment?",
+"correct": true
+},
+{
+"ref": "dev:538",
+"pred": "reverted_card_payment?",
+"gold": "reverted_card_payment?",
+"correct": true
+},
+{
+"ref": "dev:539",
+"pred": "reverted_card_payment?",
+"gold": "reverted_card_payment?",
+"correct": true
+},
+{
+"ref": "dev:540",
+"pred": "supported_cards_and_currencies",
+"gold": "supported_cards_and_currencies",
+"correct": true
+},
+{
+"ref": "dev:541",
+"pred": "supported_cards_and_currencies",
+"gold": "supported_cards_and_currencies",
+"correct": true
+},
+{
+"ref": "dev:542",
+"pred": "supported_cards_and_currencies",
+"gold": "supported_cards_and_currencies",
+"correct": true
+},
+{
+"ref": "dev:543",
+"pred": "supported_cards_and_currencies",
+"gold": "supported_cards_and_currencies",
+"correct": true
+},
+{
+"ref": "dev:544",
+"pred": "supported_cards_and_currencies",
+"gold": "supported_cards_and_currencies",
+"correct": true
+},
+{
+"ref": "dev:545",
+"pred": "supported_cards_and_currencies",
+"gold": "supported_cards_and_currencies",
+"correct": true
+},
+{
+"ref": "dev:546",
+"pred": "supported_cards_and_currencies",
+"gold": "supported_cards_and_currencies",
+"correct": true
+},
+{
+"ref": "dev:547",
+"pred": "Refund_not_showing_up",
+"gold": "supported_cards_and_currencies",
+"correct": false
+},
+{
+"ref": "dev:548",
+"pred": "supported_cards_and_currencies",
+"gold": "supported_cards_and_currencies",
+"correct": true
+},
+{
+"ref": "dev:549",
+"pred": "The intent of this banking customer message is: \"Informational Inquiry\" or more specifically \"Account Eligibility\". \n\nThe",
+"gold": "supported_cards_and_currencies",
+"correct": false
+},
+{
+"ref": "dev:550",
+"pred": "terminate_account",
+"gold": "terminate_account",
+"correct": true
+},
+{
+"ref": "dev:551",
+"pred": "terminate_account",
+"gold": "terminate_account",
+"correct": true
+},
+{
+"ref": "dev:552",
+"pred": "terminate_account",
+"gold": "terminate_account",
+"correct": true
+},
+{
+"ref": "dev:553",
+"pred": "terminate_account",
+"gold": "terminate_account",
+"correct": true
+},
+{
+"ref": "dev:554",
+"pred": "terminate_account",
+"gold": "terminate_account",
+"correct": true
+},
+{
+"ref": "dev:555",
+"pred": "terminate_account",
+"gold": "terminate_account",
+"correct": true
+},
+{
+"ref": "dev:556",
+"pred": "terminate_account",
+"gold": "terminate_account",
+"correct": true
+},
+{
+"ref": "dev:557",
+"pred": "terminate_account",
+"gold": "terminate_account",
+"correct": true
+},
+{
+"ref": "dev:558",
+"pred": "terminate_account",
+"gold": "terminate_account",
+"correct": true
+},
+{
+"ref": "dev:559",
+"pred": "terminate_account",
+"gold": "terminate_account",
+"correct": true
+},
+{
+"ref": "dev:560",
+"pred": "top_up_by_bank_transfer_charge",
+"gold": "top_up_by_bank_transfer_charge",
+"correct": true
+},
+{
+"ref": "dev:561",
+"pred": "top_up_by_bank_transfer_charge",
+"gold": "top_up_by_bank_transfer_charge",
+"correct": true
+},
+{
+"ref": "dev:562",
+"pred": "top_up_by_bank_transfer_charge",
+"gold": "top_up_by_bank_transfer_charge",
+"correct": true
+},
+{
+"ref": "dev:563",
+"pred": "top_up_by_bank_transfer_charge",
+"gold": "top_up_by_bank_transfer_charge",
+"correct": true
+},
+{
+"ref": "dev:564",
+"pred": "top_up_by_bank_transfer_charge",
+"gold": "top_up_by_bank_transfer_charge",
+"correct": true
+},
+{
+"ref": "dev:565",
+"pred": "top_up_by_bank_transfer_charge",
+"gold": "top_up_by_bank_transfer_charge",
+"correct": true
+},
+{
+"ref": "dev:566",
+"pred": "top_up_by_bank_transfer_charge",
+"gold": "top_up_by_bank_transfer_charge",
+"correct": true
+},
+{
+"ref": "dev:567",
+"pred": "top_up_by_bank_transfer_charge",
+"gold": "top_up_by_bank_transfer_charge",
+"correct": true
+},
+{
+"ref": "dev:568",
+"pred": "top_up_by_bank_transfer_charge",
+"gold": "top_up_by_bank_transfer_charge",
+"correct": true
+},
+{
+"ref": "dev:569",
+"pred": "top_up_by_bank_transfer_charge",
+"gold": "top_up_by_bank_transfer_charge",
+"correct": true
+},
+{
+"ref": "dev:570",
+"pred": "top_up_by_card_charge",
+"gold": "top_up_by_card_charge",
+"correct": true
+},
+{
+"ref": "dev:571",
+"pred": "top_up_by_card_charge",
+"gold": "top_up_by_card_charge",
+"correct": true
+},
+{
+"ref": "dev:572",
+"pred": "top_up_by_card_charge",
+"gold": "top_up_by_card_charge",
+"correct": true
+},
+{
+"ref": "dev:573",
+"pred": "top_up_by_card_charge",
+"gold": "top_up_by_card_charge",
+"correct": true
+},
+{
+"ref": "dev:574",
+"pred": "top_up_by_card_charge",
+"gold": "top_up_by_card_charge",
+"correct": true
+},
+{
+"ref": "dev:575",
+"pred": "top_up_by_card_charge",
+"gold": "top_up_by_card_charge",
+"correct": true
+},
+{
+"ref": "dev:576",
+"pred": "top_up_by_card_charge",
+"gold": "top_up_by_card_charge",
+"correct": true
+},
+{
+"ref": "dev:577",
+"pred": "top_up_by_card_charge",
+"gold": "top_up_by_card_charge",
+"correct": true
+},
+{
+"ref": "dev:578",
+"pred": "top_up_by_card_charge",
+"gold": "top_up_by_card_charge",
+"correct": true
+},
+{
+"ref": "dev:579",
+"pred": "top_up_by_card_charge",
+"gold": "top_up_by_card_charge",
+"correct": true
+},
+{
+"ref": "dev:580",
+"pred": "top_up_by_cash_or_cheque",
+"gold": "top_up_by_cash_or_cheque",
+"correct": true
+},
+{
+"ref": "dev:581",
+"pred": "top_up_by_cash_or_cheque",
+"gold": "top_up_by_cash_or_cheque",
+"correct": true
+},
+{
+"ref": "dev:582",
+"pred": "top_up_by_cash_or_cheque",
+"gold": "top_up_by_cash_or_cheque",
+"correct": true
+},
+{
+"ref": "dev:583",
+"pred": "top_up_by_cash_or_cheque",
+"gold": "top_up_by_cash_or_cheque",
+"correct": true
+},
+{
+"ref": "dev:584",
+"pred": "top_up_by_cash_or_cheque",
+"gold": "top_up_by_cash_or_cheque",
+"correct": true
+},
+{
+"ref": "dev:585",
+"pred": "top_up_by_cash_or_cheque",
+"gold": "top_up_by_cash_or_cheque",
+"correct": true
+},
+{
+"ref": "dev:586",
+"pred": "top_up_by_cash_or_cheque",
+"gold": "top_up_by_cash_or_cheque",
+"correct": true
+},
+{
+"ref": "dev:587",
+"pred": "top_up_by_cash_or_cheque",
+"gold": "top_up_by_cash_or_cheque",
+"correct": true
+},
+{
+"ref": "dev:588",
+"pred": "top_up_by_cash_or_cheque",
+"gold": "top_up_by_cash_or_cheque",
+"correct": true
+},
+{
+"ref": "dev:589",
+"pred": "top_up_by_cash_or_cheque",
+"gold": "top_up_by_cash_or_cheque",
+"correct": true
+},
+{
+"ref": "dev:590",
+"pred": "top_up_failed",
+"gold": "top_up_failed",
+"correct": true
+},
+{
+"ref": "dev:591",
+"pred": "declined_card_payment",
+"gold": "top_up_failed",
+"correct": false
+},
+{
+"ref": "dev:592",
+"pred": "top_up_failed",
+"gold": "top_up_failed",
+"correct": true
+},
+{
+"ref": "dev:593",
+"pred": "top_up_failed",
+"gold": "top_up_failed",
+"correct": true
+},
+{
+"ref": "dev:594",
+"pred": "pending_top_up",
+"gold": "top_up_failed",
+"correct": false
+},
+{
+"ref": "dev:595",
+"pred": "top_up_reverted",
+"gold": "top_up_failed",
+"correct": false
+},
+{
+"ref": "dev:596",
+"pred": "top_up_failed",
+"gold": "top_up_failed",
+"correct": true
+},
+{
+"ref": "dev:597",
+"pred": "top_up_reverted",
+"gold": "top_up_failed",
+"correct": false
+},
+{
+"ref": "dev:598",
+"pred": "top_up_failed",
+"gold": "top_up_failed",
+"correct": true
+},
+{
+"ref": "dev:599",
+"pred": "top_up_failed",
+"gold": "top_up_failed",
+"correct": true
+},
+{
+"ref": "dev:600",
+"pred": "top_up_limits",
+"gold": "top_up_limits",
+"correct": true
+},
+{
+"ref": "dev:601",
+"pred": "top_up_limits",
+"gold": "top_up_limits",
+"correct": true
+},
+{
+"ref": "dev:602",
+"pred": "top_up_limits",
+"gold": "top_up_limits",
+"correct": true
+},
+{
+"ref": "dev:603",
+"pred": "top_up_limits",
+"gold": "top_up_limits",
+"correct": true
+},
+{
+"ref": "dev:604",
+"pred": "top_up_limits",
+"gold": "top_up_limits",
+"correct": true
+},
+{
+"ref": "dev:605",
+"pred": "top_up_limits",
+"gold": "top_up_limits",
+"correct": true
+},
+{
+"ref": "dev:606",
+"pred": "top_up_limits",
+"gold": "top_up_limits",
+"correct": true
+},
+{
+"ref": "dev:607",
+"pred": "top_up_limits",
+"gold": "top_up_limits",
+"correct": true
+},
+{
+"ref": "dev:608",
+"pred": "top_up_limits",
+"gold": "top_up_limits",
+"correct": true
+},
+{
+"ref": "dev:609",
+"pred": "top_up_by_card_charge",
+"gold": "top_up_limits",
+"correct": false
+},
+{
+"ref": "dev:610",
+"pred": "top_up_reverted",
+"gold": "top_up_reverted",
+"correct": true
+},
+{
+"ref": "dev:611",
+"pred": "top_up_reverted",
+"gold": "top_up_reverted",
+"correct": true
+},
+{
+"ref": "dev:612",
+"pred": "top_up_reverted",
+"gold": "top_up_reverted",
+"correct": true
+},
+{
+"ref": "dev:613",
+"pred": "top_up_failed",
+"gold": "top_up_reverted",
+"correct": false
+},
+{
+"ref": "dev:614",
+"pred": "top_up_reverted",
+"gold": "top_up_reverted",
+"correct": true
+},
+{
+"ref": "dev:615",
+"pred": "top_up_reverted",
+"gold": "top_up_reverted",
+"correct": true
+},
+{
+"ref": "dev:616",
+"pred": "top_up_reverted",
+"gold": "top_up_reverted",
+"correct": true
+},
+{
+"ref": "dev:617",
+"pred": "The intent of this banking customer message is: \"Account Balance Issue\" or more specifically, \"Transaction Not Reflected in",
+"gold": "top_up_reverted",
+"correct": false
+},
+{
+"ref": "dev:618",
+"pred": "top_up_failed",
+"gold": "top_up_reverted",
+"correct": false
+},
+{
+"ref": "dev:619",
+"pred": "top_up_reverted",
+"gold": "top_up_reverted",
+"correct": true
+},
+{
+"ref": "dev:620",
+"pred": "topping_up_by_card",
+"gold": "topping_up_by_card",
+"correct": true
+},
+{
+"ref": "dev:621",
+"pred": "topping_up_by_card",
+"gold": "topping_up_by_card",
+"correct": true
+},
+{
+"ref": "dev:622",
+"pred": "topping_up_by_card",
+"gold": "topping_up_by_card",
+"correct": true
+},
+{
+"ref": "dev:623",
+"pred": "top_up_by_card",
+"gold": "topping_up_by_card",
+"correct": false
+},
+{
+"ref": "dev:624",
+"pred": "topping_up_by_card",
+"gold": "topping_up_by_card",
+"correct": true
+},
+{
+"ref": "dev:625",
+"pred": "top_up_reverted",
+"gold": "topping_up_by_card",
+"correct": false
+},
+{
+"ref": "dev:626",
+"pred": "topping_up_by_card",
+"gold": "topping_up_by_card",
+"correct": true
+},
+{
+"ref": "dev:627",
+"pred": "top_up_reverted",
+"gold": "topping_up_by_card",
+"correct": false
+},
+{
+"ref": "dev:628",
+"pred": "topping_up_by_card",
+"gold": "topping_up_by_card",
+"correct": true
+},
+{
+"ref": "dev:629",
+"pred": "top_up_by_card",
+"gold": "topping_up_by_card",
+"correct": false
+},
+{
+"ref": "dev:630",
+"pred": "transaction_charged_twice",
+"gold": "transaction_charged_twice",
+"correct": true
+},
+{
+"ref": "dev:631",
+"pred": "transaction_charged_twice",
+"gold": "transaction_charged_twice",
+"correct": true
+},
+{
+"ref": "dev:632",
+"pred": "transaction_charged_twice",
+"gold": "transaction_charged_twice",
+"correct": true
+},
+{
+"ref": "dev:633",
+"pred": "transaction_charged_twice",
+"gold": "transaction_charged_twice",
+"correct": true
+},
+{
+"ref": "dev:634",
+"pred": "transaction_charged_twice",
+"gold": "transaction_charged_twice",
+"correct": true
+},
+{
+"ref": "dev:635",
+"pred": "transaction_charged_twice",
+"gold": "transaction_charged_twice",
+"correct": true
+},
+{
+"ref": "dev:636",
+"pred": "transaction_charged_twice",
+"gold": "transaction_charged_twice",
+"correct": true
+},
+{
+"ref": "dev:637",
+"pred": "transaction_charged_twice",
+"gold": "transaction_charged_twice",
+"correct": true
+},
+{
+"ref": "dev:638",
+"pred": "transaction_charged_twice",
+"gold": "transaction_charged_twice",
+"correct": true
+},
+{
+"ref": "dev:639",
+"pred": "transaction_charged_twice",
+"gold": "transaction_charged_twice",
+"correct": true
+},
+{
+"ref": "dev:640",
+"pred": "transfer_fee_charged",
+"gold": "transfer_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:641",
+"pred": "top_up_by_bank_transfer_charge",
+"gold": "transfer_fee_charged",
+"correct": false
+},
+{
+"ref": "dev:642",
+"pred": "transfer_fee_charged",
+"gold": "transfer_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:643",
+"pred": "transfer_fee_charged",
+"gold": "transfer_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:644",
+"pred": "transfer_fee_charged",
+"gold": "transfer_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:645",
+"pred": "transfer_fee_charged",
+"gold": "transfer_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:646",
+"pred": "balance_not_updated_after_bank_transfer",
+"gold": "transfer_fee_charged",
+"correct": false
+},
+{
+"ref": "dev:647",
+"pred": "transfer_fee_charged",
+"gold": "transfer_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:648",
+"pred": "transfer_fee_charged",
+"gold": "transfer_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:649",
+"pred": "transfer_fee_charged",
+"gold": "transfer_fee_charged",
+"correct": true
+},
+{
+"ref": "dev:650",
+"pred": "transfer_into_account",
+"gold": "transfer_into_account",
+"correct": true
+},
+{
+"ref": "dev:651",
+"pred": "transfer_into_account",
+"gold": "transfer_into_account",
+"correct": true
+},
+{
+"ref": "dev:652",
+"pred": "supported_cards_and_currencies",
+"gold": "transfer_into_account",
+"correct": false
+},
+{
+"ref": "dev:653",
+"pred": "transfer_into_account",
+"gold": "transfer_into_account",
+"correct": true
+},
+{
+"ref": "dev:654",
+"pred": "transfer_into_account",
+"gold": "transfer_into_account",
+"correct": true
+},
+{
+"ref": "dev:655",
+"pred": "transfer_into_account",
+"gold": "transfer_into_account",
+"correct": true
+},
+{
+"ref": "dev:656",
+"pred": "transfer_into_account",
+"gold": "transfer_into_account",
+"correct": true
+},
+{
+"ref": "dev:657",
+"pred": "transfer_into_account",
+"gold": "transfer_into_account",
+"correct": true
+},
+{
+"ref": "dev:658",
+"pred": "transfer_into_account",
+"gold": "transfer_into_account",
+"correct": true
+},
+{
+"ref": "dev:659",
+"pred": "transfer_into_account",
+"gold": "transfer_into_account",
+"correct": true
+},
+{
+"ref": "dev:660",
+"pred": "balance_not_updated_after_bank_transfer",
+"gold": "transfer_not_received_by_recipient",
+"correct": false
+},
+{
+"ref": "dev:661",
+"pred": "transfer_not_received_by_recipient",
+"gold": "transfer_not_received_by_recipient",
+"correct": true
+},
+{
+"ref": "dev:662",
+"pred": "transfer_not_received_by_recipient",
+"gold": "transfer_not_received_by_recipient",
+"correct": true
+},
+{
+"ref": "dev:663",
+"pred": "transfer_not_received_by_recipient",
+"gold": "transfer_not_received_by_recipient",
+"correct": true
+},
+{
+"ref": "dev:664",
+"pred": "balance_not_updated_after_bank_transfer",
+"gold": "transfer_not_received_by_recipient",
+"correct": false
+},
+{
+"ref": "dev:665",
+"pred": "transfer_not_received_by_recipient",
+"gold": "transfer_not_received_by_recipient",
+"correct": true
+},
+{
+"ref": "dev:666",
+"pred": "transfer_not_received_by_recipient",
+"gold": "transfer_not_received_by_recipient",
+"correct": true
+},
+{
+"ref": "dev:667",
+"pred": "transfer_timing",
+"gold": "transfer_not_received_by_recipient",
+"correct": false
+},
+{
+"ref": "dev:668",
+"pred": "transfer_not_received_by_recipient",
+"gold": "transfer_not_received_by_recipient",
+"correct": true
+},
+{
+"ref": "dev:669",
+"pred": "balance_not_updated_after_bank_transfer",
+"gold": "transfer_not_received_by_recipient",
+"correct": false
+},
+{
+"ref": "dev:670",
+"pred": "transfer_timing",
+"gold": "transfer_timing",
+"correct": true
+},
+{
+"ref": "dev:671",
+"pred": "transfer_timing",
+"gold": "transfer_timing",
+"correct": true
+},
+{
+"ref": "dev:672",
+"pred": "transfer_timing",
+"gold": "transfer_timing",
+"correct": true
+},
+{
+"ref": "dev:673",
+"pred": "transfer_timing",
+"gold": "transfer_timing",
+"correct": true
+},
+{
+"ref": "dev:674",
+"pred": "transfer_timing",
+"gold": "transfer_timing",
+"correct": true
+},
+{
+"ref": "dev:675",
+"pred": "transfer_timing",
+"gold": "transfer_timing",
+"correct": true
+},
+{
+"ref": "dev:676",
+"pred": "transfer_timing",
+"gold": "transfer_timing",
+"correct": true
+},
+{
+"ref": "dev:677",
+"pred": "transfer_timing",
+"gold": "transfer_timing",
+"correct": true
+},
+{
+"ref": "dev:678",
+"pred": "transfer_timing",
+"gold": "transfer_timing",
+"correct": true
+},
+{
+"ref": "dev:679",
+"pred": "transfer_timing",
+"gold": "transfer_timing",
+"correct": true
+},
+{
+"ref": "dev:680",
+"pred": "unable_to_verify_identity",
+"gold": "unable_to_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:681",
+"pred": "unable_to_verify_identity",
+"gold": "unable_to_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:682",
+"pred": "unable_to_verify_identity",
+"gold": "unable_to_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:683",
+"pred": "unable_to_verify_identity",
+"gold": "unable_to_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:684",
+"pred": "unable_to_verify_identity",
+"gold": "unable_to_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:685",
+"pred": "unable_to_verify_identity",
+"gold": "unable_to_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:686",
+"pred": "unable_to_verify_identity",
+"gold": "unable_to_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:687",
+"pred": "unable_to_verify_identity",
+"gold": "unable_to_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:688",
+"pred": "unable_to_verify_identity",
+"gold": "unable_to_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:689",
+"pred": "passcode_forgotten",
+"gold": "unable_to_verify_identity",
+"correct": false
+},
+{
+"ref": "dev:690",
+"pred": "verify_my_identity",
+"gold": "verify_my_identity",
+"correct": true
+},
+{
+"ref": "dev:691",
+"pred": "verify_my_identity",
+"gold": "verify_my_identity",
+"correct": true
+},
+{
+"ref": "dev:692",
+"pred": "verify_my_identity",
+"gold": "verify_my_identity",
+"correct": true
+},
+{
+"ref": "dev:693",
+"pred": "verify_my_identity",
+"gold": "verify_my_identity",
+"correct": true
+},
+{
+"ref": "dev:694",
+"pred": "verify_my_identity",
+"gold": "verify_my_identity",
+"correct": true
+},
+{
+"ref": "dev:695",
+"pred": "verify_my_identity",
+"gold": "verify_my_identity",
+"correct": true
+},
+{
+"ref": "dev:696",
+"pred": "verify_my_identity",
+"gold": "verify_my_identity",
+"correct": true
+},
+{
+"ref": "dev:697",
+"pred": "verify_my_identity",
+"gold": "verify_my_identity",
+"correct": true
+},
+{
+"ref": "dev:698",
+"pred": "why_verify_identity",
+"gold": "verify_my_identity",
+"correct": false
+},
+{
+"ref": "dev:699",
+"pred": "verify_my_identity",
+"gold": "verify_my_identity",
+"correct": true
+},
+{
+"ref": "dev:700",
+"pred": "verify_source_of_funds",
+"gold": "verify_source_of_funds",
+"correct": true
+},
+{
+"ref": "dev:701",
+"pred": "verify_source_of_funds",
+"gold": "verify_source_of_funds",
+"correct": true
+},
+{
+"ref": "dev:702",
+"pred": "verify_source_of_funds",
+"gold": "verify_source_of_funds",
+"correct": true
+},
+{
+"ref": "dev:703",
+"pred": "verify_source_of_funds",
+"gold": "verify_source_of_funds",
+"correct": true
+},
+{
+"ref": "dev:704",
+"pred": "verify_source_of_funds",
+"gold": "verify_source_of_funds",
+"correct": true
+},
+{
+"ref": "dev:705",
+"pred": "verify_source_of_funds",
+"gold": "verify_source_of_funds",
+"correct": true
+},
+{
+"ref": "dev:706",
+"pred": "verify_source_of_funds",
+"gold": "verify_source_of_funds",
+"correct": true
+},
+{
+"ref": "dev:707",
+"pred": "verify_source_of_funds",
+"gold": "verify_source_of_funds",
+"correct": true
+},
+{
+"ref": "dev:708",
+"pred": "verify_source_of_funds",
+"gold": "verify_source_of_funds",
+"correct": true
+},
+{
+"ref": "dev:709",
+"pred": "verify_source_of_funds",
+"gold": "verify_source_of_funds",
+"correct": true
+},
+{
+"ref": "dev:710",
+"pred": "verify_top_up",
+"gold": "verify_top_up",
+"correct": true
+},
+{
+"ref": "dev:711",
+"pred": "verify_top_up",
+"gold": "verify_top_up",
+"correct": true
+},
+{
+"ref": "dev:712",
+"pred": "verify_top_up",
+"gold": "verify_top_up",
+"correct": true
+},
+{
+"ref": "dev:713",
+"pred": "verify_top_up",
+"gold": "verify_top_up",
+"correct": true
+},
+{
+"ref": "dev:714",
+"pred": "verify_top_up",
+"gold": "verify_top_up",
+"correct": true
+},
+{
+"ref": "dev:715",
+"pred": "verify_top_up",
+"gold": "verify_top_up",
+"correct": true
+},
+{
+"ref": "dev:716",
+"pred": "verify_top_up",
+"gold": "verify_top_up",
+"correct": true
+},
+{
+"ref": "dev:717",
+"pred": "verify_top_up",
+"gold": "verify_top_up",
+"correct": true
+},
+{
+"ref": "dev:718",
+"pred": "verify_top_up",
+"gold": "verify_top_up",
+"correct": true
+},
+{
+"ref": "dev:719",
+"pred": "verify_top_up",
+"gold": "verify_top_up",
+"correct": true
+},
+{
+"ref": "dev:720",
+"pred": "virtual_card_not_working",
+"gold": "virtual_card_not_working",
+"correct": true
+},
+{
+"ref": "dev:721",
+"pred": "virtual_card_not_working",
+"gold": "virtual_card_not_working",
+"correct": true
+},
+{
+"ref": "dev:722",
+"pred": "virtual_card_not_working",
+"gold": "virtual_card_not_working",
+"correct": true
+},
+{
+"ref": "dev:723",
+"pred": "virtual_card_not_working",
+"gold": "virtual_card_not_working",
+"correct": true
+},
+{
+"ref": "dev:724",
+"pred": "virtual_card_not_working",
+"gold": "virtual_card_not_working",
+"correct": true
+},
+{
+"ref": "dev:725",
+"pred": "virtual_card_not_working",
+"gold": "virtual_card_not_working",
+"correct": true
+},
+{
+"ref": "dev:726",
+"pred": "virtual_card_not_working",
+"gold": "virtual_card_not_working",
+"correct": true
+},
+{
+"ref": "dev:727",
+"pred": "disposable_card_limits",
+"gold": "virtual_card_not_working",
+"correct": false
+},
+{
+"ref": "dev:728",
+"pred": "virtual_card_not_working",
+"gold": "virtual_card_not_working",
+"correct": true
+},
+{
+"ref": "dev:729",
+"pred": "virtual_card_not_working",
+"gold": "virtual_card_not_working",
+"correct": true
+},
+{
+"ref": "dev:730",
+"pred": "visa_or_mastercard",
+"gold": "visa_or_mastercard",
+"correct": true
+},
+{
+"ref": "dev:731",
+"pred": "visa_or_mastercard",
+"gold": "visa_or_mastercard",
+"correct": true
+},
+{
+"ref": "dev:732",
+"pred": "visa_or_mastercard",
+"gold": "visa_or_mastercard",
+"correct": true
+},
+{
+"ref": "dev:733",
+"pred": "visa_or_mastercard",
+"gold": "visa_or_mastercard",
+"correct": true
+},
+{
+"ref": "dev:734",
+"pred": "visa_or_mastercard",
+"gold": "visa_or_mastercard",
+"correct": true
+},
+{
+"ref": "dev:735",
+"pred": "visa_or_mastercard",
+"gold": "visa_or_mastercard",
+"correct": true
+},
+{
+"ref": "dev:736",
+"pred": "visa_or_mastercard",
+"gold": "visa_or_mastercard",
+"correct": true
+},
+{
+"ref": "dev:737",
+"pred": "visa_or_mastercard",
+"gold": "visa_or_mastercard",
+"correct": true
+},
+{
+"ref": "dev:738",
+"pred": "visa_or_mastercard",
+"gold": "visa_or_mastercard",
+"correct": true
+},
+{
+"ref": "dev:739",
+"pred": "visa_or_mastercard",
+"gold": "visa_or_mastercard",
+"correct": true
+},
+{
+"ref": "dev:740",
+"pred": "why_verify_identity",
+"gold": "why_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:741",
+"pred": "why_verify_identity",
+"gold": "why_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:742",
+"pred": "why_verify_identity",
+"gold": "why_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:743",
+"pred": "why_verify_identity",
+"gold": "why_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:744",
+"pred": "why_verify_identity",
+"gold": "why_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:745",
+"pred": "why_verify_identity",
+"gold": "why_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:746",
+"pred": "why_verify_identity",
+"gold": "why_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:747",
+"pred": "The intent of this banking customer message is: \"Support\" or more specifically, \"Troubleshooting\" or \"Resolution",
+"gold": "why_verify_identity",
+"correct": false
+},
+{
+"ref": "dev:748",
+"pred": "why_verify_identity",
+"gold": "why_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:749",
+"pred": "why_verify_identity",
+"gold": "why_verify_identity",
+"correct": true
+},
+{
+"ref": "dev:750",
+"pred": "wrong_amount_of_cash_received",
+"gold": "wrong_amount_of_cash_received",
+"correct": true
+},
+{
+"ref": "dev:751",
+"pred": "wrong_amount_of_cash_received",
+"gold": "wrong_amount_of_cash_received",
+"correct": true
+},
+{
+"ref": "dev:752",
+"pred": "wrong_amount_of_cash_received",
+"gold": "wrong_amount_of_cash_received",
+"correct": true
+},
+{
+"ref": "dev:753",
+"pred": "wrong_amount_of_cash_received",
+"gold": "wrong_amount_of_cash_received",
+"correct": true
+},
+{
+"ref": "dev:754",
+"pred": "wrong_amount_of_cash_received",
+"gold": "wrong_amount_of_cash_received",
+"correct": true
+},
+{
+"ref": "dev:755",
+"pred": "wrong_amount_of_cash_received",
+"gold": "wrong_amount_of_cash_received",
+"correct": true
+},
+{
+"ref": "dev:756",
+"pred": "wrong_amount_of_cash_received",
+"gold": "wrong_amount_of_cash_received",
+"correct": true
+},
+{
+"ref": "dev:757",
+"pred": "wrong_amount_of_cash_received",
+"gold": "wrong_amount_of_cash_received",
+"correct": true
+},
+{
+"ref": "dev:758",
+"pred": "wrong_amount_of_cash_received",
+"gold": "wrong_amount_of_cash_received",
+"correct": true
+},
+{
+"ref": "dev:759",
+"pred": "wrong_amount_of_cash_received",
+"gold": "wrong_amount_of_cash_received",
+"correct": true
+},
+{
+"ref": "dev:760",
+"pred": "wrong_exchange_rate_for_cash_withdrawal",
+"gold": "wrong_exchange_rate_for_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:761",
+"pred": "wrong_exchange_rate_for_cash_withdrawal",
+"gold": "wrong_exchange_rate_for_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:762",
+"pred": "wrong_exchange_rate_for_cash_withdrawal",
+"gold": "wrong_exchange_rate_for_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:763",
+"pred": "wrong_exchange_rate_for_cash_withdrawal",
+"gold": "wrong_exchange_rate_for_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:764",
+"pred": "wrong_exchange_rate_for_cash_withdrawal",
+"gold": "wrong_exchange_rate_for_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:765",
+"pred": "wrong_exchange_rate_for_cash_withdrawal",
+"gold": "wrong_exchange_rate_for_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:766",
+"pred": "wrong_exchange_rate_for_cash_withdrawal",
+"gold": "wrong_exchange_rate_for_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:767",
+"pred": "wrong_exchange_rate_for_cash_withdrawal",
+"gold": "wrong_exchange_rate_for_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:768",
+"pred": "wrong_exchange_rate_for_cash_withdrawal",
+"gold": "wrong_exchange_rate_for_cash_withdrawal",
+"correct": true
+},
+{
+"ref": "dev:769",
+"pred": "wrong_exchange_rate_for_cash_withdrawal",
+"gold": "wrong_exchange_rate_for_cash_withdrawal",
+"correct": true
+}
+]
+}

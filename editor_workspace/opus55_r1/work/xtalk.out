@@ -1,0 +1,5 @@
+pinv(E_label): cross-talk max 0.948, >0.8: 28, >0.6: 91 tokens; worst: [(9430, 4478, 0.95), (6421, 3729, 0.95), (13808, 2759, 0.92), (11389, 3224, 0.9), (3659, 8838, 0.9), (13563, 3649, 0.9), (7381, 6074, 0.89), (13838, 7901, 0.89)]
+iter 0: 1813 nulled competitors -> cross-talk max 0.613, >0.5: 3, column norm median 1.223 max 2.280
+iter 1: 1948 nulled competitors -> cross-talk max 0.376, >0.5: 0, column norm median 1.282 max 2.996
+iter 2: 2017 nulled competitors -> cross-talk max 0.366, >0.5: 0, column norm median 1.304 max 3.164
+iter 3: 2083 nulled competitors -> cross-talk max 0.366, >0.5: 0, column norm median 1.325 max 3.291

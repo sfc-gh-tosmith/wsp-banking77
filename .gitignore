@@ -9,6 +9,7 @@ runs/editor/*/snapshots/*/
 
 # Logs and local scratch (may contain IPs, account details, local paths)
 *.log
+!editor_workspace/*/work/p*.log
 scratch*.sql
 gpu.lock
 notice.shown

@@ -1,0 +1,2 @@
+{"type": "generate", "model": "original", "source": "custom", "texts_file": "work/general2.jsonl",
+ "template": "chat", "max_new_tokens": 48, "out": "p07_gen_general2_orig"}

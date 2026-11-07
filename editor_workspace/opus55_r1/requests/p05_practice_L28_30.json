@@ -1,0 +1,3 @@
+{"type": "capture", "model": "original", "source": "practice", "indices": "all",
+ "template": "sft", "answer": "gold", "positions": "answer",
+ "layers": [28, 30], "kinds": ["mlp_act"], "topk": 0, "out": "p05_practice_L28_30"}

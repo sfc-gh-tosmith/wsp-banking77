@@ -1,0 +1,6 @@
+mu_rel=3e-05: class acc 0.9053 (balanced 0.9037) | sum 0.9107 | max 0.9177 | relu-sum th0.1 0.9193 | relu-sum th0.2 0.9199 | relu-sum th0.3 0.9199 | relu-sum th0.4 0.9139
+   no class above 0.3: 0.013  gold score median 0.815
+mu_rel=0.0001: class acc 0.9101 (balanced 0.9099) | sum 0.9145 | max 0.9231 | relu-sum th0.1 0.9237 | relu-sum th0.2 0.9242 | relu-sum th0.3 0.9247 | relu-sum th0.4 0.9161
+   no class above 0.3: 0.0157  gold score median 0.806
+mu_rel=0.0003: class acc 0.9096 (balanced 0.9089) | sum 0.9155 | max 0.9231 | relu-sum th0.1 0.9247 | relu-sum th0.2 0.9247 | relu-sum th0.3 0.9220 | relu-sum th0.4 0.9182
+   no class above 0.3: 0.0189  gold score median 0.792

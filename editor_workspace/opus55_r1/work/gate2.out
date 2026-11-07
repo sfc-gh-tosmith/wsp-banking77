@@ -1,0 +1,5 @@
+reconstruction cos: median 0.9957 p1 0.9895 | rel err median 0.0927
+gate0 task&step0 mu=1e-05: pos min 0.66 p0.1 0.77 | other-step max -0.77 | general-check max 0.02 p99.9 -0.32 | banking_chat:-0.52 nearmiss:0.02 retention:-0.47 unrelated:-0.51
+gate0 task&step0 mu=0.0001: pos min 0.66 p0.1 0.77 | other-step max -0.77 | general-check max 0.02 p99.9 -0.32 | banking_chat:-0.52 nearmiss:0.02 retention:-0.47 unrelated:-0.51
+gate1 task&step>=1 mu=1e-05: pos min 0.53 p0.1 0.70 | other-step max -0.91 | general-check max -0.12 p99.9 -0.55 | banking_chat:-0.41 nearmiss:-0.36 retention:-0.55 unrelated:-0.12
+gate1 task&step>=1 mu=0.0001: pos min 0.53 p0.1 0.70 | other-step max -0.91 | general-check max -0.12 p99.9 -0.55 | banking_chat:-0.41 nearmiss:-0.36 retention:-0.55 unrelated:-0.12

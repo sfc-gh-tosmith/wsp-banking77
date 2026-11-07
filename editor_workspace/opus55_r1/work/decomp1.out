@@ -1,0 +1,15 @@
+spelling read-out: argmax-is-legal 0.9999 | min legal score median 0.994 | max illegal score median 0.046
+joint class read-out: class acc step0 0.8701 step>=1 0.9893
+   th=0.1 gamma=1.0: step0 0.8711 step>=1 0.9919 WHOLE-LABEL 0.8430
+   th=0.1 gamma=2.0: step0 0.8711 step>=1 0.9916 WHOLE-LABEL 0.8419
+   th=0.2 gamma=1.0: step0 0.8652 step>=1 0.9922 WHOLE-LABEL 0.8397
+   th=0.2 gamma=2.0: step0 0.8646 step>=1 0.9920 WHOLE-LABEL 0.8387
+   th=0.3 gamma=1.0: step0 0.8110 step>=1 0.9926 WHOLE-LABEL 0.7910
+   th=0.3 gamma=2.0: step0 0.8089 step>=1 0.9921 WHOLE-LABEL 0.7883
+step-specific class read-outs: class acc step0 0.9101 step>=1 0.9895
+   th=0.1 gamma=1.0: step0 0.8863 step>=1 0.9919 WHOLE-LABEL 0.8576
+   th=0.1 gamma=2.0: step0 0.9009 step>=1 0.9916 WHOLE-LABEL 0.8701
+   th=0.2 gamma=1.0: step0 0.9031 step>=1 0.9921 WHOLE-LABEL 0.8749
+   th=0.2 gamma=2.0: step0 0.9031 step>=1 0.9922 WHOLE-LABEL 0.8755
+   th=0.3 gamma=1.0: step0 0.8993 step>=1 0.9926 WHOLE-LABEL 0.8733
+   th=0.3 gamma=2.0: step0 0.8988 step>=1 0.9924 WHOLE-LABEL 0.8722

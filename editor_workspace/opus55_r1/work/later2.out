@@ -1,0 +1,9 @@
+gamma=0.0 branch_w=1.0: branch acc 0.9686 deterministic acc 0.9998 | all-later-right 0.9751
+gamma=0.0 branch_w=4.0: branch acc 0.9741 deterministic acc 0.9998 | all-later-right 0.9794
+gamma=0.0 branch_w=10.0: branch acc 0.9768 deterministic acc 0.9995 | all-later-right 0.9805
+gamma=0.5 branch_w=1.0: branch acc 0.9686 deterministic acc 0.9998 | all-later-right 0.9751
+gamma=0.5 branch_w=4.0: branch acc 0.9734 deterministic acc 0.9998 | all-later-right 0.9789
+gamma=0.5 branch_w=10.0: branch acc 0.9768 deterministic acc 0.9998 | all-later-right 0.9816
+gamma=1.0 branch_w=1.0: branch acc 0.9686 deterministic acc 0.9998 | all-later-right 0.9751
+gamma=1.0 branch_w=4.0: branch acc 0.9727 deterministic acc 0.9998 | all-later-right 0.9783
+gamma=1.0 branch_w=10.0: branch acc 0.9755 deterministic acc 0.9998 | all-later-right 0.9805

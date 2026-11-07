@@ -1,0 +1,6 @@
+cv: 110 later tokens, 43 first tokens -> neurons 187
+bias dir b.x: general-check median 1.000 [p1 0.964, p99 1.036]
+general-check: max intent gate z 0.578 (p99.9 -0.318) | max token gate z -0.245 (p99.9 -0.706)  by kind A: {np.str_('banking_chat'): -0.41, np.str_('nearmiss'): 0.58, np.str_('retention'): -0.53, np.str_('unrelated'): -0.47}  B: {np.str_('banking_chat'): -0.56, np.str_('nearmiss'): -0.52, np.str_('retention'): -0.69, np.str_('unrelated'): -0.25}
+held-out in-task: intent gates at step>=1 max -0.599 | token gate at step0 max -1.107 | token gate at step>=1 min 0.304 p0.1 0.476
+step0 first-token acc 0.8592 | no intent neuron fires 0.0303 | gold z median 0.262 p10 0.014
+HELD-OUT WHOLE-LABEL acc 0.8419 | class-balanced 0.8457

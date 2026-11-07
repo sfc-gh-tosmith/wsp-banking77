@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="330" viewBox="0 0 780 330" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+  <rect width="780" height="330" fill="#ffffff"/>
+  <text x="20" y="32" font-size="18" font-weight="600" fill="#1f2a30">Banking77 test accuracy (3,080 messages, exact match)</text>
+  <text x="20" y="54" font-size="12" fill="#5b6b72">Llama 3.1 8B Instruct. The WSP edit changes 0.029% of weights, with no gradients and no training loop.</text>
+
+  <!-- grid: bar area x=300..720 (420px = 100%) -->
+  <g stroke="#e3e8ea" stroke-width="1">
+    <line x1="300" y1="72" x2="300" y2="282"/>
+    <line x1="405" y1="72" x2="405" y2="282"/>
+    <line x1="510" y1="72" x2="510" y2="282"/>
+    <line x1="615" y1="72" x2="615" y2="282"/>
+    <line x1="720" y1="72" x2="720" y2="282"/>
+  </g>
+  <g font-size="11" fill="#7a8a90" text-anchor="middle">
+    <text x="300" y="298">0%</text><text x="405" y="298">25%</text><text x="510" y="298">50%</text>
+    <text x="615" y="298">75%</text><text x="720" y="298">100%</text>
+  </g>
+
+  <g font-size="13" fill="#1f2a30" text-anchor="end">
+    <text x="290" y="100" font-weight="600">WSP edit by Opus 5.5 (hosted)</text>
+    <text x="290" y="142">Cortex Fine-tuning (SFT) reference</text>
+    <text x="290" y="184">Zero-shot, with label list</text>
+    <text x="290" y="226">Scripted ridge edit (no agent)</text>
+    <text x="290" y="268">Base model, SFT prompt *</text>
+  </g>
+
+  <rect x="300" y="82" width="386.2" height="26" rx="3" fill="#29B5E8"/>
+  <rect x="300" y="124" width="382.6" height="26" rx="3" fill="#11567F"/>
+  <rect x="300" y="166" width="246.5" height="26" rx="3" fill="#9aa9ae"/>
+  <rect x="300" y="208" width="218.9" height="26" rx="3" fill="#9aa9ae"/>
+  <rect x="300" y="250" width="2" height="26" fill="#9aa9ae"/>
+
+  <g font-size="13" font-weight="600" fill="#1f2a30">
+    <text x="694" y="100">91.95%</text>
+    <text x="690" y="142">91.1%</text>
+    <text x="554" y="184">58.7%</text>
+    <text x="527" y="226">52.1%</text>
+    <text x="310" y="268">0%</text>
+  </g>
+
+  <text x="20" y="320" font-size="11" fill="#7a8a90">* measured on the 154-row probe set. The base model answers in prose, never with a label. 95% CI for the WSP edit: 91.0–92.9%.</text>
+</svg>

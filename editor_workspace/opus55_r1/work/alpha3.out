@@ -1,0 +1,25 @@
+first-token prior spread (E.r units): std 1.72 range [-2.66, 4.89]
+U=10.0 prior-cancel=0.0 beta=1.0 alpha=150: step0 acc 0.9193 | general risk 1/19645 max 6.4
+U=10.0 prior-cancel=0.0 beta=1.0 alpha=250: step0 acc 0.9204 | general risk 1/19645 max 17.2
+U=10.0 prior-cancel=0.0 beta=1.5 alpha=150: step0 acc 0.9128 | general risk 0/19645 max 0.0
+U=10.0 prior-cancel=0.0 beta=1.5 alpha=250: step0 acc 0.9172 | general risk 0/19645 max 0.0
+U=10.0 prior-cancel=1.0 beta=1.0 alpha=150: step0 acc 0.9177 | general risk 1/19645 max 6.4
+U=10.0 prior-cancel=1.0 beta=1.0 alpha=250: step0 acc 0.9204 | general risk 1/19645 max 17.2
+U=10.0 prior-cancel=1.0 beta=1.5 alpha=150: step0 acc 0.9145 | general risk 0/19645 max 0.0
+U=10.0 prior-cancel=1.0 beta=1.5 alpha=250: step0 acc 0.9177 | general risk 0/19645 max 0.0
+U=20.0 prior-cancel=0.0 beta=1.0 alpha=150: step0 acc 0.9172 | general risk 1/19645 max 6.4
+U=20.0 prior-cancel=0.0 beta=1.0 alpha=250: step0 acc 0.9204 | general risk 1/19645 max 17.2
+U=20.0 prior-cancel=0.0 beta=1.5 alpha=150: step0 acc 0.9123 | general risk 0/19645 max 0.0
+U=20.0 prior-cancel=0.0 beta=1.5 alpha=250: step0 acc 0.9161 | general risk 0/19645 max 0.0
+U=20.0 prior-cancel=1.0 beta=1.0 alpha=150: step0 acc 0.9172 | general risk 1/19645 max 6.4
+U=20.0 prior-cancel=1.0 beta=1.0 alpha=250: step0 acc 0.9204 | general risk 1/19645 max 17.2
+U=20.0 prior-cancel=1.0 beta=1.5 alpha=150: step0 acc 0.9107 | general risk 0/19645 max 0.0
+U=20.0 prior-cancel=1.0 beta=1.5 alpha=250: step0 acc 0.9155 | general risk 0/19645 max 0.0
+U=30.0 prior-cancel=0.0 beta=1.0 alpha=150: step0 acc 0.9117 | general risk 1/19645 max 6.4
+U=30.0 prior-cancel=0.0 beta=1.0 alpha=250: step0 acc 0.9182 | general risk 1/19645 max 17.2
+U=30.0 prior-cancel=0.0 beta=1.5 alpha=150: step0 acc 0.9080 | general risk 0/19645 max 0.0
+U=30.0 prior-cancel=0.0 beta=1.5 alpha=250: step0 acc 0.9123 | general risk 0/19645 max 0.0
+U=30.0 prior-cancel=1.0 beta=1.0 alpha=150: step0 acc 0.9117 | general risk 1/19645 max 6.4
+U=30.0 prior-cancel=1.0 beta=1.0 alpha=250: step0 acc 0.9193 | general risk 1/19645 max 17.2
+U=30.0 prior-cancel=1.0 beta=1.5 alpha=150: step0 acc 0.9063 | general risk 0/19645 max 0.0
+U=30.0 prior-cancel=1.0 beta=1.5 alpha=250: step0 acc 0.9128 | general risk 0/19645 max 0.0

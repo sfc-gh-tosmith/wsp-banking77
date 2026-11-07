@@ -1,0 +1,6 @@
+#!/bin/bash
+# Budgeted forward-pass tool for this editor run. Paths are relative to the repo root.
+HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+REPO="$(cd "$HERE/../.." && pwd)"
+export WSP_RUN_DIR="$REPO/runs/editor/opus55_r1" WSP_WORKSPACE="$HERE" PYTHONWARNINGS=ignore TRANSFORMERS_VERBOSITY=error
+exec "$REPO/.venv-run/bin/python" "$REPO/harness/wsp_cli.py" "$@"

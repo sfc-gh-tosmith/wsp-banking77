@@ -1,0 +1,20 @@
+cross-fitted train class acc 0.9010 | held-out class acc 0.9107
+fixed relu-sum (t=.15) held-out first acc 0.9247
+ts=(0.15,) target=first lam=0.01: held-out first acc 0.9237
+ts=(0.15,) target=first lam=0.1: held-out first acc 0.9247
+ts=(0.15,) target=first lam=1.0: held-out first acc 0.9269
+ts=(0.15,) target=class lam=0.01: held-out first acc 0.9204
+ts=(0.15,) target=class lam=0.1: held-out first acc 0.9193
+ts=(0.15,) target=class lam=1.0: held-out first acc 0.8912
+ts=(0.0, 0.15, 0.3) target=first lam=0.01: held-out first acc 0.9264
+ts=(0.0, 0.15, 0.3) target=first lam=0.1: held-out first acc 0.9253
+ts=(0.0, 0.15, 0.3) target=first lam=1.0: held-out first acc 0.9220
+ts=(0.0, 0.15, 0.3) target=class lam=0.01: held-out first acc 0.9182
+ts=(0.0, 0.15, 0.3) target=class lam=0.1: held-out first acc 0.9188
+ts=(0.0, 0.15, 0.3) target=class lam=1.0: held-out first acc 0.9166
+ts=(0.0, 0.15, 0.3, 0.5) target=first lam=0.01: held-out first acc 0.9231
+ts=(0.0, 0.15, 0.3, 0.5) target=first lam=0.1: held-out first acc 0.9274
+ts=(0.0, 0.15, 0.3, 0.5) target=first lam=1.0: held-out first acc 0.9220
+ts=(0.0, 0.15, 0.3, 0.5) target=class lam=0.01: held-out first acc 0.9177
+ts=(0.0, 0.15, 0.3, 0.5) target=class lam=0.1: held-out first acc 0.9199
+ts=(0.0, 0.15, 0.3, 0.5) target=class lam=1.0: held-out first acc 0.9182

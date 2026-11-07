@@ -1,0 +1,6 @@
+step0 mu_rel=0.0001: acc 0.9145
+step0 mu_rel=0.001: acc 0.9128
+step0 mu_rel=0.01: acc 0.9058
+step>=1 mu_rel=0.0001: per-step acc 0.9937 | labels with all later steps right 0.9740
+step>=1 mu_rel=0.001: per-step acc 0.9937 | labels with all later steps right 0.9740
+step>=1 mu_rel=0.01: per-step acc 0.9930 | labels with all later steps right 0.9713

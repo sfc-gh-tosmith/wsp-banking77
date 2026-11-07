@@ -1,0 +1,3004 @@
+{
+"summary": {
+"pass": 15,
+"type": "generate",
+"model": "edited",
+"n": 748,
+"accuracy": null,
+"seconds": 663.4
+},
+"rows": [
+{
+"ref": "custom:0",
+"pred": "The capital of France is Paris."
+},
+{
+"ref": "custom:1",
+"pred": "The capital of Japan is Tokyo."
+},
+{
+"ref": "custom:2",
+"pred": "The capital of Australia is Canberra."
+},
+{
+"ref": "custom:3",
+"pred": "The capital of Canada is Ottawa."
+},
+{
+"ref": "custom:4",
+"pred": "The capital of Italy is Rome."
+},
+{
+"ref": "custom:5",
+"pred": "The capital of Germany is Berlin."
+},
+{
+"ref": "custom:6",
+"pred": "The capital of Spain is Madrid."
+},
+{
+"ref": "custom:7",
+"pred": "The capital of Egypt is Cairo."
+},
+{
+"ref": "custom:8",
+"pred": "The capital of Kenya is Nairobi."
+},
+{
+"ref": "custom:9",
+"pred": "The capital of Brazil is Bras\u00edlia."
+},
+{
+"ref": "custom:10",
+"pred": "The capital of Argentina is Buenos Aires."
+},
+{
+"ref": "custom:11",
+"pred": "The capital of Russia is Moscow."
+},
+{
+"ref": "custom:12",
+"pred": "The capital of China is Beijing."
+},
+{
+"ref": "custom:13",
+"pred": "The capital of India is New Delhi."
+},
+{
+"ref": "custom:14",
+"pred": "The capital of South Korea is Seoul."
+},
+{
+"ref": "custom:15",
+"pred": "The capital of Norway is Oslo."
+},
+{
+"ref": "custom:16",
+"pred": "The capital of Sweden is Stockholm."
+},
+{
+"ref": "custom:17",
+"pred": "The capital of Portugal is Lisbon."
+},
+{
+"ref": "custom:18",
+"pred": "The capital of Greece is Athens (Greek: \u0391\u03b8\u03ae\u03bd\u03b1, Ath\u00edna)."
+},
+{
+"ref": "custom:19",
+"pred": "The capital of Turkey is Ankara."
+},
+{
+"ref": "custom:20",
+"pred": "The capital of Mexico is Mexico City."
+},
+{
+"ref": "custom:21",
+"pred": "The capital of Peru is Lima."
+},
+{
+"ref": "custom:22",
+"pred": "The capital of Thailand is Bangkok."
+},
+{
+"ref": "custom:23",
+"pred": "The capital of Poland is Warsaw (Polish: Warszawa)."
+},
+{
+"ref": "custom:24",
+"pred": "The largest planet in our solar system is Jupiter. It is a gas giant, with a diameter of approximately 142,984 kilometers (88,846 miles). This is more than 11 times the diameter of the Earth."
+},
+{
+"ref": "custom:25",
+"pred": "The planet known as the Red Planet is Mars. This nickname is due to its reddish appearance, which is caused by iron oxide (also known as rust) in the planet's soil and rocks."
+},
+{
+"ref": "custom:26",
+"pred": "The closest star to Earth is the Sun. However, if you're asking about the closest star to the Sun, it's Proxima Centauri. Proxima Centauri is a small, cool red dwarf star located about 4.24 light-years away from the Sun. It's part of the Alpha Cent"
+},
+{
+"ref": "custom:27",
+"pred": "There are 8 planets in our solar system. They are:\n\n1. Mercury\n2. Venus\n3. Earth\n4. Mars\n5. Jupiter\n6. Saturn\n7. Uranus\n8. Neptune\n\nNote that Pluto was previously considered a planet but was reclassified as a dwarf planet in "
+},
+{
+"ref": "custom:28",
+"pred": "The chemical symbol for gold is Au. This comes from the Latin word for gold, \"aurum.\""
+},
+{
+"ref": "custom:29",
+"pred": "The chemical symbol for sodium is Na."
+},
+{
+"ref": "custom:30",
+"pred": "The chemical symbol for iron is Fe."
+},
+{
+"ref": "custom:31",
+"pred": "Plants absorb carbon dioxide (CO2) from the air for photosynthesis."
+},
+{
+"ref": "custom:32",
+"pred": "The chemical formula for water is H2O. This indicates that one molecule of water consists of two hydrogen atoms (H) and one oxygen atom (O)."
+},
+{
+"ref": "custom:33",
+"pred": "The boiling point of water at sea level is 100 degrees Celsius."
+},
+{
+"ref": "custom:34",
+"pred": "The freezing point of water is 32 degrees Fahrenheit (\u00b0F)."
+},
+{
+"ref": "custom:35",
+"pred": "There are 206 bones in the adult human body. This number can vary slightly from person to person, but 206 is the typical number of bones found in an adult human skeleton."
+},
+{
+"ref": "custom:36",
+"pred": "The largest organ of the human body is the skin. It covers the entire surface of the body and performs many important functions, such as regulating body temperature, protecting the body from external damage, and aiding in the production of vitamin D through sunlight exposure."
+},
+{
+"ref": "custom:37",
+"pred": "The organ that pumps blood through the body is the heart. The heart is a muscular organ that plays a crucial role in the circulatory system, pumping blood throughout the body to deliver oxygen and nutrients to tissues and organs."
+},
+{
+"ref": "custom:38",
+"pred": "The hardest natural substance is generally considered to be diamond. Diamonds are made up of pure carbon and have a unique crystal structure that gives them exceptional hardness. They have a Mohs hardness rating of 10, which is the highest rating on the scale.\n\nThe Mohs hardness scale is a scale used to measure the scratch resistance"
+},
+{
+"ref": "custom:39",
+"pred": "The speed of light in a vacuum is approximately 299,792 kilometers per second (km/s)."
+},
+{
+"ref": "custom:40",
+"pred": "Romeo and Juliet was written by the famous English playwright William Shakespeare."
+},
+{
+"ref": "custom:41",
+"pred": "Pride and Prejudice was written by Jane Austen."
+},
+{
+"ref": "custom:42",
+"pred": "The novel \"1984\" was written by George Orwell."
+},
+{
+"ref": "custom:43",
+"pred": "The Odyssey is an ancient Greek epic poem attributed to the poet Homer. The exact date of its composition is unknown, but it is believed to have been written sometime between the 8th and 6th centuries BC."
+},
+{
+"ref": "custom:44",
+"pred": "The Mona Lisa was painted by the Italian artist Leonardo da Vinci."
+},
+{
+"ref": "custom:45",
+"pred": "The Starry Night was painted by the Dutch post-impressionist artist Vincent van Gogh. He created the painting in June 1889, while he was an inmate at an asylum in France. The Starry Night is one of Van Gogh's most famous paintings and is widely considered one of the most iconic and"
+},
+{
+"ref": "custom:46",
+"pred": "The Fifth Symphony that begins with four famous notes is by Ludwig van Beethoven. The famous opening four notes are: Da-da-da-DUM."
+},
+{
+"ref": "custom:47",
+"pred": "Albert Einstein developed the theory of relativity. It consists of two main components: \n\n1. Special Relativity (1905): This theory challenged the long-held notion of absolute time and space. It introduced the concept of time dilation and length contraction, which occur when objects move at high speeds relative to an observer.\n\n2"
+},
+{
+"ref": "custom:48",
+"pred": "The theory of evolution by natural selection was proposed by Charles Darwin."
+},
+{
+"ref": "custom:49",
+"pred": "The first people to walk on the Moon were Neil Armstrong and Edwin \"Buzz\" Aldrin. They were part of the Apollo 11 mission in July 1969. Neil Armstrong was the first to step out of the lunar module Eagle and onto the Moon's surface, famously declaring, \"That's one small step for"
+},
+{
+"ref": "custom:50",
+"pred": "George Washington was the first President of the United States. He served two terms from April 30, 1789, to March 4, 1797."
+},
+{
+"ref": "custom:51",
+"pred": "World War II ended in 1945. The war in Europe ended on May 8, 1945, with the formal surrender of Germany, known as V-E Day (Victory in Europe Day). The war in the Pacific ended on September 2, 1945, with the formal surrender of Japan,"
+},
+{
+"ref": "custom:52",
+"pred": "World War I began in 1914. It started on July 28, 1914, when Austria-Hungary declared war on Serbia, which led to a chain reaction of events that eventually involved many countries in the conflict."
+},
+{
+"ref": "custom:53",
+"pred": "The RMS Titanic sank in 1912. It collided with an iceberg in the North Atlantic Ocean on April 14, 1912, and sank in the early morning hours of April 15, 1912."
+},
+{
+"ref": "custom:54",
+"pred": "Humans first landed on the Moon in 1969. The Apollo 11 mission successfully landed astronauts Neil Armstrong and Edwin \"Buzz\" Aldrin on the lunar surface on July 20, 1969."
+},
+{
+"ref": "custom:55",
+"pred": "The Berlin Wall fell in 1989. It was opened on November 9, 1989, marking a significant event in modern history as it symbolized the end of the division of Germany and the beginning of a new era of freedom and reunification."
+},
+{
+"ref": "custom:56",
+"pred": "The Colosseum was built by the Roman Empire, specifically during the reign of Emperor Vespasian (69-79 AD) and his son Titus (79-81 AD). It was constructed in the 1st century AD and was officially opened in 80 AD with a grand ceremony, known as"
+},
+{
+"ref": "custom:57",
+"pred": "The ancient civilization that built the pyramids of Giza was the Egyptians, specifically the Old Kingdom period of Ancient Egypt, during the reign of the pharaohs of the 4th dynasty."
+},
+{
+"ref": "custom:58",
+"pred": "The longest river in South America is the Amazon River."
+},
+{
+"ref": "custom:59",
+"pred": "The largest ocean on Earth is the Pacific Ocean. It covers an area of approximately 155.6 million square kilometers (60.1 million square miles) and accounts for approximately 46% of the Earth's total ocean area. The Pacific Ocean is also the deepest ocean, with its deepest point being the Mariana T"
+},
+{
+"ref": "custom:60",
+"pred": "The tallest mountain in the world is Mount Everest, which is part of the Himalayas between Nepal and Tibet, China. It stands at a height of 8,848.86 meters (29,031.7 feet) above sea level."
+},
+{
+"ref": "custom:61",
+"pred": "The largest desert in the world by area, including polar deserts, is the Antarctic Desert. It covers an area of about 14 million km\u00b2 (5.4 million sq mi) and accounts for about 98% of the Antarctic landmass."
+},
+{
+"ref": "custom:62",
+"pred": "The largest country in the world by area is Russia, covering approximately 17.1 million square kilometers (6.6 million square miles)."
+},
+{
+"ref": "custom:63",
+"pred": "Egypt is located in the continent of Africa."
+},
+{
+"ref": "custom:64",
+"pred": "Brazil is located on the continent of South America."
+},
+{
+"ref": "custom:65",
+"pred": "The smallest country in the world is the Vatican City, an independent city-state located within Rome, Italy. It has a total area of approximately 0.44 km\u00b2 (0.17 sq mi) and a population of around 825 people (as of 2020). The Vatican City is a sovereign state and"
+},
+{
+"ref": "custom:66",
+"pred": "There are 7 continents in the world. They are:\n\n1. Africa\n2. Antarctica\n3. Asia\n4. Australia\n5. Europe\n6. North America\n7. South America"
+},
+{
+"ref": "custom:67",
+"pred": "The main language spoken in Brazil is Portuguese."
+},
+{
+"ref": "custom:68",
+"pred": "The official currency of Japan is the Japanese Yen (JPY)."
+},
+{
+"ref": "custom:69",
+"pred": "The official currency of the United Kingdom is the Pound Sterling (GBP). It is commonly abbreviated as \"\u00a3\" and is divided into 100 pence (p)."
+},
+{
+"ref": "custom:70",
+"pred": "12 multiplied by 12 is 144."
+},
+{
+"ref": "custom:71",
+"pred": "The square root of 81 is 9."
+},
+{
+"ref": "custom:72",
+"pred": "15 + 27 = 42."
+},
+{
+"ref": "custom:73",
+"pred": "100 divided by 4 is 25."
+},
+{
+"ref": "custom:74",
+"pred": "A hexagon has 6 sides. The name \"hexagon\" comes from the Greek word \"hexa,\" meaning six."
+},
+{
+"ref": "custom:75",
+"pred": "A right angle is 90 degrees."
+},
+{
+"ref": "custom:76",
+"pred": "The value of pi to two decimal places is 3.14."
+},
+{
+"ref": "custom:77",
+"pred": "There are 60 minutes in an hour."
+},
+{
+"ref": "custom:78",
+"pred": "A leap year has 366 days. This is because it includes an extra day in February, which has 29 days instead of the usual 28."
+},
+{
+"ref": "custom:79",
+"pred": "A spider has 8 legs."
+},
+{
+"ref": "custom:80",
+"pred": "The largest mammal is the blue whale (Balaenoptera musculus). On average, an adult blue whale can weigh around 150-170 tons (136,000-152,000 kg) and reach lengths of up to 82 feet (25 meters). However, the largest recorded blue whale was around "
+},
+{
+"ref": "custom:81",
+"pred": "The fastest land animal is the cheetah. It can reach speeds of up to 70 miles per hour (113 kilometers per hour)."
+},
+{
+"ref": "custom:82",
+"pred": "Bees are incredibly important insects that produce several essential things, including:\n\n1. **Honey**: Bees collect nectar from flowers and transform it into honey through regurgitation and evaporation. This sweet, viscous liquid is a vital source of energy and is used by bees as a food source during the winter"
+},
+{
+"ref": "custom:83",
+"pred": "A baby kangaroo is called a joey."
+},
+{
+"ref": "custom:84",
+"pred": "The tallest animal in the world is the giraffe. On average, an adult giraffe can grow up to 4.6-5.9 meters (15-19 feet) tall. However, the tallest giraffe ever recorded was a male that stood at 5.86 meters (19.2 feet)"
+},
+{
+"ref": "custom:85",
+"pred": "The primary ingredient in guacamole is avocados."
+},
+{
+"ref": "custom:86",
+"pred": "Humans get Vitamin D from sunlight."
+},
+{
+"ref": "custom:87",
+"pred": "The powerhouse of the cell is the mitochondria. Mitochondria are organelles found in the cells of most eukaryotes, including animals, plants, and fungi. They are responsible for generating most of the cell's supply of adenosine triphosphate (ATP), which is the primary energy currency"
+},
+{
+"ref": "custom:88",
+"pred": "The study of earthquakes is called seismology."
+},
+{
+"ref": "custom:89",
+"pred": "The force that keeps us on the ground is called gravity. Gravity is a fundamental force of nature that attracts objects with mass towards each other. In this case, the Earth's mass is pulling us towards its center, keeping us on the ground."
+},
+{
+"ref": "custom:90",
+"pred": "The unit of electrical resistance is the Ohm (\u03a9). It is named after the German physicist Georg Ohm, who discovered the relationship between voltage, current, and resistance in electric circuits."
+},
+{
+"ref": "custom:91",
+"pred": "The unit of force in the SI system is the Newton (N). It is named after Sir Isaac Newton."
+},
+{
+"ref": "custom:92",
+"pred": "The invention of the telephone is credited to Alexander Graham Bell, a Scottish-born scientist and inventor. He patented the first practical telephone on March 7, 1876. However, there is some controversy over whether Bell was the sole inventor of the telephone.\n\nElisha Gray, an American inventor, had developed a telephone"
+},
+{
+"ref": "custom:93",
+"pred": "Penicillin was discovered by Scottish scientist Alexander Fleming in 1928. Fleming was a biologist, pharmacologist, and botanist who worked at St. Mary's Hospital in London. He observed that a mold, Penicillium notatum, had contaminated one of his bacterial cultures, and that the mold had"
+},
+{
+"ref": "custom:94",
+"pred": "The element with atomic number 1 is Hydrogen (H)."
+},
+{
+"ref": "custom:95",
+"pred": "The most abundant gas in Earth's atmosphere is nitrogen (N2), making up approximately 78% of the atmosphere."
+},
+{
+"ref": "custom:96",
+"pred": "The capital of Ireland is Dublin."
+},
+{
+"ref": "custom:97",
+"pred": "The capital of Austria is Vienna."
+},
+{
+"ref": "custom:98",
+"pred": "The capital of Switzerland is Bern."
+},
+{
+"ref": "custom:99",
+"pred": "The capital of the Netherlands is Amsterdam."
+},
+{
+"ref": "custom:100",
+"pred": "The capital of Vietnam is Hanoi."
+},
+{
+"ref": "custom:101",
+"pred": "The capital of Nigeria is Abuja."
+},
+{
+"ref": "custom:102",
+"pred": "Saturn is the planet with the most prominent and extensive ring system in our solar system. Its ring system consists of seven main rings (A, B, C, D, E, F, and G) and numerous smaller ringlets. The rings are made up of ice particles and rock debris that range in size from"
+},
+{
+"ref": "custom:103",
+"pred": "The largest moon of Saturn is Titan. It is the second-largest moon in the solar system, after Jupiter's moon Ganymede, and the only moon in the solar system with a substantial atmosphere. Titan is about 5,150 kilometers (3,200 miles) in diameter and is larger than the planet Mercury."
+},
+{
+"ref": "custom:104",
+"pred": "Our galaxy is called the Milky Way. It is a barred spiral galaxy, which means it has a central bar-shaped structure and spiral arms of stars, gas, and dust. The Milky Way is estimated to contain between 200 and 400 billion stars, and it is thought to be about 100,000 light-years"
+},
+{
+"ref": "custom:105",
+"pred": "Hamlet was written by William Shakespeare."
+},
+{
+"ref": "custom:106",
+"pred": "The Origin of Species was written by Charles Darwin."
+},
+{
+"ref": "custom:107",
+"pred": "The ceiling of the Sistine Chapel was painted by the renowned Italian artist Michelangelo Buonarroti. He was commissioned by Pope Julius II to create the famous artwork, which took approximately four years to complete (1508-1512). The project included painting over 300 figures on the ceiling, including prophets, saints"
+},
+{
+"ref": "custom:108",
+"pred": "Mandarin Chinese has the most native speakers, with over 1 billion people speaking it as their first language."
+},
+{
+"ref": "custom:109",
+"pred": "The largest island in the world is Greenland. It has an area of about 2,166,086 square kilometers (836,330 square miles)."
+},
+{
+"ref": "custom:110",
+"pred": "The Great Barrier Reef is located in Australia."
+},
+{
+"ref": "custom:111",
+"pred": "The Eiffel Tower is located in Paris, France."
+},
+{
+"ref": "custom:112",
+"pred": "Machu Picchu is located in Peru."
+},
+{
+"ref": "custom:113",
+"pred": "The longest river in Africa is the Nile River, which stretches approximately 6,695 kilometers (4,160 miles) from its sources in Burundi to its delta on the Mediterranean Sea in Egypt."
+},
+{
+"ref": "custom:114",
+"pred": "The freezing point of water is 0 degrees Celsius (\u00b0C)."
+},
+{
+"ref": "custom:115",
+"pred": "There are 24 hours in a day."
+},
+{
+"ref": "custom:116",
+"pred": "The square of 7 is 7 x 7 = 49."
+},
+{
+"ref": "custom:117",
+"pred": "When you mix blue and yellow, you get the color green."
+},
+{
+"ref": "custom:118",
+"pred": "The opposite of \"hot\" can be \"cold\"."
+},
+{
+"ref": "custom:119",
+"pred": "The plural of 'mouse' is 'mice'."
+},
+{
+"ref": "custom:120",
+"pred": "A standard guitar typically has 6 strings."
+},
+{
+"ref": "custom:121",
+"pred": "The sport played at Wimbledon is tennis. Wimbledon is one of the most prestigious and well-known tennis tournaments in the world, held annually in London, England. It is often referred to as the \"Championships\" or \"The All England Lawn Tennis and Croquet Club.\""
+},
+{
+"ref": "custom:122",
+"pred": "In soccer, there are 11 players from each team on the field at a time. This includes 1 goalkeeper and 10 outfield players."
+},
+{
+"ref": "custom:123",
+"pred": "The 2016 Summer Olympics were hosted by Brazil in Rio de Janeiro."
+},
+{
+"ref": "custom:124",
+"pred": "The main ingredient of sushi rice seasoning, besides rice, is rice vinegar."
+},
+{
+"ref": "custom:125",
+"pred": "The instrument with 88 keys is the piano."
+},
+{
+"ref": "custom:126",
+"pred": "H2O is commonly called water."
+},
+{
+"ref": "custom:127",
+"pred": "The organ responsible for filtering blood and producing urine is the kidney."
+},
+{
+"ref": "custom:128",
+"pred": "The capital of Chile is Santiago."
+},
+{
+"ref": "custom:129",
+"pred": "The capital of Colombia is Bogot\u00e1."
+},
+{
+"ref": "custom:130",
+"pred": "The capital of Saudi Arabia is Riyadh."
+},
+{
+"ref": "custom:131",
+"pred": "As autumn's hue begins to show,\nGolden leaves start to let go,\nDrifting down, a colorful sight,\nA fleeting dance, in morning light.\n\nTheir rustling sound, a gentle breeze,\nAs nature's final dance, it freezes,\nA kaleidoscope of color bright,\nA season's farewell, in autumn"
+},
+{
+"ref": "custom:132",
+"pred": "Imagine you have a big box of toys, and inside that box, there are smaller boxes. And inside those smaller boxes, there are even smaller boxes. This keeps going on and on.\n\nNow, let's say you want to count how many toys are in all those boxes. One way to do it is to open"
+},
+{
+"ref": "custom:133",
+"pred": "Here are three tips for better sleep:\n\n1. **Establish a Consistent Sleep Schedule**: Go to bed and wake up at the same time every day, including weekends. This helps regulate your body's internal clock and can improve the quality of your sleep. Aim for 7-9 hours of sleep each night.\n\n2"
+},
+{
+"ref": "custom:134",
+"pred": "\"Good morning\" can be translated into:\n\n- Spanish: \"Buenos d\u00edas\"\n- French: \"Bonjour\" (Note: \"Bonjour\" is used until around 11 am. After that, \"bonsoir\" is used for the rest of the day until bedtime.)"
+},
+{
+"ref": "custom:135",
+"pred": "**Reversing a String in Python**\n=====================================\n\nHere's a simple function that takes a string as input and returns the reversed string.\n\n```python\ndef reverse_string(s):\n    \"\"\"\n    Reverses a given string.\n\n    Args:\n        s (str): The input string.\n\n    Returns:\n        str"
+},
+{
+"ref": "custom:136",
+"pred": "Exercises for lower back pain should focus on strengthening the muscles that support the spine, improving flexibility, and enhancing posture. Here are some effective exercises to consider:\n\n1. **Pelvic Tilt**: Lie on your back with your knees bent and feet flat on the floor. Tilt your pelvis upwards and then back"
+},
+{
+"ref": "custom:137",
+"pred": "Cinderella, a young woman with a cruel stepmother and stepsisters, is treated poorly and forced to do all the household chores. With the help of her fairy godmother, Cinderella attends the prince's ball and captures his heart, ultimately leading to a happily-ever-after marriage with the prince."
+},
+{
+"ref": "custom:138",
+"pred": "Here are some name suggestions for a golden retriever puppy:\n\n1. **Cooper**: A classic name for a friendly and outgoing golden retriever.\n2. **Sunny**: Perfect for a golden retriever with a bright and cheerful personality.\n3. **Duke**: A regal name for a loyal and loving"
+},
+{
+"ref": "custom:139",
+"pred": "Making scrambled eggs is a simple process that requires just a few ingredients and some basic cooking techniques. Here's a step-by-step guide to making delicious scrambled eggs:\n\nIngredients:\n\n* 2 eggs per serving\n* Salt and pepper to taste\n* 1 tablespoon butter or oil per 2 eggs\n\nInstructions:\n\n1."
+},
+{
+"ref": "custom:140",
+"pred": "Deep blue ocean waves\nGentle touch on sandy shore\nPeaceful endless sea"
+},
+{
+"ref": "custom:141",
+"pred": "Weather and climate are two related but distinct concepts in the field of meteorology.\n\nWeather refers to the temporary and local conditions of the atmosphere at a specific place and time, including phenomena such as temperature, humidity, cloudiness, wind, and precipitation. Weather is what you experience on a daily basis, and it can change"
+},
+{
+"ref": "custom:142",
+"pred": "Here's a simple recipe for homemade tomato pasta sauce:\n\n**Ingredients:**\n\n- 2 lbs (1 kg) of fresh or canned crushed tomatoes\n- 1/4 cup (60 ml) of olive oil\n- 4-6 garlic cloves, minced\n- 1 small onion, finely chopped\n-"
+},
+{
+"ref": "custom:143",
+"pred": "A neural network is a computer system that's designed to work like the human brain. It's made up of many small processing units called \"neurons\" or \"nodes.\" These nodes are connected to each other in a web-like structure, allowing them to communicate and share information.\n\nImagine you're trying to recognize a picture"
+},
+{
+"ref": "custom:144",
+"pred": "There once was a cat named Pete,\nWhose love for cheese couldn't be beat.\nHe'd eat it with glee,\nMelted or in a spree,\nThis feline's cheese craving was neat."
+},
+{
+"ref": "custom:145",
+"pred": "Improving your public speaking skills takes practice, preparation, and persistence. Here are some tips to help you become a more confident and effective public speaker:\n\n1. **Practice, practice, practice**: The more you speak in front of an audience, the more comfortable you'll become. Start with small groups or even by yourself"
+},
+{
+"ref": "custom:146",
+"pred": "For a weekend camping trip, you'll want to pack the right gear to ensure a comfortable and enjoyable experience. Here's a comprehensive list of essentials to consider:\n\n**Clothing:**\n\n* Hiking boots or sturdy shoes\n* Socks and underwear\n* Base layers (top and bottom) for colder weather\n*"
+},
+{
+"ref": "custom:147",
+"pred": "The rules of chess are as follows:\n\n1. **The Objective**: The goal is to checkmate your opponent's king, which means the king is under attack and cannot escape capture.\n\n2. **The Board**: The game is played on a square board with 64 squares, alternating between light and dark colors.\n\n3"
+},
+{
+"ref": "custom:148",
+"pred": "**Counting Rows in a Table**\n\nTo count the number of rows in a table named `users`, you can use the following SQL query:\n\n```sql\nSELECT COUNT(*) AS row_count\nFROM users;\n```\n\nThis query uses the `COUNT` function with the `(*)` syntax to count all rows in the"
+},
+{
+"ref": "custom:149",
+"pred": "A black hole is a region in space where the gravitational pull is so strong that nothing, including light, can escape. It is formed when a massive star collapses in on itself and its gravity becomes so strong that it warps the fabric of spacetime around it.\n\nHere's a simplified explanation of how a black hole is"
+},
+{
+"ref": "custom:150",
+"pred": "The water cycle, also known as the hydrologic cycle, is the continuous process by which water is circulated between the Earth and the atmosphere. It involves the movement of water in three phases: liquid, solid (ice), and gas (water vapor).\n\nThe main stages of the water cycle are:\n\n1. **Evaporation"
+},
+{
+"ref": "custom:151",
+"pred": "Here's a sample thank-you note to a teacher:\n\nDear [Teacher's Name],\n\nI just wanted to take a moment to express my heartfelt gratitude for all that you've done for me this year. Your dedication, patience, and enthusiasm have made a significant impact on my learning experience, and I feel truly fortunate to have"
+},
+{
+"ref": "custom:152",
+"pred": "Vaccines work by introducing a small, harmless piece of a pathogen (such as a virus or bacteria) or a weakened form of the pathogen to the body. This triggers the immune system to produce antibodies and immune cells that can recognize and fight the pathogen if it enters the body in the future.\n\nHere"
+},
+{
+"ref": "custom:153",
+"pred": "Reading every day can have numerous benefits for individuals of all ages. Some of the advantages of regular reading include:\n\n1. **Improved vocabulary and language skills**: Reading exposes you to a wide range of words, phrases, and language structures, which can enhance your communication skills and help you express yourself more effectively.\n\n2. **"
+},
+{
+"ref": "custom:154",
+"pred": "Here's a fun fact about octopuses:\n\nOctopuses have a remarkable ability to change the color and texture of their skin to blend in with their surroundings, a process called camouflage. But what's even more impressive is that they can also display complex patterns and even mimic other sea creatures, like sea snakes or lion"
+},
+{
+"ref": "custom:155",
+"pred": "Changing a flat tire can seem like a daunting task, but with the right steps and some practice, it's definitely doable. Here's a step-by-step guide to help you through the process:\n\n**Before You Start**\n\n1. **Make sure you're in a safe location**: Move your vehicle to a flat,"
+},
+{
+"ref": "custom:156",
+"pred": "\"As I climbed the creaking stairs to the lantern room of Ravenswood Lighthouse, the wind outside seemed to whisper a single, chilling word: 'Welcome'.\""
+},
+{
+"ref": "custom:157",
+"pred": "The Pythagorean theorem is a fundamental concept in geometry that describes the relationship between the lengths of the sides of a right-angled triangle. The theorem states that:\n\n**a\u00b2 + b\u00b2 = c\u00b2**\n\nwhere:\n\n- **a** is the length of the side opposite the right angle (also called the base"
+},
+{
+"ref": "custom:158",
+"pred": "To center a div in CSS, you can use the following methods:\n\n**Method 1: Using Flexbox**\n\n```css\n.container {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n}\n\n.centered-div {\n  background-color: #f0"
+},
+{
+"ref": "custom:159",
+"pred": "Here's a motivational quote:\n\n\"You don't have to be great to start, but you have to start to be great.\"\n\n- Zig Ziglar\n\nThis quote emphasizes the importance of taking action and beginning the process, even if you don't feel fully prepared or confident. It's easy to get caught up in perfectionism"
+},
+{
+"ref": "custom:160",
+"pred": "The seasons on Earth are caused by the tilt of the planet's axis as it orbits the Sun. The Earth's axis is tilted at an angle of about 23.5 degrees relative to its orbital plane around the Sun.\n\nHere's a simplified explanation of the seasons:\n\n1. **Spring**: As the Earth rotates,"
+},
+{
+"ref": "custom:161",
+"pred": "**Prime Number Checker Function**\n=====================================\n\nHere's a simple JavaScript function to check if a number is prime:\n\n```javascript\n/**\n * Checks if a number is prime.\n *\n * @param {number} num The number to check.\n * @returns {boolean} True if the number is prime, false otherwise.\n"
+},
+{
+"ref": "custom:162",
+"pred": "Viruses and bacteria are two types of microorganisms that are often confused with each other due to their small size. However, they have distinct differences in terms of their structure, function, and behavior.\n\n**Virus:**\n\n1. **Not a living cell**: A virus is not a living cell, but rather a"
+},
+{
+"ref": "custom:163",
+"pred": "Rome, the Eternal City, is a treasure trove of history, architecture, art, and culture. Here's a suggested three-day itinerary for Rome:\n\n**Day 1: Ancient Rome**\n\n* 9:00 AM: Start the day at the Colosseum (Ticket price: around \u20ac12),"
+},
+{
+"ref": "custom:164",
+"pred": "Brewing a good cup of coffee with a French press, also known as a cafeti\u00e8re or coffee press, requires some basic knowledge and technique. Here's a step-by-step guide to help you achieve the perfect cup:\n\n**Equipment Needed:**\n\n* French press coffee maker (also known as a cafeti\u00e8re"
+},
+{
+"ref": "custom:165",
+"pred": "Machine learning is a subset of artificial intelligence (AI) that involves training algorithms to learn from data, identify patterns, and make decisions or predictions without being explicitly programmed. The goal of machine learning is to enable computers to automatically improve their performance on a specific task by learning from experience and data.\n\nMachine learning algorithms work by analyzing"
+},
+{
+"ref": "custom:166",
+"pred": "Here are five ideas for a birthday party for a seven-year-old:\n\n1. **Outer Space Adventure**: Create a galaxy-themed party with a space station backdrop, planetary decorations, and a \"space mission\" scavenger hunt. Kids can dress up as astronauts and enjoy space-themed snacks like \"asteroid\" cupcakes and \""
+},
+{
+"ref": "custom:167",
+"pred": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of organic compounds, such as glucose. This process occurs in specialized organelles called chloroplasts, which contain the pigment chlorophyll that absorbs light energy. During photosynthesis, carbon"
+},
+{
+"ref": "custom:168",
+"pred": "Subject: Apology for Missing the Meeting\n\nDear [Recipient's Name],\n\nI wanted to reach out and apologize for missing our meeting that was scheduled for [Date]. I understand the importance of attending and regret not being able to make it.\n\nIf there was any discussion or decision made during the meeting that I missed, please"
+},
+{
+"ref": "custom:169",
+"pred": "Affect and effect are two commonly confused words in the English language. The main difference between them lies in their meanings and uses.\n\n**Affect** is a verb that means to influence or have an impact on something or someone. It can also refer to a feeling or emotion. For example:\n\n- The rain will affect"
+},
+{
+"ref": "custom:170",
+"pred": "Airplanes stay in the air due to the combination of four fundamental forces: lift, weight, thrust, and drag. Here's a simplified explanation of how these forces work together to keep an airplane flying:\n\n1. **Lift**: Lift is the upward force that opposes the weight of the airplane. It's created by"
+},
+{
+"ref": "custom:171",
+"pred": "Here are three classic novels that I highly recommend, along with reasons why:\n\n1. **\"Pride and Prejudice\" by Jane Austen (1813)**: This novel is a timeless romance that explores the complexities of relationships, social class, and personal growth. The witty dialogue and strong female protagonist, Elizabeth"
+},
+{
+"ref": "custom:172",
+"pred": "Inflation is a fundamental concept in economics that refers to the rate at which the general price level of goods and services in an economy increases over time. It is measured as an annual percentage increase in the average price level of a basket of goods and services.\n\nInflation is caused by an increase in the money supply, which"
+},
+{
+"ref": "custom:173",
+"pred": "Here's a riddle for you:\n\nI am always coming but never arrive,\nI have a head but never hair,\nI have a bed but never sleep,\nI have a mouth but never speak.\n\nWhat am I?\n\nAnswer: A River.\n\nExplanation: \n- \"I am always coming but never arrive\" refers to"
+},
+{
+"ref": "custom:174",
+"pred": "Congratulations on your decision to learn how to play the guitar. Here's a step-by-step guide to help you get started:\n\n1. **Acquire a guitar**: Before you start learning, you'll need an instrument. You can buy an acoustic or electric guitar, depending on your preference. If you're a beginner,"
+},
+{
+"ref": "custom:175",
+"pred": "As the day's final breath escapes, the sky is set aflame with a kaleidoscope of colors, a breathtaking sunset unfolding like a masterpiece of nature's brushstrokes. Soft pinks and blushing peaches melt into warm oranges and golden hues, as if the very heavens were being painted by a divine artist"
+},
+{
+"ref": "custom:176",
+"pred": "Prime numbers are positive integers that are divisible only by themselves and 1. In other words, the only factors of a prime number are 1 and the number itself.\n\nFor example, the number 5 is prime because the only numbers you can divide it by are 1 and 5 itself. On the other hand"
+},
+{
+"ref": "custom:177",
+"pred": "Succulent plants are known for their low-maintenance requirements and ability to thrive in a variety of conditions. Here's a step-by-step guide on how to care for a succulent plant:\n\n1. **Lighting**: Most succulents prefer bright, indirect light. Direct sunlight can be too intense and may cause"
+},
+{
+"ref": "custom:178",
+"pred": "A bicycle's gears are a system that allows the rider to adjust the difficulty of pedaling by changing the ratio of the rotation of the pedals to the rotation of the wheels. This is achieved through a combination of gears, a derailleur system, and a chain.\n\n**The Main Components:**\n\n1. **Cass"
+},
+{
+"ref": "custom:179",
+"pred": "\"Get ready to indulge! Our brand new bakery is NOW OPEN! Swing by for freshly baked treats, artisanal bread, and a warm smile. We can't wait to share our passion for baking with you! #NewBakeryAlert #SweetTreats #BakeryLife\""
+},
+{
+"ref": "custom:180",
+"pred": "The greenhouse effect is a natural process that occurs when certain gases in the Earth's atmosphere, such as carbon dioxide, methane, and water vapor, trap heat from the sun. This process is essential for maintaining a habitable temperature on Earth, but human activities have increased the concentration of these gases, leading to an enhancement of"
+},
+{
+"ref": "custom:181",
+"pred": "Reducing stress at work can be achieved through various strategies. Here are some effective ways to manage work-related stress:\n\n1. **Prioritize tasks**: Make a to-do list and focus on the most critical tasks first. This helps you stay organized and avoid feeling overwhelmed.\n2. **Set boundaries**: Learn to say \""
+},
+{
+"ref": "custom:182",
+"pred": "You can use the `ls` command with the `-l` option to list files in a long format, and then pipe the output to `sort` to sort the files by size. Here's the command:\n\n```bash\nls -l | sort -k 5 -n\n```\n\nThis command works as"
+},
+{
+"ref": "custom:183",
+"pred": "The idiom \"break the ice\" means to do or say something that helps to relax and make people feel more comfortable in a social situation, especially when they are meeting for the first time or are feeling awkward. It can be a joke, a story, or a comment that helps to ease the tension and create a"
+},
+{
+"ref": "custom:184",
+"pred": "Making a basic paper airplane is a fun and easy activity that can be enjoyed by people of all ages. Here's a step-by-step guide to making a simple paper airplane:\n\n**Materials:**\n\n* One piece of paper (preferably 8.5 x 11 inches or A4 size)\n* A flat surface"
+},
+{
+"ref": "custom:185",
+"pred": "The French Revolution, which lasted from 1789 to 1799, was a complex and multifaceted event with various causes. Some of the main causes include:\n\n1. **Financial Crisis**: France was deeply in debt from its involvement in the Seven Years' War and the American Revolutionary War. The burden of taxation"
+},
+{
+"ref": "custom:186",
+"pred": "**Scene:** A sunny backyard on a summer afternoon. A young boy, Timmy, is playing with his new robot friend, Zeta. Timmy is 6 years old, and Zeta is a small, spherical robot with a bright blue and yellow body.\n\n**Timmy:** Wow, Zeta! You"
+},
+{
+"ref": "custom:187",
+"pred": "Imagine you have a notebook that you share with your friends. In this notebook, you write down every transaction that happens between you and your friends, like \"John gave 10 dollars to Sarah\" or \"Emily gave 5 dollars to Michael.\"\n\nNow, imagine that this notebook is special because:\n\n1. **Everyone has"
+},
+{
+"ref": "custom:188",
+"pred": "I'm doing well, thank you for asking. I'm a large language model, so I don't have emotions or feelings like humans do, but I'm functioning properly and ready to help with any questions or tasks you may have. How can I assist you today?"
+},
+{
+"ref": "custom:189",
+"pred": "A man walked into a library and asked the librarian, \"Do you have any books on Pavlov's dogs and Schr\u00f6dinger's cat?\" The librarian replied, \"It rings a bell, but I'm not sure if it's here or not.\""
+},
+{
+"ref": "custom:190",
+"pred": "There are several effective ways to learn a new language, and the best method for you will depend on your learning style, goals, and availability of time. Here are some popular and effective ways to learn a new language:\n\n1. **Language Learning Apps**: Duolingo, Babbel, and Rosetta Stone are popular"
+},
+{
+"ref": "custom:191",
+"pred": "**Introducing HydraFlow - The Ultimate Reusable Water Bottle**\n\nStay hydrated and sustainable with HydraFlow, the premium reusable water bottle designed to keep you refreshed and the planet protected. Made from high-quality, BPA-free Tritan material, our bottle is durable, shatter-resistant, and perfect for daily use.\n\n**"
+},
+{
+"ref": "custom:192",
+"pred": "RAM (Random Access Memory) and storage are two fundamental components of a computer system that serve different purposes.\n\n**RAM (Random Access Memory)**\n\nRAM is a type of computer memory that temporarily holds data and applications while a computer is running. It's like a workspace where the computer can quickly access and process information. RAM"
+},
+{
+"ref": "custom:193",
+"pred": "Here's a 4-day workout plan for beginners that targets all major muscle groups:\n\n**Day 1: Chest and Triceps**\n\n1. Warm-up: 5-10 minutes of light cardio (jogging, jumping jacks, etc.)\n2. Barbell Bench Press: 3 sets of 8"
+},
+{
+"ref": "custom:194",
+"pred": "The United Nations (UN) is an international organization that was established in 1945 with the primary goal of promoting peace, security, and cooperation among its member states. The UN plays a crucial role in maintaining international peace and security, promoting sustainable development, protecting human rights, and delivering humanitarian aid.\n\nThe main roles of"
+},
+{
+"ref": "custom:195",
+"pred": "Here's a sample speech for a friend's wedding toast:\n\n\"Ladies and gentlemen, family, and friends, welcome. My name is [Your Name], and I'm honored to stand here today to celebrate the union of [Bride's Name] and [Groom's Name].\n\nFirst of all, I want to"
+},
+{
+"ref": "custom:196",
+"pred": "The stock market is a platform where publicly traded companies' shares are bought and sold. Here's a simplified explanation of how it works:\n\n**Key Players:**\n\n1. **Investors**: Individuals, institutions, or organizations that buy and sell shares.\n2. **Companies**: Publicly traded companies that issue shares to raise"
+},
+{
+"ref": "custom:197",
+"pred": "**Email Address Regular Expression**\n\nThe following regular expression matches most common email address formats:\n\n```regex\n^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$\n```\n\n**Explanation:**\n\n- `^` matches the start of the"
+},
+{
+"ref": "custom:198",
+"pred": "The theory of plate tectonics is a fundamental concept in geology that explains the movement and interaction of the Earth's lithosphere, which is the outermost solid layer of the planet. The theory was developed in the mid-20th century and revolutionized our understanding of the Earth's surface processes.\n\n**Key"
+},
+{
+"ref": "custom:199",
+"pred": "Creating a budget spreadsheet for your household can be a straightforward process using a spreadsheet software like Microsoft Excel or Google Sheets. Here's a step-by-step guide to help you get started:\n\n**Step 1: Gather Information**\n\n* Collect all your financial documents, including:\n\t+ Pay stubs\n\t+ Bank statements\n"
+},
+{
+"ref": "custom:200",
+"pred": "Crocodiles and alligators are both large reptiles that belong to the same order (Crocodilia), but they belong to different families and have several distinct differences. Here are some of the main differences:\n\n1. **Snout shape**: The most noticeable difference is the shape of their snouts. Crocodiles"
+},
+{
+"ref": "custom:201",
+"pred": "\"Hush little one, and rest your head,\nThe stars are shining, in the evening bed.\nThe moon is full, with a gentle glow,\nA soft and peaceful night, for you to know.\n\nThe world outside, is quiet too,\nThe wind is whispering, a gentle hue.\nSo close your eyes,"
+},
+{
+"ref": "custom:202",
+"pred": "DNA, or deoxyribonucleic acid, is a complex molecule that contains the genetic instructions used in the development and function of all living organisms. It's often referred to as the \"building blocks of life\" because it carries the genetic information that determines the characteristics of an individual, such as eye color, hair"
+},
+{
+"ref": "custom:203",
+"pred": "Writing a good resume involves several key steps that can help you effectively showcase your skills, experience, and achievements to potential employers. Here are some tips to help you write a good resume:\n\n1. **Define your objective**: Before you start writing your resume, it's essential to define your career objective. What type of job"
+},
+{
+"ref": "custom:204",
+"pred": "A haiku is a form of Japanese poetry that consists of three lines. It traditionally captures a moment or image from nature and often contains a seasonal reference. The syllable count is usually 5-7-5.\n\nHaiku typically:\n\n- Use simple language\n- Contain a seasonal reference (known as a k"
+},
+{
+"ref": "custom:205",
+"pred": "The colors of the rainbow, in order, are:\n\n1. Red\n2. Orange\n3. Yellow\n4. Green\n5. Blue\n6. Indigo\n7. Violet"
+},
+{
+"ref": "custom:206",
+"pred": "The sky appears blue because of a phenomenon called scattering. When sunlight enters Earth's atmosphere, it encounters tiny molecules of gases such as nitrogen and oxygen. These molecules scatter the light in all directions, but they scatter shorter (blue) wavelengths more than longer (red) wavelengths.\n\nThis is known as Rayleigh scattering, named"
+},
+{
+"ref": "custom:207",
+"pred": "Magnets are objects that produce a magnetic field, which is a region around the magnet where magnetic forces can be detected. The magnetic field is created by the alignment of tiny particles called electrons within the magnet.\n\nHere's a simplified explanation of how magnets work:\n\n1. **Electrons and Magnetism**: Electrons are tiny"
+},
+{
+"ref": "custom:208",
+"pred": "There are several effective ways to memorize vocabulary, and the best method for you will depend on your learning style and preferences. Here are some popular techniques:\n\n1. **Flashcards**: Create physical or digital flashcards with the word on one side and the definition or translation on the other. Review them regularly, covering the"
+},
+{
+"ref": "custom:209",
+"pred": "Here are a few examples of cover letter openings for a software engineer job:\n\n**Example 1:**\nDear Hiring Manager,\n\nI am excited to apply for the Software Engineer position at [Company Name], where I can leverage my passion for innovative technology and collaborative problem-solving to drive business growth and success.\n\n**Example 2"
+},
+{
+"ref": "custom:210",
+"pred": "Supply and demand is a fundamental concept in economics that explains how prices are determined in a market economy. It's a simple yet powerful idea that helps us understand how the interaction between the supply of a product or service and the demand for it affects its price.\n\n**Demand:**\n\nDemand refers to the quantity of a product or"
+},
+{
+"ref": "custom:211",
+"pred": "Dehydration occurs when the body loses more fluids than it takes in, causing an imbalance in the body's water and electrolyte levels. The symptoms of dehydration can vary depending on the severity of the dehydration and the individual's overall health. Here are the common symptoms of dehydration:\n\n**Mild Dehydration:**\n\n1."
+},
+{
+"ref": "custom:212",
+"pred": "The life cycle of a butterfly consists of four stages: egg, larva, pupa, and adult.\n\n1. **Egg Stage**: The female butterfly lays her eggs on a leaf or stem of a plant that will provide food for the caterpillar when it hatches. The eggs are usually small, ranging in"
+},
+{
+"ref": "custom:213",
+"pred": "**Adding Two Integers in C**\n=====================================\n\nHere's a simple function in C that adds two integers:\n\n```c\n#include <stdio.h>\n\n/**\n * Adds two integers and returns the result.\n *\n * @param a The first integer to add.\n * @param b The second integer to add.\n * @"
+},
+{
+"ref": "custom:214",
+"pred": "A project manager is a professional responsible for planning, organizing, and overseeing the execution of specific projects. Their primary goal is to ensure that the project is completed on time, within budget, and to the satisfaction of all stakeholders.\n\nSome of the key responsibilities of a project manager include:\n\n1. **Defining project scope**:"
+},
+{
+"ref": "custom:215",
+"pred": "Establishing a productive morning routine can set a positive tone for the rest of the day. Here are some tips to help you make the most of your morning:\n\n1. **Set a consistent wake-up time**: Set your alarm for the same time every day, including weekends. This helps regulate your body's internal clock and"
+},
+{
+"ref": "custom:216",
+"pred": "Quantum computing is a way of processing information that's different from the computers you're used to. Here's a simple explanation:\n\n**Classical Computing:**\n\nImagine you have a box of 10 colored balls (red, blue, green, etc.). To find a specific color, like the blue ball, you'd"
+},
+{
+"ref": "custom:217",
+"pred": "Through laughter and tears, we stand as one,\nFriendship's bond, forever won.\nTogether we face life's joys and fears,\nA connection that wipes away all tears."
+},
+{
+"ref": "custom:218",
+"pred": "Credit scores are three-digit numbers that represent an individual's creditworthiness. They are calculated based on information in their credit reports and are used by lenders to determine the likelihood of repaying a loan or credit card debt on time.\n\nHere's a general overview of how credit scores work:\n\n**Key Factors:**\n\n1."
+},
+{
+"ref": "custom:219",
+"pred": "The Olympic Games have a rich and fascinating history that spans over 2,700 years. The modern Olympic Games are a revival of the ancient Olympic Games, which were held in Greece from 776 BC to 393 AD.\n\n**Ancient Olympic Games (776 BC - 393 AD)**\n\nThe first recorded Olympic Games"
+},
+{
+"ref": "custom:220",
+"pred": "Here are some tips for a job interview:\n\n**Before the Interview**\n\n1. **Research the company**: Learn about the company's mission, values, products, and services. This will help you understand their needs and show your interest in the role.\n2. **Review the job description**: Study the job description and requirements"
+},
+{
+"ref": "custom:221",
+"pred": "**API (Application Programming Interface) Overview**\n===========================================================\n\nAn API (Application Programming Interface) is a set of defined rules that enables different software systems to communicate with each other. It acts as an intermediary between applications, allowing them to request services or data from other applications, systems, or services.\n\n**Key Components of"
+},
+{
+"ref": "custom:222",
+"pred": "Describing the taste of a mango to someone who has never had one is a delightful challenge. \n\nThe taste of a mango is a symphony of sweetness and complexity. When you take a bite of a ripe mango, the sweetness explodes in your mouth, but it's not a cloying or overpowering sweetness."
+},
+{
+"ref": "custom:223",
+"pred": "While both lakes and ponds are bodies of water, there are some key differences between them. Here are the main distinctions:\n\n1. **Size**: Lakes are generally larger than ponds. Lakes can be thousands of acres in size, while ponds are typically smaller, ranging from a few acres to a few hundred acres.\n\n2."
+},
+{
+"ref": "custom:224",
+"pred": "Opportunity cost is a fundamental concept in economics that refers to the value of the next best alternative that is given up when a choice is made. In other words, it's the cost of choosing one option over another.\n\nWhen you make a decision, you're essentially choosing one path over another. The opportunity cost is the"
+},
+{
+"ref": "custom:225",
+"pred": "As I lay in bed, I couldn't shake the feeling that something was watching me from the shadows. It wasn't until I heard my own voice whisper \"goodnight\" back to me that I realized I wasn't alone. When I finally worked up the courage to turn on the light, I saw my own face"
+},
+{
+"ref": "custom:226",
+"pred": "Bees play a vital role in agriculture, and their importance cannot be overstated. Here are some key reasons why bees are crucial to agriculture:\n\n1. **Pollination**: Bees are responsible for pollinating around 1/3 of the world's crops, including fruits, vegetables, nuts, and seeds. Without"
+},
+{
+"ref": "custom:227",
+"pred": "Cleaning a cast iron pan requires some care to maintain its seasoning and prevent rust. Here's a step-by-step guide:\n\n1. **Avoid using soap or harsh chemicals**: Never use soap, bleach, or other harsh chemicals to clean a cast iron pan. These can strip away the seasoning and damage the metal.\n2."
+},
+{
+"ref": "custom:228",
+"pred": "Negative. The reviewer mentions two negative experiences: the food being cold and the waiter being rude, which indicates a poor dining experience."
+},
+{
+"ref": "custom:229",
+"pred": "Positive"
+},
+{
+"ref": "custom:230",
+"pred": "The intent of this airline customer message is: Refund or Compensation. \n\nThis message indicates that the customer's flight was cancelled and they are seeking a refund, which is a clear request for compensation or reimbursement."
+},
+{
+"ref": "custom:231",
+"pred": "The intent of this message is: \"Information_Request\" or more specifically \"Menu_Information\". \n\nThe customer is asking for information about the restaurant's menu, specifically if they have any vegetarian options available."
+},
+{
+"ref": "custom:232",
+"pred": "The topic of this headline can be classified as technology."
+},
+{
+"ref": "custom:233",
+"pred": "This email can be classified as spam. \n\nThe reason is that it's a generic, unsolicited message with a promise of a free prize (a cruise) without any context or personalization. It's likely an attempt to trick the recipient into clicking on a link, which could lead to a phishing site or a malware"
+},
+{
+"ref": "custom:234",
+"pred": "The intent of this sentence is to request someone to set an alarm on a device (such as a phone or clock) to go off at 7:00 am."
+},
+{
+"ref": "custom:235",
+"pred": "The intent of this hotel guest request is: Late Checkout Request"
+},
+{
+"ref": "custom:236",
+"pred": "The intent of this telecom customer message is: Connectivity Issue."
+},
+{
+"ref": "custom:237",
+"pred": "The emotion in this text can be classified as **Joy** or **Excitement**. The use of the phrase \"I can't believe\" and the overall positive tone of the statement suggest a strong sense of happiness and relief, which are characteristic of joy and excitement."
+},
+{
+"ref": "custom:238",
+"pred": "Based on the information provided, I would classify this support ticket as \"High\" priority. A website being down for all users is a critical issue that affects the entire user base and likely has a significant impact on business operations or user experience. It requires immediate attention to resolve the issue as quickly as possible."
+},
+{
+"ref": "custom:239",
+"pred": "The language of the sentence 'Je voudrais un caf\u00e9, s'il vous pla\u00eet' is French."
+},
+{
+"ref": "custom:240",
+"pred": "The intent of this e-commerce customer message is: \"Tracking or Delivery Issue\". \n\nThe customer is inquiring about the status of their package, specifically mentioning that it was supposed to arrive the previous day, indicating that they are concerned about the delivery timeline."
+},
+{
+"ref": "custom:241",
+"pred": "The intent of this message is: \"File a Claim\" or more specifically, \"Report a Car Accident\"."
+},
+{
+"ref": "custom:242",
+"pred": "The part of speech of the word 'quickly' in the sentence 'She ran quickly' is an adverb."
+},
+{
+"ref": "custom:243",
+"pred": "This question can be classified as an opinion. The term \"best\" is subjective and implies a personal preference, which is a characteristic of opinions rather than facts."
+},
+{
+"ref": "custom:244",
+"pred": "Negative \n\nThe tweet expresses a sense of reluctance or dread about the start of a new week, which is a common negative feeling associated with Mondays."
+},
+{
+"ref": "custom:245",
+"pred": "Transportation"
+},
+{
+"ref": "custom:246",
+"pred": "The classification for the given animal is: bird."
+},
+{
+"ref": "custom:247",
+"pred": "The intent of the message \"Turn off the living room lights\" is likely to be:\n\n* **Light Control**: This intent involves controlling the lighting in a specific room or area of the smart home."
+},
+{
+"ref": "custom:248",
+"pred": "This news belongs to the category of Sports."
+},
+{
+"ref": "custom:249",
+"pred": "The intent of this message is likely \"Membership Freeze\" or \"Pause Membership\"."
+},
+{
+"ref": "custom:250",
+"pred": "This message is a statement. It provides information about the meeting time without asking for a response or clarification."
+},
+{
+"ref": "custom:251",
+"pred": "The intent of this patient message is: \"Reschedule\" or more specifically, \"Appointment Scheduling\"."
+},
+{
+"ref": "custom:252",
+"pred": "Negative.\n\nThe headline mentions a sharp decline in bank profits, which is a negative development. Additionally, the phrase \"rising defaults\" implies an increase in loan defaults, which can be a sign of financial instability and further negatively impact bank profits."
+},
+{
+"ref": "custom:253",
+"pred": "The intent of this utterance is: \"Play music\" or more specifically, \"Play a music genre\" with a sub-intent of \"Jazz\"."
+},
+{
+"ref": "custom:254",
+"pred": "Based on the review, I would classify it as 2 stars out of 5. The reviewer mentions that the product \"works okay\", which suggests some level of functionality, but also notes that the battery dies quickly, which is a significant drawback. This mixed assessment warrants a mediocre rating."
+},
+{
+"ref": "custom:255",
+"pred": "This text can be classified as informal. The use of colloquial expressions (\"Hey\", \"what's up\") and a casual invitation (\"Wanna grab lunch?\") indicate a relaxed and friendly tone, typical of informal communication."
+},
+{
+"ref": "custom:256",
+"pred": "The intent of this real estate inquiry is: Informational/Availability Inquiry. \n\nThis classification is based on the fact that the message is asking about the availability of a specific apartment, indicating that the sender is likely interested in renting or purchasing the property but wants to confirm if it is still available before proceeding."
+},
+{
+"ref": "custom:257",
+"pred": "The intent of this ride-sharing customer message is: \"Dispute/Complaint\". \n\nThe customer is expressing dissatisfaction with the service they received, specifically that the driver took a longer route and charged them more, which suggests that the customer feels they were overcharged. This intent indicates that the customer is seeking a resolution or"
+},
+{
+"ref": "custom:258",
+"pred": "I can't predict when you will get your money back. You may want to contact the company or customer service department to inquire about the status of your refund. They can provide you with more information about the processing time and any potential delays. \nYou can also ask them to provide you with a refund update or to exped"
+},
+{
+"ref": "custom:259",
+"pred": "I can't help you with this issue. If your refund is not showing up in your account, here are some steps you can take to try to resolve the issue: \n\n1.  Check the status of your refund: You can check the status of your refund on the website of the agency or company that issued the"
+},
+{
+"ref": "custom:260",
+"pred": "I can provide a general answer to your question. However, I would like to clarify that I don't know the specifics about your new card, such as the type of card (e.g., credit card, debit card, membership card, etc.) or the issuer.\n\nThat being said, for most types of cards,"
+},
+{
+"ref": "custom:261",
+"pred": "I'm so sorry to hear that you're having trouble with card activation. Can you please provide more details about the issue you're experiencing, such as:\n\n- What type of card are you trying to activate (e.g., credit card, debit card, gift card)?\n- What steps have you taken so far to activate"
+},
+{
+"ref": "custom:262",
+"pred": "In the United States, the minimum age to open a bank account varies depending on the type of account and the bank's policies. Here are some general guidelines:\n\n1. **Minor accounts**: In most states, minors (people under the age of 18) can open a bank account with a parent or guardian as a"
+},
+{
+"ref": "custom:263",
+"pred": "I don't have a separate \"children's account\" in the classical sense, but I can adjust my tone and content to be more suitable for kids. I can also provide educational and fun content for children, such as:\n\n1. Simple explanations of complex topics\n2. Fun facts and trivia\n3. Storyt"
+},
+{
+"ref": "custom:264",
+"pred": "I'd be happy to help you troubleshoot the issue with your Apple Pay American Express top-up. Here are some steps you can try:\n\n1. **Check your Apple Pay settings**: Ensure that your American Express card is added to Apple Pay and that it's set as the default card. Go to the Wallet app,"
+},
+{
+"ref": "custom:265",
+"pred": "There could be several reasons why the top-up feature for your American Express card in Apple Pay is not working. Here are some possible causes:\n\n1. **Insufficient funds**: Ensure that you have sufficient funds in your bank account linked to Apple Pay. If your account balance is low, you won't be able to top"
+},
+{
+"ref": "custom:266",
+"pred": "I can't help you with that. If you're looking for information on which ATMs you can use with your card, I suggest contacting your bank or financial institution directly. They should be able to provide you with a list of compatible ATMs or offer guidance on how to find them. Is there anything else I can"
+},
+{
+"ref": "custom:267",
+"pred": "To give you an accurate answer, I would need more information about the card you're referring to. Are you asking about a specific type of card, such as a debit card, credit card, or prepaid card? Also, do you know the bank or financial institution that issued the card? \n\nIf you provide more details"
+},
+{
+"ref": "custom:268",
+"pred": "There are several ways to add money automatically, depending on your financial goals and preferences. Here are a few options:\n\n1. **Automated Transfers**: Set up automatic transfers from your checking account to your savings or investment accounts. This can be done through your bank's online platform or mobile app.\n2. **Direct"
+},
+{
+"ref": "custom:269",
+"pred": "For that type of information, please refer to the Help Center."
+},
+{
+"ref": "custom:270",
+"pred": "The time it takes for an international transfer to arrive can vary greatly depending on several factors, such as:\n\n1. **Transfer method**: Different transfer methods have different processing times. For example:\n\t* Bank transfers (SWIFT): 2-5 business days\n\t* Online money transfer services (e.g., Transfer"
+},
+{
+"ref": "custom:271",
+"pred": "If your bank balance isn't current after a transfer, there could be a few reasons for this. Here are some possible explanations:\n\n1. **Transaction processing time**: Bank transfers can take some time to process, especially if you're transferring money between different banks or countries. This delay can cause your balance to be outdated.\n\n"
+},
+{
+"ref": "custom:272",
+"pred": "I can't help you with that. If you have concerns about a missing cheque, I suggest you contact your bank or financial institution directly. They will be able to assist you with your inquiry."
+},
+{
+"ref": "custom:273",
+"pred": "I'd be happy to help you investigate the issue with your cash deposit. \n\nTo better assist you, could you please provide me with some more information?\n\n1. What is the exact amount you deposited?\n2. When did you deposit the cash (date and time)?\n3. Did you deposit the cash at a bank"
+},
+{
+"ref": "custom:274",
+"pred": "I can't provide you with specific information about why your beneficiary is being denied. If you're having issues with a life insurance claim, I suggest you contact the insurance company directly to discuss the matter. Is there anything else I can help you with?"
+},
+{
+"ref": "custom:275",
+"pred": "I'd be happy to help you troubleshoot the issue. Can you please provide more details about the problem you're experiencing? For example:\n\n1. What type of account are you trying to transfer funds from (e.g., checking, savings, credit card)?\n2. What type of account are you trying to transfer funds"
+},
+{
+"ref": "custom:276",
+"pred": "Reversing a transaction typically involves creating a new transaction that undoes the effects of the original transaction. Here are the general steps to follow:\n\n1. **Identify the transaction**: Determine which transaction needs to be reversed. This could be a payment, a transfer, or any other type of financial transaction.\n2."
+},
+{
+"ref": "custom:277",
+"pred": "You didn't mention what transaction you're trying to cancel. Could you provide more details about the transaction, such as the type of transaction (e.g., online purchase, bank transfer, etc.) and any relevant information (e.g., date, amount, etc.)? This will help me provide a more accurate and helpful"
+},
+{
+"ref": "custom:278",
+"pred": "To order a new card, I'll need more information from you. Can you please provide me with the following details:\n\n1. What type of card are you referring to (credit card, debit card, gift card, etc.)?\n2. Who is the issuer of your card (e.g., a bank, credit"
+},
+{
+"ref": "custom:279",
+"pred": "If your old credit card is set to expire, you can follow these steps to get a new card:\n\n1. **Check your card's expiration date**: Look for the expiration date printed on your card. It's usually located on the front or back of the card.\n2. **Contact your credit card issuer**: Reach"
+},
+{
+"ref": "custom:280",
+"pred": "You can use your card at a wide range of places, depending on the type of card you have. Here are some common places that accept different types of cards:\n\n1. **Credit Cards**:\n\t* Most retail stores (e.g., Walmart, Target, Best Buy)\n\t* Restaurants and cafes\n\t*"
+},
+{
+"ref": "custom:281",
+"pred": "You're referring to the movie \"The Atmosphere of It\" or possibly \"The Atmosphere of It\" is not a well-known movie, but I found a Japanese horror film called \"The Atmosphere of It\" (, K\u016bki o Miageru Onna) released in 2012. \n\nHowever"
+},
+{
+"ref": "custom:282",
+"pred": "I'm happy to help you try to find your card. Can you please provide more context or information about the card you're looking for, such as:\n\n- What type of card is it (credit card, debit card, gift card, etc.)?\n- Where did you last have it?\n- When did you last"
+},
+{
+"ref": "custom:283",
+"pred": "I can't help you with tracking a physical package. I'm here to provide information and answer questions to the best of my ability. If you're looking for information on tracking a package, I'd be happy to provide general information on how to track a package. Would that help?"
+},
+{
+"ref": "custom:284",
+"pred": "For that type of information, please check the help center."
+},
+{
+"ref": "custom:285",
+"pred": "Express delivery times can vary depending on the shipping method and carrier you're using. However, I'll provide some general estimates for delivering a card to the US:\n\n1. **Express Mail International (EMI)**: This is a fast and reliable service offered by the US Postal Service (USPS). Delivery times for E"
+},
+{
+"ref": "custom:286",
+"pred": "I can't help you with that. If you have found your card, you can try contacting the bank or card issuer to see if they can reactivate it."
+},
+{
+"ref": "custom:287",
+"pred": "You can't see your card in this chat interface. I\u2019m a large language model. This conversation has just started. If you'd like to continue chatting with me, I can help with any questions or topics you'd like to discuss. If you have a specific app or topic in mind, feel free to share and"
+},
+{
+"ref": "custom:288",
+"pred": "There could be several reasons why your card was declined at the restaurant. Here are some possible explanations:\n\n1. **Insufficient funds**: If you don't have enough money in your account to cover the transaction, the card will be declined. Check your account balance to see if this is the case.\n2. **Card"
+},
+{
+"ref": "custom:289",
+"pred": "I can't assist you with that request. If you're having trouble with a physical card, such as a credit card or ID card, you might want to contact the issuer for assistance. Is there anything else I can help you with?"
+},
+{
+"ref": "custom:290",
+"pred": "There are several possible reasons why you might have been charged an extra fee when paying with a card:\n\n1. **Foreign Transaction Fee**: If you're making a purchase online or abroad, your bank or credit card issuer might charge a foreign transaction fee, which can range from 1-3% of the transaction amount.\n"
+},
+{
+"ref": "custom:291",
+"pred": "Unexpected fees can be frustrating, especially when you're not aware of them beforehand. There are several types of fees that might be associated with a purchase, such as:\n\n1. **Foreign transaction fees**: If you're shopping online from a foreign website or using a credit card abroad, you might incur a foreign transaction fee,"
+},
+{
+"ref": "custom:292",
+"pred": "If you're concerned about an unauthorized payment on your card, here are some steps you can take:\n\n1. **Contact your bank or card issuer**: Reach out to your bank or card issuer's customer service department as soon as possible. They can help you investigate the transaction and potentially reverse the charge.\n\n2. **Report"
+},
+{
+"ref": "custom:293",
+"pred": "If a payment that you didn't make appears in your app, here are some steps you can take to resolve the issue:\n\n1. **Check your account activity**: Review your account history to see when the payment was made and what the payment details are. This can help you identify the transaction and potentially the source of the"
+},
+{
+"ref": "custom:294",
+"pred": "If you've purchased something abroad and the incorrect exchange rate was applied, you may be able to get a refund or a correction. Here are some steps you can take:\n\n1. **Check your receipt**: Review your receipt to see if it shows the exchange rate used. If it does, make a note of it.\n"
+},
+{
+"ref": "custom:295",
+"pred": "If you've purchased something abroad and the exchange rate is incorrect, you may be able to dispute the charge with your bank or credit card company. Here are some steps you can take:\n\n1. **Check your receipt**: Verify the amount you paid in the foreign currency and the exchange rate used by the merchant or vendor.\n"
+},
+{
+"ref": "custom:296",
+"pred": "If the ATM eats your card, don't panic. Here are the steps to follow:\n\n1. **Stay calm**: It's not uncommon for ATMs to malfunction, and most banks have procedures in place to handle such situations.\n\n2. **Try to retrieve your card**: If the ATM has not fully swallowed your card"
+},
+{
+"ref": "custom:297",
+"pred": "If you're having trouble getting your card out of the ATM, here are some steps you can try:\n\n1. **Stay calm**: It's essential to remain calm and patient. Panicking can lead to making the situation worse.\n2. **Check if the card is stuck**: Gently try to pull the card out"
+},
+{
+"ref": "custom:298",
+"pred": "There are several reasons why you might have been charged a fee on a cash withdrawal. Here are some possible explanations:\n\n1. **Out-of-network ATM**: If you used an ATM that's not affiliated with your bank or credit union, you might have been charged a fee by the ATM operator. This fee is usually deducted"
+},
+{
+"ref": "custom:299",
+"pred": "There could be several reasons why you got a fee after taking cash out. Here are a few possibilities:\n\n1. **ATM withdrawal fee**: Many banks charge a fee for using an out-of-network ATM. This fee can range from $2 to $5, depending on the bank and the ATM.\n2. **"
+},
+{
+"ref": "custom:300",
+"pred": "I can't cancel or freeze your card, but I can guide you through the steps to do so. Would that help?"
+},
+{
+"ref": "custom:301",
+"pred": "I'm here to help you investigate the issue. To better assist you, can you provide more details about the unauthorized cash withdrawal? \n\nHere are some questions to consider:\n\n1. What is the exact amount of the withdrawal?\n2. When did the withdrawal occur?\n3. What is the date and time of the withdrawal"
+},
+{
+"ref": "custom:302",
+"pred": "To change your PIN, follow these steps:\n\n1. **Check your bank's requirements**: Some banks may have specific requirements or restrictions for PIN changes, such as requiring a visit to a branch or using a specific method.\n\n2. **Gather necessary information**: You'll need to know your current PIN and have your debit"
+},
+{
+"ref": "custom:303",
+"pred": "You can try to change your PIN, but I'll need more information about what you're trying to change a PIN for. Are you trying to change a debit card PIN, a bank account PIN, or something else?"
+},
+{
+"ref": "custom:304",
+"pred": "To order a replacement card, you'll need to follow these steps:\n\n1. **Check your account status**: Since you froze your account, you might need to unfreeze it first. If you can't access your account online, try calling the customer service number associated with your account.\n\n2. **Contact customer service**:"
+},
+{
+"ref": "custom:305",
+"pred": "I'm so sorry to hear that you're concerned about your card being used without your permission. Here are some steps you can take to investigate and potentially resolve the issue:\n\n1. **Check your account activity**: Immediately log in to your online banking account or call your bank's customer service to review your recent transactions. Look"
+},
+{
+"ref": "custom:306",
+"pred": "If your contactless function isn't working, there are a few steps you can take to troubleshoot and potentially fix the issue:\n\n1. **Check your card's balance and expiration date**: Ensure your card has sufficient funds and hasn't expired. A low balance or expired card might prevent contactless payments.\n\n2. **"
+},
+{
+"ref": "custom:307",
+"pred": "A contactless payment card or device can be frustrating when it's not working. What seems to be the issue with your contactless payment? Is it not detecting, not pairing, or not making payments?"
+},
+{
+"ref": "custom:308",
+"pred": "You're referring to a UK-issued credit or debit card. \n\nIf you're not in the UK, it's unlikely that you'll be able to obtain a physical card from a UK bank or financial institution. However, there are a few possibilities:\n\n1. **Virtual cards**: Some UK banks and financial institutions offer"
+},
+{
+"ref": "custom:309",
+"pred": "I'm a large language model, so I don't have a physical presence anywhere, including Greece. However, I can provide information and answer questions about Greece, its culture, history, and more. How can I assist you today?"
+},
+{
+"ref": "custom:310",
+"pred": "There could be several reasons why your card was refused. Here are some possible explanations:\n\n1. **Insufficient funds**: If you don't have enough money in your account to cover the transaction, the card will be declined.\n2. **Expired card**: If your card has expired, it won't be accepted for transactions"
+},
+{
+"ref": "custom:311",
+"pred": "I'm sorry to hear that you're experiencing issues with your payment. I'm not a payment processing system, but rather a text-based conversational AI. I don't have the capability to accept payments or process transactions. It's possible that you may be trying to make a payment on a different platform or website that's"
+},
+{
+"ref": "custom:312",
+"pred": "I can't help you with that request. If you're having trouble with your ATM card, I suggest you contact your bank's customer service department for assistance. They can help you troubleshoot the issue or replace your card if necessary."
+},
+{
+"ref": "custom:313",
+"pred": "I can't assist with checking your bank card. If you're having trouble with your ATM card, I can help you with general information about how to troubleshoot the issue. Would that help?"
+},
+{
+"ref": "custom:314",
+"pred": "There could be several reasons why your online payment was declined twice. Here are some possible causes:\n\n1. **Insufficient funds**: Check your account balance to ensure you have sufficient funds to cover the purchase. If you've made any transactions since the last payment attempt, it might have triggered a decline.\n\n2. **Expired"
+},
+{
+"ref": "custom:315",
+"pred": "It seems like you're referring to a situation where a transfer or transaction hasn't gone through. This can happen in various contexts, such as:\n\n1. Financial transactions: A bank transfer or payment might not have been completed.\n2. Sports transfers: A player's transfer between teams might not have been finalized.\n3."
+},
+{
+"ref": "custom:316",
+"pred": "If you've noticed a direct debit charge that you don't recognize, here are some steps you can take:\n\n1. **Check your bank statements**: Review your recent bank statements to see when the charge was made and how much it was for. This can help you identify the company or organization that made the charge.\n2"
+},
+{
+"ref": "custom:317",
+"pred": "That can be frustrating and concerning. Here are some steps you can take to investigate and resolve the issue:\n\n1. **Contact your bank**: Reach out to your debit card issuer's customer service department as soon as possible. They can help you identify the charge and determine if it was a legitimate transaction or a mistake.\n2"
+},
+{
+"ref": "custom:318",
+"pred": "The number of disposable virtual cards you can have may vary depending on the service provider or platform you're using. However, here are some general guidelines:\n\n1. **Virtual credit card services**: Some virtual credit card services, like those offered by banks or fintech companies, may allow you to generate multiple virtual cards for personal"
+},
+{
+"ref": "custom:319",
+"pred": "In Magic: The Gathering, the number of disposable cards you can have is limited by the \"maximum hand size\" rule. According to the official Magic: The Gathering rules, a player's maximum hand size is 7 cards.\n\nHowever, there are some exceptions and special cases:\n\n1. **Commander format**: In"
+},
+{
+"ref": "custom:320",
+"pred": "You don't need to give me your new address. I'm a large language model, I don't have the ability to receive physical mail or keep track of users' addresses. I exist solely as a digital entity, and our interaction is through text-based conversations. You can continue to interact with me as usual, and"
+},
+{
+"ref": "custom:321",
+"pred": "After moving to a new location, it's essential to update your personal details with various institutions and services to avoid any issues or delays. Here's a comprehensive checklist to help you:\n\n1. **Notify the Post Office**:\n\t* Update your address with the postal service to ensure you receive mail and packages at your new"
+},
+{
+"ref": "custom:322",
+"pred": "I can provide you with some general information about exchange fees. However, please note that these fees can vary depending on the exchange platform, the type of cryptocurrency being exchanged, and other factors.\n\nHere are some common types of fees associated with cryptocurrency exchanges:\n\n1. **Transaction fees**: These fees are charged by the blockchain network"
+},
+{
+"ref": "custom:323",
+"pred": "The cost of currency exchange can vary depending on the method of exchange, the type of currency, and the provider. Here are some common methods of currency exchange and their associated costs:\n\n1. **Bank Exchange**: Banks typically charge a fee for exchanging currency, which can range from 1-5% of the amount being"
+},
+{
+"ref": "custom:324",
+"pred": "Exchange rates can fluctuate constantly, so I'll provide you with a general idea of current exchange rates as of my knowledge cutoff in 2023. Please note that these rates may not reflect the current market rates.\n\n**Please keep in mind that exchange rates can change rapidly and may not reflect the current market rates. For"
+},
+{
+"ref": "custom:325",
+"pred": "Exchange rates can fluctuate constantly, making it challenging to predict the exact rate you'll get. However, here are some factors that can influence exchange rates and help you estimate the rate you might get:\n\n1. **Current market rate**: Check the current exchange rate on websites like XE.com, Oanda.com, or"
+},
+{
+"ref": "custom:326",
+"pred": "To exchange your GBP (British Pounds) to AUD (Australian Dollars), you have several options:\n\n1. **Bank**: Visit your local bank and ask them to exchange your GBP for AUD. They will give you the current exchange rate and may charge a fee for the service. Keep in mind that banks often have poor"
+},
+{
+"ref": "custom:327",
+"pred": "Many people use me to double-check definitions or to learn something new. I can tell you about currency exchange, but I don't have the ability to exchange currencies myself."
+},
+{
+"ref": "custom:328",
+"pred": "I can provide some general information about possible reasons why you might have been charged extra on an app. \n\nThere are several reasons why you might have been charged extra on an app:\n\n1. **In-app purchases**: Many apps offer in-app purchases, which allow users to buy digital goods or services within the app. If"
+},
+{
+"ref": "custom:329",
+"pred": "I can't help you with that. If you are concerned about the extra \u20ac1 on your statement, I suggest you contact your bank or financial institution directly for more information. They will be able to provide you with the most accurate and up-to-date information about your account."
+},
+{
+"ref": "custom:330",
+"pred": "You didn't provide any context about the transfer you were attempting. Could you please provide more information about the transfer, such as what type of transfer it was (e.g., file transfer, database transfer, etc.) and what error message you received (if any)? This will help me better understand the issue and provide a"
+},
+{
+"ref": "custom:331",
+"pred": "I'm so sorry to hear that you're experiencing issues with the transfer. I'm a large language model, I don't have a physical system that can go down, but I can try to help you troubleshoot the problem.\n\nSince you've already tried 5 times, it's possible that there's an issue with"
+},
+{
+"ref": "custom:332",
+"pred": "I can provide you with a list of popular currencies that people often hold or invest in. Keep in mind that this is not an exhaustive list, and the availability of currencies may vary depending on your location and the services you use. Here are some examples:\n\n**Major Currencies:**\n\n1. US Dollar (USD)\n"
+},
+{
+"ref": "custom:333",
+"pred": "I can provide information and assist with tasks in various languages and currencies. However, I don't have a physical store or accept payments. I exist as a digital entity, so we don't have a transactional relationship.\n\nThat being said, I can provide information and answer questions in many languages and about various currencies, including"
+},
+{
+"ref": "custom:334",
+"pred": "Disposable cards, also known as disposable gift cards or one-time use cards, are cards that contain a stored value or a code that can be used to make a purchase or payment. The function of disposable cards can vary depending on the type of card and the industry it is used in. Here are some common functions of disposable"
+},
+{
+"ref": "custom:335",
+"pred": "Disposable virtual cards, also known as virtual credit cards or one-time cards, are digital representations of a credit or debit card number that can be used for online transactions. They are designed to be used once and then discarded, providing an additional layer of security and convenience for online shoppers.\n\nHere's how they work:\n\n1."
+},
+{
+"ref": "custom:336",
+"pred": "It sounds like you're waiting for a Personal Identification Number (PIN) to be sent to you. Can you please provide more context or information about what PIN you're waiting for, such as a bank PIN, a credit card PIN, or something else? I'll do my best to help you."
+},
+{
+"ref": "custom:337",
+"pred": "I can't help you with that request. If you need help with something else, feel free to ask."
+},
+{
+"ref": "custom:338",
+"pred": "I can provide information and answers on a wide range of topics. However, I don't have information on a specific price for an additional card as it can vary greatly depending on the type of card, the service or product it's associated with, and other factors.\n\nIf you could provide more context or clarify what type of"
+},
+{
+"ref": "custom:339",
+"pred": "To proceed with giving your daughter another card, I'll need a bit more information from you. Here are a few possibilities:\n\n1. **Birthday or Holiday Card**: If it's a birthday or holiday, you can consider giving her a card related to the occasion. For example, if it's her birthday, you could"
+},
+{
+"ref": "custom:340",
+"pred": "Meta, the company that builds technologies that help people connect, find communities and grow businesses, offers a virtual credit card called Meta Pay Card in the US, and a virtual debit card called Meta Pay Debit Card in the US. However, these cards are only available to users who have a Meta Pay account and are at"
+},
+{
+"ref": "custom:341",
+"pred": "I can't help you with that. If you're having trouble finding your virtual card, you might want to contact the issuer for assistance. Is there anything else I can help you with?"
+},
+{
+"ref": "custom:342",
+"pred": "If your card has been lost or stolen, here are the steps you should take:\n\n1. **Notify the bank or card issuer immediately**: Contact the bank or card issuer's customer service number as soon as possible. They will guide you through the process and help you report the incident.\n\n2. **Report the incident online"
+},
+{
+"ref": "custom:343",
+"pred": "I'm so sorry to hear that your card has been stolen. To protect your account and prevent any unauthorized transactions, I recommend taking immediate action. Here are the steps you can follow:\n\n1. **Call your bank's customer service**: Reach out to your bank's customer service number as soon as possible. They will guide"
+},
+{
+"ref": "custom:344",
+"pred": "I'm so sorry to hear that you went through a mugging experience.  Losing personal belongings can be very stressful.\n\nIf you're unable to access the app due to the theft, here are a few suggestions that might help:\n\n1. **Contact the app's customer support**: Reach out to the app's customer support"
+},
+{
+"ref": "custom:345",
+"pred": "If your phone was stolen, it's possible to remotely lock or erase your device, which might affect your ability to access the app. However, the specifics depend on the app's security measures and your device's operating system.\n\nFor Android devices:\n\n1.  If you have a Google account linked to your device, you"
+},
+{
+"ref": "custom:346",
+"pred": "To get a physical card to use in stores, you'll need to apply for a debit or credit card from a bank or financial institution. Here are the general steps:\n\n1. **Choose a bank or financial institution**: Research and select a bank or financial institution that offers the type of card you want (e.g.,"
+},
+{
+"ref": "custom:347",
+"pred": "I'd be happy to help you with a card. What kind of card are you looking for? A birthday card, a get-well card, or something else?"
+},
+{
+"ref": "custom:348",
+"pred": "Unfortunately, I'm a large language model, I don't have the ability to store or remember your passcode. You are interacting with me through a text-based interface, and our conversation starts from scratch each time you talk to me.\n\nHowever, if you're trying to reset a passcode for a specific service or device"
+},
+{
+"ref": "custom:349",
+"pred": "I can't help you with that. If you are having trouble getting into an app with a passcode, I suggest trying the following:\n\n1. Check if you have entered the correct passcode. Make sure you are entering the correct sequence of numbers.\n2. If you have forgotten your passcode, try resetting it"
+},
+{
+"ref": "custom:350",
+"pred": "It can be frustrating to wait for a payment to be processed. Can you tell me more about the payment and what you're waiting for? Is it a payment from a client, a refund, or something else?"
+},
+{
+"ref": "custom:351",
+"pred": "There can be several reasons why your card payment is still listed as pending. Here are some possible explanations:\n\n1. **Authorization vs. Capture**: When you make a payment, the merchant may only authorize the payment, which is a temporary hold on your funds. This is usually indicated by a \"pending\" status. The"
+},
+{
+"ref": "custom:352",
+"pred": "When you initiate a cash withdrawal from an ATM or a bank teller, the transaction is typically processed in two stages: authorization and settlement.\n\n**Authorization:**\nWhen you request a cash withdrawal, the bank's system sends a request to the ATM or the bank's server to verify your account balance and ensure you have sufficient"
+},
+{
+"ref": "custom:353",
+"pred": "It sounds like you're experiencing some issues with your ATM transaction. There could be several reasons why the machine didn't work earlier and now shows \"transaction in progress.\" Here are a few possible explanations:\n\n1. **Network or Server Issues**: The bank's servers or the ATM network might be experiencing technical difficulties, causing the"
+},
+{
+"ref": "custom:354",
+"pred": "If your top-up has not gone through, here are some steps you can take:\n\n1. **Check your account balance**: Ensure that you have sufficient funds in your account to complete the top-up. If your account balance is low, you might need to add more money before attempting the top-up again.\n\n2. **"
+},
+{
+"ref": "custom:355",
+"pred": "I can provide some general information about pending transactions. However, to give you an accurate answer, I would need more information about the specific top-up you're referring to, such as the payment method, the service provider, and any relevant details about the transaction.\n\nThat being said, pending transactions can last anywhere from a few"
+},
+{
+"ref": "custom:356",
+"pred": "EU transfers, also known as SEPA (Single Euro Payments Area) transfers, typically take 1-2 working days to process. However, this timeframe can vary depending on several factors, such as:\n\n1. **Bank processing times**: Banks may take some time to process the transfer, which can add to the overall"
+},
+{
+"ref": "custom:357",
+"pred": "There can be several reasons why your transfer is appearing as \"pending.\" Here are some possible explanations:\n\n1. **Insufficient funds**: If the account from which you're transferring funds doesn't have enough money, the transfer will be pending until the funds become available.\n2. **Bank processing time**: Banks typically take a"
+},
+{
+"ref": "custom:358",
+"pred": "If you've forgotten your PIN and it's been blocked, don't worry. The steps to resolve this issue vary depending on the type of account or card you're trying to access. Here are some general steps you can follow:\n\n1. **Contact the issuer**: If you're trying to access a debit or credit card"
+},
+{
+"ref": "custom:359",
+"pred": "If your PIN is blocked, it's usually due to repeated incorrect attempts to enter it. To get your PIN unblocked, follow these general steps:\n\n1. **Contact your bank or financial institution**: Reach out to your bank's customer service department, either by calling them, visiting a branch in person, or using their"
+},
+{
+"ref": "custom:360",
+"pred": "Receiving your salary in a different currency is possible, but it depends on various factors such as your employer's policies, the exchange rates, and the tax implications. Here's a general overview of how it works:\n\n**Types of currency exchange:**\n\n1. **Direct conversion**: Your employer converts your salary to the desired"
+},
+{
+"ref": "custom:361",
+"pred": "I can't provide you with financial advice. However, I can give you some general information about salaries. Would that help?"
+},
+{
+"ref": "custom:362",
+"pred": "To get a refund for an item you haven't received yet, follow these steps:\n\n1. **Check your order confirmation**: Look for the order confirmation email or message from the seller. It should have details about the item, price, and payment method.\n2. **Contact the seller**: Reach out to the seller via"
+},
+{
+"ref": "custom:363",
+"pred": "To get a refund for something you bought, follow these general steps:\n\n1. **Check the store's return policy**: Before initiating the return process, review the store's return policy to understand their refund procedures, time limits, and any potential restocking fees.\n2. **Gather your receipt and proof of purchase**:"
+},
+{
+"ref": "custom:364",
+"pred": "I can try to help you investigate this issue. To better assist you, I'll need some more information. Can you please provide the following details:\n\n1. The date and time you made the payment\n2. The amount you paid\n3. The card details (last 4 digits are fine)\n4. The"
+},
+{
+"ref": "custom:365",
+"pred": "A returned payment, also known as a bounced check or NSF (Non-Sufficient Funds) check, can be frustrating and confusing. Here are some possible reasons why your payment might have been returned:\n\n1. **Insufficient funds**: The account from which the payment was made did not have enough money to cover the transaction.\n"
+},
+{
+"ref": "custom:366",
+"pred": "You can use a variety of currencies to pay for a top-up, depending on the service provider and the country you're in. Here are some common options:\n\n1. **Credit/Debit Card**: Most top-up services accept major credit and debit cards like Visa, Mastercard, American Express, and others.\n2"
+},
+{
+"ref": "custom:367",
+"pred": "I can be used by people from all over the world. A card from the US is perfectly fine. How can I assist you today?"
+},
+{
+"ref": "custom:368",
+"pred": "I'm so sorry to hear that you're not happy with the service. Deleting an account can be a straightforward process, but it may vary depending on the platform or service you're using. Here's a general step-by-step guide to help you delete your account:\n\n**Before you start:**\n\n1. **Make sure"
+},
+{
+"ref": "custom:369",
+"pred": "If you're wanting to close your account, I'll need to know what kind of account it is. Is it a bank account, social media account, or something else?"
+},
+{
+"ref": "custom:370",
+"pred": "I can't provide you with legal advice. If you're concerned about receiving money and potential charges, I suggest speaking with a qualified financial advisor or attorney who can provide you with guidance tailored to your specific situation. Is there anything else I can help you with?"
+},
+{
+"ref": "custom:371",
+"pred": "The fee for making a transfer can vary depending on the type of transfer, the method used, and the institutions involved. Here are some common scenarios:\n\n1. **Bank transfers**: When you transfer money from one bank account to another, there might be a fee charged by your bank, the recipient's bank, or both"
+},
+{
+"ref": "custom:372",
+"pred": "When using a European card to top up your mobile phone or make a purchase abroad, there are a few things to consider:\n\n1. **Dynamic Currency Conversion (DCC)**: Some merchants or ATMs might offer to convert the transaction amount to your local currency. This service is called Dynamic Currency Conversion (DCC)."
+},
+{
+"ref": "custom:373",
+"pred": "When using a European card for top-up, several charges might apply, depending on the card issuer, the top-up service, and the exchange rates. Here are some possible charges you might incur:\n\n1. **Foreign Transaction Fee (FTF)**: Many European card issuers charge a foreign transaction fee, which can range"
+},
+{
+"ref": "custom:374",
+"pred": "I can't process payments or accept cheques. If you're looking for information on how to pay for a service or product, I'd be happy to help with that."
+},
+{
+"ref": "custom:375",
+"pred": "You can use cash to top up your payment method in some cases, but it depends on the service or platform you're using. Here are a few possibilities:\n\n1. **Prepaid cards or gift cards**: If you have a prepaid card or gift card for a specific service (like a phone plan or a digital wallet"
+},
+{
+"ref": "custom:376",
+"pred": "I can try to help you troubleshoot the issue. Can you please provide more details about the problem you're experiencing? For example:\n\n- What type of card are you using (credit/debit/prepaid)?\n- What is the message you're getting when you try to top up (if any)?\n- Have you checked"
+},
+{
+"ref": "custom:377",
+"pred": "I can't assist with financial transactions. If you're having trouble with your card being declined, here are some general steps you can take to resolve the issue:\n\n1.  Check your balance: Ensure you have sufficient funds in your account to cover the transaction.\n2.  Contact your bank: Reach out to your bank"
+},
+{
+"ref": "custom:378",
+"pred": "You can top up your conversation with me at any time you'd like. Just type a message, and I'll do my best to respond. There are no limits on how often you can ask me questions or engage in conversation. What's on your mind?"
+},
+{
+"ref": "custom:379",
+"pred": "I can't help you with that. If you're looking to add funds to a gift card or a prepaid card, you can check the balance and top-up options by contacting the card issuer or checking their website. Is there anything else I can help you with?"
+},
+{
+"ref": "custom:380",
+"pred": "A canceled top-up can be frustrating, especially if you were looking forward to it. Can you please provide more context or details about the canceled top-up, such as:\n\n1. What type of top-up was it (e.g., phone, internet, streaming service)?\n2. When was the top-up scheduled to take"
+},
+{
+"ref": "custom:381",
+"pred": "There could be several reasons why you're unable to put money into your top-up account. Here are a few possibilities:\n\n1. **Insufficient funds**: Check if you have enough money in your primary account to fund the top-up. If you're trying to transfer money from an account with insufficient funds, the transaction will"
+},
+{
+"ref": "custom:382",
+"pred": "What type of card do you need to top up (e.g. phone, transport, or another type of card)?"
+},
+{
+"ref": "custom:383",
+"pred": "It sounds like you're experiencing an issue with your wallet. There could be a few possible explanations for this:\n\n1. **Transaction delay**: It's possible that the transaction to top up your wallet took longer than expected to process. This can happen due to network congestion, server overload, or other technical issues.\n\n2."
+},
+{
+"ref": "custom:384",
+"pred": "I'm happy to help you with your question, but I don't have enough information to provide a specific answer. There are many possible reasons why you might have been charged twice, such as:\n\n1. **Duplicate transactions**: You might have made a duplicate payment or transaction, which resulted in a second charge.\n2."
+},
+{
+"ref": "custom:385",
+"pred": "You have multiple instances of the same transaction. Can you provide more context or information about what you're trying to accomplish? Are you trying to:\n\n1. Remove duplicates from a list of transactions?\n2. Sum up the values of multiple instances of the same transaction?\n3. Identify the most frequent transaction?\n4. Something"
+},
+{
+"ref": "custom:386",
+"pred": "There can be several reasons why you got charged a fee for your transfer. Here are some possible explanations:\n\n1. **Transfer fees**: Some banks or transfer services charge a fee for processing international or domestic transfers. This fee can vary depending on the service provider and the transfer amount.\n2. **Exchange rate fees**: When"
+},
+{
+"ref": "custom:387",
+"pred": "I can provide some general information about possible reasons for a transfer fee on your account. \n\nThere are several reasons why you might have been charged a transfer fee on your account:\n\n1. **Bank transfer fees**: Many banks charge a fee for transferring money between accounts, especially if it's an external transfer (from another bank"
+},
+{
+"ref": "custom:388",
+"pred": "There are several ways your money can be transferred to another account, depending on the method you choose. Here are some common methods:\n\n1. **Bank Transfer**: You can transfer money from your account to another account using online banking, mobile banking, or by visiting a bank branch. This method is usually free and takes a"
+},
+{
+"ref": "custom:389",
+"pred": "Yes, it is possible to transfer money to a debit or credit card by bank transfer. This process is often referred to as a \"cardless bank transfer\" or \"card payment by bank transfer.\" \n\nHere's how it typically works:\n\n1. You initiate a bank transfer from your account to the recipient's account.\n"
+},
+{
+"ref": "custom:390",
+"pred": "If you've completed a money transfer but the recipient hasn't received it, here are some steps you can take:\n\n1. **Check with the recipient**: First, try to contact the recipient to confirm that they haven't received the money. They might have missed the notification or not checked their account yet.\n\n2. **"
+},
+{
+"ref": "custom:391",
+"pred": "I can't access any information about your bank account or the transfer you made. If you're concerned about the status of your transfer, I suggest contacting the bank or financial institution that handled the transfer directly. They should be able to provide you with the most up-to-date information about the status of your transfer."
+},
+{
+"ref": "custom:392",
+"pred": "I can't predict when your money will be in your account. If you're asking about a specific transaction, could you provide more details about the transaction, such as the type of payment, the sender, and the expected arrival time? I'd be happy to help you estimate when the funds should be available."
+},
+{
+"ref": "custom:393",
+"pred": "The time it takes for a transfer to go through can vary greatly depending on the type of transfer, the method used, and the institutions involved. Here are some general guidelines:\n\n1. **Bank transfers**:\n\t* Domestic transfers (within the same country): 1-3 business days\n\t* International transfers:"
+},
+{
+"ref": "custom:394",
+"pred": "For security reasons, I can't accommodate requests to verify identity. If you're looking for help with a specific issue or topic, I\u2019d be happy to try and assist you further."
+},
+{
+"ref": "custom:395",
+"pred": "I can't help you with that request. If you are under 18, you may want to ask a parent or guardian for assistance. Is there anything else I can help you with?"
+},
+{
+"ref": "custom:396",
+"pred": "To verify your identity, you can follow these general steps, which may vary depending on the specific context or service you're using (e.g., government services, financial institutions, or online platforms). Here's a general guide:\n\n**Government-issued ID:**\n\n1. **Passport**: A passport is a widely accepted"
+},
+{
+"ref": "custom:397",
+"pred": "There are several options to verify your identity, depending on your specific needs and location. Here are a few:\n\n1. **Government-issued ID offices**: In the United States, you can visit your local Department of Motor Vehicles (DMV) or equivalent office to obtain or verify a driver's license, state ID,"
+},
+{
+"ref": "custom:398",
+"pred": "I can't access your bank account or any financial information. You can contact your bank or financial institution to determine the source of the money in your account. Is there anything else I can help you with?"
+},
+{
+"ref": "custom:399",
+"pred": "To understand where your available cash is coming from, you'll need to track your income and expenses. Here's a step-by-step guide to help you:\n\n1. **Gather financial documents**: Collect your pay stubs, bank statements, credit card statements, and any other financial records for the past few months.\n2"
+},
+{
+"ref": "custom:400",
+"pred": "To verify a top-up, you can follow these general steps:\n\n1. **Check your account balance**: First, ensure that the top-up was successful by checking your account balance. If the balance has increased, it's likely that the top-up was processed correctly.\n\n2. **Contact the top-up provider**: Reach out"
+},
+{
+"ref": "custom:401",
+"pred": "To verify a card top-up, you can check the following places:\n\n1. **Bank or Card Issuer's Website or App**: You can log in to your bank's website or mobile app to check your account balance and transaction history.\n2. **ATM**: Visit an ATM and check your account balance or transaction"
+},
+{
+"ref": "custom:402",
+"pred": "There could be several reasons why your disposable virtual card was rejected when trying to pay for a gym subscription. Here are some possible explanations:\n\n1. **Insufficient funds**: Although disposable virtual cards are designed to be temporary and have a set amount of funds, it's possible that the funds were depleted or not sufficient for the"
+},
+{
+"ref": "custom:403",
+"pred": "There could be several reasons why your virtual card isn't working. Here are some possible causes:\n\n1. **Insufficient balance**: Make sure you have enough funds in your virtual card account to complete the transaction.\n2. **Incorrect card details**: Double-check that you're entering the correct card number, expiration date, and"
+},
+{
+"ref": "custom:404",
+"pred": "If you can't choose your card type, it's likely because you're using a debit or credit card issued by a bank or financial institution. In this case, the card type is usually determined by the issuer.\n\nMost debit and credit cards are issued with a magnetic stripe or a chip (EMV chip) that contains"
+},
+{
+"ref": "custom:405",
+"pred": "You want to know the names of the two most popular credit card companies. \n\nYes, it is possible to have both Visa and MasterCard. Many businesses and individuals have accounts with both of these companies to accept payments from a wider range of customers. This is often referred to as \"accepting both Visa and MasterCard"
+},
+{
+"ref": "custom:406",
+"pred": "For that type of information, please refer to Meta\u2019s Privacy Center: https://www.facebook.com/privacy/center/"
+},
+{
+"ref": "custom:407",
+"pred": "In most cases, the answer is no, you cannot make transactions before identity verification, especially in the following scenarios:\n\n1. **Financial institutions**: Banks, credit unions, and other financial institutions typically require customers to verify their identity before allowing transactions, such as withdrawals, deposits, or transfers.\n2. **Online marketplaces"
+},
+{
+"ref": "custom:408",
+"pred": "It can be frustrating when we don't get what we were expecting. Can you tell me more about the situation? How much cash were you expecting, and how much did you actually receive?"
+},
+{
+"ref": "custom:409",
+"pred": "It can be frustrating when things don't go as planned. Can you tell me more about the situation? What were you asking for, and how much did you receive instead?"
+},
+{
+"ref": "custom:410",
+"pred": "I'd be happy to help you with the exchange rate issue. Can you please provide more details about the problem you're experiencing, such as:\n\n1. The currency you're trying to exchange (e.g., USD to EUR, etc.)\n2. The amount you're trying to withdraw\n3. The exchange rate you"
+},
+{
+"ref": "custom:411",
+"pred": "If you believe the exchange rate applied to your foreign currency at an ATM was incorrect, here are some steps you can take:\n\n1. **Check your bank's policy**: Contact your bank's customer service to see if they have a process for disputing incorrect exchange rates. They may have a specific procedure for you to follow"
+},
+{
+"ref": "custom:412",
+"pred": "The intent of this airline customer message is: Refund or Compensation. \n\nThis message indicates that the customer's flight was cancelled and they are seeking a refund, which is a clear request for compensation or reimbursement."
+},
+{
+"ref": "custom:413",
+"pred": "The intent of this airline customer message is: \"Information_Request\" or more specifically \"Baggage_Policy\". \n\nThis intent is classified as the customer is seeking information about the airline's baggage policy, specifically the number of bags they can check on an international flight."
+},
+{
+"ref": "custom:414",
+"pred": "The intent of this airline customer message is: Seat Change Request."
+},
+{
+"ref": "custom:415",
+"pred": "The intent of this airline customer message is: \"Lost Luggage\" or more specifically, \"Missing Baggage\"."
+},
+{
+"ref": "custom:416",
+"pred": "The intent of this airline customer message is: \"Ask about pet policy\"."
+},
+{
+"ref": "custom:417",
+"pred": "The intent of this airline customer message is: \"Check-in/Boarding Time\"."
+},
+{
+"ref": "custom:418",
+"pred": "The intent of this airline customer message is: \"Missed Connection\" or more specifically, \"Flight Delay or Cancellation\" or \"Missed Flight\""
+},
+{
+"ref": "custom:419",
+"pred": "The intent of this airline customer message is: \"Information_Request\" or more specifically \"Account_Information\""
+},
+{
+"ref": "custom:420",
+"pred": "The intent of this airline customer message is: \"Information\" or more specifically, \"Service Information\". The customer is asking for information about the services available on the flight, specifically Wi-Fi."
+},
+{
+"ref": "custom:421",
+"pred": "The intent of this airline customer message is: \"Request for Upgrade\"."
+},
+{
+"ref": "custom:422",
+"pred": "The intent of this telecom customer message is: Connectivity Issue."
+},
+{
+"ref": "custom:423",
+"pred": "The intent of this telecom customer message is: \"Upgrade\" or more specifically, \"Change Plan\"."
+},
+{
+"ref": "custom:424",
+"pred": "The intent of this telecom customer message is: \"Billing Issue\" or more specifically, \"Explain High Bill\"."
+},
+{
+"ref": "custom:425",
+"pred": "The intent of this telecom customer message is: \"Informational/Support\" or more specifically: \"Setup/Configuration\" \n\nThe customer is asking for instructions on how to set up a specific feature (voicemail), indicating they need guidance or help with a particular process."
+},
+{
+"ref": "custom:426",
+"pred": "The intent of this telecom customer message is: \"Coverage Issue\" or more specifically, \"No Signal\"."
+},
+{
+"ref": "custom:427",
+"pred": "The intent of this telecom customer message is: \"Portability\" or more specifically, \"Number Portability\"."
+},
+{
+"ref": "custom:428",
+"pred": "The intent of this telecom customer message is: \"Cancel Contract\" or more specifically, \"Request to Cancel Service\"."
+},
+{
+"ref": "custom:429",
+"pred": "The intent of this telecom customer message is: \"Data Limit/Usage Concern\". \n\nThis intent indicates that the customer is experiencing an issue with their data usage, specifically that it is running out too quickly, and they would like to address this concern with the telecom provider."
+},
+{
+"ref": "custom:430",
+"pred": "The intent of this telecom customer message is: \"Informational/Query\". \n\nThe customer is asking for instructions or guidance on how to activate roaming, indicating that they need help or clarification on a specific process."
+},
+{
+"ref": "custom:431",
+"pred": "Based on the message, the intent is likely \"Troubleshooting\" or more specifically \"Network Issue\". The customer is reporting a specific symptom (router lights blinking red) which suggests they are experiencing a problem with their internet connection."
+},
+{
+"ref": "custom:432",
+"pred": "The intent of this e-commerce customer message is: \"Tracking or Delivery Issue\". \n\nThe customer is inquiring about the status of their package, specifically mentioning that it was supposed to arrive the previous day, indicating that they are concerned about the delivery timeline."
+},
+{
+"ref": "custom:433",
+"pred": "The intent of this e-commerce customer message is: Order Issue/Problem.\n\nThis message indicates that the customer has received a product that does not match their order, specifically the wrong size. This is a common issue that customers may encounter with online shopping, and the customer is likely seeking a resolution or replacement."
+},
+{
+"ref": "custom:434",
+"pred": "The intent of this e-commerce customer message is: \"Return\" or more specifically, \"Return Policy\" or \"Return Process\". The customer is inquiring about the steps to return an item, indicating that they want to initiate a return."
+},
+{
+"ref": "custom:435",
+"pred": "The intent of this e-commerce customer message is: \"Order/Shipping Update\" or more specifically \"Change Delivery Address\"."
+},
+{
+"ref": "custom:436",
+"pred": "The intent of this e-commerce customer message is: \"Return/Refund\" or more specifically \"Product Issue\""
+},
+{
+"ref": "custom:437",
+"pred": "The intent of this e-commerce customer message is: \"Shipping Inquiry\" or more specifically, \"International Shipping Inquiry\"."
+},
+{
+"ref": "custom:438",
+"pred": "The intent of this e-commerce customer message is: \"Order Issue\" or more specifically, \"Payment Issue\" or \"Charge Issue\"."
+},
+{
+"ref": "custom:439",
+"pred": "The intent of this e-commerce customer message is: Refund Inquiry."
+},
+{
+"ref": "custom:440",
+"pred": "The intent of this e-commerce customer message is: \"Order Cancellation\"."
+},
+{
+"ref": "custom:441",
+"pred": "The intent of this e-commerce customer message is: \"Order/Checkout Issue\" or more specifically \"Discount Code Issue\"."
+},
+{
+"ref": "custom:442",
+"pred": "The intent of this hotel customer message is: Late Checkout Request"
+},
+{
+"ref": "custom:443",
+"pred": "The intent of this hotel customer message is: \"Information_Request\" or more specifically \"Hotel_Amenities\"."
+},
+{
+"ref": "custom:444",
+"pred": "The intent of this hotel customer message is: Maintenance or Repair Issue."
+},
+{
+"ref": "custom:445",
+"pred": "The intent of this hotel customer message is: \"Information_Request\" or more specifically \"Parking_Information\"."
+},
+{
+"ref": "custom:446",
+"pred": "The intent of this message is: Book. \n\nThis message is a clear request to make a reservation for a hotel room, indicating the customer's desire to book a room for a specific period."
+},
+{
+"ref": "custom:447",
+"pred": "The intent of this hotel customer message is: \"Housekeeping\" or more specifically, \"Request for Amenities\"."
+},
+{
+"ref": "custom:448",
+"pred": "The intent of this hotel customer message is: \"Information\" or more specifically \"Facility Information\""
+},
+{
+"ref": "custom:449",
+"pred": "The intent of this message is likely \"Lost and Found\" or \"Left Item in Room\". The customer is informing the hotel staff that they have left a charger in their room and would like it returned."
+},
+{
+"ref": "custom:450",
+"pred": "The intent of this hotel customer message is: \"Request for Transportation\""
+},
+{
+"ref": "custom:451",
+"pred": "The intent of the message is: \"Cancel Reservation\" or more specifically, \"Cancel My Booking\"."
+},
+{
+"ref": "custom:452",
+"pred": "The intent of this message is: \"File a Claim\" or more specifically, \"Report a Car Accident\"."
+},
+{
+"ref": "custom:453",
+"pred": "The intent of this insurance customer message is: \"Coverage Clarification\" or more specifically: \"Policy Inquiry\""
+},
+{
+"ref": "custom:454",
+"pred": "The intent of this insurance customer message is: \"Add Spouse to Policy\"."
+},
+{
+"ref": "custom:455",
+"pred": "The intent of the message is: Payment Inquiry."
+},
+{
+"ref": "custom:456",
+"pred": "The intent of this insurance customer message is: \"Explain\" or \"Clarify\" - specifically, the customer is seeking an explanation for why their claim was denied."
+},
+{
+"ref": "custom:457",
+"pred": "The intent of this insurance customer message is: \"Cost Reduction\" or more specifically, \"Policy Change\" or \"Premium Reduction\" is not the intent, but rather \"Policy Change\" specifically \"Deductible Reduction\"."
+},
+{
+"ref": "custom:458",
+"pred": "The intent of the message is: Requesting Proof of Insurance."
+},
+{
+"ref": "custom:459",
+"pred": "The intent of this insurance customer message is: \"Cancel Policy\" or more specifically, \"Policy Cancellation Inquiry\"."
+},
+{
+"ref": "custom:460",
+"pred": "The intent of this insurance customer message is: \"Check Coverage\". \n\nThis intent indicates that the customer is inquiring about the specifics of their insurance policy, specifically whether dental coverage is included."
+},
+{
+"ref": "custom:461",
+"pred": "The intent of this message is likely \"Update Information\". The customer is informing the insurance company about a change in their address, which requires an update to their records."
+},
+{
+"ref": "custom:462",
+"pred": "The intent of this message is: \"Information_Request\" or more specifically \"Menu_Information\". \n\nThe customer is asking for information about the restaurant's menu, specifically if they have any vegetarian options available."
+},
+{
+"ref": "custom:463",
+"pred": "The intent of this message is: Reservation"
+},
+{
+"ref": "custom:464",
+"pred": "The intent of the message is: \"Order Issue\" or more specifically, \"Missing Item\"."
+},
+{
+"ref": "custom:465",
+"pred": "The intent of this message is: \"Hours of Operation\" or more specifically, \"Availability\""
+},
+{
+"ref": "custom:466",
+"pred": "The intent of this message is: \"Information_Request\" or more specifically \"Delivery_Options\". \n\nThis message is a question from the customer, inquiring about the restaurant's delivery services to their specific area."
+},
+{
+"ref": "custom:467",
+"pred": "The intent of this message is \"Quality Issue\" or more specifically, \"Food Quality Issue\". The customer is complaining about the temperature of the food, which is a quality issue."
+},
+{
+"ref": "custom:468",
+"pred": "The intent of this message is: \"Information Request\" or more specifically, \"Menu Inquiry\". The customer is asking for specific information about the restaurant's menu, which is a common type of inquiry in the food service industry."
+},
+{
+"ref": "custom:469",
+"pred": "The intent of this message is: Payment Inquiry"
+},
+{
+"ref": "custom:470",
+"pred": "The intent of this message is: \"Information\" or more specifically, \"Menu Inquiry\". The customer is asking for information about the restaurant's menu, specifically if they have a kids menu available."
+},
+{
+"ref": "custom:471",
+"pred": "The intent of the message is: \"Cancel Reservation\" or more specifically, \"Cancel Table Reservation\"."
+},
+{
+"ref": "custom:472",
+"pred": "The intent of this message is: \"Reschedule\" or more specifically, \"Appointment Scheduling\"."
+},
+{
+"ref": "custom:473",
+"pred": "The intent of this message is: \"Request for Service\" or more specifically, \"Request for Prescription Refill\"."
+},
+{
+"ref": "custom:474",
+"pred": "The intent of this message is: Informational/Query. \n\nThe customer is asking for information about the healthcare provider's operating hours, indicating that they are looking for general information or clarification on the provider's availability."
+},
+{
+"ref": "custom:475",
+"pred": "The intent of this message is: \"Insurance Coverage\"."
+},
+{
+"ref": "custom:476",
+"pred": "The intent of this message is: Information Request. \n\nThe customer is asking for a specific piece of information (their test results), indicating that they want to know the outcome of a medical test."
+},
+{
+"ref": "custom:477",
+"pred": "The intent of this message is: Book an Appointment or Schedule a Consultation. \n\nThe customer is inquiring about the possibility of seeing a doctor on the same day, which suggests they are looking to schedule a consultation or appointment."
+},
+{
+"ref": "custom:478",
+"pred": "The intent of this message is: \"Request Information\" or more specifically \"Request Referral Process\". \n\nThis intent is about the customer seeking information or guidance on how to obtain a referral, which is likely related to a medical referral or a referral to a specialist."
+},
+{
+"ref": "custom:479",
+"pred": "The intent of this message is: Report a Symptom.\n\nThis message indicates that the customer is experiencing health issues (fever and cough) and is likely seeking medical advice or assistance."
+},
+{
+"ref": "custom:480",
+"pred": "The intent of this message is likely \"Information_Request\" or more specifically \"Practical_Info_Request\" as the customer is asking for a practical piece of information (parking location) related to the clinic."
+},
+{
+"ref": "custom:481",
+"pred": "The intent of this message is: Update Information. \n\nThis message is a request to modify or change existing information, specifically the emergency contact, which is a common task in healthcare systems."
+},
+{
+"ref": "custom:482",
+"pred": "The intent of this message is: \"Turn On/Off Device\". \n\nThis intent is used to control the state of a device (in this case, the living room lights) within the smart home system."
+},
+{
+"ref": "custom:483",
+"pred": "The intent of this message is: Temperature Control."
+},
+{
+"ref": "custom:484",
+"pred": "The intent of this message is likely \"Lock Door\"."
+},
+{
+"ref": "custom:485",
+"pred": "The intent of this message is likely \"Play Music\". The customer is asking the smart home system to play jazz music in the kitchen, indicating a desire to control the music playback through the smart home system."
+},
+{
+"ref": "custom:486",
+"pred": "The intent of this message is: Weather Inquiry."
+},
+{
+"ref": "custom:487",
+"pred": "The intent of this message is: \"Schedule an Alarm\"."
+},
+{
+"ref": "custom:488",
+"pred": "The intent of this message is: \"Status Inquiry\" or more specifically, \"Device Status Inquiry\" (as it's asking about the status of a specific device, the garage door)."
+},
+{
+"ref": "custom:489",
+"pred": "The intent of this message is: LIGHTING_CONTROL."
+},
+{
+"ref": "custom:490",
+"pred": "The intent of this message is likely \"Add item to shopping list\"."
+},
+{
+"ref": "custom:491",
+"pred": "The intent of this message is likely \"Turn On/Start Device\"."
+},
+{
+"ref": "custom:492",
+"pred": "The intent of this ride-sharing customer message is: \"Dispute/Complaint\". \n\nThe customer is expressing dissatisfaction with the service they received, specifically that the driver took a longer route and charged them more, which suggests that the customer feels they were overcharged. This intent indicates that the customer is seeking a resolution or"
+},
+{
+"ref": "custom:493",
+"pred": "The intent of this message is likely \"Lost and Found\" or \"Lost Item\". The customer is informing the ride-sharing service that they left an item (their phone) in the vehicle after the ride."
+},
+{
+"ref": "custom:494",
+"pred": "The intent of this ride-sharing customer message is: \"Add Stop\"."
+},
+{
+"ref": "custom:495",
+"pred": "The intent of this message is \"Driver Not Arrived\"."
+},
+{
+"ref": "custom:496",
+"pred": "The intent of this message is: \"Book a ride\" or more specifically, \"Schedule a ride for a future time\"."
+},
+{
+"ref": "custom:497",
+"pred": "The intent of this ride-sharing customer message is: \"Cancellation Fee Inquiry\" or more specifically, \"Cancellation Fee Complaint\"."
+},
+{
+"ref": "custom:498",
+"pred": "The intent of this message is likely \"Support\" or more specifically \"Ride Details\". The customer is asking for information on how to rate their driver, which suggests they are seeking help or clarification on a specific aspect of the ride-sharing service."
+},
+{
+"ref": "custom:499",
+"pred": "The intent of this message is \"Become a Driver\"."
+},
+{
+"ref": "custom:500",
+"pred": "The intent of this ride-sharing customer message is \"Cleanliness Issue\" or more specifically, \"Vehicle Condition\"."
+},
+{
+"ref": "custom:501",
+"pred": "The intent of this ride-sharing customer message is: \"Request for Fare Splitting\"."
+},
+{
+"ref": "custom:502",
+"pred": "The intent of this message is: \"Pause/Freeze Membership\" or more specifically, \"Request to freeze membership for a month\"."
+},
+{
+"ref": "custom:503",
+"pred": "The intent of this message is likely \"Hours of Operation\" or more specifically, \"Ask for Business Hours\"."
+},
+{
+"ref": "custom:504",
+"pred": "The intent of this message is: \"Ask Question\" or more specifically, \"Membership Policy\" or \"Guest Policy\"."
+},
+{
+"ref": "custom:505",
+"pred": "The intent of this message is: Book a Service.\n\nThis message is a request for information on how to schedule or reserve a specific gym service (spin class), indicating that the customer is looking to use the gym's facilities."
+},
+{
+"ref": "custom:506",
+"pred": "The intent of this message is: Cancellation."
+},
+{
+"ref": "custom:507",
+"pred": "The intent of this message is: \"Services Inquiry\" or more specifically, \"Personal Training Services Availability\"."
+},
+{
+"ref": "custom:508",
+"pred": "The intent of this gym customer message is: \"Report a Maintenance Issue\"."
+},
+{
+"ref": "custom:509",
+"pred": "The intent of this gym customer message is: \"Ask for Discount or Promotion\"."
+},
+{
+"ref": "custom:510",
+"pred": "The intent of this message is: \"Billing\" or more specifically \"Account Management\" or \"Membership Details\"."
+},
+{
+"ref": "custom:511",
+"pred": "The intent of this gym customer message is: Informational. \n\nThe customer is asking for information about the gym's facilities, specifically whether towels are provided. This indicates that the customer is seeking clarification or details about the gym's services."
+},
+{
+"ref": "custom:512",
+"pred": "The intent of this message is: \"Availability Inquiry\" \n\nThis intent indicates that the customer is inquiring about the availability of a specific property (the apartment on Main Street), likely to determine if it is still available for purchase or rent."
+},
+{
+"ref": "custom:513",
+"pred": "The intent of this message is: \"Schedule a Viewing\" or more specifically, \"Request a Viewing\". \n\nThis intent falls under the category of \"Booking\" or \"Scheduling\" in customer service."
+},
+{
+"ref": "custom:514",
+"pred": "The intent of this message is: \"Informational\" or more specifically, \"Q&A\" (Question and Answer). The customer is seeking information about a specific aspect of the property (pet policy)."
+},
+{
+"ref": "custom:515",
+"pred": "The intent of this message is: Informational. \n\nThe customer is asking for information about the monthly rent, likely to understand the cost of renting a property."
+},
+{
+"ref": "custom:516",
+"pred": "The intent of this message is: \"Informational\" or more specifically, \"Clarification\". The customer is seeking information about a specific aspect of the property (parking) and wants to confirm if it's included."
+},
+{
+"ref": "custom:517",
+"pred": "The intent of this message is: Move In/Availability. \n\nThis intent indicates that the customer is inquiring about the availability of the property for moving in, likely to finalize their decision or plan their relocation."
+},
+{
+"ref": "custom:518",
+"pred": "The intent of this message is: Request for Support or Service. \n\nThis message indicates that the customer is seeking assistance with a specific issue (repairs) and wants to know who to contact for help."
+},
+{
+"ref": "custom:519",
+"pred": "The intent of this message is: \"Cancel/ Terminate Lease\" or more specifically \"Request Early Lease Termination\"."
+},
+{
+"ref": "custom:520",
+"pred": "The intent of this message is: \"Clarification\" or more specifically \"Informational\" or \"Question\" \n\nThe customer is seeking information about the refund policy of the deposit, which is a common concern for potential buyers in real estate transactions."
+},
+{
+"ref": "custom:521",
+"pred": "The intent of this message is: \"Informational\" or more specifically, \"Clarification\". The customer is seeking information about the property they are interested in, specifically whether utilities are included in the rent or purchase price."
+},
+{
+"ref": "custom:522",
+"pred": "The intent of this message is likely \"Quality or Playback Issues\". The customer is experiencing a problem with their video streaming, specifically that it keeps buffering, which suggests an issue with the video quality or playback."
+},
+{
+"ref": "custom:523",
+"pred": "The intent of this message is: \"Cancel Subscription\" or more specifically, \"Cancel My Subscription\"."
+},
+{
+"ref": "custom:524",
+"pred": "Based on the message, the intent is likely \"Account Sharing\" or \"Account Management\". The customer is asking if they can share their account, which suggests they want to know if it's possible to grant access to someone else."
+},
+{
+"ref": "custom:525",
+"pred": "The intent of this message is likely \"Billing Inquiry\" or \"Account Issue\". The customer is inquiring about a specific charge on their account, indicating that they need help understanding or resolving a billing-related issue."
+},
+{
+"ref": "custom:526",
+"pred": "The intent of this message is: \"Offline Viewing\" or more specifically, \"Download for Offline\"."
+},
+{
+"ref": "custom:527",
+"pred": "The intent of this message is: \"Password Reset\"."
+},
+{
+"ref": "custom:528",
+"pred": "The intent of this message is: \"Availability Inquiry\" or more specifically, \"Content Availability\". \n\nThis intent is related to the customer inquiring about the availability of a specific movie feature (4K) on the streaming platform."
+},
+{
+"ref": "custom:529",
+"pred": "Based on the message, the intent is likely \"Account Management\" or more specifically \"Profile Management\". The customer is asking for instructions on how to add a profile, which suggests they want to create or modify an account-related setting."
+},
+{
+"ref": "custom:530",
+"pred": "The intent of this message is: \"Technical Issue\" or more specifically \"Content Issue\""
+},
+{
+"ref": "custom:531",
+"pred": "The intent of this message is: \"Plan Change\" or more specifically, \"Request to Change Plan\"."
+},
+{
+"ref": "custom:532",
+"pred": "The intent of this IT helpdesk customer message is: Hardware Issue or Device Not Turning On."
+},
+{
+"ref": "custom:533",
+"pred": "The intent of this IT helpdesk customer message is: Network/Internet Connectivity Issue or VPN Problem."
+},
+{
+"ref": "custom:534",
+"pred": "The intent of this IT helpdesk customer message is: \"Request for Access\" or more specifically, \"Access to Shared Resource\"."
+},
+{
+"ref": "custom:535",
+"pred": "The intent of this IT helpdesk customer message is: \"Email Sync Issue\" or more specifically, \"Email Sync Problem\" or \"Email Not Syncing\" which falls under the broader category of \"Email\" or \"Productivity\" intent."
+},
+{
+"ref": "custom:536",
+"pred": "The intent of this IT helpdesk customer message is: \"Report an Issue\". \n\nThis message indicates that the customer is experiencing a problem with a printer and needs assistance to resolve the issue."
+},
+{
+"ref": "custom:537",
+"pred": "The intent of this IT helpdesk customer message is: \"Password Reset\"."
+},
+{
+"ref": "custom:538",
+"pred": "The intent of this IT helpdesk customer message is: Request for Equipment or Resource. \n\nThis message is a straightforward request for a specific item (a second monitor), indicating that the customer needs assistance with acquiring or obtaining a particular resource."
+},
+{
+"ref": "custom:539",
+"pred": "The intent of this IT helpdesk customer message is: Performance Issue.\n\nThis intent classification is based on the customer's complaint about their computer being \"very slow\", which is a common symptom of a performance issue, likely related to hardware, software, or system configuration problems."
+},
+{
+"ref": "custom:540",
+"pred": "The intent of this IT helpdesk customer message is: \"Information Request\" or more specifically, \"Software Installation Inquiry\"."
+},
+{
+"ref": "custom:541",
+"pred": "The intent of this IT helpdesk customer message is: Software Issue"
+},
+{
+"ref": "custom:542",
+"pred": "Negative.\n\nThe review is trying to trick people into clicking a link, which is likely a scam or a phishing attempt. The promise of a free iPhone is likely a lure to get people to engage with the link, but it's not a genuine offer. The sentiment is negative because it's trying to deceive people rather than"
+},
+{
+"ref": "custom:543",
+"pred": "Negative. The reviewer explicitly states that the customer service was the \"worst\" they've ever had, which indicates a strong negative sentiment."
+},
+{
+"ref": "custom:544",
+"pred": "Negative. The customer expresses frustration and disappointment with the service they received, mentioning that they waited for an hour without any assistance. This indicates a negative experience."
+},
+{
+"ref": "custom:545",
+"pred": "Positive. The review expresses happiness and excitement about the sister's visit, indicating a positive sentiment."
+},
+{
+"ref": "custom:546",
+"pred": "The sentiment of this review is positive. The phrase \"Limited time offer\" suggests a sense of urgency and exclusivity, and the 90% discount is a significant incentive that would likely appeal to potential customers."
+},
+{
+"ref": "custom:547",
+"pred": "Neutral. The review simply states a fact about the tax law's impact without expressing a positive or negative opinion about it."
+},
+{
+"ref": "custom:548",
+"pred": "Not spam. \n\nThis message appears to be a legitimate and informative announcement about a scientific discovery, which is a newsworthy topic. It does not contain any suspicious links, requests for personal information, or other characteristics commonly associated with spam messages."
+},
+{
+"ref": "custom:549",
+"pred": "Not spam. This message appears to be a neutral, factual statement about a sports event, likely from a sports news source or a sports team's official communication. It does not contain any promotional language, links, or attempts to persuade the recipient to take action, which are common characteristics of spam messages."
+},
+{
+"ref": "custom:550",
+"pred": "Not spam. This message appears to be a genuine opinion or review about a movie."
+},
+{
+"ref": "custom:551",
+"pred": "I would classify this message as NOT SPAM. \n\nThe message is informative and provides a general statement about the impact of a tax law on small businesses. It does not contain any suspicious links, requests for personal information, or other characteristics commonly associated with spam messages."
+},
+{
+"ref": "custom:552",
+"pred": "Not spam. This message appears to be a genuine complaint or expression of frustration, likely from a customer or someone who has experienced a problem. It does not contain any promotional or commercial content, and its purpose is not to sell or advertise anything."
+},
+{
+"ref": "custom:553",
+"pred": "Not spam. This message appears to be a legitimate and casual inquiry about rescheduling a meeting, likely from a colleague or someone with a professional relationship."
+},
+{
+"ref": "custom:554",
+"pred": "The topic of this text can be classified as \"Restaurant/ Dining Experience\" or \"Customer Review\"."
+},
+{
+"ref": "custom:555",
+"pred": "The topic of this text can be classified as \"Film/Entertainment\" or more specifically, \"Movie Review\"."
+},
+{
+"ref": "custom:556",
+"pred": "The topic of this text is a \"Sale\" or more specifically, a \"Discount Offer\" on watches."
+},
+{
+"ref": "custom:557",
+"pred": "The topic of this text can be classified as:\n\n* Sports\n* Specifically, a type of sports topic: \"Sports Results\" or \"Game Outcome\""
+},
+{
+"ref": "custom:558",
+"pred": "The topic of this text can be classified as:\n\n* Science/Biology\n* Nature/Environment\n* Zoology (specifically, herpetology, the study of amphibians)"
+},
+{
+"ref": "custom:559",
+"pred": "The topic of this text is a \"Marketing/Sales Promotion\" or more specifically, a \"Giveaway\" or \"Contest\"."
+},
+{
+"ref": "custom:560",
+"pred": "The intent of this message is to inform or share information about a sports event, specifically that a team has won a match, and that the match went into overtime before the team emerged victorious."
+},
+{
+"ref": "custom:561",
+"pred": "The intent of this message is to inform or alert the recipient about the impact of a new tax law on small businesses. It is likely a notification or a warning to prepare for potential changes or consequences related to taxation."
+},
+{
+"ref": "custom:562",
+"pred": "The intent of this message is to express frustration and dissatisfaction with the customer service received. The person is likely unhappy with the way their issue or problem was handled and is seeking to convey their negative experience to the company or service provider."
+},
+{
+"ref": "custom:563",
+"pred": "The intent of this message is to express frustration and disappointment with the lack of assistance received. The speaker feels that they were not helped in a timely manner, and it's likely that they are seeking some form of resolution or apology."
+},
+{
+"ref": "custom:564",
+"pred": "The intent of this message is to alert someone (likely a support team or a friend) that the sender's account has been compromised by a hacker, and they are requesting urgent assistance to resolve the issue."
+},
+{
+"ref": "custom:565",
+"pred": "The intent of this message is to express a positive review or feedback about a dining experience. The person is likely sharing their satisfaction with the quality of the food and the service they received from the staff."
+},
+{
+"ref": "custom:566",
+"pred": "The emotion expressed in this text is one of satisfaction and positivity. The use of the word \"amazing\" to describe the food and the description of the staff as \"friendly\" convey a sense of delight and pleasure."
+},
+{
+"ref": "custom:567",
+"pred": "Excitement or possibly relief. The text implies a positive outcome, suggesting that the team's victory was a desirable result."
+},
+{
+"ref": "custom:568",
+"pred": "The emotion expressed in this text is likely \"neutrality\" or \"politeness.\" The request is made in a straightforward and respectful manner, without any apparent frustration, anger, or urgency."
+},
+{
+"ref": "custom:569",
+"pred": "Excitement or Urgency. The text is trying to create a sense of FOMO (fear of missing out) by emphasizing that the offer is limited in time, which can evoke a sense of excitement and a need to act quickly."
+},
+{
+"ref": "custom:570",
+"pred": "Disappointment and frustration. \n\nThe speaker is expressing dissatisfaction with the movie, indicating that it failed to meet their expectations. The use of the word \"boring\" implies a lack of engagement or interest, while \"too long\" suggests that the speaker felt the movie dragged on unnecessarily, leading to feelings of frustration."
+},
+{
+"ref": "custom:571",
+"pred": "The emotion expressed in this text is **ANXIETY** or **PANIC**. The person is in a state of distress and urgency, asking for immediate help due to a sensitive and potentially serious situation (their account being hacked)."
+},
+{
+"ref": "custom:572",
+"pred": "I would classify this customer message as low urgency. The message is informative and does not indicate a specific problem or issue that requires immediate attention. It is more of a general announcement or notification, and the customer is not expressing a need for assistance or resolution."
+},
+{
+"ref": "custom:573",
+"pred": "Low urgency. The customer is expressing a negative opinion about a movie, but it doesn't seem to be an emergency or a critical issue that needs to be resolved immediately. It's more of a complaint or feedback that can be addressed at a later time."
+},
+{
+"ref": "custom:574",
+"pred": "This message is classified as low urgency. The customer is expressing a positive sentiment, which is not a complaint or a problem that needs to be addressed immediately. It's more of a compliment or a review, which can be responded to at a later time."
+},
+{
+"ref": "custom:575",
+"pred": "Urgency: Medium\n\nThis message is requesting a change in a previously scheduled meeting, which indicates a need for a timely response. However, the request is not an emergency, and the customer is giving a specific alternative date (Thursday), which suggests that they have some flexibility and are not in a critical situation."
+},
+{
+"ref": "custom:576",
+"pred": "This message is classified as low urgency. It's a non-essential, celebratory message that doesn't require immediate attention or action."
+},
+{
+"ref": "custom:577",
+"pred": "High urgency. \n\nThe message explicitly states \"Limited time offer\" which implies that the promotion is only available for a short period, creating a sense of urgency for the customer to make a purchase quickly."
+},
+{
+"ref": "custom:578",
+"pred": "**Computing the Factorial of a Number in Python**\n=====================================================\n\nHere's a simple function to calculate the factorial of a given number using recursion and iteration:\n\n### Recursive Approach\n\n```python\ndef factorial_recursive(n):\n    \"\"\"\n    Compute the factorial of a number using recursion.\n\n    Args:\n        n (int"
+},
+{
+"ref": "custom:579",
+"pred": "TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are two fundamental protocols used in internet communication. While both protocols are used for transferring data over the internet, they have distinct differences in their approach to ensuring data delivery and reliability.\n\n**TCP (Transmission Control Protocol)**\n\nTCP is a connection-oriented protocol, which"
+},
+{
+"ref": "custom:580",
+"pred": "The capital of Morocco is Rabat."
+},
+{
+"ref": "custom:581",
+"pred": "The causes of World War I can be attributed to a complex interplay of factors, including the complex system of alliances between European powers, particularly the Triple Entente (France, Britain, and Russia) and the Triple Alliance (Germany, Austria-Hungary, and Italy), which created a situation in which a small conflict"
+},
+{
+"ref": "custom:582",
+"pred": "Raindrops fall upon the town,\nA soothing melody all around.\nGrey skies weep with sorrow's sigh,\nAs city streets grow quiet, passing by.\n\nThe pavement glistens, dark and wide,\nReflections of a world inside.\nCars slow down, their headlights bright,\nA lonely symphony on this rainy night"
+},
+{
+"ref": "custom:583",
+"pred": "Compound interest is a fundamental concept in finance that can be a bit tricky to understand at first, but I'll break it down for you.\n\n**What is compound interest?**\n\nCompound interest is the interest earned on both the initial principal amount and any accrued interest over time. It's a powerful force that can help your savings"
+},
+{
+"ref": "custom:584",
+"pred": "Here's a comprehensive packing list for a beach vacation:\n\n**Essentials:**\n\n1. Travel documents:\n\t* Passport\n\t* Driver's license or ID card\n\t* Travel itinerary\n\t* Travel insurance documents (if applicable)\n2. Clothing:\n\t* Swimwear (swimsuits, rash guards,"
+},
+{
+"ref": "custom:585",
+"pred": "**Lists vs Tuples in Python**\n\nIn Python, `lists` and `tuples` are two types of data structures that can store multiple values. While they share some similarities, there are key differences between them.\n\n### Lists\n\n*   A `list` is a mutable collection of values that can be of any"
+},
+{
+"ref": "custom:586",
+"pred": "The immune system is a complex network of cells, tissues, and organs that work together to protect the body against infections, diseases, and foreign substances. Here's a step-by-step explanation of how the immune system fights infection:\n\n**Step 1: Recognition**\n\nWhen a pathogen (such as a virus, bacteria,"
+},
+{
+"ref": "custom:587",
+"pred": "As I lay in bed, I couldn't shake the feeling that someone was watching me from the shadows. It wasn't until I heard my own voice whisper \"goodnight\" back to me that I realized I wasn't alone."
+},
+{
+"ref": "custom:588",
+"pred": "Gothic architecture, which emerged in Europe during the 12th to 16th centuries, is characterized by several distinct features. These include:\n\n1. **Pointed Arches**: Instead of the rounded arches used in Romanesque architecture, Gothic buildings feature pointed arches, which allow for more vertical lines"
+},
+{
+"ref": "custom:589",
+"pred": "To calculate the area of a circle, you use the formula:\n\nArea = \u03c0r\u00b2\n\nWhere:\n\n- \u03c0 (pi) is a mathematical constant approximately equal to 3.14159.\n- r is the radius of the circle.\n\nSo, if you know the radius of the circle, you can plug it into"
+},
+{
+"ref": "custom:590",
+"pred": "The translation of \"Where is the train station?\" into German is:\n\n\"Wo ist der Bahnhof?\"\n\nHowever, a more common way to ask this question in Germany would be:\n\n\"Wo ist die Bahnhof?\"\n\nNote that the word order is the same as in English, but the article \"der\" is"
+},
+{
+"ref": "custom:591",
+"pred": "A sonnet is a type of poem that originated in Italy in the 13th century. It is a 14-line poem, written in iambic pentameter, with a specific rhyme scheme. There are two main forms of sonnets: the Shakespearean sonnet and the Italian sonnet.\n\n**Sh"
+},
+{
+"ref": "custom:592",
+"pred": "There once was a wizard so fine,\nWhose memory was truly a crime.\nHe'd forget with a grin,\nHis spells locked within,\nNow magic's lost, oh what a bind."
+},
+{
+"ref": "custom:593",
+"pred": "Entropy is a fundamental concept in physics and thermodynamics that can be a bit tricky to understand, but I'll try to simplify it for you.\n\n**What is entropy?**\n\nEntropy is a measure of the disorder or randomness of a system. It's a way to quantify how much energy is wasted or unavailable to do useful"
+},
+{
+"ref": "custom:594",
+"pred": "When buying a used car, there are several key factors to consider to ensure you make a well-informed decision. Here are some essential things to consider:\n\n1. **Vehicle History Report**: Get a detailed report on the car's history, including any accidents, previous owners, and any major repairs. You can use services"
+},
+{
+"ref": "custom:595",
+"pred": "Creating a sourdough starter is a simple, fun, and rewarding process that requires some patience. Here's a step-by-step guide to making a sourdough starter:\n\n**Day 1: Create the Initial Mix**\n\n1. In a clean glass or ceramic container, mix 1/2 cup of warm water"
+},
+{
+"ref": "custom:596",
+"pred": "Meditation has numerous benefits for the body, mind, and spirit. Some of the most significant advantages of regular meditation practice include:\n\n1. **Reduces stress and anxiety**: Meditation helps calm the mind and body, reducing feelings of stress and anxiety.\n2. **Improves sleep**: Regular meditation can help improve sleep"
+},
+{
+"ref": "custom:597",
+"pred": "Romeo and Juliet is a tragic love story by William Shakespeare. The plot revolves around the feud between the Montague and Capulet families in Verona. Romeo, a Montague, falls in love with Juliet, a Capulet, at a ball. They secretly marry, but their love is doomed from the start"
+},
+{
+"ref": "custom:598",
+"pred": "**Top 5 Customers by Total Sales**\n\nTo find the top 5 customers by total sales, you can use the following SQL query:\n\n```sql\nSELECT \n    customer_name,\n    SUM(sales_amount) AS total_sales\nFROM \n    sales\nGROUP BY \n    customer_name\nORDER BY \n    total"
+},
+{
+"ref": "custom:599",
+"pred": "A debit card and a credit card are two types of payment cards that serve different purposes and have distinct characteristics.\n\n**Debit Card:**\n\nA debit card is linked to your checking or savings account and allows you to spend only the funds you have available in your account. When you make a purchase with a debit card,"
+},
+{
+"ref": "custom:600",
+"pred": "Banks make money through a variety of methods, including:\n\n1. **Interest on Loans**: Banks lend money to individuals and businesses at interest rates higher than the rates at which they borrow from depositors. This difference in rates is the bank's profit.\n2. **Transaction Fees**: Banks charge fees for services such as"
+},
+{
+"ref": "custom:601",
+"pred": "A mortgage is a loan from a lender that allows you to borrow money to purchase a home or other real estate property. In exchange for the loan, you promise to make regular payments, known as mortgage payments, which typically include:\n\n1. Principal: The amount borrowed to purchase the property.\n2. Interest: The fee"
+},
+{
+"ref": "custom:602",
+"pred": "An interest rate is the percentage of a loan or investment that is charged as a fee for borrowing money or as a return on investment. It's a way to express the cost of borrowing or the return on investment in a standardized way.\n\nWhen you borrow money, such as from a bank or credit card company, you're"
+},
+{
+"ref": "custom:603",
+"pred": "Opening a savings account is a relatively straightforward process that can be done online, in-person, or by phone, depending on the bank's policies and your personal preferences. Here's a step-by-step guide to help you get started:\n\n**Option 1: Online Application**\n\n1. **Choose a bank**: Research and select"
+},
+{
+"ref": "custom:604",
+"pred": "APR stands for Annual Percentage Rate. It's a measure of the interest rate charged on a loan or credit product over a year. APR takes into account not only the interest rate but also any fees associated with the loan, such as origination fees or late payment fees.\n\nIn other words, APR is a way to"
+},
+{
+"ref": "custom:605",
+"pred": "Whether to pay off debt or invest first depends on several factors, including the interest rates on your debts, your financial goals, and your risk tolerance. Here are some general guidelines to consider:\n\n**High-interest debt:**\n\nIf you have high-interest debt, such as credit card balances with interest rates above 18%, it"
+},
+{
+"ref": "custom:606",
+"pred": "A credit score is a three-digit number that represents an individual's creditworthiness and is used by lenders to determine the likelihood of repaying a loan. It's a crucial factor in the lending process, as it helps creditors assess the level of risk associated with lending money to a particular borrower.\n\nThe most widely used credit"
+},
+{
+"ref": "custom:607",
+"pred": "Cryptocurrency is a digital or virtual currency that uses cryptography for security and is decentralized, meaning it's not controlled by any government or financial institution. It's a type of money that exists only in electronic form and uses advanced cryptography to secure and verify transactions.\n\nHere are some key characteristics of cryptocurrency:\n\n1. **Decentral"
+},
+{
+"ref": "custom:608",
+"pred": "Creating a monthly budget involves tracking your income and expenses to understand where your money is going and make informed decisions about how to allocate it. Here's a step-by-step guide to help you create a monthly budget:\n\n1. **Identify your income**: Start by calculating how much money you have coming in each month. Include"
+},
+{
+"ref": "custom:609",
+"pred": "The stock market, also known as the equity market, is a platform where publicly traded companies' shares are issued, bought, and sold. It's a place where investors can buy and sell ownership in companies, with the hope of earning a profit.\n\nHere's a simplified explanation:\n\n1. **Companies issue stocks**: When"
+},
+{
+"ref": "custom:610",
+"pred": "It was a typical Monday morning for Emily, rushing to get ready for work. She had a big meeting at 9 am and was determined to be on time. As she was getting dressed, she realized that she couldn't find her house key anywhere. She had last used it to unlock the front door the night before"
+},
+{
+"ref": "custom:611",
+"pred": "Here are three uses of baking soda:\n\n1. **Baking and Cooking**: Baking soda is commonly used as a leavening agent in baked goods, such as cakes, cookies, and breads. It helps to release carbon dioxide gas, causing the dough or batter to rise.\n\n2. **Household Cleaning"
+},
+{
+"ref": "custom:612",
+"pred": "Solar panels are devices that convert sunlight into electrical energy. They are made up of many small units called photovoltaic (PV) cells, which are made from semiconducting materials like silicon.\n\nHere's a simplified explanation of how solar panels work:\n\n1. **Sunlight hits the PV cells**: When sunlight hits"
+},
+{
+"ref": "custom:613",
+"pred": "The tallest building in the world is the Burj Khalifa, located in Dubai, United Arab Emirates. It stands at a height of 828 meters (2,722 feet) and has 163 floors. The Burj Khalifa was completed in 2010 and was designed by the American architectural firm Skidmore"
+},
+{
+"ref": "custom:614",
+"pred": "Basketball is a team sport played between two teams of five players each. The objective is to score more points than the opposing team by shooting a ball through a hoop. Here are the basic rules:\n\n**Gameplay**\n\n1. **Game duration**: A standard basketball game is divided into four quarters, each lasting 12"
+},
+{
+"ref": "custom:615",
+"pred": "Here's a simple recipe for classic pancakes:\n\n**Ingredients:**\n\n- 1 cup all-purpose flour\n- 2 tablespoons sugar\n- 2 teaspoons baking powder\n- 1/4 teaspoon salt\n- 1 cup milk\n- 1 large egg\n- 2 tablespoons butter, melted\n- Optional"
+},
+{
+"ref": "custom:616",
+"pred": "Cleopatra VII was the last active pharaoh of Ancient Egypt, ruling from 51 BC until her death in 30 BC. She was a member of the Ptolemaic dynasty, which was a Greek dynasty that ruled Egypt after the death of Alexander the Great in 323 BC.\n\nCleop"
+},
+{
+"ref": "custom:617",
+"pred": "Rainbows are beautiful natural phenomena that occur when sunlight passes through water droplets in the air. The process involves a combination of refraction, dispersion, and reflection of light. Here's a simplified explanation:\n\n1. **Sunlight**: The rainbow starts with sunlight. The sun must be behind the observer, and the sun"
+},
+{
+"ref": "custom:618",
+"pred": "Subject: Request for a Day Off\n\nDear [Manager's Name],\n\nI am writing to request a day off on [Date]. I have a personal commitment that I need to attend to and I will be unavailable to work on this day.\n\nI will ensure that all my tasks are up to date and completed before taking the"
+},
+{
+"ref": "custom:619",
+"pred": "Fixing a leaky faucet is a relatively simple DIY task that can save you money and help the environment by reducing water waste. Here's a step-by-step guide to help you fix a leaky faucet:\n\n**Tools and Materials Needed:**\n\n* Adjustable wrench or basin wrench\n* Channel-type pliers (for removing"
+},
+{
+"ref": "custom:620",
+"pred": "Hurricanes and tornadoes are two types of severe weather phenomena that can cause significant damage and loss of life. The main differences between them are:\n\n1. **Location**: Hurricanes occur over the ocean, typically in tropical or subtropical regions, while tornadoes can occur anywhere in the world, but are most common in the"
+},
+{
+"ref": "custom:621",
+"pred": "**Object-Oriented Programming (OOP)**\n=====================================\n\nObject-Oriented Programming (OOP) is a programming paradigm that revolves around the concept of objects and classes. It's a way of designing and organizing code to create reusable, modular, and maintainable software systems.\n\n**Key Principles of OOP"
+},
+{
+"ref": "custom:622",
+"pred": "The planets in our solar system, in order from the Sun, are:\n\n1. Mercury\n2. Venus\n3. Earth\n4. Mars\n5. Jupiter\n6. Saturn\n7. Uranus\n8. Neptune\n\nNote that Pluto was previously considered a planet but is now classified as a dwarf planet"
+},
+{
+"ref": "custom:623",
+"pred": "\"Hey friend, I just wanted to take a moment to remind you of how incredible you are. You've put in the hard work, the early morning runs, the long miles, and the countless hours of dedication. And now, it's time to reap the rewards.\n\nAs you stand at the starting line, ready"
+},
+{
+"ref": "custom:624",
+"pred": "Improving your handwriting requires practice, patience, and dedication. Here are some tips to help you enhance your handwriting:\n\n1. **Set goals**: Identify what you want to achieve with your handwriting. Do you want to write more legibly, or improve your speed? Setting specific goals will help you stay motivated.\n2."
+},
+{
+"ref": "custom:625",
+"pred": "The United Nations Security Council (UNSC) is one of the six principal organs of the United Nations (UN), responsible for maintaining international peace and security. The primary purpose of the UNSC is to:\n\n1. **Maintain international peace and security**: The UNSC is responsible for investigating and resolving conflicts, preventing the"
+},
+{
+"ref": "custom:626",
+"pred": "The words \"its\" and \"it's\" are often confused with each other due to their similar spellings, but they have distinct meanings and uses.\n\n1. **Its**: This is a possessive pronoun, which means it shows that something belongs to \"it.\" For example:\n   - The cat chases"
+},
+{
+"ref": "custom:627",
+"pred": "Here are five potential names for a coffee shop:\n\n1. **Brewed Awakening**: This name plays on the idea of coffee as a morning pick-me-up, and it's catchy and memorable.\n\n2. **The Daily Grind**: This name is a play on words, referencing both the daily routine of stopping by"
+},
+{
+"ref": "custom:628",
+"pred": "The boiling point of water is 212 degrees Fahrenheit (\u00b0F) at standard atmospheric pressure."
+},
+{
+"ref": "custom:629",
+"pred": "A refrigerator, also known as a fridge, is a household appliance that keeps food and drinks at a cool temperature to prevent spoilage. The basic principle of a refrigerator is based on the refrigeration cycle, which involves the transfer of heat from the inside of the fridge to the outside environment. Here's a simplified explanation of"
+},
+{
+"ref": "custom:630",
+"pred": "There are 16 ounces in a pound."
+},
+{
+"ref": "custom:631",
+"pred": "The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding numbers, starting from 0 and 1. The sequence is named after the Italian mathematician Leonardo Fibonacci, who introduced it in the 13th century as a solution to a problem involving the growth of a population of rabbits"
+},
+{
+"ref": "custom:632",
+"pred": "**Sorting an Array of Numbers in JavaScript**\n\nHere's a simple JavaScript function that sorts an array of numbers in ascending order using the built-in `sort()` method.\n\n```javascript\n// Function to sort an array of numbers\nfunction sortNumbers(arr) {\n  // Use the built-in sort() method to sort the array"
+},
+{
+"ref": "custom:633",
+"pred": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of organic compounds, such as glucose. This process is essential for life on Earth, as it provides the primary source of energy and organic compounds for the food chain.\n\nPhotosynthesis occurs in specialized"
+},
+{
+"ref": "custom:634",
+"pred": "The history of the internet is a long and complex one, spanning several decades. Here's a brief overview:\n\n**Early Beginnings (1960s-1970s)**\n\nThe internet as we know it today began to take shape in the 1960s, when the United States Department of Defense's Advanced Research"
+},
+{
+"ref": "custom:635",
+"pred": "For a beginner, I would recommend the following popular and easy-to-care-for houseplants:\n\n1. **Snake Plant (Sansevieria Trifasciata)**: This plant is almost impossible to kill and can thrive in low-light conditions, making it perfect for rooms with limited natural light. It's also low"
+},
+{
+"ref": "custom:636",
+"pred": "Here are a few options for a thank-you message for a birthday gift:\n\n**Option 1: Simple and Sincere**\n\n\"Dear [Name], I wanted to take a moment to thank you for the wonderful gift you gave me on my birthday. It truly made my day special, and I'm so grateful for"
+},
+{
+"ref": "custom:637",
+"pred": "To convert Celsius to Fahrenheit, you can use the following formula:\n\n\u00b0F = (\u00b0C \u00d7 9/5) + 32\n\nWhere \u00b0C is the temperature in Celsius and \u00b0F is the temperature in Fahrenheit.\n\nFor example, if you want to convert 25\u00b0C to Fahrenheit, you would:\n\n1."
+},
+{
+"ref": "custom:638",
+"pred": "**What is a Hash Table?**\n\nA hash table, also known as a hash map or dictionary, is a data structure that stores key-value pairs in a way that allows for efficient lookup, insertion, and deletion of elements. It's a fundamental data structure used in computer science to implement various algorithms and data structures.\n\n"
+},
+{
+"ref": "custom:639",
+"pred": "Here are some tips for traveling on a budget:\n\n1. **Plan ahead**: Booking flights, hotels, and activities well in advance can help you save money. Many airlines, hotels, and tour operators offer early-bird discounts or promotions for advance bookings.\n\n2. **Be flexible**: Consider traveling during the off-season or"
+},
+{
+"ref": "custom:640",
+"pred": "The Roman Empire fell in two stages: the Western Roman Empire and the Eastern Roman Empire.\n\nThe Western Roman Empire officially fell in 476 CE, when the Germanic king Odoacer deposed the last Roman Emperor, Romulus Augustus.\n\nThe Eastern Roman Empire, also known as the Byzantine Empire, survived for"
+},
+{
+"ref": "custom:641",
+"pred": "The invention of the light bulb is a bit complex, as it involved the work of several individuals over a period of time. While Thomas Edison is often credited with the invention of the light bulb, the actual story is a bit more nuanced.\n\nThe first known incandescent light was created by Humphry Davy, an"
+},
+{
+"ref": "custom:642",
+"pred": "DNA stands for Deoxyribonucleic acid. It is a molecule that contains the genetic instructions used in the development and function of all living organisms."
+},
+{
+"ref": "custom:643",
+"pred": "Frosty morning calm\nSnowflakes gently falling slow\nWinter's peaceful hush"
+},
+{
+"ref": "custom:644",
+"pred": "Congratulations on deciding to start running! As a beginner, it's essential to approach running gradually and safely to avoid injuries. Here's a step-by-step guide to help you get started:\n\n1. **Consult a doctor**: If you have any health concerns or chronic medical conditions, consult your doctor before starting a running program.\n"
+},
+{
+"ref": "custom:645",
+"pred": "Empathy and sympathy are two terms often used interchangeably, but they have distinct meanings.\n\n**Sympathy** is feeling sorry for someone without fully understanding their emotions or perspective. It's a more superficial response, often characterized by phrases like \"I'm sorry you're going through this\" or \"That's too bad"
+},
+{
+"ref": "custom:646",
+"pred": "In a parliamentary system, the process of electing a government is different from a presidential system. Here's a step-by-step explanation:\n\n1. **Election Day**: Citizens vote for members of the parliament or legislature, which is usually a single-chamber or multi-chamber system. The number of seats in the parliament"
+},
+{
+"ref": "custom:647",
+"pred": "Here's a fun fact about space:\n\nThere is a giant storm on Jupiter that has been raging for at least 187 years. The Great Red Spot, as it's called, is a persistent anticyclonic storm that's so large it could swallow several Earths whole. It's been continuously observed since 183"
+},
+{
+"ref": "custom:648",
+"pred": "There are many ways to lower your electricity bill. Here are some effective tips:\n\n1. **Switch to energy-efficient light bulbs**: LED bulbs use significantly less energy than incandescent bulbs and can last up to 25 times longer.\n2. **Turn off lights, appliances, and electronics when not in use**: This"
+},
+{
+"ref": "custom:649",
+"pred": "A balanced diet is a diet that provides the body with the necessary nutrients, vitamins, and minerals to maintain good health and prevent diseases. It is a diet that includes a variety of foods from all food groups in the right proportions.\n\nA balanced diet typically includes:\n\n1. **Fruits**: Provide essential vitamins, minerals,"
+},
+{
+"ref": "custom:650",
+"pred": "Imagine you're inside a big glass house, like a greenhouse. The sun shines through the glass, and it makes the house warm inside, right? That's kind of like what happens with the Earth.\n\nThe Earth is like a big ball, and it has a special blanket around it called the atmosphere. The atmosphere is"
+},
+{
+"ref": "custom:651",
+"pred": "Here are the classifications:\n\n Mammals:\n1. Dolphin\n2. Bat\n\n Birds:\n1. Eagle\n2. Sparrow"
+},
+{
+"ref": "custom:652",
+"pred": "Here are the numbers sorted from smallest to largest:\n\n1. 3\n2. 7\n3. 19\n4. 42\n\nLet me know if you have any other questions."
+},
+{
+"ref": "custom:653",
+"pred": "From a botanical standpoint, a tomato is technically a fruit. It is the edible berry of the plant Solanum lycopersicum, which belongs to the nightshade family. The reason for this classification is that tomatoes develop from the ovary of a flower, like other fruits.\n\nHowever, in culinary and everyday contexts"
+},
+{
+"ref": "custom:654",
+"pred": "Here are the categorizations:\n\n1. run - verb\n2. table - noun\n3. swim - verb\n4. chair - noun"
+},
+{
+"ref": "custom:655",
+"pred": "To determine which of these numbers is a prime number, we need to check if they have any divisors other than 1 and themselves.\n\n- 21: This number can be divided by 1, 3, 7, and 21. So, 21 is not a prime number.\n- 23"
+},
+{
+"ref": "custom:656",
+"pred": "The language is German. \n\n'Ich bin m\u00fcde' translates to 'I am tired' in English."
+},
+{
+"ref": "custom:657",
+"pred": "Asking \"What time is it?\" is a common inquiry that serves several purposes:\n\n1. **Practicality**: The most obvious intent is to know the current time, which is essential for planning and coordinating activities, appointments, or events.\n2. **Social etiquette**: Asking \"What time is it?\" can be"
+},
+{
+"ref": "custom:658",
+"pred": "There could be several reasons why your card was declined at the store. Here are some possible explanations:\n\n1. **Insufficient funds**: If you don't have enough money in your account to cover the purchase, the card will be declined.\n2. **Expired card**: If your card has expired, it may not be"
+},
+{
+"ref": "custom:659",
+"pred": "The time it takes for a bank transfer to be processed can vary depending on several factors, such as the type of transfer, the banks involved, and the countries or regions involved. Here are some general guidelines:\n\n1. **Domestic transfers** (within the same country):\n\t* Instant transfers: Some banks offer instant"
+},
+{
+"ref": "custom:660",
+"pred": "Losing a wallet can be stressful, but there are steps you can take to minimize the damage and protect your identity. Here's a step-by-step guide to help you:\n\n1. **Cancel your credit cards**:\n\t* Immediately contact your credit card companies and report your cards lost or stolen.\n\t* They will"
+},
+{
+"ref": "custom:661",
+"pred": "The exchange rate between dollars and euros can fluctuate constantly due to market conditions and economic factors. As of my cut-off knowledge in December 2023, the exchange rate was approximately 1 USD = 0.88 EUR. However, please note that this rate may have changed since then.\n\nFor the most up-to"
+},
+{
+"ref": "custom:662",
+"pred": "ATMs, or Automated Teller Machines, are electronic devices that allow users to perform various banking transactions, such as withdrawing cash, checking account balances, and transferring funds. Here's a simplified explanation of how ATMs work:\n\n**Main Components:**\n\n1. **Card Reader:** This is the slot where you insert your"
+},
+{
+"ref": "custom:663",
+"pred": "A direct debit is a payment method that allows a business or organization to automatically deduct a set amount of money from a customer's bank account on a regular basis. This is typically used for recurring payments, such as:\n\n* Utility bills (e.g., electricity, gas, water)\n* Loan repayments\n* Insurance premiums"
+},
+{
+"ref": "custom:664",
+"pred": "There are several ways to send money abroad, and the best method for you will depend on your specific needs and circumstances. Here are some popular options:\n\n1. **Online Money Transfer Services**: Companies like TransferWise, PayPal, and WorldRemit offer competitive exchange rates and low fees. They often have user-friendly websites"
+},
+{
+"ref": "custom:665",
+"pred": "Disputing a charge on your credit card involves several steps, which I'll outline below. Please note that the process may vary depending on your credit card issuer and the specific circumstances of the charge.\n\n**Step 1: Review your statement**\n\nCarefully review your credit card statement to ensure the disputed charge is accurate."
+},
+{
+"ref": "custom:666",
+"pred": "A Personal Identification Number (PIN) is a secret number or code used to authenticate and verify the identity of an individual for various transactions, such as withdrawing cash from an ATM, making online purchases, or accessing sensitive information. The PIN is usually a 4- to 6-digit number, and it's often required to"
+},
+{
+"ref": "custom:667",
+"pred": "Contactless payments are a type of payment method that allows users to make transactions without physically touching a payment terminal or inserting a card. This is typically done using a device such as a smartphone, smartwatch, or a contactless payment card.\n\n**How it works:**\n\n1. **Contactless technology:** Contactless payments"
+},
+{
+"ref": "custom:668",
+"pred": "Apple Pay is a mobile payment and digital wallet service provided by Apple Inc. It allows users to make payments, send and receive money, and store credit and debit cards on their Apple devices, such as iPhones, Apple Watches, and iPads.\n\nHere are some key features of Apple Pay:\n\n1. **Contactless payments"
+},
+{
+"ref": "custom:669",
+"pred": "Top-up cards, also known as prepaid cards or top-up vouchers, are a convenient way to add funds to a mobile phone, internet, or other service account without using a traditional payment method like a credit or debit card. Here's how they typically work:\n\n**Types of top-up cards:**\n\n1. **Physical"
+},
+{
+"ref": "custom:670",
+"pred": "A virtual card, also known as a digital card or e-card, is a digital representation of a physical credit or debit card. It's a unique, virtual account number that can be used for online transactions, just like a physical card. Virtual cards are often used for online shopping, bill payments, and other digital transactions"
+},
+{
+"ref": "custom:671",
+"pred": "There could be several reasons why your refund isn't showing up on your statement. Here are some possible explanations:\n\n1. **Timing**: Refunds can take a few days to process, so it's possible that the refund hasn't been applied to your account yet. Check with the merchant or your bank to see if the"
+},
+{
+"ref": "custom:672",
+"pred": "To activate your card, I'll need some more information from you. Can you please provide the following details:\n\n1. What type of card are you trying to activate (e.g., credit card, debit card, gift card, loyalty card)?\n2. Who issued the card (e.g., bank, credit card company"
+},
+{
+"ref": "custom:673",
+"pred": "The age requirement to open an account can vary depending on the type of account and the institution offering it. Here are some general guidelines:\n\n1. **Bank Account**: In the United States, most banks allow minors to open a bank account with a parent or guardian as a co-signer. The minimum age to open a"
+},
+{
+"ref": "custom:674",
+"pred": "You're referring to topping up your Apple Watch with a charge. Yes, you can definitely do that. To charge your Apple Watch, you'll need the Apple Watch Magnetic Charging Cable and a power source, such as a USB charger or a wall adapter.\n\nHere's how to charge your Apple Watch:\n\n1. Place the"
+},
+{
+"ref": "custom:675",
+"pred": "You can withdraw money from a variety of places, depending on your location and the type of account you have. Here are some common options:\n\n1. **ATMs (Automated Teller Machines)**: You can withdraw cash from an ATM using your debit card, credit card, or prepaid card. Make sure to check"
+},
+{
+"ref": "custom:676",
+"pred": "An auto top-up is a convenient feature that allows you to automatically add funds to your account when the balance falls below a certain threshold. This can be useful for various services, such as:\n\n1. Mobile phone plans\n2. Utility bills (e.g., electricity, gas, water)\n3. Credit or debit cards"
+},
+{
+"ref": "custom:677",
+"pred": "That can be frustrating. Let's try to troubleshoot the issue together. \n\nTo better assist you, could you please provide more details about the transfer you're trying to locate? \n\nHere are some questions to consider:\n\n1. What type of transfer is it (e.g., bank transfer, wire transfer, payment from"
+},
+{
+"ref": "custom:678",
+"pred": "I'd be happy to help you troubleshoot the issue. Can you please provide more details about the cash deposit you made this morning? \n\nHere are some questions to help me better understand the situation:\n\n1. Where did you make the cash deposit (e.g., ATM, bank branch, or a store)?\n2."
+},
+{
+"ref": "custom:679",
+"pred": "It sounds like there was an issue with the transfer you were trying to make. Can you tell me more about the transfer and what type of account you were trying to transfer from? Was it a bank account, investment account, or something else?"
+},
+{
+"ref": "custom:680",
+"pred": "I can't assist with cancelling payments. If you've sent a payment to the wrong account number, you can try the following steps: \n1. Contact your bank or financial institution immediately to report the error. They may be able to stop the payment or reverse the transaction.\n2. Reach out to the recipient of the"
+},
+{
+"ref": "custom:681",
+"pred": "I can't provide you with specific information about the cost and delivery time for a new credit card. If you need a new card, I suggest you contact your credit card issuer directly. They can provide you with the most up-to-date information on their policies and procedures. Is there anything else I can help you with?"
+},
+{
+"ref": "custom:682",
+"pred": "You can use your card at a wide range of places, depending on the type of card you have. Here are some common places that accept different types of cards:\n\n1. **Credit Cards**:\n\t* Most retail stores (e.g., clothing, electronics, home goods)\n\t* Restaurants and bars\n\t*"
+},
+{
+"ref": "custom:683",
+"pred": "You didn't mention what kind of card you're referring to. There are many types of cards, such as credit cards, debit cards, gift cards, or membership cards. If you could provide more context or information about the card you're waiting for, I'd be happy to try and help you estimate when you might"
+},
+{
+"ref": "custom:684",
+"pred": "I'd be happy to help you with your delivery.  However, I need more information about what you're ordering or what service you're referring to.  Can you please provide more context or details about what you're trying to deliver or have delivered on Saturday?"
+},
+{
+"ref": "custom:685",
+"pred": "You can add a new card to the app by following these steps:\n\n1. **Open the app**: First, make sure you have the app open on your device.\n2. **Go to the settings**: Look for a settings or account section within the app. This is usually represented by a gear icon or a menu"
+},
+{
+"ref": "custom:686",
+"pred": "I'm sorry to hear that your card is having issues. There could be several reasons why your card won't accept transactions. Here are some possible causes:\n\n1. **Insufficient balance**: Check if you have enough funds in your account to cover the transaction amount.\n2. **Card expiration date**: If your card has"
+},
+{
+"ref": "custom:687",
+"pred": "It's understandable that you want to be informed about any additional charges before making future payments. This is a common practice in many industries, especially in finance and e-commerce.\n\nHere are some suggestions on how to implement a notification system for additional charges:\n\n1. **Clear and concise language**: Ensure that the notification is easy to"
+},
+{
+"ref": "custom:688",
+"pred": "Unrecognized payments can be frustrating and concerning. There are several possible reasons why you might see a payment on your app that you don't remember making:\n\n1. **Auto-renewing subscriptions**: If you've subscribed to a service or a streaming platform, it might be set to auto-renew every month. Check your"
+},
+{
+"ref": "custom:689",
+"pred": "If you're experiencing issues with an exchange rate from a foreign transaction, here are some steps you can take:\n\n1. **Check the exchange rate at the time of the transaction**: Look for receipts, bank statements, or any other documentation that shows the exchange rate used at the time of the transaction. This can help you"
+},
+{
+"ref": "custom:690",
+"pred": "If you've swallowed a credit or debit card, it's essential to act quickly to minimize potential damage. Here are the steps to help you recover your card:\n\n1. **Stay calm**: Panicking can lead to poor decision-making, which might worsen the situation.\n2. **Don't induce vomiting**: This is"
+},
+{
+"ref": "custom:691",
+"pred": "That can be frustrating. If you believe you were incorrectly charged a fee for your cash withdrawal, here are some steps you can take:\n\n1. **Review your account statement**: Double-check your account statement to ensure the fee is indeed listed. Verify the date, amount, and description of the transaction.\n2. **Contact"
+},
+{
+"ref": "custom:692",
+"pred": "It sounds like you're trying to identify a withdrawal that you're not familiar with. Can you provide more context or details about the withdrawal, such as:\n\n* Where did the withdrawal occur (e.g., bank account, credit card, investment)?\n* What is the amount of the withdrawal?\n* When did the withdrawal happen"
+},
+{
+"ref": "custom:693",
+"pred": "To reset your PIN, you will need to provide more details about the PIN you are trying to reset, such as the type of account or device it is associated with."
+},
+{
+"ref": "custom:694",
+"pred": "If you suspect that someone might be using your card, it's essential to take action quickly to protect your financial information and prevent any potential damage. Here are some steps you can follow:\n\n1. **Monitor your account activity**: Check your account statements and online banking regularly to see if there are any unusual transactions. Look for"
+},
+{
+"ref": "custom:695",
+"pred": "Setting up contactless payments involves several steps, which I'll guide you through. Please note that the specific steps may vary depending on your location, bank, and payment method.\n\n**Method 1: Contactless Credit/Debit Card**\n\n1. **Check if your bank offers contactless payments**: Contact your bank to"
+},
+{
+"ref": "custom:696",
+"pred": "I'm not capable of providing physical cards. But, if you're asking about digital payment methods or services that I might be integrated with, then the answer is: it depends on the specific service or company.\n\nMany digital payment services and companies that offer virtual cards or payment methods do support the EU and its regulations, such"
+},
+{
+"ref": "custom:697",
+"pred": "That can be frustrating. There could be several reasons why your card wasn't accepted in the shop. Here are a few possibilities:\n\n1. **Insufficient funds**: If you don't have enough money in your account, the transaction won't go through.\n2. **Card expiration date**: If your card has expired,"
+},
+{
+"ref": "custom:698",
+"pred": "There could be several reasons why the ATM is not letting you get cash. Here are some possible causes:\n\n1. **Insufficient Funds**: If you're trying to withdraw more money than you have in your account, the ATM will not dispense cash.\n2. **Card Issues**: Your debit or credit card might be"
+},
+{
+"ref": "custom:699",
+"pred": "It seems like you're experiencing an issue with a payment or financial transaction. The error message \"Transfer was declined, could not complete request\" is quite generic, but I can try to help you troubleshoot the problem.\n\nHere are a few possible reasons why this might be happening:\n\n1. **Insufficient funds**: If"
+},
+{
+"ref": "custom:700",
+"pred": "I can't help you with this request."
+},
+{
+"ref": "custom:701",
+"pred": "There could be several reasons why a virtual card didn't work for a hotel booking. Here are some possible explanations:\n\n1. **Hotel policy**: Some hotels may not accept virtual cards or have specific requirements for their use. It's possible that the hotel you booked with has a policy against virtual cards or requires a physical credit"
+},
+{
+"ref": "custom:702",
+"pred": "You'd like to modify your details. Could you please provide more context or information about what you mean by \"details\"? Are you referring to your account information, preferences, or something else? I'm here to help."
+},
+{
+"ref": "custom:703",
+"pred": "I can provide you with some general information about exchanging currencies. However, I'm not a financial institution, so I don't have the ability to offer actual discounts or make transactions.\n\nThat being said, here are some general tips that might help you save money when exchanging currencies:\n\n1. **Avoid exchanging money at airports or"
+},
+{
+"ref": "custom:704",
+"pred": "My exchange rates are based on historical data from various sources, including but not limited to:\n\n1. **European Central Bank (ECB)**: For Euro exchange rates.\n2. **International Monetary Fund (IMF)**: For exchange rates of various currencies.\n3. **Xignite**: A leading provider of financial market"
+},
+{
+"ref": "custom:705",
+"pred": "If your plans change and you need to convert GBP (British Pounds) to AUD (Australian Dollars), I can help you with that.\n\nTo give you an accurate conversion rate, I'll need to know the current exchange rate. Please note that exchange rates can fluctuate constantly, so the rate may change rapidly.\n\nAs"
+},
+{
+"ref": "custom:706",
+"pred": "There could be several reasons why you're seeing an extra $1 charge on your statement. Here are a few possibilities:\n\n1. **Minimum purchase requirement**: Some credit cards have a minimum purchase requirement to avoid a monthly fee. If you've made a purchase below this threshold, you might see a $1 charge to meet"
+},
+{
+"ref": "custom:707",
+"pred": "There could be several reasons why your card couldn't complete a transfer. Here are some possible causes:\n\n1. **Insufficient funds**: If you don't have enough money in your account to cover the transfer amount, the transaction will be declined.\n2. **Card expiration date**: If your card has expired, you won"
+},
+{
+"ref": "custom:708",
+"pred": "I don't hold money in the classical sense. I'm a computer program designed to provide information and assist with tasks, so I don't have a physical presence or the ability to store or handle physical currency.\n\nHowever, I can provide information and assistance related to money and finance, including currency exchange rates, financial news,"
+},
+{
+"ref": "custom:709",
+"pred": "You're likely referring to disposable cards, also known as gift cards or prepaid cards. These cards are used for various purposes, including:\n\n1. **Gift giving**: Disposable cards are often used as gifts, allowing the recipient to purchase items they want or need from a specific store or online platform.\n2. **Prepaid"
+},
+{
+"ref": "custom:710",
+"pred": "I can't access your financial information. If you need help remembering your PIN, you might want to try retracing your steps to see if you wrote it down somewhere. Is there anything else I can help you with?"
+},
+{
+"ref": "custom:711",
+"pred": "I'm not capable of charging for physical cards or any physical products. I exist as a text-based conversational AI and do not have the capability to send or produce physical items. I'm here to help answer questions, provide information, and assist with text-based tasks. If you're looking to send cards, you would"
+},
+{
+"ref": "custom:712",
+"pred": "Virtual cards can sometimes be tricky to locate, especially if you've recently received them or haven't used them in a while. Here are some steps to help you find your virtual card:\n\n1. **Check your email**: Look for an email from the issuer or the company that provided the virtual card. The email might contain"
+},
+{
+"ref": "custom:713",
+"pred": "I'm so sorry to hear that your card was stolen. Here are some steps you can take to minimize the damage and protect your financial information:\n\n1. **Notify your bank immediately**: Call your bank's customer service number (usually found on the back of your card or on their website) and report the theft. They"
+},
+{
+"ref": "custom:714",
+"pred": "Losing a phone can be frustrating, especially if it had important contacts, photos, or data. Here are some steps you can take:\n\n1. **Check if it's just misplaced**: Make sure you haven't misplaced the phone in your home or office. Check all the usual places where you might have left it.\n"
+},
+{
+"ref": "custom:715",
+"pred": "You can order a physical debit or credit card from your bank's website or mobile app. Here are the general steps:\n\n1. Log in to your online banking account or mobile app.\n2. Look for the \"Cards\" or \"Account Services\" section.\n3. Click on \"Order a Card\" or a similar"
+},
+{
+"ref": "custom:716",
+"pred": "If you've forgotten your passcode, don't worry, it's a common issue. Here are some steps you can try to recover or reset your passcode:\n\n1. **Check your documentation**: If you created a password or passcode, you might have written it down somewhere. Look for any notes, receipts,"
+},
+{
+"ref": "custom:717",
+"pred": "A pending payment can be a bit confusing. A pending payment is a temporary hold on a payment that has been authorized but not yet settled by the bank. This usually happens when you make a purchase or payment online, and the merchant's bank is waiting for the payment to be confirmed.\n\nThere are a few possible reasons why"
+},
+{
+"ref": "custom:718",
+"pred": "It's possible that the ATM has already dispensed the cash, but the transaction is still pending in the bank's system for a few reasons:\n\n1. **Network delays**: When you initiate a withdrawal, the request goes through various networks, including the ATM's network, the bank's network, and the payment processing network"
+},
+{
+"ref": "custom:719",
+"pred": "If you're unable to add money to your card and the transaction is still pending after 30 minutes, here are some steps you can take:\n\n1. **Wait a bit longer**: Sometimes, transactions can take a while to process, especially if it's your first time using the card or if there are issues with the"
+},
+{
+"ref": "custom:720",
+"pred": "There could be several reasons why your transfer still says it's pending. Here are some possible explanations:\n\n1. **Insufficient funds**: If the account from which you're transferring funds doesn't have enough money, the transfer will be pending until the funds become available.\n2. **Bank processing time**: Banks typically take "
+},
+{
+"ref": "custom:721",
+"pred": "If you've forgotten your PIN or it's been blocked, the steps to unblock it vary depending on the type of account or device you're using. Here are some general steps:\n\n**For debit/credit cards:**\n\n1. Contact your bank's customer service: Reach out to your bank's customer service department by"
+},
+{
+"ref": "custom:722",
+"pred": "You're referring to a payment service. There are many payment services available, but without knowing which one you're referring to, it's difficult to say for sure.\n\nSome popular payment services include:\n\n1. PayPal\n2. Venmo\n3. Zelle\n4. Cash App\n5. Google Pay\n6"
+},
+{
+"ref": "custom:723",
+"pred": "The procedure for canceling a purchase can vary depending on the type of purchase, the seller, and the payment method used. Here are some general steps you can follow:\n\n**For Online Purchases:**\n\n1. **Check the seller's return policy**: Look for a \"Return Policy\" or \"Cancellation Policy\" section"
+},
+{
+"ref": "custom:724",
+"pred": "That can be frustrating. If the app cancelled your payment, it's possible that there was an issue with the transaction, such as:\n\n1. Insufficient funds\n2. A problem with the payment method (e.g., expired card, incorrect CVV)\n3. A technical issue with the app or payment gateway\n"
+},
+{
+"ref": "custom:725",
+"pred": "I can support payments in a variety of currencies. For more information about pricing, please see Meta's Privacy Center and Meta's Cookies Policy."
+},
+{
+"ref": "custom:726",
+"pred": "If you want to delete your account, please reach out to Facebook directly. They can help you with this. You can find more information about deleting your account on their help center: https://www.meta.com/help/"
+},
+{
+"ref": "custom:727",
+"pred": "The charges for topping up by transfer can vary depending on the service provider and the specific plan you have. \n\nIn general, if you're topping up with a transfer, you might be charged a fee for the transfer itself, which can be a flat rate or a percentage of the amount transferred. This fee is usually set"
+},
+{
+"ref": "custom:728",
+"pred": "Topping up can refer to different contexts, but I'll cover a few common ones:\n\n1. **Mobile phone top-up**: This involves adding credit to your mobile phone account to continue using services like talk time, texts, and data. You can top up your phone using various methods, such as:\n\t* Buying"
+},
+{
+"ref": "custom:729",
+"pred": "It seems like you're asking about payment options. However, I'll provide a general answer as the options may vary depending on the store, business, or service you're interacting with.\n\nIn many places, you can still pay with cash. This is a widely accepted form of payment.\n\nAs for cheques, their usage"
+},
+{
+"ref": "custom:730",
+"pred": "I can't assist with financial transactions. If you're having trouble with a top-up, I can help you brainstorm ways to troubleshoot the issue. Would that help?"
+},
+{
+"ref": "custom:731",
+"pred": "For security reasons, I am unable to provide information about the limit for top-ups."
+},
+{
+"ref": "custom:732",
+"pred": "I'm so sorry to hear that your money has gone missing. There could be several reasons for this, and I'll try to help you troubleshoot the issue.\n\nSince you recently topped up and saw the money, it's likely that the issue is not with the transaction itself, but rather with how the money is being"
+},
+{
+"ref": "custom:733",
+"pred": "I can't help you with that. If you are having issues with your card, I'd be happy to help you with that instead. Is there anything else I can help you with?"
+},
+{
+"ref": "custom:734",
+"pred": "There could be several reasons why you were charged twice for the same thing. Here are some possible explanations:\n\n1. **Duplicate transactions**: This can happen when a payment processor or bank system fails to update the transaction status correctly, resulting in a duplicate charge.\n2. **Insufficient funds**: If you have insufficient funds in"
+},
+{
+"ref": "custom:735",
+"pred": "Unfortunately, money transfers are not always free. While some services and banks offer free transfers, many others charge fees for sending and receiving money. These fees can vary widely depending on the service, the amount being transferred, and the destination.\n\nHere are some common scenarios where money transfers might not be free:\n\n1. **Bank"
+},
+{
+"ref": "custom:736",
+"pred": "There are several ways to transfer money into your account, and the method you choose will depend on your personal preferences and the services available to you. Here are some common options:\n\n1. **Bank Transfer**: You can transfer money from another bank account or a credit card to your account using online banking, mobile banking, or"
+},
+{
+"ref": "custom:737",
+"pred": "I cannot predict when a transaction will be done. I can help you with any other questions you have."
+},
+{
+"ref": "custom:738",
+"pred": "To give you a more accurate estimate, I'll need to know a few more details:\n\n1. What type of item are you trying to transfer (e.g., money, goods, etc.)?\n2. Are you using a specific payment method or service (e.g., PayPal, WeChat Pay, Alipay,"
+},
+{
+"ref": "custom:739",
+"pred": "It sounds like you're experiencing some identity verification issues. There could be several reasons for this, such as:\n\n1. **Lost or stolen identification documents**: If you've lost your ID or it's been stolen, it can be challenging to prove your identity.\n2. **Name change or update**: If you've recently"
+},
+{
+"ref": "custom:740",
+"pred": "There are several methods that can be used for identity verification, depending on the level of security required and the type of verification needed. Here are some common methods:\n\n1. **Government-issued ID**: Verifying a person's identity using a government-issued ID, such as a driver's license or passport, is a"
+},
+{
+"ref": "custom:741",
+"pred": "You're likely referring to the origin of a specific amount of money, such as a large sum or a suspicious transaction. There are several ways to investigate the source of funds, but the methods used depend on the context and the availability of information. Here are some possible ways to determine where the money came from:\n\n1."
+},
+{
+"ref": "custom:742",
+"pred": "Verifying a top-up can be necessary in various situations. Here are some possible reasons:\n\n1. **Security**: To prevent unauthorized transactions, especially when using a credit or debit card for mobile top-ups. This ensures that the transaction is legitimate and not a result of card skimming or other malicious activities.\n2. **"
+},
+{
+"ref": "custom:743",
+"pred": "I'd be happy to help you troubleshoot the issue with your virtual card. Can you please provide more details about the problem you're experiencing, such as:\n\n1. What type of virtual card are you trying to use (e.g., digital credit card, debit card, or a specific app like Apple Pay or Google"
+},
+{
+"ref": "custom:744",
+"pred": "You want to know if you can choose which payment card to use for a transaction. \n\nThe answer is: it depends on the situation and the merchant's policies.\n\nHere are a few scenarios:\n\n1. **Online transactions**: When shopping online, you can usually choose which payment card to use. You'll be prompted to"
+},
+{
+"ref": "custom:745",
+"pred": "I understand your concern. I'm here to assist and provide information, not to collect or store your personal data. Our conversation is anonymous, and I don't have the capability to store or retain any information about you.\n\nIf you're still uncomfortable sharing specific details, we can focus on general topics or hypothetical scenarios. I"
+},
+{
+"ref": "custom:746",
+"pred": "That can be frustrating and stressful. If you've withdrawn the wrong amount from the ATM and the app is showing a higher amount, here are some steps you can take:\n\n1. **Contact the bank's customer service**: Reach out to the bank's customer service number immediately. They can help you resolve the issue and correct"
+},
+{
+"ref": "custom:747",
+"pred": "I'd be happy to help you check the exchange rate. Can you please provide me with the following information:\n\n1. The currency you are trying to exchange (e.g. USD, EUR, JPY, etc.)\n2. The amount you are trying to exchange\n3. The currency you want to exchange into\n"
+}
+]
+}

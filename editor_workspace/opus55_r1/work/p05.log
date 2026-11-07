@@ -1,0 +1,2 @@
+{"pass": 5, "records": 47757, "arrays": {"L28.mlp_act": [47757, 14336], "L30.mlp_act": [47757, 14336], "seq_index": [47757], "pos": [47757], "logprob": [47757]}, "seconds": 2401.7}
+results: acts/p05_practice_L28_30.npz (+ .meta.json)

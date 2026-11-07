@@ -1,0 +1,6 @@
+#!/bin/bash
+# numpy-only kernel interpreter for this editor run (no model, no autograd).
+HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+REPO="$(cd "$HERE/../.." && pwd)"
+export PYTHONPATH="$HERE"
+exec "$REPO/.venv-kernel/bin/python" "$@"

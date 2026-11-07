@@ -1,0 +1,3 @@
+{"type": "capture", "model": "original", "source": "custom", "texts_file": "work/general_fc.jsonl",
+ "template": "chat", "answer": "custom", "positions": "all",
+ "layers": [31], "kinds": ["mlp_act", "resid"], "topk": 10, "out": "p04_general_L31"}

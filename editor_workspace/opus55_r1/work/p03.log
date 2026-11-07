@@ -1,0 +1,2 @@
+{"pass": 3, "records": 47757, "arrays": {"L31.mlp_act": [47757, 14336], "L31.resid": [47757, 4096], "seq_index": [47757], "pos": [47757], "logprob": [47757], "topk_ids": [47757, 10], "topk_logprob": [47757, 10]}, "seconds": 1749.1}
+results: acts/p03_practice_L31.npz (+ .meta.json)

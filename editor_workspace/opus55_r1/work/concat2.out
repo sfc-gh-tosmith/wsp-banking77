@@ -1,0 +1,11 @@
+kernel in31 done
+kernel act30 done
+in31 lam=3e-05: class acc 0.0233 relu-sum first 0.0742
+in31 lam=0.0001: class acc 0.8933 relu-sum first 0.9090
+in31 lam=0.0003: class acc 0.9112 relu-sum first 0.9242
+in31+act30 lam=3e-05: class acc 0.1142 relu-sum first 0.1413
+in31+act30 lam=0.0001: class acc 0.9139 relu-sum first 0.9285
+in31+act30 lam=0.0003: class acc 0.9145 relu-sum first 0.9302
+act30 lam=3e-05: class acc 0.0173 relu-sum first 0.0790
+act30 lam=0.0001: class acc 0.8977 relu-sum first 0.9161
+act30 lam=0.0003: class acc 0.9145 relu-sum first 0.9280

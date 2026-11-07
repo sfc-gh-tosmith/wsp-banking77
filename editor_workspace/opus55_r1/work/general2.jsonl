@@ -1,0 +1,336 @@
+{"text": "Classify this airline customer message into the correct intent.\n\nMessage: My flight was cancelled, can I get a refund?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this airline customer message into the correct intent.\n\nMessage: How many bags can I check on an international flight?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this airline customer message into the correct intent.\n\nMessage: I need to change my seat to an aisle.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this airline customer message into the correct intent.\n\nMessage: My luggage didn't arrive at the destination.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this airline customer message into the correct intent.\n\nMessage: Can I bring my dog on board?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this airline customer message into the correct intent.\n\nMessage: What time does boarding start?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this airline customer message into the correct intent.\n\nMessage: I missed my connecting flight.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this airline customer message into the correct intent.\n\nMessage: How do I add my frequent flyer number?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this airline customer message into the correct intent.\n\nMessage: Is there wifi on the plane?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this airline customer message into the correct intent.\n\nMessage: I want to upgrade to business class.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this telecom customer message into the correct intent.\n\nMessage: My internet keeps disconnecting.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this telecom customer message into the correct intent.\n\nMessage: I want to upgrade my phone plan.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this telecom customer message into the correct intent.\n\nMessage: Why is my bill higher this month?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this telecom customer message into the correct intent.\n\nMessage: How do I set up voicemail?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this telecom customer message into the correct intent.\n\nMessage: There is no signal in my area.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this telecom customer message into the correct intent.\n\nMessage: Can I keep my number if I switch carriers?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this telecom customer message into the correct intent.\n\nMessage: I want to cancel my contract.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this telecom customer message into the correct intent.\n\nMessage: My data runs out too fast.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this telecom customer message into the correct intent.\n\nMessage: How do I activate roaming?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this telecom customer message into the correct intent.\n\nMessage: The router lights are blinking red.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this e-commerce customer message into the correct intent.\n\nMessage: Where is my package? It was supposed to arrive yesterday.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this e-commerce customer message into the correct intent.\n\nMessage: I received the wrong size.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this e-commerce customer message into the correct intent.\n\nMessage: How do I return an item?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this e-commerce customer message into the correct intent.\n\nMessage: Can I change my delivery address?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this e-commerce customer message into the correct intent.\n\nMessage: The product arrived damaged.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this e-commerce customer message into the correct intent.\n\nMessage: Do you ship to Canada?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this e-commerce customer message into the correct intent.\n\nMessage: I was charged twice for my order.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this e-commerce customer message into the correct intent.\n\nMessage: How long does a refund take?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this e-commerce customer message into the correct intent.\n\nMessage: Can I cancel my order?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this e-commerce customer message into the correct intent.\n\nMessage: The discount code isn't working.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this hotel customer message into the correct intent.\n\nMessage: Can I get a late checkout tomorrow?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this hotel customer message into the correct intent.\n\nMessage: Is breakfast included?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this hotel customer message into the correct intent.\n\nMessage: The air conditioning in my room is broken.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this hotel customer message into the correct intent.\n\nMessage: Do you have parking?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this hotel customer message into the correct intent.\n\nMessage: I'd like to book a room for two nights.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this hotel customer message into the correct intent.\n\nMessage: Can I get extra towels?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this hotel customer message into the correct intent.\n\nMessage: Is the pool open today?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this hotel customer message into the correct intent.\n\nMessage: I left my charger in the room.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this hotel customer message into the correct intent.\n\nMessage: Can you call a taxi for me?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this hotel customer message into the correct intent.\n\nMessage: I want to cancel my reservation.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this insurance customer message into the correct intent.\n\nMessage: I want to file a claim for my car accident.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this insurance customer message into the correct intent.\n\nMessage: Does my policy cover flood damage?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this insurance customer message into the correct intent.\n\nMessage: How do I add my spouse to my plan?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this insurance customer message into the correct intent.\n\nMessage: When is my premium due?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this insurance customer message into the correct intent.\n\nMessage: My claim was denied, why?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this insurance customer message into the correct intent.\n\nMessage: Can I lower my deductible?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this insurance customer message into the correct intent.\n\nMessage: I need proof of insurance.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this insurance customer message into the correct intent.\n\nMessage: How do I cancel my policy?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this insurance customer message into the correct intent.\n\nMessage: Is dental included?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this insurance customer message into the correct intent.\n\nMessage: My address changed.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this restaurant customer message into the correct intent.\n\nMessage: Do you have vegetarian options?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this restaurant customer message into the correct intent.\n\nMessage: Can I book a table for six at 8pm?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this restaurant customer message into the correct intent.\n\nMessage: My order is missing a drink.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this restaurant customer message into the correct intent.\n\nMessage: Are you open on Sundays?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this restaurant customer message into the correct intent.\n\nMessage: Do you deliver to my area?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this restaurant customer message into the correct intent.\n\nMessage: The food was cold.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this restaurant customer message into the correct intent.\n\nMessage: Do you have a gluten-free menu?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this restaurant customer message into the correct intent.\n\nMessage: Can I pay with a gift card?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this restaurant customer message into the correct intent.\n\nMessage: Is there a kids menu?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this restaurant customer message into the correct intent.\n\nMessage: I want to cancel my reservation.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this healthcare customer message into the correct intent.\n\nMessage: I need to reschedule my appointment with Dr. Lee.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this healthcare customer message into the correct intent.\n\nMessage: Can I get a refill on my prescription?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this healthcare customer message into the correct intent.\n\nMessage: What are your opening hours?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this healthcare customer message into the correct intent.\n\nMessage: Do you accept my insurance?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this healthcare customer message into the correct intent.\n\nMessage: I need my test results.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this healthcare customer message into the correct intent.\n\nMessage: Can I see a doctor today?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this healthcare customer message into the correct intent.\n\nMessage: How do I get a referral?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this healthcare customer message into the correct intent.\n\nMessage: I have a fever and a cough.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this healthcare customer message into the correct intent.\n\nMessage: Where do I park for the clinic?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this healthcare customer message into the correct intent.\n\nMessage: Can I update my emergency contact?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this smart home customer message into the correct intent.\n\nMessage: Turn off the living room lights.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this smart home customer message into the correct intent.\n\nMessage: Set the thermostat to 70 degrees.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this smart home customer message into the correct intent.\n\nMessage: Lock the front door.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this smart home customer message into the correct intent.\n\nMessage: Play some jazz in the kitchen.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this smart home customer message into the correct intent.\n\nMessage: What's the weather tomorrow?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this smart home customer message into the correct intent.\n\nMessage: Set an alarm for 6am.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this smart home customer message into the correct intent.\n\nMessage: Is the garage door open?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this smart home customer message into the correct intent.\n\nMessage: Dim the bedroom lights.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this smart home customer message into the correct intent.\n\nMessage: Add milk to my shopping list.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this smart home customer message into the correct intent.\n\nMessage: Start the vacuum.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this ride-sharing customer message into the correct intent.\n\nMessage: My driver took a longer route and charged me more.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this ride-sharing customer message into the correct intent.\n\nMessage: I left my phone in the car.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this ride-sharing customer message into the correct intent.\n\nMessage: How do I add a stop?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this ride-sharing customer message into the correct intent.\n\nMessage: The driver never showed up.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this ride-sharing customer message into the correct intent.\n\nMessage: Can I schedule a ride for tomorrow?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this ride-sharing customer message into the correct intent.\n\nMessage: Why was I charged a cancellation fee?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this ride-sharing customer message into the correct intent.\n\nMessage: How do I rate my driver?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this ride-sharing customer message into the correct intent.\n\nMessage: I want to become a driver.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this ride-sharing customer message into the correct intent.\n\nMessage: The car was dirty.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this ride-sharing customer message into the correct intent.\n\nMessage: Can I split the fare with a friend?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this gym customer message into the correct intent.\n\nMessage: I want to freeze my membership for a month.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this gym customer message into the correct intent.\n\nMessage: What time do you open?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this gym customer message into the correct intent.\n\nMessage: Can I bring a guest?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this gym customer message into the correct intent.\n\nMessage: How do I book a spin class?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this gym customer message into the correct intent.\n\nMessage: I want to cancel my membership.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this gym customer message into the correct intent.\n\nMessage: Do you have personal trainers?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this gym customer message into the correct intent.\n\nMessage: The locker is broken.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this gym customer message into the correct intent.\n\nMessage: Is there a student discount?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this gym customer message into the correct intent.\n\nMessage: Can I change my billing date?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this gym customer message into the correct intent.\n\nMessage: Are towels provided?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this real estate customer message into the correct intent.\n\nMessage: Is the apartment on Main Street still available?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this real estate customer message into the correct intent.\n\nMessage: Can I schedule a viewing?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this real estate customer message into the correct intent.\n\nMessage: Are pets allowed?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this real estate customer message into the correct intent.\n\nMessage: What is the monthly rent?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this real estate customer message into the correct intent.\n\nMessage: Is parking included?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this real estate customer message into the correct intent.\n\nMessage: When can I move in?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this real estate customer message into the correct intent.\n\nMessage: Who do I contact for repairs?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this real estate customer message into the correct intent.\n\nMessage: Can I break my lease early?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this real estate customer message into the correct intent.\n\nMessage: Is the deposit refundable?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this real estate customer message into the correct intent.\n\nMessage: Are utilities included?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this streaming customer message into the correct intent.\n\nMessage: My video keeps buffering.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this streaming customer message into the correct intent.\n\nMessage: How do I cancel my subscription?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this streaming customer message into the correct intent.\n\nMessage: Can I share my account?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this streaming customer message into the correct intent.\n\nMessage: Why was I charged this month?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this streaming customer message into the correct intent.\n\nMessage: How do I download shows for offline?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this streaming customer message into the correct intent.\n\nMessage: I forgot my password.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this streaming customer message into the correct intent.\n\nMessage: Is this movie available in 4K?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this streaming customer message into the correct intent.\n\nMessage: How do I add a profile?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this streaming customer message into the correct intent.\n\nMessage: Subtitles are out of sync.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this streaming customer message into the correct intent.\n\nMessage: Can I change my plan?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this IT helpdesk customer message into the correct intent.\n\nMessage: My laptop won't turn on.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this IT helpdesk customer message into the correct intent.\n\nMessage: I can't connect to the VPN.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this IT helpdesk customer message into the correct intent.\n\nMessage: I need access to the shared drive.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this IT helpdesk customer message into the correct intent.\n\nMessage: My email isn't syncing.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this IT helpdesk customer message into the correct intent.\n\nMessage: The printer is jammed.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this IT helpdesk customer message into the correct intent.\n\nMessage: I forgot my password.\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this IT helpdesk customer message into the correct intent.\n\nMessage: Can I get a second monitor?\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this IT helpdesk customer message into the correct intent.\n\nMessage: My computer is very slow.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this IT helpdesk customer message into the correct intent.\n\nMessage: How do I install the new software?\n\nIntent:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this IT helpdesk customer message into the correct intent.\n\nMessage: Outlook keeps crashing.\n\nIntent:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify the sentiment of this review as positive or negative.\n\nReview: Win a free iPhone now, click this link!\n\nSentiment:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify the sentiment of this review as positive or negative.\n\nReview: This is the worst customer service I've ever had.\n\nSentiment:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify the sentiment of this review as positive or negative.\n\nReview: I waited an hour and nobody helped me.\n\nSentiment:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify the sentiment of this review as positive or negative.\n\nReview: I am so happy my sister is visiting!\n\nSentiment:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify the sentiment of this review as positive or negative.\n\nReview: Limited time offer: 90% off all watches.\n\nSentiment:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify the sentiment of this review as positive or negative.\n\nReview: The new tax law will affect small businesses.\n\nSentiment:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this message as spam or not spam.\n\nMessage: Scientists discover a new species of frog.\n\nAnswer:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this message as spam or not spam.\n\nMessage: The team won the match in overtime.\n\nAnswer:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this message as spam or not spam.\n\nMessage: The movie was boring and too long.\n\nAnswer:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this message as spam or not spam.\n\nMessage: The new tax law will affect small businesses.\n\nAnswer:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this message as spam or not spam.\n\nMessage: I waited an hour and nobody helped me.\n\nAnswer:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this message as spam or not spam.\n\nMessage: Can we move our meeting to Thursday?\n\nAnswer:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify the topic of this text.\n\nText: The food was amazing and the staff were friendly.\n\nTopic:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify the topic of this text.\n\nText: The movie was boring and too long.\n\nTopic:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify the topic of this text.\n\nText: Limited time offer: 90% off all watches.\n\nTopic:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify the topic of this text.\n\nText: The team won the match in overtime.\n\nTopic:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify the topic of this text.\n\nText: Scientists discover a new species of frog.\n\nTopic:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify the topic of this text.\n\nText: Win a free iPhone now, click this link!\n\nTopic:", "kind": "nearmiss", "split": "fit"}
+{"text": "What is the intent of this message?\n\nMessage: The team won the match in overtime.", "kind": "nearmiss", "split": "fit"}
+{"text": "What is the intent of this message?\n\nMessage: The new tax law will affect small businesses.", "kind": "nearmiss", "split": "check"}
+{"text": "What is the intent of this message?\n\nMessage: This is the worst customer service I've ever had.", "kind": "nearmiss", "split": "fit"}
+{"text": "What is the intent of this message?\n\nMessage: I waited an hour and nobody helped me.", "kind": "nearmiss", "split": "fit"}
+{"text": "What is the intent of this message?\n\nMessage: My account was hacked, help immediately!", "kind": "nearmiss", "split": "check"}
+{"text": "What is the intent of this message?\n\nMessage: The food was amazing and the staff were friendly.", "kind": "nearmiss", "split": "fit"}
+{"text": "Label the emotion expressed in this text.\n\nText: The food was amazing and the staff were friendly.\n\nEmotion:", "kind": "nearmiss", "split": "fit"}
+{"text": "Label the emotion expressed in this text.\n\nText: The team won the match in overtime.\n\nEmotion:", "kind": "nearmiss", "split": "check"}
+{"text": "Label the emotion expressed in this text.\n\nText: Can we move our meeting to Thursday?\n\nEmotion:", "kind": "nearmiss", "split": "fit"}
+{"text": "Label the emotion expressed in this text.\n\nText: Limited time offer: 90% off all watches.\n\nEmotion:", "kind": "nearmiss", "split": "fit"}
+{"text": "Label the emotion expressed in this text.\n\nText: The movie was boring and too long.\n\nEmotion:", "kind": "nearmiss", "split": "check"}
+{"text": "Label the emotion expressed in this text.\n\nText: My account was hacked, help immediately!\n\nEmotion:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this customer message by urgency (low, medium, high).\n\nMessage: The new tax law will affect small businesses.\n\nUrgency:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this customer message by urgency (low, medium, high).\n\nMessage: The movie was boring and too long.\n\nUrgency:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this customer message by urgency (low, medium, high).\n\nMessage: The food was amazing and the staff were friendly.\n\nUrgency:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this customer message by urgency (low, medium, high).\n\nMessage: Can we move our meeting to Thursday?\n\nUrgency:", "kind": "nearmiss", "split": "fit"}
+{"text": "Classify this customer message by urgency (low, medium, high).\n\nMessage: The team won the match in overtime.\n\nUrgency:", "kind": "nearmiss", "split": "check"}
+{"text": "Classify this customer message by urgency (low, medium, high).\n\nMessage: Limited time offer: 90% off all watches.\n\nUrgency:", "kind": "nearmiss", "split": "fit"}
+{"text": "Write a Python function to compute the factorial of a number.", "kind": "unrelated", "split": "fit"}
+{"text": "Explain the difference between TCP and UDP.", "kind": "unrelated", "split": "check"}
+{"text": "What is the capital of Morocco?", "kind": "unrelated", "split": "fit"}
+{"text": "Summarize the causes of World War I in three sentences.", "kind": "unrelated", "split": "fit"}
+{"text": "Write a short poem about a rainy day in the city.", "kind": "unrelated", "split": "check"}
+{"text": "How does compound interest work?", "kind": "unrelated", "split": "fit"}
+{"text": "Give me a packing list for a beach vacation.", "kind": "unrelated", "split": "fit"}
+{"text": "What is the difference between a list and a tuple in Python?", "kind": "unrelated", "split": "check"}
+{"text": "Explain how the immune system fights infection.", "kind": "unrelated", "split": "fit"}
+{"text": "Write a two-sentence horror story.", "kind": "unrelated", "split": "fit"}
+{"text": "What are the main features of Gothic architecture?", "kind": "unrelated", "split": "check"}
+{"text": "How do I calculate the area of a circle?", "kind": "unrelated", "split": "fit"}
+{"text": "Translate 'Where is the train station?' into German.", "kind": "unrelated", "split": "fit"}
+{"text": "What is a sonnet?", "kind": "unrelated", "split": "check"}
+{"text": "Write a limerick about a forgetful wizard.", "kind": "unrelated", "split": "fit"}
+{"text": "Explain the concept of entropy simply.", "kind": "unrelated", "split": "fit"}
+{"text": "What should I consider when buying a used car?", "kind": "unrelated", "split": "check"}
+{"text": "How do I make a sourdough starter?", "kind": "unrelated", "split": "fit"}
+{"text": "What are the benefits of meditation?", "kind": "unrelated", "split": "fit"}
+{"text": "Describe the plot of Romeo and Juliet briefly.", "kind": "unrelated", "split": "check"}
+{"text": "Write a SQL query that finds the top 5 customers by total sales.", "kind": "unrelated", "split": "fit"}
+{"text": "What is the difference between a debit card and a credit card?", "kind": "unrelated", "split": "fit"}
+{"text": "How do banks make money?", "kind": "unrelated", "split": "check"}
+{"text": "What is a mortgage?", "kind": "unrelated", "split": "fit"}
+{"text": "Explain what an interest rate is.", "kind": "unrelated", "split": "fit"}
+{"text": "How do I open a savings account?", "kind": "unrelated", "split": "check"}
+{"text": "What does APR mean?", "kind": "unrelated", "split": "fit"}
+{"text": "Should I pay off debt or invest first?", "kind": "unrelated", "split": "fit"}
+{"text": "What is a credit score and how is it calculated?", "kind": "unrelated", "split": "check"}
+{"text": "Explain what cryptocurrency is.", "kind": "unrelated", "split": "fit"}
+{"text": "How do I create a monthly budget?", "kind": "unrelated", "split": "fit"}
+{"text": "What is the stock market?", "kind": "unrelated", "split": "check"}
+{"text": "Write a short story about a lost key.", "kind": "unrelated", "split": "fit"}
+{"text": "List three uses of baking soda.", "kind": "unrelated", "split": "fit"}
+{"text": "How do solar panels work?", "kind": "unrelated", "split": "check"}
+{"text": "What is the tallest building in the world?", "kind": "unrelated", "split": "fit"}
+{"text": "Explain the rules of basketball.", "kind": "unrelated", "split": "fit"}
+{"text": "Give me a recipe for pancakes.", "kind": "unrelated", "split": "check"}
+{"text": "Who was Cleopatra?", "kind": "unrelated", "split": "fit"}
+{"text": "What causes rainbows?", "kind": "unrelated", "split": "fit"}
+{"text": "Write an email asking my manager for a day off.", "kind": "unrelated", "split": "check"}
+{"text": "How do I fix a leaky faucet?", "kind": "unrelated", "split": "fit"}
+{"text": "What is the difference between a hurricane and a tornado?", "kind": "unrelated", "split": "fit"}
+{"text": "Explain object-oriented programming.", "kind": "unrelated", "split": "check"}
+{"text": "What are the planets in order from the sun?", "kind": "unrelated", "split": "fit"}
+{"text": "Write a motivational message for a friend running a marathon.", "kind": "unrelated", "split": "fit"}
+{"text": "How do I improve my handwriting?", "kind": "unrelated", "split": "check"}
+{"text": "What is the purpose of the United Nations Security Council?", "kind": "unrelated", "split": "fit"}
+{"text": "Explain the difference between 'its' and 'it's'.", "kind": "unrelated", "split": "fit"}
+{"text": "Suggest five names for a coffee shop.", "kind": "unrelated", "split": "check"}
+{"text": "What is the boiling point of water in Fahrenheit?", "kind": "unrelated", "split": "fit"}
+{"text": "Explain how a refrigerator works.", "kind": "unrelated", "split": "fit"}
+{"text": "How many ounces are in a pound?", "kind": "unrelated", "split": "check"}
+{"text": "What is the Fibonacci sequence?", "kind": "unrelated", "split": "fit"}
+{"text": "Write a JavaScript snippet that sorts an array of numbers.", "kind": "unrelated", "split": "fit"}
+{"text": "What is photosynthesis?", "kind": "unrelated", "split": "check"}
+{"text": "Tell me about the history of the internet.", "kind": "unrelated", "split": "fit"}
+{"text": "What is a good beginner houseplant?", "kind": "unrelated", "split": "fit"}
+{"text": "Write a thank-you message for a birthday gift.", "kind": "unrelated", "split": "check"}
+{"text": "How do I convert Celsius to Fahrenheit?", "kind": "unrelated", "split": "fit"}
+{"text": "Explain what a hash table is.", "kind": "unrelated", "split": "fit"}
+{"text": "What are some tips for traveling on a budget?", "kind": "unrelated", "split": "check"}
+{"text": "What year did the Roman Empire fall?", "kind": "unrelated", "split": "fit"}
+{"text": "Who invented the light bulb?", "kind": "unrelated", "split": "fit"}
+{"text": "What does DNA stand for?", "kind": "unrelated", "split": "check"}
+{"text": "Write a haiku about winter.", "kind": "unrelated", "split": "fit"}
+{"text": "How do I start running if I'm a beginner?", "kind": "unrelated", "split": "fit"}
+{"text": "What is the difference between empathy and sympathy?", "kind": "unrelated", "split": "check"}
+{"text": "Explain how elections work in a parliamentary system.", "kind": "unrelated", "split": "fit"}
+{"text": "Give me a fun fact about space.", "kind": "unrelated", "split": "fit"}
+{"text": "How can I lower my electricity bill?", "kind": "unrelated", "split": "check"}
+{"text": "What is a balanced diet?", "kind": "unrelated", "split": "fit"}
+{"text": "Explain the greenhouse effect to a child.", "kind": "unrelated", "split": "fit"}
+{"text": "Classify these animals into mammals and birds: eagle, dolphin, sparrow, bat.", "kind": "unrelated", "split": "check"}
+{"text": "Sort these numbers from smallest to largest: 42, 7, 19, 3.", "kind": "unrelated", "split": "fit"}
+{"text": "Is a tomato a fruit or a vegetable?", "kind": "unrelated", "split": "fit"}
+{"text": "Categorize the following words as nouns or verbs: run, table, swim, chair.", "kind": "unrelated", "split": "check"}
+{"text": "Which of these is a prime number: 21, 23, 25?", "kind": "unrelated", "split": "fit"}
+{"text": "Identify the language: 'Ich bin m\u00fcde.'", "kind": "unrelated", "split": "fit"}
+{"text": "What is the intent behind asking 'What time is it?'", "kind": "unrelated", "split": "check"}
+{"text": "My card was declined at the store, what could be the reason?", "kind": "unrelated", "split": "fit"}
+{"text": "How long does a bank transfer usually take?", "kind": "unrelated", "split": "fit"}
+{"text": "I lost my wallet, what should I do?", "kind": "unrelated", "split": "check"}
+{"text": "What is the exchange rate between dollars and euros roughly?", "kind": "unrelated", "split": "fit"}
+{"text": "How do ATMs work?", "kind": "unrelated", "split": "fit"}
+{"text": "Can you explain what a direct debit is?", "kind": "unrelated", "split": "check"}
+{"text": "What's the best way to send money abroad?", "kind": "unrelated", "split": "fit"}
+{"text": "How do I dispute a charge on my credit card?", "kind": "unrelated", "split": "fit"}
+{"text": "What is a PIN and why is it important?", "kind": "unrelated", "split": "check"}
+{"text": "Explain contactless payments.", "kind": "unrelated", "split": "fit"}
+{"text": "What is Apple Pay?", "kind": "unrelated", "split": "fit"}
+{"text": "How do top-up cards work?", "kind": "unrelated", "split": "check"}
+{"text": "What is a virtual card?", "kind": "unrelated", "split": "fit"}
+{"text": "Why isn't my refund on my statement?", "kind": "banking_chat", "split": "fit"}
+{"text": "I would like my card activated.", "kind": "banking_chat", "split": "check"}
+{"text": "What age do you have to be to open an account?", "kind": "banking_chat", "split": "fit"}
+{"text": "Can I top up using my apple watch?", "kind": "banking_chat", "split": "fit"}
+{"text": "Where can I withdraw money from?", "kind": "banking_chat", "split": "check"}
+{"text": "I want to set up an auto top-up", "kind": "banking_chat", "split": "fit"}
+{"text": "I completed a transfer that isn't showing up on my account.", "kind": "banking_chat", "split": "fit"}
+{"text": "The cash deposit I made this morning has not been credited to my account", "kind": "banking_chat", "split": "check"}
+{"text": "My account did not allow the transfer.", "kind": "banking_chat", "split": "fit"}
+{"text": "Hi, I sent a payment to the wrong account number - can you cancel it as soon as possible?", "kind": "banking_chat", "split": "fit"}
+{"text": "My card expires very soon.  What is the cost and delivery time to get a new one?", "kind": "banking_chat", "split": "check"}
+{"text": "At what places accept my card?", "kind": "banking_chat", "split": "fit"}
+{"text": "When will I recieve my new card?", "kind": "banking_chat", "split": "fit"}
+{"text": "I'd like to have it delivered on Saturday.  Is that possible?", "kind": "banking_chat", "split": "check"}
+{"text": "How do I add my new card to the app?", "kind": "banking_chat", "split": "fit"}
+{"text": "What's going on? My card wont accept any transactions.", "kind": "banking_chat", "split": "fit"}
+{"text": "Unbeknownst to me, there was an additional charge on my prior transaction. A notification of sorts should be required and explained before future payments are made.", "kind": "banking_chat", "split": "check"}
+{"text": "I don't recognize this payment on my app, I am sure I didn't spend any money there.", "kind": "banking_chat", "split": "fit"}
+{"text": "the exchange rate is wrong from something I got in another country", "kind": "banking_chat", "split": "fit"}
+{"text": "What are the steps I should take to recover my swallowed card?", "kind": "banking_chat", "split": "check"}
+{"text": "I was charged a fee with my cash withdrawal that I shouldn't have been charged.", "kind": "banking_chat", "split": "fit"}
+{"text": "A withdrawal is showing that I don't recognize", "kind": "banking_chat", "split": "fit"}
+{"text": "Can I reset my PIN?", "kind": "banking_chat", "split": "check"}
+{"text": "I think that someone may be using my card, but I'm not sure,.", "kind": "banking_chat", "split": "fit"}
+{"text": "Help me to set up contactless payments.", "kind": "banking_chat", "split": "fit"}
+{"text": "Are your cards supported in the EU?", "kind": "banking_chat", "split": "check"}
+{"text": "My card was not accepted in a shop", "kind": "banking_chat", "split": "fit"}
+{"text": "The ATM will not let me get cash, WHY?", "kind": "banking_chat", "split": "fit"}
+{"text": "Transfer was declined, could not complete request.", "kind": "banking_chat", "split": "check"}
+{"text": "Why is there a direct debit fee in the App when I didn't do it?", "kind": "banking_chat", "split": "fit"}
+{"text": "i tried using a virtual card for a hotel but it didn't work, why not", "kind": "banking_chat", "split": "fit"}
+{"text": "I need to modify my details.", "kind": "banking_chat", "split": "check"}
+{"text": "always exchanging currencies, do you offer a discount?", "kind": "banking_chat", "split": "fit"}
+{"text": "What is the source of your exchange rates?", "kind": "banking_chat", "split": "fit"}
+{"text": "My plans may change so I may need to change from GBP to AUD.", "kind": "banking_chat", "split": "check"}
+{"text": "I see an extra $1\u00a0 charge on my statement, why is this?", "kind": "banking_chat", "split": "fit"}
+{"text": "My card couldn't complete a transfer, why?", "kind": "banking_chat", "split": "fit"}
+{"text": "Do you hold money and if so, what currencies do you accept?", "kind": "banking_chat", "split": "check"}
+{"text": "What are the disposable cards used for?", "kind": "banking_chat", "split": "fit"}
+{"text": "Where's my card PIN?", "kind": "banking_chat", "split": "fit"}
+{"text": "If I want to send out more cards, do you charge extra for that?", "kind": "banking_chat", "split": "check"}
+{"text": "I can't find the virtual card", "kind": "banking_chat", "split": "fit"}
+{"text": "My card was stolen", "kind": "banking_chat", "split": "fit"}
+{"text": "phone is gone", "kind": "banking_chat", "split": "check"}
+{"text": "Show me where to order my card.", "kind": "banking_chat", "split": "fit"}
+{"text": "I have forgotten my passcode", "kind": "banking_chat", "split": "fit"}
+{"text": "I notice there's a pending payment on my card.", "kind": "banking_chat", "split": "check"}
+{"text": "I went to an ATM to get cash, but the app says the withdrawal is still pending. How is that possible when I already have the cash with me?", "kind": "banking_chat", "split": "fit"}
+{"text": "I have a new card and I can't add money to it.  I tried about 30 minutes ago and it is still pending.  What do I do?", "kind": "banking_chat", "split": "fit"}
+{"text": "Why does my transfer still say it is pending?", "kind": "banking_chat", "split": "check"}
+{"text": "\nHow do I unblock my PIN?", "kind": "banking_chat", "split": "fit"}
+{"text": "Will my employer be able to pay me with this service", "kind": "banking_chat", "split": "fit"}
+{"text": "What's the procedure for canceling a purchase?", "kind": "banking_chat", "split": "check"}
+{"text": "I did a payment but the app cancelled it.", "kind": "banking_chat", "split": "fit"}
+{"text": "Can you tell me what currencies I can use to add money?", "kind": "banking_chat", "split": "fit"}
+{"text": "How can I delete my account?", "kind": "banking_chat", "split": "check"}
+{"text": "If I top up by transfer, am I going to be charged?", "kind": "banking_chat", "split": "fit"}
+{"text": "What do I need to know about topping up?", "kind": "banking_chat", "split": "fit"}
+{"text": "Can I purchase with cash or cheque?", "kind": "banking_chat", "split": "check"}
+{"text": "Please explain why my top-up didn't go through.", "kind": "banking_chat", "split": "fit"}
+{"text": "How much is the limit for top-ups?", "kind": "banking_chat", "split": "fit"}
+{"text": "My money is gone :( I had topped up recently and saw it was there and went through, but now it's disappeared, what's going on?", "kind": "banking_chat", "split": "check"}
+{"text": "How do I to up by card?", "kind": "banking_chat", "split": "fit"}
+{"text": "Why was I charged twice for the same thing?", "kind": "banking_chat", "split": "fit"}
+{"text": "Are money transfers free?", "kind": "banking_chat", "split": "check"}
+{"text": "How do I transfer money into my account?", "kind": "banking_chat", "split": "fit"}
+{"text": "When will the transaction be done?", "kind": "banking_chat", "split": "fit"}
+{"text": "I need to transfer something ASAP from China, how long will it take to post to my account?", "kind": "banking_chat", "split": "check"}
+{"text": "I am having a problem proving who I am", "kind": "banking_chat", "split": "fit"}
+{"text": "What works for identity verification?", "kind": "banking_chat", "split": "fit"}
+{"text": "Is there a way to tell where the money came from?", "kind": "banking_chat", "split": "check"}
+{"text": "is there a reason i need to verify top up", "kind": "banking_chat", "split": "fit"}
+{"text": "I can't get the virtual card to work", "kind": "banking_chat", "split": "fit"}
+{"text": "Can I choose what card I can use", "kind": "banking_chat", "split": "check"}
+{"text": "I am afraid to give you all my identify details.", "kind": "banking_chat", "split": "fit"}
+{"text": "Hi, Today i have withdrawn cash from ATM but i got wrong amount and in the app it is showing much more amount than that.", "kind": "banking_chat", "split": "fit"}
+{"text": "I believe my exchange rate is incorrect", "kind": "banking_chat", "split": "check"}

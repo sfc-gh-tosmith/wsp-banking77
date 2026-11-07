@@ -1,0 +1,1390 @@
+[
+{
+"label_id": 0,
+"label": "activate_my_card",
+"token_ids": [
+17281,
+36786,
+17315,
+128009
+],
+"pieces": [
+"activate",
+"_my",
+"_card",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 1,
+"label": "age_limit",
+"token_ids": [
+425,
+15106,
+128009
+],
+"pieces": [
+"age",
+"_limit",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 2,
+"label": "apple_pay_or_google_pay",
+"token_ids": [
+23182,
+30025,
+8908,
+48255,
+30025,
+128009
+],
+"pieces": [
+"apple",
+"_pay",
+"_or",
+"_google",
+"_pay",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 3,
+"label": "atm_support",
+"token_ids": [
+266,
+76,
+26912,
+128009
+],
+"pieces": [
+"at",
+"m",
+"_support",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 4,
+"label": "automatic_top_up",
+"token_ids": [
+84556,
+10643,
+8401,
+128009
+],
+"pieces": [
+"automatic",
+"_top",
+"_up",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 5,
+"label": "balance_not_updated_after_bank_transfer",
+"token_ids": [
+22298,
+8072,
+34592,
+20434,
+36833,
+36503,
+128009
+],
+"pieces": [
+"balance",
+"_not",
+"_updated",
+"_after",
+"_bank",
+"_transfer",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 6,
+"label": "balance_not_updated_after_cheque_or_cash_deposit",
+"token_ids": [
+22298,
+8072,
+34592,
+20434,
+84627,
+593,
+8908,
+65463,
+86898,
+128009
+],
+"pieces": [
+"balance",
+"_not",
+"_updated",
+"_after",
+"_che",
+"que",
+"_or",
+"_cash",
+"_deposit",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 7,
+"label": "beneficiary_not_allowed",
+"token_ids": [
+68244,
+27911,
+8072,
+43255,
+128009
+],
+"pieces": [
+"benef",
+"iciary",
+"_not",
+"_allowed",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 8,
+"label": "cancel_transfer",
+"token_ids": [
+19022,
+36503,
+128009
+],
+"pieces": [
+"cancel",
+"_transfer",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 9,
+"label": "card_about_to_expire",
+"token_ids": [
+5057,
+59075,
+2401,
+84509,
+128009
+],
+"pieces": [
+"card",
+"_about",
+"_to",
+"_expire",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 10,
+"label": "card_acceptance",
+"token_ids": [
+5057,
+36828,
+685,
+128009
+],
+"pieces": [
+"card",
+"_accept",
+"ance",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 11,
+"label": "card_arrival",
+"token_ids": [
+5057,
+11459,
+4023,
+128009
+],
+"pieces": [
+"card",
+"_arr",
+"ival",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 12,
+"label": "card_delivery_estimate",
+"token_ids": [
+5057,
+51662,
+79818,
+128009
+],
+"pieces": [
+"card",
+"_delivery",
+"_estimate",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 13,
+"label": "card_linking",
+"token_ids": [
+5057,
+7381,
+287,
+128009
+],
+"pieces": [
+"card",
+"_link",
+"ing",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 14,
+"label": "card_not_working",
+"token_ids": [
+5057,
+8072,
+82201,
+128009
+],
+"pieces": [
+"card",
+"_not",
+"_working",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 15,
+"label": "card_payment_fee_charged",
+"token_ids": [
+5057,
+27794,
+35405,
+4231,
+93349,
+128009
+],
+"pieces": [
+"card",
+"_payment",
+"_fee",
+"_ch",
+"arged",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 16,
+"label": "card_payment_not_recognised",
+"token_ids": [
+5057,
+27794,
+8072,
+7225,
+4021,
+4147,
+128009
+],
+"pieces": [
+"card",
+"_payment",
+"_not",
+"_rec",
+"ogn",
+"ised",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 17,
+"label": "card_payment_wrong_exchange_rate",
+"token_ids": [
+5057,
+27794,
+76298,
+60312,
+9430,
+128009
+],
+"pieces": [
+"card",
+"_payment",
+"_wrong",
+"_exchange",
+"_rate",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 18,
+"label": "card_swallowed",
+"token_ids": [
+5057,
+33681,
+21642,
+128009
+],
+"pieces": [
+"card",
+"_sw",
+"allowed",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 19,
+"label": "cash_withdrawal_charge",
+"token_ids": [
+42371,
+6753,
+7788,
+278,
+47108,
+128009
+],
+"pieces": [
+"cash",
+"_with",
+"draw",
+"al",
+"_charge",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 20,
+"label": "cash_withdrawal_not_recognised",
+"token_ids": [
+42371,
+6753,
+7788,
+278,
+8072,
+7225,
+4021,
+4147,
+128009
+],
+"pieces": [
+"cash",
+"_with",
+"draw",
+"al",
+"_not",
+"_rec",
+"ogn",
+"ised",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 21,
+"label": "change_pin",
+"token_ids": [
+3455,
+27392,
+128009
+],
+"pieces": [
+"change",
+"_pin",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 22,
+"label": "compromised_card",
+"token_ids": [
+5807,
+442,
+4147,
+17315,
+128009
+],
+"pieces": [
+"comp",
+"rom",
+"ised",
+"_card",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 23,
+"label": "contactless_not_working",
+"token_ids": [
+6421,
+1752,
+8072,
+82201,
+128009
+],
+"pieces": [
+"contact",
+"less",
+"_not",
+"_working",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 24,
+"label": "country_support",
+"token_ids": [
+11389,
+26912,
+128009
+],
+"pieces": [
+"country",
+"_support",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 25,
+"label": "declined_card_payment",
+"token_ids": [
+10210,
+1619,
+17315,
+27794,
+128009
+],
+"pieces": [
+"decl",
+"ined",
+"_card",
+"_payment",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 26,
+"label": "declined_cash_withdrawal",
+"token_ids": [
+10210,
+1619,
+65463,
+6753,
+7788,
+278,
+128009
+],
+"pieces": [
+"decl",
+"ined",
+"_cash",
+"_with",
+"draw",
+"al",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 27,
+"label": "declined_transfer",
+"token_ids": [
+10210,
+1619,
+36503,
+128009
+],
+"pieces": [
+"decl",
+"ined",
+"_transfer",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 28,
+"label": "direct_debit_payment_not_recognised",
+"token_ids": [
+20384,
+2310,
+4590,
+27794,
+8072,
+7225,
+4021,
+4147,
+128009
+],
+"pieces": [
+"direct",
+"_de",
+"bit",
+"_payment",
+"_not",
+"_rec",
+"ogn",
+"ised",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 29,
+"label": "disposable_card_limits",
+"token_ids": [
+4338,
+17877,
+17315,
+32920,
+128009
+],
+"pieces": [
+"dis",
+"posable",
+"_card",
+"_limits",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 30,
+"label": "edit_personal_details",
+"token_ids": [
+3671,
+79135,
+13563,
+128009
+],
+"pieces": [
+"edit",
+"_personal",
+"_details",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 31,
+"label": "exchange_charge",
+"token_ids": [
+40668,
+47108,
+128009
+],
+"pieces": [
+"exchange",
+"_charge",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 32,
+"label": "exchange_rate",
+"token_ids": [
+40668,
+9430,
+128009
+],
+"pieces": [
+"exchange",
+"_rate",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 33,
+"label": "exchange_via_app",
+"token_ids": [
+40668,
+81810,
+8354,
+128009
+],
+"pieces": [
+"exchange",
+"_via",
+"_app",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 34,
+"label": "extra_charge_on_statement",
+"token_ids": [
+15824,
+47108,
+4570,
+38504,
+128009
+],
+"pieces": [
+"extra",
+"_charge",
+"_on",
+"_statement",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 35,
+"label": "failed_transfer",
+"token_ids": [
+16479,
+36503,
+128009
+],
+"pieces": [
+"failed",
+"_transfer",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 36,
+"label": "fiat_currency_support",
+"token_ids": [
+10188,
+266,
+35810,
+26912,
+128009
+],
+"pieces": [
+"fi",
+"at",
+"_currency",
+"_support",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 37,
+"label": "get_disposable_virtual_card",
+"token_ids": [
+456,
+10135,
+17877,
+59830,
+17315,
+128009
+],
+"pieces": [
+"get",
+"_dis",
+"posable",
+"_virtual",
+"_card",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 38,
+"label": "get_physical_card",
+"token_ids": [
+456,
+86080,
+17315,
+128009
+],
+"pieces": [
+"get",
+"_physical",
+"_card",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 39,
+"label": "getting_spare_card",
+"token_ids": [
+51210,
+646,
+3462,
+17315,
+128009
+],
+"pieces": [
+"getting",
+"_s",
+"pare",
+"_card",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 40,
+"label": "getting_virtual_card",
+"token_ids": [
+51210,
+59830,
+17315,
+128009
+],
+"pieces": [
+"getting",
+"_virtual",
+"_card",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 41,
+"label": "lost_or_stolen_card",
+"token_ids": [
+55437,
+8908,
+1284,
+17648,
+17315,
+128009
+],
+"pieces": [
+"lost",
+"_or",
+"_st",
+"olen",
+"_card",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 42,
+"label": "lost_or_stolen_phone",
+"token_ids": [
+55437,
+8908,
+1284,
+17648,
+22942,
+128009
+],
+"pieces": [
+"lost",
+"_or",
+"_st",
+"olen",
+"_phone",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 43,
+"label": "order_physical_card",
+"token_ids": [
+1382,
+86080,
+17315,
+128009
+],
+"pieces": [
+"order",
+"_physical",
+"_card",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 44,
+"label": "passcode_forgotten",
+"token_ids": [
+6519,
+1889,
+766,
+1813,
+10503,
+128009
+],
+"pieces": [
+"pass",
+"code",
+"_f",
+"org",
+"otten",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 45,
+"label": "pending_card_payment",
+"token_ids": [
+29310,
+17315,
+27794,
+128009
+],
+"pieces": [
+"pending",
+"_card",
+"_payment",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 46,
+"label": "pending_cash_withdrawal",
+"token_ids": [
+29310,
+65463,
+6753,
+7788,
+278,
+128009
+],
+"pieces": [
+"pending",
+"_cash",
+"_with",
+"draw",
+"al",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 47,
+"label": "pending_top_up",
+"token_ids": [
+29310,
+10643,
+8401,
+128009
+],
+"pieces": [
+"pending",
+"_top",
+"_up",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 48,
+"label": "pending_transfer",
+"token_ids": [
+29310,
+36503,
+128009
+],
+"pieces": [
+"pending",
+"_transfer",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 49,
+"label": "pin_blocked",
+"token_ids": [
+13576,
+90323,
+128009
+],
+"pieces": [
+"pin",
+"_blocked",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 50,
+"label": "receiving_money",
+"token_ids": [
+265,
+47444,
+35165,
+128009
+],
+"pieces": [
+"re",
+"ceiving",
+"_money",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 51,
+"label": "Refund_not_showing_up",
+"token_ids": [
+4032,
+1263,
+8072,
+15625,
+287,
+8401,
+128009
+],
+"pieces": [
+"Ref",
+"und",
+"_not",
+"_show",
+"ing",
+"_up",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 52,
+"label": "request_refund",
+"token_ids": [
+2079,
+7949,
+1263,
+128009
+],
+"pieces": [
+"request",
+"_ref",
+"und",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 53,
+"label": "reverted_card_payment?",
+"token_ids": [
+265,
+22361,
+17315,
+27794,
+30,
+128009
+],
+"pieces": [
+"re",
+"verted",
+"_card",
+"_payment",
+"?",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 54,
+"label": "supported_cards_and_currencies",
+"token_ids": [
+18717,
+42457,
+8543,
+669,
+20180,
+128009
+],
+"pieces": [
+"supported",
+"_cards",
+"_and",
+"_c",
+"urrencies",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 55,
+"label": "terminate_account",
+"token_ids": [
+49161,
+13808,
+128009
+],
+"pieces": [
+"terminate",
+"_account",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 56,
+"label": "top_up_by_bank_transfer_charge",
+"token_ids": [
+3565,
+8401,
+3795,
+36833,
+36503,
+47108,
+128009
+],
+"pieces": [
+"top",
+"_up",
+"_by",
+"_bank",
+"_transfer",
+"_charge",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 57,
+"label": "top_up_by_card_charge",
+"token_ids": [
+3565,
+8401,
+3795,
+17315,
+47108,
+128009
+],
+"pieces": [
+"top",
+"_up",
+"_by",
+"_card",
+"_charge",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 58,
+"label": "top_up_by_cash_or_cheque",
+"token_ids": [
+3565,
+8401,
+3795,
+65463,
+8908,
+84627,
+593,
+128009
+],
+"pieces": [
+"top",
+"_up",
+"_by",
+"_cash",
+"_or",
+"_che",
+"que",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 59,
+"label": "top_up_failed",
+"token_ids": [
+3565,
+8401,
+36160,
+128009
+],
+"pieces": [
+"top",
+"_up",
+"_failed",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 60,
+"label": "top_up_limits",
+"token_ids": [
+3565,
+8401,
+32920,
+128009
+],
+"pieces": [
+"top",
+"_up",
+"_limits",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 61,
+"label": "top_up_reverted",
+"token_ids": [
+3565,
+8401,
+1311,
+22361,
+128009
+],
+"pieces": [
+"top",
+"_up",
+"_re",
+"verted",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 62,
+"label": "topping_up_by_card",
+"token_ids": [
+3565,
+10194,
+8401,
+3795,
+17315,
+128009
+],
+"pieces": [
+"top",
+"ping",
+"_up",
+"_by",
+"_card",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 63,
+"label": "transaction_charged_twice",
+"token_ids": [
+13838,
+4231,
+93349,
+55278,
+560,
+128009
+],
+"pieces": [
+"transaction",
+"_ch",
+"arged",
+"_tw",
+"ice",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 64,
+"label": "transfer_fee_charged",
+"token_ids": [
+25163,
+35405,
+4231,
+93349,
+128009
+],
+"pieces": [
+"transfer",
+"_fee",
+"_ch",
+"arged",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 65,
+"label": "transfer_into_account",
+"token_ids": [
+25163,
+46614,
+13808,
+128009
+],
+"pieces": [
+"transfer",
+"_into",
+"_account",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 66,
+"label": "transfer_not_received_by_recipient",
+"token_ids": [
+25163,
+8072,
+41883,
+3795,
+7225,
+14449,
+128009
+],
+"pieces": [
+"transfer",
+"_not",
+"_received",
+"_by",
+"_rec",
+"ipient",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 67,
+"label": "transfer_timing",
+"token_ids": [
+25163,
+72073,
+128009
+],
+"pieces": [
+"transfer",
+"_timing",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 68,
+"label": "unable_to_verify_identity",
+"token_ids": [
+47028,
+2401,
+36738,
+47344,
+128009
+],
+"pieces": [
+"unable",
+"_to",
+"_verify",
+"_identity",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 69,
+"label": "verify_my_identity",
+"token_ids": [
+12728,
+36786,
+47344,
+128009
+],
+"pieces": [
+"verify",
+"_my",
+"_identity",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 70,
+"label": "verify_source_of_funds",
+"token_ids": [
+12728,
+10561,
+3659,
+766,
+44050,
+128009
+],
+"pieces": [
+"verify",
+"_source",
+"_of",
+"_f",
+"unds",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 71,
+"label": "verify_top_up",
+"token_ids": [
+12728,
+10643,
+8401,
+128009
+],
+"pieces": [
+"verify",
+"_top",
+"_up",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 72,
+"label": "virtual_card_not_working",
+"token_ids": [
+26752,
+17315,
+8072,
+82201,
+128009
+],
+"pieces": [
+"virtual",
+"_card",
+"_not",
+"_working",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 73,
+"label": "visa_or_mastercard",
+"token_ids": [
+94633,
+8908,
+25601,
+5057,
+128009
+],
+"pieces": [
+"visa",
+"_or",
+"_master",
+"card",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 74,
+"label": "why_verify_identity",
+"token_ids": [
+35734,
+36738,
+47344,
+128009
+],
+"pieces": [
+"why",
+"_verify",
+"_identity",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 75,
+"label": "wrong_amount_of_cash_received",
+"token_ids": [
+35970,
+13779,
+3659,
+65463,
+41883,
+128009
+],
+"pieces": [
+"wrong",
+"_amount",
+"_of",
+"_cash",
+"_received",
+"<|eot_id|>"
+]
+},
+{
+"label_id": 76,
+"label": "wrong_exchange_rate_for_cash_withdrawal",
+"token_ids": [
+35970,
+60312,
+9430,
+5595,
+65463,
+6753,
+7788,
+278,
+128009
+],
+"pieces": [
+"wrong",
+"_exchange",
+"_rate",
+"_for",
+"_cash",
+"_with",
+"draw",
+"al",
+"<|eot_id|>"
+]
+}
+]

@@ -1,0 +1,4 @@
+top-10: 1426 competitors | self-boost min 1.000 | cross-talk/self max 0.634 median 0.222 >.5: 4 | col norm median 1.105
+top-15: 2122 competitors | self-boost min 1.000 | cross-talk/self max 0.677 median 0.237 >.5: 2 | col norm median 1.352
+top-20: 2811 competitors | self-boost min 1.000 | cross-talk/self max 0.604 median 0.282 >.5: 4 | col norm median 1.770
+top-25: 3498 competitors | self-boost min 1.000 | cross-talk/self max 0.839 median 0.451 >.5: 63 | col norm median 2.948

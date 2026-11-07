@@ -1,0 +1,14 @@
+tau0 held-out in-task step0 min 0.579 p1 0.837 | general check max 0.423
+uniform unit act: in-task median 0.495 min 0.079 | general max 0.000
+U=0.0 beta=1.0 alpha=100: step0 acc 0.9074 | general risk positions 1/19645 max 1.1
+U=0.0 beta=1.0 alpha=200: step0 acc 0.9161 | general risk positions 1/19645 max 11.8
+U=0.0 beta=1.5 alpha=100: step0 acc 0.8988 | general risk positions 0/19645 max 0.0
+U=0.0 beta=1.5 alpha=200: step0 acc 0.9090 | general risk positions 0/19645 max 0.0
+U=20.0 beta=1.0 alpha=100: step0 acc 0.9150 | general risk positions 1/19645 max 1.1
+U=20.0 beta=1.0 alpha=200: step0 acc 0.9193 | general risk positions 1/19645 max 11.8
+U=20.0 beta=1.5 alpha=100: step0 acc 0.9085 | general risk positions 0/19645 max 0.0
+U=20.0 beta=1.5 alpha=200: step0 acc 0.9145 | general risk positions 0/19645 max 0.0
+U=40.0 beta=1.0 alpha=100: step0 acc 0.8820 | general risk positions 1/19645 max 1.1
+U=40.0 beta=1.0 alpha=200: step0 acc 0.9112 | general risk positions 1/19645 max 11.8
+U=40.0 beta=1.5 alpha=100: step0 acc 0.8738 | general risk positions 0/19645 max 0.0
+U=40.0 beta=1.5 alpha=200: step0 acc 0.9042 | general risk positions 0/19645 max 0.0

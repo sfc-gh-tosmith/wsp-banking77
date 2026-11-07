@@ -1,0 +1,4 @@
+cv {'mu': 0.0001, 'wneg': 0.01, 'th': 0.15, 'beta': 1.5, 'alphaA': 250.0, 'U': 10.0, 'thU': 0.5, 'th1': 0.2, 'alphaB': 250.0, 'kA': 20.0, 'kB': 50.0, 'mu_gate': 1e-05}
+neurons: 188 | un=0.497
+held-out per-step: step0 0.9182 step>=1 0.9937 | WHOLE-LABEL 0.8960 class-balanced 0.8947
+held-out general positions whose greedy token changes (new neurons only): 0/19645 {} | max |neuron act| 0.0054

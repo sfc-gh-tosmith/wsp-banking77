@@ -1,0 +1,6 @@
+L30 step0 first-token lam=0.0: held-out acc 0.9177 | in-task gold score med 0.841 | in-task code norm med 0.909 | general code norm med 2.773 p99 4.887
+L30 step0 first-token lam=0.1: held-out acc 0.9134 | in-task gold score med 0.802 | in-task code norm med 0.864 | general code norm med 1.170 p99 2.901
+L30 step0 first-token lam=1.0: held-out acc 0.9025 | in-task gold score med 0.764 | in-task code norm med 0.834 | general code norm med 1.096 p99 2.971
+L30 step>=1 next-token lam=0.0: held-out acc 0.9959 | in-task gold score med 0.996 | in-task code norm med 1.006 | general code norm med 1.254 p99 2.774
+L30 step>=1 next-token lam=0.1: held-out acc 0.9952 | in-task gold score med 0.992 | in-task code norm med 1.000 | general code norm med 0.481 p99 1.258
+L30 step>=1 next-token lam=1.0: held-out acc 0.9939 | in-task gold score med 0.985 | in-task code norm med 0.995 | general code norm med 0.440 p99 1.174

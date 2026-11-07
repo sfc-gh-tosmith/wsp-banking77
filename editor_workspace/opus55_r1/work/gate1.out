@@ -1,0 +1,5 @@
+reconstructed mlp_in rms per coord: in-task 0.444 general 0.403
+gate0 (task&step0) mu=0.0001: pos min 0.82 p0.1 0.90 med 1.00 | other-step max -0.76 p99.9 -0.88 | general max 0.86 (reply max 0.86) p99.9 -0.37 | by kind max banking_chat:-0.34 nearmiss:0.86 retention:-0.62 unrelated:-0.65
+gate0 (task&step0) mu=0.001: pos min 0.82 p0.1 0.90 med 1.00 | other-step max -0.76 p99.9 -0.88 | general max 0.86 (reply max 0.86) p99.9 -0.36 | by kind max banking_chat:-0.34 nearmiss:0.86 retention:-0.61 unrelated:-0.65
+gate1 (task&step>=1) mu=0.0001: pos min 0.60 p0.1 0.74 med 1.00 | other-step max -0.90 p99.9 -0.91 | general max 0.09 (reply max 0.09) p99.9 -0.24 | by kind max banking_chat:-0.31 nearmiss:0.09 retention:-0.49 unrelated:0.00
+gate1 (task&step>=1) mu=0.001: pos min 0.60 p0.1 0.74 med 1.00 | other-step max -0.90 p99.9 -0.91 | general max 0.09 (reply max 0.09) p99.9 -0.23 | by kind max banking_chat:-0.32 nearmiss:0.09 retention:-0.49 unrelated:-0.01

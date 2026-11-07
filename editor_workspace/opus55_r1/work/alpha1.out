@@ -1,0 +1,12 @@
+beta=1.0 th=0.15 alpha=30: step0 acc incl. orig logits 0.7677 | general held-out positions where a label first token would win: 0/19645 (max margin 0.0) kinds {}
+beta=1.0 th=0.15 alpha=60: step0 acc incl. orig logits 0.8803 | general held-out positions where a label first token would win: 0/19645 (max margin 0.0) kinds {}
+beta=1.0 th=0.15 alpha=100: step0 acc incl. orig logits 0.9074 | general held-out positions where a label first token would win: 1/19645 (max margin 1.1) kinds {np.str_('nearmiss'): np.int64(1)}
+beta=1.0 th=0.15 alpha=200: step0 acc incl. orig logits 0.9161 | general held-out positions where a label first token would win: 1/19645 (max margin 11.8) kinds {np.str_('nearmiss'): np.int64(1)}
+beta=1.5 th=0.15 alpha=30: step0 acc incl. orig logits 0.7596 | general held-out positions where a label first token would win: 0/19645 (max margin 0.0) kinds {}
+beta=1.5 th=0.15 alpha=60: step0 acc incl. orig logits 0.8717 | general held-out positions where a label first token would win: 0/19645 (max margin 0.0) kinds {}
+beta=1.5 th=0.15 alpha=100: step0 acc incl. orig logits 0.8988 | general held-out positions where a label first token would win: 0/19645 (max margin 0.0) kinds {}
+beta=1.5 th=0.15 alpha=200: step0 acc incl. orig logits 0.9090 | general held-out positions where a label first token would win: 0/19645 (max margin 0.0) kinds {}
+beta=2.0 th=0.15 alpha=30: step0 acc incl. orig logits 0.7461 | general held-out positions where a label first token would win: 0/19645 (max margin 0.0) kinds {}
+beta=2.0 th=0.15 alpha=60: step0 acc incl. orig logits 0.8544 | general held-out positions where a label first token would win: 0/19645 (max margin 0.0) kinds {}
+beta=2.0 th=0.15 alpha=100: step0 acc incl. orig logits 0.8863 | general held-out positions where a label first token would win: 0/19645 (max margin 0.0) kinds {}
+beta=2.0 th=0.15 alpha=200: step0 acc incl. orig logits 0.8960 | general held-out positions where a label first token would win: 0/19645 (max margin 0.0) kinds {}

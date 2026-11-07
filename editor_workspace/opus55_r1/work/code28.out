@@ -1,0 +1,8 @@
+wz=0.0 mu=0.001: step0 class acc 0.9182 first 0.9329 | gold score median 0.833 | |code| in-task step0 median 0.942, steps>=1 median 6.285, general-check median 5.862 p99 9.814 max 17.834
+wz=0.0 mu=0.003: step0 class acc 0.9161 first 0.9318 | gold score median 0.802 | |code| in-task step0 median 0.891, steps>=1 median 4.440, general-check median 4.069 p99 6.619 max 11.806
+wz=0.1 mu=0.001: step0 class acc 0.9139 first 0.9269 | gold score median 0.757 | |code| in-task step0 median 0.841, steps>=1 median 0.702, general-check median 2.209 p99 5.238 max 8.983
+wz=0.1 mu=0.003: step0 class acc 0.9112 first 0.9237 | gold score median 0.731 | |code| in-task step0 median 0.817, steps>=1 median 0.579, general-check median 1.691 p99 3.867 max 6.345
+wz=0.3 mu=0.001: step0 class acc 0.9090 first 0.9210 | gold score median 0.709 | |code| in-task step0 median 0.799, steps>=1 median 0.536, general-check median 1.748 p99 4.176 max 6.690
+wz=0.3 mu=0.003: step0 class acc 0.9053 first 0.9188 | gold score median 0.687 | |code| in-task step0 median 0.780, steps>=1 median 0.451, general-check median 1.383 p99 3.222 max 4.962
+wz=1.0 mu=0.001: step0 class acc 0.8944 first 0.9101 | gold score median 0.633 | |code| in-task step0 median 0.742, steps>=1 median 0.378, general-check median 1.248 p99 3.002 max 5.028
+wz=1.0 mu=0.003: step0 class acc 0.8944 first 0.9096 | gold score median 0.612 | |code| in-task step0 median 0.722, steps>=1 median 0.320, general-check median 1.016 p99 2.380 max 3.828

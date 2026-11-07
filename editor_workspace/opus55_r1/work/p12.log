@@ -1,0 +1,3 @@
+waiting for the GPU (another model job is running)...
+{"pass": 11, "type": "generate", "model": "edited", "n": 748, "accuracy": null, "seconds": 589.2}
+results: acts/p12_genall_v1.json

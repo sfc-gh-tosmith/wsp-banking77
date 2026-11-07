@@ -1,0 +1,5 @@
+coarse class acc 0.9107 | top-2 contains gold 0.9572
+pairs>= 10 co-occurrences (103 experts, mu_rel 0.01): class acc 0.9063 first-token 0.9199 | expert used on 0.363
+pairs>= 10 co-occurrences (103 experts, mu_rel 0.1): class acc 0.9123 first-token 0.9247 | expert used on 0.363
+pairs>= 20 co-occurrences (38 experts, mu_rel 0.1): class acc 0.9117 first-token 0.9247 | expert used on 0.239
+pairs>= 5 co-occurrences (416 experts, mu_rel 0.1): class acc 0.9117 first-token 0.9242 | expert used on 0.556

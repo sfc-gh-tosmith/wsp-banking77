@@ -1,0 +1,3 @@
+HARNESS NOTICE: pass 8 was interrupted (the chat tool canceled the command) before it wrote any output, so it has been refunded: the budget counter is one lower than the number of passes you ran. Interrupted or crashed passes are now refunded automatically. Long passes are safest launched in the background (as you did for pass 9) and polled.
+{"pass": 9, "records": 47757, "arrays": {"L31.mlp_in": [47757, 4096], "seq_index": [47757], "pos": [47757], "logprob": [47757]}, "seconds": 1651.2}
+results: acts/p10_practice_L31_mlpin.npz (+ .meta.json)

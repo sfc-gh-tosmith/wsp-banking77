@@ -1,0 +1,16 @@
+step0 relu-sum: 0.9237
+later = per-token read-out: all-later-right 0.9740 WHOLE 0.9015
+later = class-mass(th=0.0) + 0.5*spelling: all-later-right 0.0753 WHOLE 0.0753
+later = class-mass(th=0.0) + 1.0*spelling: all-later-right 0.6519 WHOLE 0.6308
+later = class-mass(th=0.0) + 2.0*spelling: all-later-right 0.9291 WHOLE 0.8663
+later = class-mass(th=0.1) + 0.5*spelling: all-later-right 0.9643 WHOLE 0.8939
+later = class-mass(th=0.1) + 1.0*spelling: all-later-right 0.9670 WHOLE 0.8955
+later = class-mass(th=0.1) + 2.0*spelling: all-later-right 0.9664 WHOLE 0.8950
+later = class-mass(th=0.2) + 0.5*spelling: all-later-right 0.9675 WHOLE 0.8955
+later = class-mass(th=0.2) + 1.0*spelling: all-later-right 0.9681 WHOLE 0.8960
+later = class-mass(th=0.2) + 2.0*spelling: all-later-right 0.9686 WHOLE 0.8966
+later = class-mass(th=0.3) + 0.5*spelling: all-later-right 0.9708 WHOLE 0.8977
+later = class-mass(th=0.3) + 1.0*spelling: all-later-right 0.9702 WHOLE 0.8982
+later = class-mass(th=0.3) + 2.0*spelling: all-later-right 0.9681 WHOLE 0.8966
+later = token + 0.5*(class-mass + spelling): all-later-right 0.9756 WHOLE 0.9036
+later = token + 1.0*(class-mass + spelling): all-later-right 0.9756 WHOLE 0.9031

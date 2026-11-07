@@ -1,0 +1,4 @@
+L31 mlp_in linear 77-way mu_rel=0.0001: class acc 0.9101 | first-token via max 0.9231
+L31 mlp_in linear 77-way mu_rel=0.001: class acc 0.9101 | first-token via max 0.9237
+L30 mlp_act 77-way mu_rel=0.001: class acc 0.9112 | first-token via max 0.9264
+L30 mlp_act 77-way mu_rel=0.003: class acc 0.9074 | first-token via max 0.9226

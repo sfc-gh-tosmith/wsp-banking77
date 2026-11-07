@@ -1,0 +1,1 @@
+{"type": "generate", "model": "edited", "source": "custom", "texts_file": "work/genall.jsonl", "template": "chat", "max_new_tokens": 64, "out": "p16_genall_v3"}

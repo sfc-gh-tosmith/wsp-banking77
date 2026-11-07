@@ -1,0 +1,25 @@
+kernel in31 done
+kernel act30 done
+kernel act28 done
+kernel act31 done
+in31 lam=0.001: class acc 0.9128 relu-sum first 0.9242
+in31 lam=0.01: class acc 0.9053 relu-sum first 0.9182
+in31 lam=0.1: class acc 0.8809 relu-sum first 0.8971
+act31 lam=0.001: class acc 0.9096 relu-sum first 0.9220
+act31 lam=0.01: class acc 0.8917 relu-sum first 0.9074
+act31 lam=0.1: class acc 0.8614 relu-sum first 0.8814
+act30 lam=0.001: class acc 0.9117 relu-sum first 0.9253
+act30 lam=0.01: class acc 0.8971 relu-sum first 0.9134
+act30 lam=0.1: class acc 0.8581 relu-sum first 0.8766
+in31+act30 lam=0.001: class acc 0.9145 relu-sum first 0.9274
+in31+act30 lam=0.01: class acc 0.9020 relu-sum first 0.9150
+in31+act30 lam=0.1: class acc 0.8755 relu-sum first 0.8933
+in31+act31 lam=0.001: class acc 0.9177 relu-sum first 0.9296
+in31+act31 lam=0.01: class acc 0.9025 relu-sum first 0.9166
+in31+act31 lam=0.1: class acc 0.8782 relu-sum first 0.8966
+in31+act30+act31 lam=0.001: class acc 0.9166 relu-sum first 0.9291
+in31+act30+act31 lam=0.01: class acc 0.9020 relu-sum first 0.9172
+in31+act30+act31 lam=0.1: class acc 0.8728 relu-sum first 0.8912
+in31+act28+act30+act31 lam=0.001: class acc 0.9188 relu-sum first 0.9274
+in31+act28+act30+act31 lam=0.01: class acc 0.9053 relu-sum first 0.9177
+in31+act28+act30+act31 lam=0.1: class acc 0.8760 relu-sum first 0.8939

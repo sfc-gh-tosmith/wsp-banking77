@@ -1,0 +1,9 @@
+tau0: in-task step0 [0.58, med 0.99] | in-task step>=1 max -0.74 | general max 0.42 min -1.51
+wneg=0.0 th=0.2: step0 acc 0.9231 none-fires 0.0011 | in-task typical act 0.598 | general max act 8.746 (p99.9 7.240) max raw z 8.24 | in-task step>=1 max act 7.546
+wneg=0.0 th=0.3: step0 acc 0.9188 none-fires 0.0152 | in-task typical act 0.500 | general max act 8.640 (p99.9 7.143) max raw z 8.14 | in-task step>=1 max act 7.436
+wneg=0.03 th=0.2: step0 acc 0.9145 none-fires 0.0049 | in-task typical act 0.497 | general max act 0.583 (p99.9 0.265) max raw z 0.97 | in-task step>=1 max act 0.139
+wneg=0.03 th=0.3: step0 acc 0.8955 none-fires 0.0422 | in-task typical act 0.397 | general max act 0.493 (p99.9 0.162) max raw z 0.87 | in-task step>=1 max act 0.045
+wneg=0.1 th=0.2: step0 acc 0.9085 none-fires 0.0081 | in-task typical act 0.438 | general max act 0.258 (p99.9 0.000) max raw z 0.88 | in-task step>=1 max act 0.000
+wneg=0.1 th=0.3: step0 acc 0.8847 none-fires 0.0574 | in-task typical act 0.338 | general max act 0.228 (p99.9 0.000) max raw z 0.78 | in-task step>=1 max act 0.000
+wneg=0.3 th=0.2: step0 acc 0.8950 none-fires 0.0119 | in-task typical act 0.366 | general max act 0.224 (p99.9 0.000) max raw z 0.76 | in-task step>=1 max act 0.000
+wneg=0.3 th=0.3: step0 acc 0.8549 none-fires 0.0893 | in-task typical act 0.267 | general max act 0.194 (p99.9 0.000) max raw z 0.66 | in-task step>=1 max act 0.000

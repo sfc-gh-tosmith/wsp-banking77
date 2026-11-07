@@ -1,0 +1,3 @@
+{"type": "capture", "model": "original", "source": "custom", "texts_file": "work/genall_fc.jsonl",
+ "template": "chat", "answer": "custom", "positions": "all",
+ "layers": [31], "kinds": ["mlp_in", "mlp_act", "resid"], "topk": 0, "out": "p09_genall_L31"}

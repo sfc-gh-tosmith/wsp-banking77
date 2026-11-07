@@ -1,0 +1,2 @@
+{"pass": 8, "records": 45916, "arrays": {"L31.mlp_in": [45916, 4096], "L31.mlp_act": [45916, 14336], "L31.resid": [45916, 4096], "seq_index": [45916], "pos": [45916], "logprob": [45916]}, "seconds": 560.3}
+results: acts/p09_genall_L31.npz (+ .meta.json)
