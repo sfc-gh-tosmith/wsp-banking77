@@ -148,6 +148,48 @@ Upper bound: 7 unattributed rows are probably compaction retries from these two 
 
 These figures cover Cortex Code LLM usage only. They exclude Snowflake warehouse and SPCS compute for hosting, and the local laptop compute for the forward passes.
 
+### How to use fewer tokens next time
+
+The bill is driven by **number of calls × context size**. 556 calls × ~400K tokens of context ≈ the 225M cache-read tokens above. Output, the actual thinking and code, was under 1M tokens. So savings come from fewer turns, and above all from smaller contexts. Most of the 163M-token operator session went to discovery and debugging that a second run would not need.
+
+The savings figures below are rough estimates, not measurements.
+
+**1. Package the operator workflow as skills.**
+Turn the steps that are now known to work into [Cortex Code skills](https://docs.snowflake.com/en/user-guide/cortex-code/extensibility) (a `SKILL.md` plus the scripts in this repo). A future run then follows a recipe instead of rediscovering it. Natural splits:
+
+| Skill | Wraps | What it saves rediscovering |
+|---|---|---|
+| `wsp-prepare` | `prep_data.py`, model downloads, `calibrate.py` | Split construction, the test set held only in Snowflake, MLX memory limits (`set_cache_limit`), prefix-KV calibration |
+| `wsp-editor-run` | `make_run.py`, launching the editor, `monitor.sh`, `score_run.py`, `audit.py` | Workspace layout, budget/refund rules, the audit checklist and its known false positives (numpy `~`) |
+| `wsp-host-in-snowflake` | `pack_edit.py`, `submit_merge_job.py --payload merge_q4base_job.py`, `create_service.py`, `run_byom_pipeline.py` | **Merge onto the dequantized 4-bit base** (skipping the bf16 detour and its diagnosis), `AI_COMPLETE` reply parsing (`TRIM(x, '" \n')`), connection/authenticator and network-policy gotchas, suspending pools afterwards |
+
+The hosting detour alone took a failed merge, a 71.6% result, a per-row diagnosis (`diagnose_gap.py`) and a second merge job. A skill that encodes the fix would remove all of those turns.
+
+**2. Make each step one deterministic command.**
+- Long jobs should **block and return a compact summary** rather than being polled: merge jobs, service creation, scoring, forward passes. Every poll is a full-context call.
+- Add a single entry point, such as `make host RUN=opus55_r1`, so the agent spends one call per phase instead of many small ones.
+- Print summaries, not logs. Dumping vLLM, ML Job or Hugging Face download logs into the chat inflates every later call. Write logs to files, and have scripts print the few lines that matter.
+
+**3. Keep contexts short.**
+- Start **a fresh session per phase** (research → harness build → editor run → hosting). Hand off through notes files instead of carrying one long conversation. Going from about 400K to about 100K tokens of context per call would cut cache reads roughly 4×.
+- The editor already keeps `notes.md` as its memory. That made compaction cheap and let it resume after interruptions. The operator side should do the same: a `STATUS.md` with the current results, open issues and next step.
+- Hand exploratory, read-heavy work to **subagents**, such as searching papers or reading another repo, so only their conclusions enter the main context.
+
+**4. Fix harness issues before the expensive run.**
+Three harness bugs surfaced during the editor run:
+- the capture top-k/logprob zeros;
+- passes killed by a tool cancel;
+- the `SIGHUP` handler overriding `nohup`.
+
+Each one cost operator turns to fix and editor turns to work around. Before a frontier-model run starts, a short, low-budget dry run (like the earlier `dryrun`, ideally on a cheaper model) should exercise every request type, including running in the background.
+
+**5. Spend the frontier model only where it matters.**
+- The editor's analysis and edit design need Opus-level reasoning.
+- Scaffolding, scoring, log reading and hosting do not. Running those phases on a smaller model, or at lower effort, cuts their cost directly.
+- The editor's budget also caps cost: it stopped at 15 of 30 passes. A smaller pass budget, or a stopping rule such as "submit when dev stops improving", bounds both tokens and wall-clock time.
+
+**Rough target for a repeat run.** With the skills and scripts in place, the operator side should drop from 163M tokens to a small fraction of that. It would need a few dozen calls on short contexts instead of 326 calls on long ones. Most of the remaining cost would be the editor's ~99M, which is the experiment itself.
+
 ---
 
 ## Techniques and references
